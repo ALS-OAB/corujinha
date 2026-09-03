@@ -3,205 +3,356 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Corujinha OAB</title>
+  <title>Corujinha OAB · Exame de Ordem</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0f172a;
-      --card: #1e293b;
-      --border: #334155;
-      --text: #f1f5f9;
-      --muted: #94a3b8;
-      --accent: #3b82f6;
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --surface-border: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --text-light: #94a3b8;
+      --accent: #2563eb;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,.04), 0 1px 2px rgba(0,0,0,.02);
+      --shadow-float: 0 10px 30px -5px rgba(0,0,0,.04), 0 4px 12px -2px rgba(0,0,0,.02);
+      --shadow-hover: 0 20px 35px -10px rgba(0,0,0,.07), 0 8px 16px -4px rgba(0,0,0,.02);
     }
-    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
-    body { background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, sans-serif; min-height: 100vh; }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; -webkit-tap-highlight-color: transparent; }
+    body { background: var(--bg); color: var(--text-main); min-height: 100vh; -webkit-font-smoothing: antialiased; }
 
     header {
-      padding: 20px 16px 12px;
-      text-align: center;
-      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      border-bottom: 1px solid var(--surface-border);
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-sm);
     }
-    header h1 { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; }
-    header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
-
-    .badge {
-      display: inline-block;
+    .brand { display: flex; align-items: center; gap: 10px; }
+    .brand-badge {
       background: var(--accent);
       color: #fff;
-      font-size: 10px;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 4px 10px;
+      border-radius: 6px;
+      letter-spacing: 0.4px;
+    }
+    .brand-text h1 { font-size: 15px; font-weight: 700; letter-spacing: -0.3px; }
+    .brand-text p { font-size: 12px; color: var(--text-muted); }
+    .header-pill {
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 8px;
+      background: #eff6ff;
+      color: #1d4ed8;
+      border: 1px solid #bfdbfe;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px 20px;
+    }
+
+    .hero {
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-left: 3px solid var(--accent);
+      border-radius: 14px;
+      padding: 28px 32px;
+      margin-bottom: 28px;
+      box-shadow: var(--shadow-float);
+    }
+    .hero-label {
+      font-size: 11px;
       font-weight: 700;
-      padding: 2px 8px;
-      border-radius: 99px;
-      margin-top: 6px;
-      letter-spacing: 0.5px;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+    .hero h2 { font-size: 20px; font-weight: 700; letter-spacing: -0.3px; margin-bottom: 6px; }
+    .hero p { font-size: 13px; color: var(--text-muted); line-height: 1.6; max-width: 680px; }
+    .hero-stats {
+      display: flex;
+      gap: 24px;
+      margin-top: 16px;
+      flex-wrap: wrap;
+    }
+    .stat { display: flex; flex-direction: column; gap: 2px; }
+    .stat-val { font-size: 18px; font-weight: 800; color: var(--text-main); }
+    .stat-lbl { font-size: 11px; font-weight: 600; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.5px; }
+
+    .section-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text-light);
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 16px;
     }
 
     .grid {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-      padding: 14px;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
     }
 
-    a.card {
+    a.disc-card {
       display: flex;
       flex-direction: column;
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 14px 12px;
-      text-decoration: none;
-      color: var(--text);
-      transition: border-color 0.15s;
-      gap: 6px;
-    }
-    a.card:active { border-color: var(--accent); background: #263548; }
-
-    .card-icon { font-size: 22px; line-height: 1; }
-    .card-label { font-size: 13px; font-weight: 700; line-height: 1.3; }
-    .card-sub { font-size: 11px; color: var(--muted); }
-
-    footer {
-      text-align: center;
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-radius: 14px;
       padding: 20px;
-      color: var(--muted);
-      font-size: 11px;
+      text-decoration: none;
+      color: var(--text-main);
+      box-shadow: var(--shadow-float);
+      transition: all 0.2s ease;
+      border-left: 3px solid var(--c, var(--accent));
+    }
+    a.disc-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-hover);
+      border-color: #cbd5e1;
+      border-left-color: var(--c, var(--accent));
+    }
+    .disc-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+    .disc-icon { font-size: 24px; line-height: 1; }
+    .disc-badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 3px 7px;
+      border-radius: 6px;
+      background: #f1f5f9;
+      color: var(--text-muted);
+      border: 1px solid var(--surface-border);
+    }
+    .disc-name { font-size: 15px; font-weight: 700; letter-spacing: -0.2px; margin-bottom: 4px; }
+    .disc-meta { font-size: 12px; color: var(--text-muted); }
+
+    .disc-footer {
+      margin-top: 14px;
+      padding-top: 12px;
+      border-top: 1px solid #f1f5f9;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .disc-count { font-size: 12px; color: var(--text-light); font-weight: 500; }
+    .btn-go {
+      background: var(--text-main);
+      color: #fff;
+      border: none;
+      padding: 7px 14px;
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    footer { text-align: center; padding: 32px 20px; color: var(--text-light); font-size: 12px; }
+
+    @media (max-width: 600px) {
+      header { padding: 12px 16px; }
+      .hero { padding: 20px; }
+      .grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+      a.disc-card { padding: 14px; }
+      .btn-go { display: none; }
     }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>🦉 Corujinha OAB</h1>
-  <p>Exames 37º ao 46º — questões comentadas</p>
-  <span class="badge">824 QUESTÕES</span>
+  <div class="brand">
+    <span class="brand-badge">OAB</span>
+    <div class="brand-text">
+      <h1>Corujinha</h1>
+      <p>Plataforma de Questões Comentadas</p>
+    </div>
+  </div>
+  <span class="header-pill">37º ao 46º Exame</span>
 </header>
 
-<div class="grid">
+<main>
+  <div class="hero">
+    <div class="hero-label">1ª Fase OAB · 20 Disciplinas</div>
+    <h2>Questões Comentadas com Fundamentação</h2>
+    <p>Questões reais dos últimos 10 exames da OAB, organizadas por disciplina e módulo temático. Gabaritos verificados contra o caderno oficial.</p>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-val">824</span><span class="stat-lbl">Questões</span></div>
+      <div class="stat"><span class="stat-val">20</span><span class="stat-lbl">Disciplinas</span></div>
+      <div class="stat"><span class="stat-val">10</span><span class="stat-lbl">Exames</span></div>
+      <div class="stat"><span class="stat-val">160</span><span class="stat-lbl">Módulos</span></div>
+    </div>
+  </div>
 
-  <a class="card" href="ETICA/Dashboard_Etica_Premium.html">
-    <span class="card-icon">⚖️</span>
-    <span class="card-label">Ética Profissional</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+  <div class="section-title">Selecione a disciplina</div>
 
-  <a class="card" href="FILOSOFIA/Dashboard_Filosofia_Premium.html">
-    <span class="card-icon">🧠</span>
-    <span class="card-label">Filosofia do Direito</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+  <div class="grid">
 
-  <a class="card" href="CONSTITUCIONAL/Dashboard_Constitucional_Premium.html">
-    <span class="card-icon">🇧🇷</span>
-    <span class="card-label">Constitucional</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="ETICA/Dashboard_Etica_Premium.html" style="--c:#7c3aed">
+      <div class="disc-top"><span class="disc-icon">⚖️</span><span class="disc-badge">122 questões</span></div>
+      <div class="disc-name">Ética Profissional</div>
+      <div class="disc-meta">Estatuto da Advocacia · EOAB</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="DIREITOS_HUMANOS/Dashboard_DireitosHumanos_Premium.html">
-    <span class="card-icon">🕊️</span>
-    <span class="card-label">Direitos Humanos</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="CONSTITUCIONAL/Dashboard_Constitucional_Premium.html" style="--c:#16a34a">
+      <div class="disc-top"><span class="disc-icon">🇧🇷</span><span class="disc-badge">59 questões</span></div>
+      <div class="disc-name">Direito Constitucional</div>
+      <div class="disc-meta">CF/88 · Controle de Constitucionalidade</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="INTERNACIONAL/Dashboard_Internacional_Premium.html">
-    <span class="card-icon">🌐</span>
-    <span class="card-label">Internacional</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="CIVIL/Dashboard_Civil_Premium.html" style="--c:#2563eb">
+      <div class="disc-top"><span class="disc-icon">📜</span><span class="disc-badge">56 questões</span></div>
+      <div class="disc-name">Direito Civil</div>
+      <div class="disc-meta">Código Civil · LINDB · Família · Sucessões</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="CIVIL/Dashboard_Civil_Premium.html">
-    <span class="card-icon">📜</span>
-    <span class="card-label">Direito Civil</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="CPC/Dashboard_CPC_Premium.html" style="--c:#0891b2">
+      <div class="disc-top"><span class="disc-icon">🏛️</span><span class="disc-badge">60 questões</span></div>
+      <div class="disc-name">Processo Civil</div>
+      <div class="disc-meta">CPC/2015 · Recursos · Execução</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="CPC/Dashboard_CPC_Premium.html">
-    <span class="card-icon">🏛️</span>
-    <span class="card-label">Processo Civil</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="PENAL/Dashboard_Penal_Premium.html" style="--c:#dc2626">
+      <div class="disc-top"><span class="disc-icon">🔒</span><span class="disc-badge">59 questões</span></div>
+      <div class="disc-name">Direito Penal</div>
+      <div class="disc-meta">CP · Teoria do Crime · Penas</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="PENAL/Dashboard_Penal_Premium.html">
-    <span class="card-icon">🔒</span>
-    <span class="card-label">Direito Penal</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="PROCESSUAL_PENAL/Dashboard_ProcessualPenal_Premium.html" style="--c:#b91c1c">
+      <div class="disc-top"><span class="disc-icon">👮</span><span class="disc-badge">57 questões</span></div>
+      <div class="disc-name">Processo Penal</div>
+      <div class="disc-meta">CPP · Prisão · Provas · Recursos</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="PROCESSUAL_PENAL/Dashboard_ProcessualPenal_Premium.html">
-    <span class="card-icon">👮</span>
-    <span class="card-label">Processo Penal</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="ADMINISTRATIVO/Dashboard_Administrativo_Premium.html" style="--c:#0f172a">
+      <div class="disc-top"><span class="disc-icon">🏤</span><span class="disc-badge">50 questões</span></div>
+      <div class="disc-name">Dir. Administrativo</div>
+      <div class="disc-meta">Atos · Licitações · Improbidade</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="TRABALHISTA/Dashboard_Trabalhista_Premium.html">
-    <span class="card-icon">🏗️</span>
-    <span class="card-label">Dir. do Trabalho</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="TRIBUTARIO/Dashboard_Tributario_Premium.html" style="--c:#b45309">
+      <div class="disc-top"><span class="disc-icon">💰</span><span class="disc-badge">50 questões</span></div>
+      <div class="disc-name">Direito Tributário</div>
+      <div class="disc-meta">CTN · Obrigação Tributária · Impostos</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="PROCESSUAL_TRABALHISTA/Dashboard_ProcessualTrabalhista_Premium.html">
-    <span class="card-icon">⚙️</span>
-    <span class="card-label">Processo Trabalho</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="TRABALHISTA/Dashboard_Trabalhista_Premium.html" style="--c:#d97706">
+      <div class="disc-top"><span class="disc-icon">🏗️</span><span class="disc-badge">49 questões</span></div>
+      <div class="disc-name">Dir. do Trabalho</div>
+      <div class="disc-meta">CLT · Contrato · Jornada · Férias</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="EMPRESARIAL/Dashboard_Empresarial_Premium.html">
-    <span class="card-icon">🏢</span>
-    <span class="card-label">Dir. Empresarial</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="PROCESSUAL_TRABALHISTA/Dashboard_ProcessualTrabalhista_Premium.html" style="--c:#ca8a04">
+      <div class="disc-top"><span class="disc-icon">⚙️</span><span class="disc-badge">49 questões</span></div>
+      <div class="disc-name">Processo do Trabalho</div>
+      <div class="disc-meta">CLT · Dissídio · Recursos Trabalhistas</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="TRIBUTARIO/Dashboard_Tributario_Premium.html">
-    <span class="card-icon">💰</span>
-    <span class="card-label">Tributário</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="EMPRESARIAL/Dashboard_Empresarial_Premium.html" style="--c:#475569">
+      <div class="disc-top"><span class="disc-icon">🏢</span><span class="disc-badge">40 questões</span></div>
+      <div class="disc-name">Dir. Empresarial</div>
+      <div class="disc-meta">Tipos Societários · Falência · Títulos</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="FINANCEIRO/Dashboard_Financeiro_Premium.html">
-    <span class="card-icon">📊</span>
-    <span class="card-label">Financeiro</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="AMBIENTAL/Dashboard_Ambiental_Premium.html" style="--c:#15803d">
+      <div class="disc-top"><span class="disc-icon">🌿</span><span class="disc-badge">21 questões</span></div>
+      <div class="disc-name">Dir. Ambiental</div>
+      <div class="disc-meta">PNMA · Código Florestal · Crimes</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="ADMINISTRATIVO/Dashboard_Administrativo_Premium.html">
-    <span class="card-icon">🏤</span>
-    <span class="card-label">Administrativo</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="FILOSOFIA/Dashboard_Filosofia_Premium.html" style="--c:#6d28d9">
+      <div class="disc-top"><span class="disc-icon">🧠</span><span class="disc-badge">21 questões</span></div>
+      <div class="disc-name">Filosofia do Direito</div>
+      <div class="disc-meta">Jusnaturalismo · Positivismo · Hermenêutica</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="AMBIENTAL/Dashboard_Ambiental_Premium.html">
-    <span class="card-icon">🌿</span>
-    <span class="card-label">Ambiental</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="DIREITOS_HUMANOS/Dashboard_DireitosHumanos_Premium.html" style="--c:#0e7490">
+      <div class="disc-top"><span class="disc-icon">🕊️</span><span class="disc-badge">20 questões</span></div>
+      <div class="disc-name">Direitos Humanos</div>
+      <div class="disc-meta">Sistemas ONU e OEA · CADH · PIDCP</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="CONSUMIDOR/Dashboard_Consumidor_Premium.html">
-    <span class="card-icon">🛒</span>
-    <span class="card-label">Consumidor</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="INTERNACIONAL/Dashboard_Internacional_Premium.html" style="--c:#1d4ed8">
+      <div class="disc-top"><span class="disc-icon">🌐</span><span class="disc-badge">20 questões</span></div>
+      <div class="disc-name">Dir. Internacional</div>
+      <div class="disc-meta">Tratados · MERCOSUL · Imunidades</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="ECA/Dashboard_ECA_Premium.html">
-    <span class="card-icon">👶</span>
-    <span class="card-label">ECA</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="ECA/Dashboard_ECA_Premium.html" style="--c:#0284c7">
+      <div class="disc-top"><span class="disc-icon">👶</span><span class="disc-badge">19 questões</span></div>
+      <div class="disc-name">ECA</div>
+      <div class="disc-meta">Estatuto da Criança e Adolescente</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="ELEITORAL/Dashboard_Eleitoral_Premium.html">
-    <span class="card-icon">🗳️</span>
-    <span class="card-label">Eleitoral</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="PREVIDENCIARIO/Dashboard_Previdenciario_Premium.html" style="--c:#0369a1">
+      <div class="disc-top"><span class="disc-icon">🛡️</span><span class="disc-badge">18 questões</span></div>
+      <div class="disc-name">Dir. Previdenciário</div>
+      <div class="disc-meta">RGPS · Benefícios · Custeio</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-  <a class="card" href="PREVIDENCIARIO/Dashboard_Previdenciario_Premium.html">
-    <span class="card-icon">🛡️</span>
-    <span class="card-label">Previdenciário</span>
-    <span class="card-sub">8 módulos</span>
-  </a>
+    <a class="disc-card" href="ELEITORAL/Dashboard_Eleitoral_Premium.html" style="--c:#be123c">
+      <div class="disc-top"><span class="disc-icon">🗳️</span><span class="disc-badge">18 questões</span></div>
+      <div class="disc-name">Dir. Eleitoral</div>
+      <div class="disc-meta">TSE · Crimes Eleitorais · Partidos</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-</div>
+    <a class="disc-card" href="CONSUMIDOR/Dashboard_Consumidor_Premium.html" style="--c:#0f766e">
+      <div class="disc-top"><span class="disc-icon">🛒</span><span class="disc-badge">18 questões</span></div>
+      <div class="disc-name">Dir. do Consumidor</div>
+      <div class="disc-meta">CDC · Responsabilidade · SNDC</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
 
-<footer>Corujinha OAB · ALS-OAB</footer>
+    <a class="disc-card" href="FINANCEIRO/Dashboard_Financeiro_Premium.html" style="--c:#92400e">
+      <div class="disc-top"><span class="disc-icon">📊</span><span class="disc-badge">18 questões</span></div>
+      <div class="disc-name">Dir. Financeiro</div>
+      <div class="disc-meta">Lei de Responsabilidade Fiscal · Orçamento</div>
+      <div class="disc-footer"><span class="disc-count">8 módulos</span><span class="btn-go">Acessar →</span></div>
+    </a>
+
+  </div>
+</main>
+
+<footer>Corujinha OAB · ALS-OAB · Gabaritos verificados contra caderno oficial</footer>
 
 </body>
 </html>
