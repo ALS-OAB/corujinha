@@ -1,0 +1,40 @@
+[
+  {
+    "num": 21,
+    "enunciado": "Em uma disputa judicial estabelecida no Brasil referente a um contrato de compra e venda internacional de mercadorias, regido por lei estrangeira, uma sociedade empresária a invocou para fundamentar a sua pretensão perante a outra parte. Você, como advogado(a) especializado(a) em Direito Internacional, foi procurado(a) pela sociedade para avaliar a validade de invocar a lei estrangeira no caso em tela. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A alegação de lei estrangeira pelos litigantes viola a ordem pública.",
+      "B": "A parte que invocar a lei estrangeira provar-lhe-á o texto e a vigência, se assim o juiz determinar diante do seu desconhecimento daquela.",
+      "C": "A alegação de lei estrangeira pelos litigantes depende da concordância da parte contrária.",
+      "D": "Ao juiz é vedado transferir o encargo de comprovar o teor e a vigência da lei estrangeira à parte."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Internacional",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "05_homologacao_sentenca",
+    "modulo_nome": "Homologação de Decisões Estrangeiras pelo STJ",
+    "id": 1
+  },
+  {
+    "num": 21,
+    "enunciado": "Uma artista brasileira, que protagoniza filmes nos Estados Unidos, foi filmada em uma casa de festas no Brasil em estado de embriaguez e o vídeo foi postado por um portal de notícias americano. O vídeo “viralizou” e teve grande repercussão no Brasil. Com receio de prejudicar sua carreira com a exposição negativa de sua imagem, ela decidiu ajuizar uma ação no Brasil contra o portal de notícias, que tem sua sede nos Estados Unidos. Nesse cenário, com base nos limites da jurisdição nacional estabelecidos no Código de Processo Civil, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A autoridade judiciária brasileira não é competente para julgar a ação, porque o réu é pessoa jurídica estrangeira.",
+      "B": "A autoridade judiciária brasileira é competente para julgar a ação, porque a autora tem nacionalidade brasileira.",
+      "C": "A autoridade judiciária brasileira tem competência para processar e julgar a ação, porque os danos à imagem ocorreram no Brasil.",
+      "D": "A autoridade brasileira deve remeter o caso, por carta rogatória, à justiça norte-americana, tendo em vista que o portal de notícias é sediado nos Estados Unidos."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Internacional",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "05_homologacao_sentenca",
+    "modulo_nome": "Homologação de Decisões Estrangeiras pelo STJ",
+    "id": 2
+  }
+]

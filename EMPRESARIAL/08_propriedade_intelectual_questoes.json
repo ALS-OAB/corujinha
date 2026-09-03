@@ -1,0 +1,97 @@
+[
+  {
+    "num": 49,
+    "enunciado": "Cambira e Mallet adquiriram 1 (uma) quota da sociedade limitada Imbaú Ensino Superior Ltda. no valor de R$ 250.000,00 (duzentos e cinquenta mil reai s) , sendo, portanto, condôminos desta quota. Considerando a situação de copropriedade da quota, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Cambira não poderá ceder sua parte ideal no condomínio a outro sócio ou a terceiro em razão da indivisibilidade da quota em relação à sociedade.",
+      "B": "Cambira e Mallet respondem solidariamente perante a sociedade pelas prestações necessárias à integralização da quota.",
+      "C": "Os direitos inerentes à quota poderão ser exercidos separadamente por cada condômino, não se aplicando a indivisilidade da quota neste caso.",
+      "D": "Cambira poderá ceder sua parte ideal tanto para outro sócio quanto para terceiro independente de audiência dos demais sócios, ainda que omisso o contrato."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "08_propriedade_intelectual",
+    "modulo_nome": "Propriedade Intelectual e Marcas",
+    "id": 1
+  },
+  {
+    "num": 49,
+    "enunciado": "Quatro pessoas naturais constituíram uma sociedade para exploração de prestação de serviços de entrega domiciliar, mas não se preocuparam em arquivar o documento particular de constituição em qualquer registro. Considerando a situação dessa sociedade e as disposições aplicáveis, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ela se rege pelas normas da sociedade em comum e, subsidiariamente, no que forem compatíveis, pelas normas da sociedade simples.",
+      "B": "Ela se rege pelas normas da sociedade em conta de participação e, subsidiariamente e no que forem compatíveis, pelas normas das sociedades por ações.",
+      "C": "Ela se rege pelas normas da sociedade simples e, subsidiariamente e no que forem compatíveis, pelas normas da sociedade cooperativa.",
+      "D": "Ela se rege pelas normas da companhia e, subsidiariamente e no que forem compatíveis, pelas normas da sociedade limitada."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "08_propriedade_intelectual",
+    "modulo_nome": "Propriedade Intelectual e Marcas",
+    "id": 2
+  },
+  {
+    "num": 49,
+    "enunciado": "Maura Chalé, sócia administradora da sociedade Produtora de Laticínios Santana do Manhuaçu Ltda., procura você, como advogado(a) , informando que a sociedade é titular da marca de produto Chalé e deseja saber quais os direitos assegurados por lei ao titular de marca de produto. Sobre a hipótese narrada, com base na legislação, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A sociedade pode licenciar o uso da marca de produto Chalé e zelar pela sua integridade material ou reputação.",
+      "B": "A sociedade pode impedir que empresários utilizem sinais distintivos que lhes são próprios, juntamente com a marca, na sua promoção e comercialização.",
+      "C": "A sociedade pode proibir que fabricantes de acessórios utilizem a marca para indicar a destinação do produto, ainda que obedecidas as práticas leais de concorrência.",
+      "D": "A sociedade pode vetar a citação da marca em discurso, obra científica ou literária, com ou sem conotação comercial, independentemente de prejuízo ao caráter distintivo."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "08_propriedade_intelectual",
+    "modulo_nome": "Propriedade Intelectual e Marcas",
+    "id": 3
+  },
+  {
+    "num": 50,
+    "enunciado": "Nísia Parnamirim realizou sua inscrição como microempreendedora individual (MEI) e consultou você, como advogado(a) , para saber o tratamento que lhe é dispensado pela Lei Complementar nº 123/2006 (Lei do Simples Naciona l) . Sobre a hipótese, assinale a opção que apresenta, corretamente, sua resposta.",
+    "alternativas": {
+      "A": "Nísia Parnamirim poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a existência de local próprio para o exercício da atividade.",
+      "B": "Nísia Parnamirim poderá manter sua condição de microempreendedora individual desde que a receita bruta auferida no ano-calendário anterior seja de até R$ 60.000,00 (sessenta mil reai s) .",
+      "C": "Caso Nísia Parnamirim queira alienar seu estabelecimento, a eficácia do ato em relação a terceiros depende da averbação do contrato no Registro Público de Empresas Mercantis e de sua publicação na imprensa oficial.",
+      "D": "A comprovação da receita bruta anual por parte de Nísia Parnamirim será feita mediante escrituração do Livro Caixa e apresentação do registro de vendas ou de prestação de serviços."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "08_propriedade_intelectual",
+    "modulo_nome": "Propriedade Intelectual e Marcas",
+    "id": 4
+  },
+  {
+    "num": 50,
+    "enunciado": "Em relação aos elementos caracterizadores do empresário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O empresário caracteriza-se pelo exercício profissional de atos de comércio, dentre os quais não se inclui a prestação de serviços.",
+      "B": "O exercício de profissão intelectual, de natureza artística, literária ou científica em nenhuma hipótese poderá servir para caracterizar o empresário.",
+      "C": "O empresário caracteriza-se pelo exercício profissional de atividade econômica organizada para produção ou circulação de bens ou de serviços.",
+      "D": "A inscrição do empresário na Junta Comercial e o exercício de atividade econômica em caráter habitual são os dois requisitos para sua caracterização."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Empresarial",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "08_propriedade_intelectual",
+    "modulo_nome": "Propriedade Intelectual e Marcas",
+    "id": 5
+  }
+]

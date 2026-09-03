@@ -1,0 +1,40 @@
+[
+  {
+    "num": 10,
+    "enunciado": "O Código Civil de Napoleão, de 1804, representou um momento de grande expectativa e confiança nos poderes da lei escrita. Nesse contexto, surge um importante movimento no Direito, chamado “Escola da Exegese”. Assinale a opção que, segundo Miguel Reale em seu livro Lições Preliminares do Direito, define este movimento.",
+    "alternativas": {
+      "A": "A afirmação de que a lei é uma realidade histórica, que se situa na progressão do tempo e, por isso, deve ser interpretada segundo as tradições e o próprio espírito do povo.",
+      "B": "A crença de que a lei é importante, mas se não corresponder mais aos fatos supervenientes, deve-se procurar a solução em outras fontes, como o costume, por exemplo.",
+      "C": "A concepção segundo a qual cabe ao juiz julgar segundo os ditames da ciência e de sua consciência, de forma a prevalecer um direito justo, seja na falta da lei, seja contra aquilo que dispõe a lei.",
+      "D": "A sustentação de que na lei positiva, e de maneira especial no Código Civil, já se encontra a possibilidade de uma solução para todos os eventuais casos ou ocorrências da vida social."
+    },
+    "gabarito": "D",
+    "disciplina": "Filosofia do Direito",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_conceito_direito_hart",
+    "modulo_nome": "O Conceito de Direito (H.L.A. Hart)",
+    "id": 1
+  },
+  {
+    "num": 10,
+    "enunciado": "Segundo Kant, em seu livro Fundamentação da Metafísica dos Costumes, cada indivíduo, como ser moral, possui uma dignidade que lhe é própria. Assinale a afirmativa que, segundo Kant, no livro em referência, mostra como a dignidade deve ser entendida.",
+    "alternativas": {
+      "A": "Como o conjunto dos direitos fundamentais que devem ser assegurados pelo Estado e que permitem a cada indivíduo o exercício de sua plena cidadania.",
+      "B": "Como o valor moral da humanidade que, por isso mesmo, deve ser sempre posto em cálculo ou confronto com qualquer coisa que possua um preço, a fim de se verificar o que deve prevalecer.",
+      "C": "Como o valor do trabalho livre de uma pessoa no processo de transformação da natureza em bens de consumo úteis à existência e ao desenvolvimento econômico e moral da sociedade.",
+      "D": "Como aquilo que não possui um preço – valor relativo –, mas um valor íntimo, ou seja, uma condição graças à qual algo deve ser considerado um fim em si mesmo."
+    },
+    "gabarito": "D",
+    "disciplina": "Filosofia do Direito",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "06_conceito_direito_hart",
+    "modulo_nome": "O Conceito de Direito (H.L.A. Hart)",
+    "id": 2
+  }
+]

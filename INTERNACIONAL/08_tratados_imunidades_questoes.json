@@ -1,0 +1,40 @@
+[
+  {
+    "num": 22,
+    "enunciado": "A Fundação de Juristas Moçambique–Brasil, associação privada de fim de interesse coletivo, constituiu-se na década de 1990, na cidade de Maputo, capital de Moçambique, e pretende abrir filial no Brasil. Você, advogado(a) especializado em Direito Internacional, é procurado pela Fundação para avaliar a pretensão do caso em tela. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A Fundação não poderá ter filial no Brasil, salvo se houver prévia decisão da justiça brasileira autorizativa.",
+      "B": "A Fundação não poderá ter filial no Brasil, antes da aprovação dos atos constitutivos pelo governo brasileiro, ficando a filial sujeita à lei brasileira.",
+      "C": "A Fundação não poderá ter filial no Brasil, salvo se houver prévia autorização legislativa do Congresso Nacional.",
+      "D": "A Fundação não poderá ter filial no Brasil, antes da aprovação dos atos constitutivos pelo governo moçambicano, ficando a filial sujeita à lei moçambicana."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Internacional",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "08_tratados_imunidades",
+    "modulo_nome": "Tratados Internacionais e Imunidade de Jurisdição",
+    "id": 1
+  },
+  {
+    "num": 22,
+    "enunciado": "A Convenção de Viena sobre os Direitos dos Tratados de 1969 estabelece regras gerais para os tratados internacionais em relação a diversos aspectos, como entrada em vigor, aplicação e interpretação. Quanto à interpretação dos tratados, estes devem ser interpretados de boa-fé levando em consideração o contexto, o objetivo e a finalidade. A esse respeito, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Para os fins de interpretação de um tratado, o contexto compreenderá, além do texto, seu preâmbulo e anexos.",
+      "B": "Toda vez que um tratado for autenticado em duas ou mais línguas, sem exceção, seu texto tem validade em cada uma delas.",
+      "C": "Uma versão do tratado em língua diversa daquelas em que o texto foi autenticado, só será considerada texto autêntico se o tratado o previr.",
+      "D": "Não são admitidos meios suplementares de interpretação dos tratados internacionais, como os trabalhos preparatórios e as circunstâncias de conclusão do tratado, ainda que a interpretação deixe o sentido ambíguo ou obscuro."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Internacional",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "08_tratados_imunidades",
+    "modulo_nome": "Tratados Internacionais e Imunidade de Jurisdição",
+    "id": 2
+  }
+]

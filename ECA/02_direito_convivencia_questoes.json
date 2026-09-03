@@ -1,0 +1,59 @@
+[
+  {
+    "num": 41,
+    "enunciado": "Rodrigo e Juliana celebraram contrato de compra e venda com Márcia, visando à aquisição de 20 (vinte) cavalos da raça manga- larga, de propriedade desta última. O contrato possui cláusula prevendo a solidariedade ativa de Rodrigo e Juliana, e que a entrega será feita de uma única vez. Dez dias antes da data pactuada para entrega dos animais, Márcia, culposamente, esqueceu aberta a porta do curral os animais estavam, o que ocasionou a fuga dos equinos. No dia combinado, Márcia dispunha de apenas cinco cavalos, os quais foram oferecidos a Rodrigo e Juliana como parte do pagamento. Acerca do caso apresentado, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Por se tratar de obrigação de entrega de coisa a dois credores, a previsão de solidariedade ativa contratual é desnecessária, eis que decorrente de disposição expressa do Código Civil.",
+      "B": "Rodrigo e Juliana poderão optar por receber os cinco cavalos, com abatimento do preço, ou considerar resolvida a obrigação e, tanto num como noutro caso, exigir indenização das perdas e danos.",
+      "C": "Caso Rodrigo e Juliana optem pela conversão da obrigação em perdas e danos, a solidariedade não subsistirá.",
+      "D": "Márcia poderá compelir Rodrigo e Juliana a receberem cinco cavalos, posto se tratar de obrigação divisível. 2 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "B",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "02_direito_convivencia",
+    "modulo_nome": "Direito à Convivência Familiar e Comunitária (Guarda, Tutela, Adoção)",
+    "id": 1
+  },
+  {
+    "num": 43,
+    "enunciado": "João, 14 anos, criou um perfil online para realizar apostas em sites de jogos de futebol, realizando-as sozinho e sem qualquer restrição. Sobre a possibilidade de responsabilização do site, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Não há ilícito por parte do site, pois a maioridade não é exigida para sua atividade.",
+      "B": "O site deve ser responsabilizado, pois cometeu infração administrativa prevista no Estatuto da Criança e Adolescente.",
+      "C": "O site não deve ser responsabilizado, pois não é exigível o controle além da autodeclaração de maioridade, demandada em seu acesso.",
+      "D": "A atividade de aposta desenvolvida no site não se identifica, para fins de reprovação normativa, com a restrição de acesso imposta a crianças e adolescentes às casas de apostas, de modo que não há infração por parte do site."
+    },
+    "gabarito": "*",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "02_direito_convivencia",
+    "modulo_nome": "Direito à Convivência Familiar e Comunitária (Guarda, Tutela, Adoção)",
+    "id": 2
+  },
+  {
+    "num": 43,
+    "enunciado": "Enzo, de 16 anos de idade, ingressou em um grande supermercado e subtraiu diversas peças de picanha, que totalizaram mais de R$ 2.000,00 (dois mil reai s) . Um segurança, percebendo a atitude suspeita de Enzo, o apreendeu no estacionamento. Enzo confessou a autoria. O Ministério Público representou contra o adolescente pela prática de ato infracional análogo ao crime de furto ( **Art. 155** , caput, do CP). Durante a instrução processual, ficou constatado que essa foi a primeira passagem de Enzo pela Vara da Infância e Juventude. A família de Enzo procurou você, como advogado(a) , para saber qual medida poderá ser aplicada ao caso. Com base na expressa disposição do Estatuto da Criança e do Adolescente (EC",
+    "alternativas": {
+      "A": "Não poderá ser aplicada a medida socioeducativa de advertência, tendo em vista a primariedade e a pouca lesividade do ato.",
+      "B": "Ele deve receber a medida socioeducativa de internação, já que isso o afastará do meio criminoso e permitirá sua ressocialização.",
+      "C": "A medida cabível é a semiliberdade, já que ele deve receber uma medida socioeducativa, mas não a ponto de mantê-lo totalmente privado de liberdade.",
+      "D": "Não cabe a aplicação da medida socioeducativa de internação, porque o ato não foi cometido mediante grave ameaça ou violência à pessoa e não há reiteração em infrações graves."
+    },
+    "gabarito": "D",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "02_direito_convivencia",
+    "modulo_nome": "Direito à Convivência Familiar e Comunitária (Guarda, Tutela, Adoção)",
+    "id": 3
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "num": 70,
+    "enunciado": "Manoel é segurado de baixa renda, tendo sido recolhido à prisão, em regime fechado, no dia 01/01/2022. Antes da prisão, ele recolheu 12 contribuições mensais à Previdência Social e tem, como único dependente, o filho Maurício, de 19 anos. Diante destas considerações, sobre o auxílio-reclusão assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Maurício não faz jus ao benefício do auxílio-reclusão, uma vez que seu pai, Manoel, não cumpriu a carência de 24 (vinte e quatr o) meses.",
+      "B": "Maurício, apesar de Manoel cumprir a carência exigida, não faz jus ao benefício do auxílio-reclusão por possuir mais de 18 (dezoito) anos.",
+      "C": "Caso Manoel venha a exercer atividade, ainda que em regime fechado, haverá a perda do direito ao recebimento do auxílioreclusão para seu dependente.",
+      "D": "O requerimento de Manoel solicitando o auxílio-reclusão deve ser instruído com a certidão de nascimento do dependente, sem a necessidade de certidão sobre o seu recolhimento à prisão."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Previdenciário",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_pensao_morte_auxilios",
+    "modulo_nome": "Pensão por Morte, Auxílio-Reclusão e Salário-Família",
+    "id": 1
+  },
+  {
+    "num": 70,
+    "enunciado": "Humberto Alves, profissional liberal, desempenha a atividade de eletricista autônomo, prestando serviço a diversos clientes, todos pessoas físicas, mediante remuneração e sem relação de emprego. Sobre o enquadramento de Humberto Alves como trabalhador autônomo no RGPS, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ele é segurado obrigatório do Regime Geral de Previdência Social.",
+      "B": "Ele não poderá obter aposentadoria por idade ou por incapacidade permanente.",
+      "C": "Ele, por não possuir relação de emprego, é dispensado de quaisquer recolhimentos previdenciários.",
+      "D": "Ele se qualifica como segurado trabalhador avulso do Regime Geral de Previdência Social."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Previdenciário",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_pensao_morte_auxilios",
+    "modulo_nome": "Pensão por Morte, Auxílio-Reclusão e Salário-Família",
+    "id": 2
+  }
+]

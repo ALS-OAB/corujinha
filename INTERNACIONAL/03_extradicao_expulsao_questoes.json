@@ -1,0 +1,59 @@
+[
+  {
+    "num": 21,
+    "enunciado": "O cidadão francês Pierre Renoir, residente e domiciliado em Portugal, foi casado com uma espanhola, com quem teve dois filhos nascidos na Alemanha. Pierre faleceu em 2022 e deixou como herança um apartamento no Brasil, onde viveu durante a fase universitária. Nesta hipótese, à sucessão do bem será aplicada a lei",
+    "alternativas": {
+      "A": "francesa.",
+      "B": "portuguesa.",
+      "C": "brasileira.",
+      "D": "alemã."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Internacional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "03_extradicao_expulsao",
+    "modulo_nome": "Extradição, Expulsão e Deportação",
+    "id": 1
+  },
+  {
+    "num": 21,
+    "enunciado": "Você atua, como advogado(a) , em um caso em que seu cliente, Luka, croata, de 65 anos de idade e 6 anos de residência fixa no Brasil, sem família no país, foi condenado, com sentença transitada em julgado, pela prática do crime de estupro no Brasil. Com base no que dispõe a Lei de Migração (Lei nº 13.445/2017), a condenação ensejará a expulsão de Luka do Brasil,",
+    "alternativas": {
+      "A": "sem a possibilidade de impedimento de reingresso.",
+      "B": "conjugada com o impedimento de reingresso por prazo determinado.",
+      "C": "conjugada com o impedimento de reingresso por prazo indeterminado.",
+      "D": "com a possibilidade de reingresso, por ser pessoa com mais de 60 anos de idade e residente no país."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Internacional",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "03_extradicao_expulsao",
+    "modulo_nome": "Extradição, Expulsão e Deportação",
+    "id": 2
+  },
+  {
+    "num": 21,
+    "enunciado": "Um cidadão brasileiro, domiciliado na Espanha, faleceu deixando um testamento particular que dispõe sobre bens situados tanto no exterior quanto no Brasil. Após a sua morte, os herdeiros promoveram, de comum acordo, perante autoridade notarial estrangeira competente, procedimento consensual de confirmação do testamento particular e partilha do patrimônio, incluindo os bens localizados no Brasil. Posteriormente, requereram ao Superior Tribunal de Justiça (STJ) a homologação do ato notarial estrangeiro, alegando a inexistência de litígio entre os herdeiros e a plena validade do procedimento conforme a legislação do país de origem. Sobre o caso apresentado, à luz do sistema jurídico brasileiro, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A homologação será possível apenas se o ato estrangeiro for convertido em decisão judicial no país de origem, pois somente decisões judiciais estrangeiras são passíveis de homologação pelo STJ.",
+      "B": "O ato notarial poderá ser homologado pelo STJ desde que todos os herdeiros sejam capazes e tenham manifestado consentimento expresso quanto à confirmação do testamento e à partilha dos bens, inclusive os situados no Brasil.",
+      "C": "A homologação deverá ser deferida parcialmente, produzindo efeitos automáticos sobre os bens situados no Brasil, em respeito ao princípio da autonomia da vontade dos herdeiros e ao reconhecimento internacional dos atos notariais.",
+      "D": "O ato notarial estrangeiro não poderá ser homologado na parte relativa aos bens situados no Brasil, pois a confirmação de testamento particular e a partilha desses bens se inserem na competência jurisdicional exclusiva da autoridade judiciária brasileira."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Internacional",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "03_extradicao_expulsao",
+    "modulo_nome": "Extradição, Expulsão e Deportação",
+    "id": 3
+  }
+]

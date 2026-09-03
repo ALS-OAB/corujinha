@@ -1,0 +1,59 @@
+[
+  {
+    "num": 17,
+    "enunciado": "Numa acirrada disputa eleitoral pelo governo municipal de sua cidade, o prefeito atual e candidato à reeleição, divulgou, por meio do site da Prefeitura, informações inexatas e ofensivas contra o candidato da oposição. Esse candidato o(a) procurou, por saber de sua atuação como advogado(a) em defesa dos Direitos Humanos, e disse que, amparado na Convenção Americana sobre Direitos Humanos, queria o direito de resposta na rádio local. Sobre a hipótese narrada, cabe a você esclarecer que a Convenção assegura",
+    "alternativas": {
+      "A": "plenamente o direito à resposta, que deve ocorrer no órgão de difusão da escolha do ofendido.",
+      "B": "o direito de resposta e determina que ele aconteça no órgão de difusão que tenha a capacidade de alcançar o maior número de pessoas.",
+      "C": "o direito à resposta e determina que ela deve ser feita no mesmo órgão de difusão em que ocorreu a divulgação das informações inexatas e ofensivas.",
+      "D": "o direito de resposta, mas estabelece como condição a apreciação judicial e o encerramento da lide em última instância."
+    },
+    "gabarito": "C",
+    "disciplina": "Direitos Humanos",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "03_corte_interamericana",
+    "modulo_nome": "Corte Interamericana e Comissão Interamericana",
+    "id": 1
+  },
+  {
+    "num": 17,
+    "enunciado": "Você está participando de um debate na OAB de sua cidade sobre direitos humanos de comunidades tradicionais, quando é questionado sobre a identificação e o reconhecimento dos remanescentes das comunidades quilombolas. Assinale a opção que apresenta, corretamente, sua resposta.",
+    "alternativas": {
+      "A": "Os grupos étnico-raciais, segundo critérios de autoatribuição, com trajetória histórica própria, dotados de relações territoriais específicas, com presunção de ancestralidade negra relacionada à resistência e à opressão histórica sofrida.",
+      "B": "Todo e qualquer cidadão ou cidadã que esteja privado do seu direito à moradia em função de grave violação de direitos humanos e que seja descendente de imigrantes que se estabeleceram no Brasil com ou sem autorização de permanência dada pelo Estado brasileiro.",
+      "C": "A população afrodescendente brasileira, que vive processos de privação de direitos e, por isso, busca tanto os meios próprios de subsistência quanto a reparação pelos preconceitos e pela discriminação que sofreu e que resultaram em restrições de acesso à terra e à moradia.",
+      "D": "Os povos originais, aos quais são reconhecidos a organização social, os costumes, as línguas, as crenças e as tradições, bem como os direitos originários sobre as terras que tradicionalmente ocuparam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens."
+    },
+    "gabarito": "A",
+    "disciplina": "Direitos Humanos",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "03_corte_interamericana",
+    "modulo_nome": "Corte Interamericana e Comissão Interamericana",
+    "id": 2
+  },
+  {
+    "num": 17,
+    "enunciado": "Na condição de advogado(a) , você é procurado(a) por membros de uma comunidade indígena que estão sofrendo reiteradas ofensas aos seus direitos originários sobre as terras que tradicionalmente ocupam, sofrendo renitente esbulho, em conflito possessório que se arrasta desde antes da promulgação da Constituição Federal de 1988. Nesse contexto, de acordo com o entendimento da Corte Interamericana de Direitos Humanos (Corte IDH) e do Supremo Tribunal Federal (STF), assinale a opção que apresenta, corretamente, a sua orientação.",
+    "alternativas": {
+      "A": "Diante da natureza jurídica despersonalizada da comunidade indígena, reconhece-se a possibilidade de quaisquer de seus integrantes pleitear individualmente, em substituição à coletividade respectiva, o provimento de tutela jurisdicional adequada à proteção dos seus direitos originários violados.",
+      "B": "Em razão da situação narrada protrair-se no tempo, estendendo-se o conflito possessório a período anterior à edição da nova ordem constitucional, não há, no caso, óbice de ordem técnico-jurídica que inviabiliza o reconhecimento da tradicionalidade da ocupação indígena, nos termos da jurisprudência mais recente do STF.",
+      "C": "Tanto a Corte IDH quanto o STF reconhecem a possibilidade de a comunidade indígena, por livre disposição, anuir à solução conciliatória em que se estabeleça a alienação das terras indígenas, desde que o produto da venda seja destinado exclusivamente à comunidade, assegurada a sua capacidade de autodeterminação sobre a sua disposição.",
+      "D": "Diante das peculiaridades culturais e de organização inerentes aos povos originários, para melhor proteção dos seus direitos, é obrigatório que a sua representação em juízo seja realizada por órgão governamental especialmente instituído para atuar na defesa de seus interesses, como ocorre no contexto brasileiro com a Fundação Nacional do Índio (Funai) ."
+    },
+    "gabarito": "B",
+    "disciplina": "Direitos Humanos",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "03_corte_interamericana",
+    "modulo_nome": "Corte Interamericana e Comissão Interamericana",
+    "id": 3
+  }
+]

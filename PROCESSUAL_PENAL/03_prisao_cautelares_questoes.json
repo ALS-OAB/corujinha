@@ -1,0 +1,135 @@
+[
+  {
+    "num": 64,
+    "enunciado": "No dia 10 de julho de 2020, Pedro, primário, é preso em flagrante delito comercializando ecstasy em uma rua do bairro onde mora. Com ele, são apreendidos 50 comprimidos e dinheiro em espécie. Assim, é imediatamente conduzido à delegacia, onde, no mesmo dia, é lavrado auto de prisão em flagrante pela prática do crime descrito no Art. 33, caput, da Lei nº 11.343/06, punido com pena de reclusão de 5 a 15 anos e multa. O laudo toxicológico provisório atesta que a substância consta da lista de substâncias proscritas. Feitas as comunicações devidas, o auto de prisão é remetido ao juízo competente e, desse modo, no dia 11 de julho, passadas 23 horas da prisão, Pedro é apresentado à autoridade judicial. A audiência é realizada sem a presença de órgão do Ministério Público e após entrevistar o pres",
+    "alternativas": {
+      "A": "A prisão deve ser relaxada em razão da inobservância do prazo para a realização da audiência de custódia.",
+      "B": "A prisão deve ser substituída por medidas cautelares diversas da prisão, já que suficientes para garantia da ordem pública e conveniência da instrução criminal.",
+      "C": "A prisão deve ser relaxada, ante a ausência de pedido do Ministério Público, e concedida prisão domiciliar ao acusado para garantia da ordem pública.",
+      "D": "A prisão deve ser relaxada, pois o magistrado não poderia, diante da ausência de pedido do Parquet, ter convertido a prisão em flagrante em preventiva de ofício. 8 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Penal",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 1
+  },
+  {
+    "num": 67,
+    "enunciado": "A Polícia Civil ingressou na residência de Gustavo com o objetivo de cumprir mandado de prisão em desfavor de seu filho, Mariano, o qual era acusado de tráfico de drogas. A ordem de prisão foi expedida pelo Juiz de Direito da Comarca. Durante o cumprimento do mandado de prisão, a Polícia pegou o telefone celular de Gustavo, desbloqueado, que estava sobre uma mesa da residência e, sem sua autorização, passou a verificar seu conteúdo, constatando material de pornografia infantil, armazenado e compartilhado via aplicativo de troca de mensagens instantâneas, acessível pela internet a partir de qualquer país. Diante disso, a Polícia imediatamente realizou a prisão em flagrante de Gustavo. Sobre o meio de obtenção da prova extraída do celular de Gustavo, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "É nula, e a nulidade decorre do fato de ser a pornografia infantil na internet crime de competência federal, de forma que somente a Polícia Federal poderia realizar a prisão em flagrante.",
+      "B": "É válida, pois foi um encontro fortuito de provas, uma vez que os policiais tinham autorização legal para ingresso no domicílio de Gustavo e Mariano.",
+      "C": "É ilícita, pois o cumprimento de mandado de prisão não compreende a autorização para busca em residência ou para o acesso a dados telemáticos, o que demandaria ordem judicial específica.",
+      "D": "É anulável, porque somente com um mandado de busca e apreensão se poderia livremente acessar o conteúdo de comunicações telemáticas, ainda que diversos fossem o objeto ou o destinatário do mandado, podendo a autoridade judiciária, entretanto, ratificar a diligência."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 2
+  },
+  {
+    "num": 63,
+    "enunciado": "Luís Vicente, secretário de fazenda do Município Alfa, foi ofendido por Iório, secretário de fazenda do Estado Beta, que, durante discurso na tribuna da Câmara dos Vereadores, afirmou que “Luís Vicente comete peculato, desviando recursos do caixa municipal em proveito próprio e de seus familiares!” Luís Vicente procurou você, como advogado(a) , para que você o oriente sobre a medida cabível para responsabilizar Iório pela ofensa à sua honra. Nesse contexto, é correto afirmar que Luís Vicente",
+    "alternativas": {
+      "A": "só pode ajuizar uma queixa-crime em face de Iório, pois o delito contra a honra desafia ação penal privada.",
+      "B": "pode oferecer representação contra Iório ao Ministério Público, pois sua qualidade de servidor público impõe a ação penal pública na defesa de sua honra.",
+      "C": "pode optar entre ajuizar queixa-crime em face de Iório ou oferecer representação ao Ministério Público.",
+      "D": "não pode fazer nada a respeito, diante da imunidade material de Iório, pela sua qualidade de ocupante de cargo político."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 3
+  },
+  {
+    "num": 65,
+    "enunciado": "Ana Rosa foi denunciada perante o Tribunal do Júri pela prática de homicídio duplamente qualificado, por ter sido praticado mediante tortura e em razão da idade da vítima, Inocêncio, criança de 8 anos de idade, ambas as qualificadoras devidamente sustentadas no plenário pela acusação. O Conselho de Sentença respondeu afirmativamente aos quesitos de autoria e materialidade, e negativamente ao quesito de clemência, reconhecendo, ainda, as duas qualificadoras. Na sentença, o Juiz Presidente utilizou a qualificadora sobejante como agravante genérica. Foi interposta apelação defensiva, com base na alegação de decisão contrária à decisão dos jurados e injustiça na aplicação da pena. Ao final da fundamentação, formulou os seguintes requerimentos: o afastamento da qualificadora da tortura, a inadm",
+    "alternativas": {
+      "A": "o não cabimento de apelação em face da sentença proferida pelo Juiz Presidente do Tribunal do Júri.",
+      "B": "a existência de prova suficiente de autoria.",
+      "C": "a inviabilidade de o Tribunal afastar a qualificadora quesitada ao Conselho de Sentença.",
+      "D": "a admissibilidade do reconhecimento de agravantes pelo Juiz Presidente, ainda que nenhuma delas tenha sido alegada em plenário."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 4
+  },
+  {
+    "num": 68,
+    "enunciado": "Anderson, motorista da sociedade empresária X, dirigindo o veículo da sociedade empresária fora do horário comercial e acima da velocidade permitida, atropelou Lucas. Lucas ficou internado pelo período de dois meses. Anderson foi condenado com trânsito em julgado, no âmbito criminal. Lucas propõe ação civil ex delicto de execução contra a sociedade empresária X. Sobre essa ação civil ex delicto, você, na qualidade de advogado(a) da sociedade empresária X, afirmou, corretamente, que ela é parte",
+    "alternativas": {
+      "A": "legítima uma vez que é responsável civil.",
+      "B": "legítima para figurar como ré, ainda que Anderson fosse absolvido criminalmente.",
+      "C": "ilegítima para ação civil ex delicto de execução, uma vez que não teve oportunidade de participar da ação penal originária.",
+      "D": "ilegítima para ação civil ex delicto, seja de conhecimento ou de execução, que somente pode ser proposta contra o autor do crime."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 5
+  },
+  {
+    "num": 64,
+    "enunciado": "Cauã e Mayara são indígenas integrados e mantêm relação íntima de afeto, sendo residentes em comunidade tradicional. Certo dia, motivado por ciúmes, Cauã agrediu Mayara, atingindo-a no rosto, fato que ocasionou uma lesão corporal leve. Sobre a orientação assumida pelo(a) advogado(a) de defesa de Mayara, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A ação penal é pública e incondicionada, por se tratar de disputa sobre direito indígena, de competência da Vara Criminal da Justiça Estadual.",
+      "B": "A ação penal depende de representação da ofendida e seguirá o rito do Juizado Especial Criminal, perante a Justiça Federal, pelo fato de envolver indígenas como autor e vítima.",
+      "C": "A ação penal é pública e incondicionada, por se tratar de violência doméstica e familiar contra a mulher, e a competência para julgamento é da Justiça Federal, em razão de envolver indígenas.",
+      "D": "A ação penal é pública e incondicionada, e a competência para julgamento é do Juizado de Violência Doméstica e Familiar contra a Mulher, ante a relação íntima de afeto existente entre autor e vítima."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Penal",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 6
+  },
+  {
+    "num": 68,
+    "enunciado": "Flávia foi pronunciada pela suposta prática de crime de aborto. O processo estava tramitando na cidade de Salgados, PA, e teve grande repercussão no local, havendo, inclusive, várias ameaças de populares contra a ré. A sessão de julgamento pelo júri popular já foi designada, tendo a defesa sido intimada da referida designação. Sobre a hipótese, assinale a opção que indica o modo adequado de você, como advogado(a) da ré, requerer que o julgamento ocorra em outra Comarca.",
+    "alternativas": {
+      "A": "Suscitar incidente de deslocamento de competência para a Justiça Federal.",
+      "B": "Apresentar um pedido de Revisão Criminal.",
+      "C": "Oferecer exceção de incompetência territorial.",
+      "D": "Pedir o desaforamento do júri."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Penal",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "03_prisao_cautelares",
+    "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
+    "id": 7
+  }
+]

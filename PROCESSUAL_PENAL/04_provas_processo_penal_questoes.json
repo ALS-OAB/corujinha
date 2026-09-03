@@ -1,0 +1,135 @@
+[
+  {
+    "num": 65,
+    "enunciado": "Leonardo praticou um crime que, objetivamente, admitia o acordo de não persecução penal (ANPP). Concluída a investigação criminal, e estando presente a justa causa, o Promotor de Justiça se recusou a fazer a proposta de ANPP, por entender que estava demonstrado que a conduta de Leonardo era habitual. Diante da recusa do Promotor de Justiça em propor o ANPP, o Juiz da Comarca de Cascais, acolhendo o requerimento do advogado de Leonardo, remeteu o investigatório ao Ministério Público para se manifestar sobre o tema. O MP apresentou ao Juiz da Vara Criminal da Comarca de Cascais uma proposta de ANPP para ser homologada. O juiz considerou insuficiente a condição de Leonardo pagar como prestação pecuniária a quantia correspondente a 02 (dois) salários- mínimos a uma entidade pública, a ser indi",
+    "alternativas": {
+      "A": "Recurso de agravo previsto na Lei de Execução Penal, haja vista que a prestação pecuniária era destinada a uma entidade pública a ser indicada pelo juízo da execução. O legitimado para interpor esse recurso é Leonardo, haja vista que contra o mesmo seria cobrada a prestação pecuniária junto ao juízo da execução.",
+      "B": "Recurso em sentido estrito, considerando se tratar de um ato judicial de natureza declaratória. Estavam legitimados a recorrer o Ministério Público e Leonardo, por terem, ambos, interesse recursal.",
+      "C": "Recurso de apelação (residual), por se tratar de uma decisão definitiva. Somente estava legitimado a recorrer o Ministério Público, por ser o autor da proposta, ainda que a ela tenha aderido Leonardo.",
+      "D": "Recurso de apelação (residual), por se tratar de uma decisão com força de definitiva, e dela poderia recorrer o Promotor de Justiça com atribuição e Leonardo, por terem, ambos, interesse recursal. 19 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 1
+  },
+  {
+    "num": 68,
+    "enunciado": "Flávia foi acompanhada por você, na qualidade de advogado(a) , à presença da Autoridade Policial, para noticiar a prática dos crimes de apropriação indébita e fraude processual supostamente praticados por seu ex-marido, descrevendo a prática do crime, fornecendo os dados qualificativos completos do suposto autor do fato, apresentando rol de testemunhas e anexando documentação pertinente à materialidade delitiva e de indícios de autoria. O Delegado de Polícia Civil, após cinco dias da confecção do registro da ocorrência, sem que tenha sido praticado nenhum ato para a verificação da procedência das informações, despachou nos autos do Inquérito Policial pelo indeferimento da instauração do Inquérito Policial e determinou a suspensão do procedimento. Nesse caso, você deve",
+    "alternativas": {
+      "A": "requerer a remessa dos autos ao Ministério Público para que se manifeste, uma vez que o Delegado de Polícia não possui poderes para arquivar o procedimento.",
+      "B": "requerer a remessa dos autos ao Juízo para que se manifeste, uma vez que o Delegado de Polícia não possui poderes para arquivar o procedimento.",
+      "C": "apresentar recurso para a Chefia de Polícia para que se manifeste sobre o indeferimento da instauração do Inquérito Policial.",
+      "D": "apresentar recurso ao Ministério Público para que se manifeste sobre o indeferimento da instauração do Inquérito Policial."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 2
+  },
+  {
+    "num": 64,
+    "enunciado": "Vanessa, primária e sem antecedentes, grávida de seis meses, foi presa em flagrante no aeroporto no momento em que embarcava com destino à Espanha de posse de 10kg de substância entorpecente (cocaína) . Vanessa foi autuada pela prática do crime de tráfico internacional de drogas ( **Art. 33** , caput, c/c. **Art. 40** , inciso I, ambos da Lei nº 11.343/06). Sobre a possibilidade de prisão domiciliar em favor de Vanessa, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A quantidade de drogas apreendida e a transnacionalidade do delito obstam a concessão de prisão domiciliar.",
+      "B": "O pedido de prisão domiciliar é injustificável, tendo em vista que Vanessa ainda está no sexto mês de gestação.",
+      "C": "A natureza não violenta do delito imputado e a gestação de Vanessa autorizam a concessão de prisão domiciliar.",
+      "D": "Apenas se houver comprovação de gravidez de risco haverá previsão legal que justifique a concessão de prisão domiciliar."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 3
+  },
+  {
+    "num": 66,
+    "enunciado": "Francisco e seu filho Alfredo depredaram o carro de Terezinha, o que motivou o ajuizamento de queixa-crime em face de Francisco e Alfredo, dentro do prazo decadencial, pelo crime de dano qualificado por motivo egoístico, disposto no **Art. 163** , inciso IV, do CP. No curso da ação penal, Francisco e Terezinha começaram a ter um relacionamento amoroso. Terezinha perdoou expressamente Francisco nos autos da queixa-crime. Intimado, Francisco aceitou o perdão da ofendida, o Juízo declarou a extinção da punibilidade em face de Francisco, mas, determinou o seguimento da ação penal em relação a Alfredo. Diante do caso narrado, assinale a opção que apresenta, corretamente, os princípios que você, como advogado(a) de Alfredo, deve alegar no interesse de seu cliente.",
+    "alternativas": {
+      "A": "Da indivisibilidade e da disponibilidade.",
+      "B": "Da divisibilidade e da intranscendência das penas.",
+      "C": "Da legalidade e da presunção de inocência.",
+      "D": "Do ne bis in idem e da individualização das penas."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 4
+  },
+  {
+    "num": 63,
+    "enunciado": "Gabriela se dirigiu a uma agência da Caixa Econômica Federal, empresa pública federal, a fim de tentar sacar benefício assistencial pago pela União a pessoas em situação de vulnerabilidade financeira, munida de DOC_Documentos falsos, em nome de terceira pessoa. Gabriela foi presa em flagrante, sendo constatado que ela estava cumprindo pena em regime aberto domiciliar por condenação relativa a outro fato. Em relação à execução penal, assinale a afirmativa que define as consequências do evento narrado.",
+    "alternativas": {
+      "A": "A responsabilização de Gabriela depende de representação da vítima, por se tratar de delito de estelionato.",
+      "B": "Ao tomar conhecimento do novo crime, o Juiz da execução pode reconhecer a falta grave e determinar a regressão de regime sem necessidade de contraditório.",
+      "C": "Em razão da prática de crime, em tese, no curso da execução, Gabriela perdeu em definitivo o direito de obter livramento condicional pela condenação em execução.",
+      "D": "A prática de novo crime cometido por Gabriela configura, em tese, falta disciplinar de natureza grave, autorizando, de forma fundamentada, a regressão de regime per saltum."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Penal",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 5
+  },
+  {
+    "num": 65,
+    "enunciado": "Peterson teve sua prisão temporária decretada pelo prazo de trinta dias, ao ser investigado pela prática do crime de homicídio culposo na direção de veículo automotor, disposto no **Art. 302** da Lei nº 9.503/1997 (Código de Trânsito Brasileir o) , cuja pena cominada é de dois a quatro anos de detenção. A decisão foi fundamentada na necessidade da coleta de provas imprescindíveis durante a investigação policial. Você foi procurado(a) , como advogado(a) , para atuar no melhor interesse de Peterson, no primeiro dia da sua prisão. Assinale a opção que apresenta, corretamente, o pedido cabível tendo em vista os interesses de seu cliente.",
+    "alternativas": {
+      "A": "A liberdade provisória com arbitramento de fiança, pois a pena máxima do crime não ultrapassa quatro anos.",
+      "B": "A liberdade provisória com aplicação de medidas cautelares diversas da prisão, pois não demonstrada a imprescindibilidade da medida.",
+      "C": "O relaxamento imediato da prisão ilegal, pois o crime de homicídio culposo na direção de veículo automotor não está no rol dos crimes que autorizam a prisão temporária.",
+      "D": "O relaxamento da prisão ilegal a partir do quinto dia de prisão, pois a prática do homicídio culposo na direção de veículo automotor não configura crime hediondo e o prazo da prisão temporária deveria ser de 5 dias, e não, de 30 dias."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 6
+  },
+  {
+    "num": 63,
+    "enunciado": "Marivaldo foi denunciado por organização criminosa e peculato. A denúncia foi lastreada, exclusivamente, no depoimento de Sérgio, corréu, que celebrou acordo de colaboração premiada com o Ministério Público. Assim, recebida a denúncia, foram citados ambos os réus, sendo que a citação de Marivaldo ocorreu no dia 10/05, e a de Sérgio, no dia 20/05 do corrente ano. De acordo com o caso narrado, na qualidade de advogado(a) de Marivaldo, assinale a opção que apresenta a conduta adequada a ser adotada.",
+    "alternativas": {
+      "A": "O prazo de apresentação da resposta à acusação é de dez dias a contar da citação do último corréu, tratando-se de prazo comum às partes.",
+      "B": "O prazo de apresentação da resposta à acusação é de dez dias a contar da citação de Marivaldo, podendo ser encerrado antes do prazo de Sérgio.",
+      "C": "Deve ser alegada a violação ao contraditório, pois o corréu delatado deve participar das tratativas de celebração do acordo de colaboração premiada.",
+      "D": "Deve ser alegada a ausência de justa causa para o recebimento da denúncia, pois a palavra do colaborador, sem provas de corroboração, é insuficiente para o recebimento da denúncia."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Penal",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "04_provas_processo_penal",
+    "modulo_nome": "Provas e Cadeia de Custódia",
+    "id": 7
+  }
+]

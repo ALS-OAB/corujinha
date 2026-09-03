@@ -1,0 +1,59 @@
+[
+  {
+    "num": 36,
+    "enunciado": "Tramita na Câmara do Município Alfa projeto de lei que dispõe sobre proteção ao meio ambiente no âmbito de seu território, observado o interesse local. Sabe-se que o projeto de lei está harmônico com a disciplina legislativa estadual e federal atualmente vigente. No caso em tela, em matéria de competência legislativa ambiental, de acordo com a CRFB/88, é correto afirmar que o projeto de lei, em tese,",
+    "alternativas": {
+      "A": "ofende a Carta Magna, porque compete à União legislar privativamente sobre proteção ao meio ambiente, observadas as premissas constitucionais.",
+      "B": "é incompatível com a Carta Magna, porque compete à União, aos Estados e ao Distrito Federal legislar privativamente sobre proteção ao meio ambiente.",
+      "C": "não viola a Carta Magna, porque o Município possui competência suplementar à da União e à dos Estados para legislar sobre proteção ao meio ambiente, no limite do seu interesse local e desde que tal regramento seja harmônico com a disciplina estabelecida pelos demais entes federados.",
+      "D": "não afronta a Carta Magna, porque o Município possui competência concorrente e não suplementar com a União e os Estados para legislar sobre proteção ao meio ambiente, de maneira que pode dispor de forma diversa e menos protetiva ao ambiente do que a disciplina estadual."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Ambiental",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "05_codigo_florestal_app",
+    "modulo_nome": "Código Florestal, APP e Reserva Legal",
+    "id": 1
+  },
+  {
+    "num": 37,
+    "enunciado": "Bruno pretende realizar supressão de vegetação nativa em Área de Preservação Permanente no interior de sua propriedade, a fim de viabilizar a implantação de trilhas para o desenvolvimento do ecoturismo. Miguel Tavares vendeu um imóvel para Margarida Pinto localizado na comarca de Caxias do Sul, RS. Ficou avençado que a imissão da posse ocorreria na celebração da escritura pública, e o pagamento seria feito em 48 prestações. Com objetivo de verificar a legalidade de seu projeto, Bruno consultou você, como advogado(a) . Você informou a seu cliente que, de acordo com o Código Florestal, a intervenção ou a supressão de vegetação nativa em Área de Preservação Permanente ocorrerá nas hipóteses previstas naquela Lei. Após o pagamento de 38 prestações, a compradora, em virtude de desemprego, passo",
+    "alternativas": {
+      "A": "A atitude da sociedade empresária é válida, visto que age em nome da vendedora, no exercício regular de seu direito.",
+      "B": "Por ser terceira interposta, a conduta da sociedade empresária é considerada ato lícito, não conduzindo à responsabilidade civil.",
+      "C": "O eventual ato ilícito cometido pela sociedade empresária só atinge a vendedora se for demonstrado o dolo omissivo de sua conduta.",
+      "D": "A conduta da sociedade empresária, que age em nome da vendedora, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes, caracterizando ato ilícito."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Ambiental",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "05_codigo_florestal_app",
+    "modulo_nome": "Código Florestal, APP e Reserva Legal",
+    "id": 2
+  },
+  {
+    "num": 36,
+    "enunciado": "O Prefeito do Município Ômega, após os trâmites pertinentes, fez editar um decreto que delimitou uma Área de Proteção Ambiental (AP",
+    "alternativas": {
+      "A": "As condições para a pesquisa e a visitação do público, observadas as exigências e restrições legais, devem ser estabelecidas por Adélia.",
+      "B": "O Prefeito não poderia ter editado um decreto para a finalidade descrita, pois a Unidade de Conservação Ambiental só pode ser criada por lei.",
+      "C": "A propriedade de Adélia deve ser desapropriada de acordo com o que dispõe a lei, porque está localizada em uma Unidade de Conservação de domínio público.",
+      "D": "A Unidade de Conservação pertence, na realidade, ao grupo das unidades de proteção integral, o que permite o uso dos recursos naturais pelos proprietários privados."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Ambiental",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "05_codigo_florestal_app",
+    "modulo_nome": "Código Florestal, APP e Reserva Legal",
+    "id": 3
+  }
+]

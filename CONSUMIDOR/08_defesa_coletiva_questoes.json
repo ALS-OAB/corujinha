@@ -1,0 +1,40 @@
+[
+  {
+    "num": 45,
+    "enunciado": "Nísia adquiriu um fogão a gás de cinco bocas, sendo o produto entregue no dia 12 de setembro de 2023, lacrado e em perfeito estado quanto ao aspecto externo. O produto foi instalado no mesmo dia; contudo, o fogão só começou a ser utilizado a partir de 20 de setembro. No dia do primeiro uso, Nísia notou um superaquecimento do forno, pois mesmo que o botão fosse manejado para a temperatura mínima de 150o C (cento e cinquenta graus Celsiu s) , o forno continuava exalando calor correspondente à temperatura máxima de 300o C (trezentos graus Celsiu s) . No dia 22 de setembro de 2023, Nísia entrou em contato por telefone e por mensagens de correio eletrônico com o serviço de atendimento do fabricante (SAC), pedindo a troca do produto em razão do vício de qualidade, detectado no primeiro uso e inq",
+    "alternativas": {
+      "A": "O prazo deve ser de 90 dias, sendo obstado pela reclamação formulada por Nísia ao fabricante do fogão até a resposta negativa correspondente.",
+      "B": "O prazo deve ser de 30 dias, não sendo obstado nem pela reclamação formulada perante o fabricante nem pelo órgão de defesa do consumidor.",
+      "C": "O prazo deve ser de 90 dias, sendo obstado pela reclamação formalizada por Nísia perante o órgão estadual de defesa do consumidor, devendo ser retomado 90 dias depois da data da reclamação, caso o problema persista.",
+      "D": "O prazo deve ser de 30 dias, não sendo obstado pela reclamação formulada perante o órgão de defesa do consumidor."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Consumidor",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "08_defesa_coletiva",
+    "modulo_nome": "Defesa do Consumidor em Juízo e Ações Coletivas",
+    "id": 1
+  },
+  {
+    "num": 46,
+    "enunciado": "Maria adquiriu um aquecedor elétrico de uma marca renomada. Após uma semana de uso, o aquecedor apresentou um curtocircuito, causando um incêndio que danificou parte de sua residência. Após investigações, constatou-se que o defeito era decorrente de uma falha de fabricação, já relatada por outros consumidores. Ao buscar uma solução com o fabricante, este alegou que o acidente foi causado pelo uso inadequado do produto e negou responsabilidade. Sobre o fato narrado, com base no Código de Defesa do Consumidor, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "No caso, não há que se falar em responsabilidade do fornecedor, pois o risco de curto-circuito é inerente a todos os produtos elétricos.",
+      "B": "O fabricante só será responsabilizado se Maria provar que o acidente não decorreu de uso inadequado, independentemente da constatação do defeito do produto.",
+      "C": "O fabricante poderá ser responsabilizado se Maria provar que utilizou o aquecedor conforme as instruções do manual de uso, bem como demonstrar a adequação de suas instalações elétricas.",
+      "D": "O fabricante é responsável pelos danos causados pelo aquecedor defeituoso, independentemente de culpa e, comprovado o nexo causal entre o defeito e os danos, responderá de forma objetiva."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Consumidor",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "08_defesa_coletiva",
+    "modulo_nome": "Defesa do Consumidor em Juízo e Ações Coletivas",
+    "id": 2
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "num": 31,
+    "enunciado": "Mateus e Geraldo foram presos em decorrência de sentença penal com trânsito em julgado, pelo crime de latrocínio. Ambos ficaram, inicialmente, na mesma cela prisional, em condições absolutamente precárias e insalubres, sendo certo que Geraldo evadiu-se da cadeia. Seis meses após a fuga, Geraldo praticou novo latrocínio, que levou Tânia a óbito. Mateus, que ficou muito deprimido pelas condições degradantes do cárcere, cometeu suicídio, cortando seus pulsos com faca adquirida irregularmente de Rodrigo, agente penitenciário, fato que poderia ter sido evitado, portanto, se o Estado tivesse adotado precauções mínimas. Diante das circunstâncias narradas, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O Estado poderia ser civilmente responsabilizado pela morte de Tânia, pois tinha o dever de evitar a fuga de Geraldo, mas não pelo óbito de Mateus, em razão de fato exclusivo da vítima, tendo em conta a adoção da teoria do risco administrativo.",
+      "B": "Ambas as mortes acima descritas seriam passíveis de configurar a responsabilização civil do Estado, nos termos da Constituição, que adota expressamente a teoria do risco integral, nas situações relacionadas à segurança pública.",
+      "C": "Nenhum dos óbitos narrados pode caracterizar a responsabilização civil do Estado, na medida em que nas hipóteses de omissão do Estado deve ficar caracterizado o elemento culpa, imprescindível no âmbito da teoria do risco administrativo.",
+      "D": "O Estado poderia ser civilmente responsabilizado pela morte de Mateus, pois tinha o dever de proteger a incolumidade física de pessoa sob sua custódia, mas não pelo óbito de Tânia, na medida em que não há nexo de causalidade entre a fuga de Geraldo e o evento danoso. 10 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "06_agentes_improbidade",
+    "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
+    "id": 1
+  },
+  {
+    "num": 32,
+    "enunciado": "O Município Ômega pretende alugar o imóvel de propriedade de João, pois suas características de instalações e de localização tornam necessária sua escolha, uma vez que se trata de um prédio de três andares situado ao lado do principal hospital municipal, que, após as necessárias adaptações e investimentos, poderá sediar a Secretaria Municipal de Saúde, cuja sede atual não mais comporta todos seus setores. Desta forma, o Município Ômega instaurou processo administrativo, no bojo do qual já houve a certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto pretendido, bem como foram juntadas informações com as justificativas que demonstram a singularidade do imóvel a ser locado pela Administração e que evidenciam vantagem para ela. João, que tem interesse em a",
+    "alternativas": {
+      "A": "pode ser assinado com fundamento na dispensa de licitação, desde que haja prévias avaliação do bem e autorização do Prefeito Municipal.",
+      "B": "deve ser assinado com fundamento na inexigibilidade de licitação, desde que haja prévias avaliação do bem e autorização legal da Câmara Municipal.",
+      "C": "pode ser assinado com fundamento na dispensa de licitação, com avaliação prévia do bem, do seu estado de conservação e estimativa dos custos de adaptações para atender às necessidades de utilização da Secretaria Municipal de Saúde.",
+      "D": "deve ser assinado com fundamento na inexigibilidade de licitação, com avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, quando imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "legislative_warning": "Questão sobre licitação elaborada no período de transição legislativa. Pode conter referências a regras das Leis 8.666/93 ou 10.520/02 desatualizadas frente à Lei 14.133/2021.",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_agentes_improbidade",
+    "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
+    "id": 2
+  },
+  {
+    "num": 30,
+    "enunciado": "Diante do grande déficit de servidores, o Estado Alfa realizou concurso público para o cargo da polícia penal, com previsão de cinquenta vagas. O respectivo edital previu o prazo de um ano para o certame, prorrogável por igual período, bem como a realização de exame psicotécnico, de caráter eliminatório, com base em previsão constante da lei e do edital. Após a homologação do certame, ficou constando que Eulália fora aprovada em quadragésimo lugar. Durante o prazo de validade do concurso anterior, o Estado Alfa abriu novo concurso para o preenchimento de mais cinquenta vagas para o mesmo cargo, com as mesmas previsões editalícias mencionadas, no qual Carlos foi o primeiro colocado. Recentemente, Carlos foi convocado para nomeação para o cargo em questão, enquanto, até a presente data, Eulá",
+    "alternativas": {
+      "A": "Eulália não tem direito subjetivo de ser nomeada, considerando que a aprovação em concurso gera mera expectativa de direito.",
+      "B": "Os concursos em questão estão viciados, na medida em que é nula a previsão editalícia que exija exame psicotécnico de caráter eliminatório.",
+      "C": "A convocação de Carlos caracteriza a preterição do direito de Eulália, já que ela tem prioridade de ser chamada sobre novos concursados.",
+      "D": "O prazo de validade estabelecido para os mencionados concursos é inválido, pois a Constituição exige o período razoável de no mínimo dois anos, prorrogável por mais um ano."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Administrativo",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "06_agentes_improbidade",
+    "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
+    "id": 3
+  },
+  {
+    "num": 33,
+    "enunciado": "Diante da divulgação de uma notícia veiculando a intenção do Município Beta em formalizar uma concessão administrativa para a realização de certo serviço indivisível, que envolve a realização de obras de infraestrutura para sua materialização, os representantes da sociedade empresária Astuciosa ficaram entusiasmados em participar da respectiva licitação. Em razão disso, procuraram você, como advogada(o) , para esclarecer as peculiaridades da respectiva avença. Sobre o contrato, assinale a opção que apresenta, corretamente, a orientação jurídica prestada.",
+    "alternativas": {
+      "A": "Não pode ter prazo de vigência inferior a cinco anos, nem superior a trinta e cinco anos, incluindo eventual prorrogação.",
+      "B": "Envolve a contraprestação pecuniária do parceiro público ao parceiro privado, adicionalmente à tarifa cobrada dos usuários.",
+      "C": "Independe da criação de sociedade de propósito específico antes de sua celebração, para fins de implantação e gestão do objeto da parceria.",
+      "D": "Não pode prever a repartição de riscos entre as partes, especialmente em relação a caso fortuito, força maior, fato do príncipe e álea econômica extraordinária."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "06_agentes_improbidade",
+    "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
+    "id": 4
+  },
+  {
+    "num": 32,
+    "enunciado": "A sociedade empresária Chique possui dois contratos administrativos distintos regularmente formalizados com o Município Gama, tendo por objeto a realização de serviços contínuos, com contratação de mão de obra para atividades de limpeza e manutenção predial. Registre-se que em apenas uma das contratações há cláusula expressa para a adoção de meios alternativos de solução de controvérsias. Durante a execução, o equilíbrio econômico-financeiro dos contratos foi fortemente afetado por áleas econômicas extraordinárias e imprevisíveis. Dessa forma, os representantes da sociedade empresária Chique procuram você, como advogado(a) , sobre a viabilidade de usar instrumentos consensuais para restabelecer o equilíbrio econômico-financeiro do contrato ou outro meio extrajudicial para dirimir o conflit",
+    "alternativas": {
+      "A": "O contrato, que não prevê expressamente a utilização de meios alternativos de solução de controvérsias, pode ser aditado para admitir instrumentos consensuais para tal finalidade.",
+      "B": "O contrato, que possui previsão expressa, pode usar a arbitragem como meio alternativo de resolução das controvérsias, sendo que a escolha dos árbitros cabe à contratante, independentemente dos critérios isonômicos, técnicos e de transparência.",
+      "C": "A conciliação e a mediação não são admitidas como instrumentos consensuais para a resolução de conflitos com a Administração Pública, de modo que não é possível a utilização de tais meios alternativos, nem mesmo para a hipótese em que exista previsão contratual.",
+      "D": "Em razão da natureza do conflito, que versa sobre o equilíbrio econômico-financeiro de contrato administrativo, não é viável o uso de qualquer meio alternativo de resolução das controvérsias, de forma que eventual cláusula contratual nesse sentido, estipulada pelo Município Alfa e pela sociedade empresária Chique, é nula."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_agentes_improbidade",
+    "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
+    "id": 5
+  },
+  {
+    "num": 30,
+    "enunciado": "A sociedade empresária Begônia deseja participar de um procedimento licitatório, na modalidade concorrência, para a contratação de uma obra, que adotará a sequência adotada como regra na Lei nº 14.133/2021, mas está com receio de ser prejudicada no julgamento das propostas, que antecede à fase de habilitação. Em razão disso, a sociedade empresária consultou você, como advogado(a) , a fim de esclarecer a possibilidade de apresentar um recurso administrativo, o momento correto para fazê-lo e os efeitos dele decorrentes, caso tal receio venha a ser concretizado. Sobre essa situação hipotética, assinale a opção que indica, corretamente, o esclarecimento que você prestou.",
+    "alternativas": {
+      "A": "Não há a possibilidade de se apresentar um recurso administrativo contra o julgamento das propostas, diante da vedação expressa na aludida norma.",
+      "B": "Apenas depois da habilitação é que caberá a apresentação de um recurso administrativo contra o julgamento das propostas, de modo que é necessário aguardar o prosseguimento do certame para a manifestação da intenção de recorrer no momento oportuno.",
+      "C": "O pedido de reconsideração em relação ao julgamento das propostas deve ser prontamente apresentado ao fim da respectiva fase e possui efeito suspensivo, de modo que a licitação só seguirá para a fase de habilitação após a apreciação das irresignações apresentadas.",
+      "D": "A intenção de recorrer do julgamento das propostas deve ser imediatamente manifestada, mas o prazo para a apresentação das razões recursais será iniciado na data da intimação ou da lavratura da ata de habilitação ou inabilitação, pois sua apreciação dar-se-á em fase única."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "06_agentes_improbidade",
+    "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
+    "id": 6
+  }
+]

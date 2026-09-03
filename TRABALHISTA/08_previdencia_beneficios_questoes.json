@@ -1,0 +1,116 @@
+[
+  {
+    "num": 72,
+    "enunciado": "Sílvio Luiz foi convidado pelo seu empregador para ocupar interinamente o cargo de supervisor administrativo; sendo certo que, em caso de vacância do cargo, este seria preenchido por Sílvio Luiz. Diante desta situação, você foi consultado, como advogado(a) do empregado, para saber acerca dos seus direitos na hipótese. Sobre o caso apresentado, de acordo com o texto em vigor da CLT e a jurisprudência consolidada do TST, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Caso não haja a vacância e cessada a interinidade do cargo, Sílvio Luiz terá que ser desligado da empresa por motivo econômico, o que afasta o pagamento da multa de 40%, pois a alteração contratual de reversão será ilícita e autorizada a dispensa na hipótese por justo motivo.",
+      "B": "Sílvio Luiz, no caso de vacância definitiva do cargo, passará a ocupá-lo e terá necessariamente direito ao salário do seu antecessor.",
+      "C": "Sendo a hipótese de férias do efetivo supervisor administrativo que ensejou o trabalho interino de Sílvio Luiz no cargo, este último não faz jus ao mesmo salário do substituído no período.",
+      "D": "Considerando que o exercício do cargo será interino, não havendo a vacância posterior, Sílvio Luiz terá garantido o retorno ao seu cargo anterior e a contagem de tempo de serviço no cargo ocupado temporariamente."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "08_previdencia_beneficios",
+    "modulo_nome": "FGTS e Benefícios Trabalhistas",
+    "id": 1
+  },
+  {
+    "num": 75,
+    "enunciado": "Em determinada sociedade empresária trabalham, entre outras, as seguintes pessoas: José, que é teletrabalhador e recebe salário por produção; Vanilda, que trabalha externamente sem que o empregador consiga controlar o seu horário, situação que foi anotada em sua CTPS e na ficha de registro de empregados; Regina, que exerce a função de gerente, comanda um grupo de 45 pessoas, é dispensada da marcação de ponto e recebe salário de R$ 8.000,00 acrescido de gratificação de função de R$ 4.000,00. De acordo com a CLT, em relação ao direito a horas extras, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Somente José terá direito a horas extras, caso ultrapasse a jornada constitucional.",
+      "B": "Nenhum dos empregados indicados no enunciado terá direito a horas extras.",
+      "C": "Vanilda e Regina terão direito a horas extras, caso ultrapassem a jornada constitucional.",
+      "D": "José e Regina terão direito a horas extras, caso ultrapassem a jornada constitucional."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "08_previdencia_beneficios",
+    "modulo_nome": "FGTS e Benefícios Trabalhistas",
+    "id": 2
+  },
+  {
+    "num": 73,
+    "enunciado": "Antônio Valente é seu cliente por conta de uma reclamação trabalhista ajuizada anteriormente, na qual vocês se sagraram vitoriosos. Agora, trabalhando para outro empregador, Antônio Valente viu a possibilidade de passar a exercer suas atividades em teletrabalho, mas sem saber exatamente o que configuraria essa modalidade. Antes de se candidatar à vaga, Antônio resolveu consultar você a respeito do tema. Assinale a opção que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "O teletrabalho pode ser pactuado, tácita ou expressamente, entre empregado e empregador, não necessitando constar do instrumento individual de contrato de trabalho.",
+      "B": "O trabalho em regime de teletrabalho não pressupõe a prestação dos serviços por jornada, por produção ou por tarefa.",
+      "C": "O teletrabalho será descaracterizado, caso o empregado, habitualmente, tenha que comparecer às dependências do empregador e o empregado retornará ao sistema de trabalho presencial.",
+      "D": "O teletrabalho se dá, total ou parcialmente, fora das dependências do empregador, não se configurando como trabalho externo, pressupondo a utilização de tecnologias de comunicação e informação."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "08_previdencia_beneficios",
+    "modulo_nome": "FGTS e Benefícios Trabalhistas",
+    "id": 3
+  },
+  {
+    "num": 71,
+    "enunciado": "Rogéria, sócia de uma sociedade empresária especializada em festas infantis, saiu fraudulentamente da empresa em 2018, transferindo formalmente suas cotas sociais a um dos empregados da sociedade empresária que não tinha condições econômicas ou solvabilidade. Rogéria, mesmo após sua saída, permaneceu com uma procuração da sociedade empresária para movimentar as contas bancárias e fazia uso regular delas com transferências para sua conta, pagamentos de empregados, fornecedores e outros compromissos. Em 2022, um dos empregados ajuizou uma reclamação trabalhista que terminou em acordo no valor de R$ 30.000 (trinta mil reai s) , que não foram pagos na data acertada. Não havendo condições de executar a sociedade empresária, você, como advogado(a) do exequente, requereu o incidente de desconside",
+    "alternativas": {
+      "A": "Rogéria não poderá ser alcançada, porque desligou-se formalmente da sociedade empresária há mais de dois anos.",
+      "B": "A ex-sócia, em razão da fraude perpetrada, terá responsabilidade subsidiária em relação aos sócios atuais.",
+      "C": "Rogéria terá responsabilidade solidária para com os demais sócios, em virtude da fraude na alteração societária.",
+      "D": "Não existe responsabilidade dos sócios atuais, porque eles não agiram com fraude e, assim, Rogéria também não pode ser responsabilizada."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "08_previdencia_beneficios",
+    "modulo_nome": "FGTS e Benefícios Trabalhistas",
+    "id": 4
+  },
+  {
+    "num": 71,
+    "enunciado": "A sociedade empresária Bons Caminhos Ltda. consultou você, como advogado(a) , porque pretendia contratar, em setembro de 2025, alguns aprendizes e estagiários com 18 anos de idade para que realizassem atividades na modalidade de teletrabalho. A sociedade empresária deseja saber se tal pretensão era válida. Em resposta à demanda da sociedade empresária, considerando os termos da CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "É permitido contratar aprendizes e estagiários para realizarem atividades na modalidade de teletrabalho.",
+      "B": "É permitido contratar aprendizes na modalidade de teletrabalho, mas não estagiários, por desvirtuar a filosofia do estágio.",
+      "C": "É permitido contratar estagiários na modalidade de teletrabalho, mas não aprendizes, porque o contrato de trabalho deles é especial.",
+      "D": "Somente é permitido contratar aprendizes e estagiários em regime de teletrabalho se houver autorização dos seus pais ou responsáveis."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Trabalho",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "08_previdencia_beneficios",
+    "modulo_nome": "FGTS e Benefícios Trabalhistas",
+    "id": 5
+  },
+  {
+    "num": 74,
+    "enunciado": "A sociedade empresária Distribuidora de Bebidas Bom Paladar Ltda. pretende instituir uma política de incentivo aos seus empregados. Para tanto, deseja dar benefícios compreendidos em melhorias da condição de trabalho, com o fornecimento de uniformes novos, mais leves e confortáveis, computadores portáteis, transporte coletivo de ida e volta para o trabalho em ônibus da sociedade empresária, além de incentivo à educação, com pagamento de mensalidades e bolsa-livros para todos os empregados. Você foi procurado(a) , como advogado(a) , para responder à consulta da sociedade empresária acerca da integração dos valores à remuneração dos empregados. Diante disso, observado o texto da CLT, assinale a afirmativa que, corretamente, apresenta a sua resposta.",
+    "alternativas": {
+      "A": "Todos os benefícios concedidos não integrarão a remuneração dos empregados.",
+      "B": "Apenas a concessão de uniformes novos não integrará a remuneração dos empregados.",
+      "C": "Apenas o benefício de incentivo à educação não integrará a remuneração dos empregados.",
+      "D": "Apenas o fornecimento de transporte não integrará a remuneração dos empregados, por ser tempo à disposição do empregador."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Trabalho",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "08_previdencia_beneficios",
+    "modulo_nome": "FGTS e Benefícios Trabalhistas",
+    "id": 6
+  }
+]

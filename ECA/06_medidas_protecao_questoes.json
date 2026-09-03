@@ -1,0 +1,40 @@
+[
+  {
+    "num": 43,
+    "enunciado": "Rafael e Marta se casaram. Rafael tem dois filhos do relacionamento anterior, ambas crianças com idade inferior a 5 anos. A genitora das crianças teve decretada a perda do poder familiar em processo regular, com trânsito em julgado. Marta, então, em processo igualmente regular, adota os filhos de Rafael, passando em julgado também a decisão que lhe conferiu a maternidade. Marta e Rafael não conseguem manter um relacionamento saudável em razão do comportamento agressivo de Rafael, e, por isso, depois de alguns anos, eles se divorciam. No curso do processo, Marta demonstrou a impossibilidade da guarda compartilhada e obteve, judicialmente, a fixação da guarda unilateral das crianças, com direito a convívio semanal deferido a Rafael. Indignado, Rafael procura sua orientação como advogado(a) ,",
+    "alternativas": {
+      "A": "A guarda unilateral do adotante é inadmitida em casos de adoção, devendo ser pretendida a revisão da decisão para fixação da guarda compartilhada.",
+      "B": "A adoção deve ser anulada judicialmente em caso de divórcio, pois este significa a quebra do vínculo que deu origem à filiação por adoção retornando a guarda, bem como todo o poder familiar, ao genitor biológico.",
+      "C": "Ainda que a adoção seja indissolúvel, o vínculo biológico deve, de fato, ter precedência sobre a filiação originada pela adoção para fins de definição da guarda.",
+      "D": "A adoção atribui a condição plena de filho ao adotado e de mãe à adotante, sendo completamente irrelevante essa origem da filiação como elemento influenciador do modelo de guarda."
+    },
+    "gabarito": "D",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_medidas_protecao",
+    "modulo_nome": "Medidas de Proteção e Conselhos Tutelares",
+    "id": 1
+  },
+  {
+    "num": 43,
+    "enunciado": "João, 17 anos, foi representado pelo Ministério Público pela prática de ato infracional análogo a roubo. Consta nos autos que o representado teria abordado dois transeuntes e, simulando estar armado, anunciou o roubo, tendo subtraído os celulares e as carteiras das vítimas. Ao final do procedimento, o Juízo da Infância considerou comprovadas a autoria e a materialidade, tendo julgado procedente o pedido e fixado a medida socioeducativa de internação. O(",
+    "alternativas": {
+      "A": "O sistema recursal adotado é o do Código de Processo Civil, sendo certo que o prazo será de 10 (dez) dias.",
+      "B": "O sistema recursal adotado é o do Código de Processo Penal, sendo certo que o prazo será de 10 (dez) dias.",
+      "C": "O sistema recursal adotado é o do Código de Processo Civil, sendo certo que o prazo será de 15 (quinze) dias.",
+      "D": "O sistema recursal adotado é o do Código de Processo Penal, sendo certo que o prazo será de 5 (cinco) dias e, após isso, haverá o prazo de 8 (oito) dias para oferecimento das razões."
+    },
+    "gabarito": "A",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_medidas_protecao",
+    "modulo_nome": "Medidas de Proteção e Conselhos Tutelares",
+    "id": 2
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "num": 48,
+    "enunciado": "A empresária individual Marília da Rocha, inscrita há mais de dez anos na Junta Comercial do Estado de São Paulo, sempre exerceu empresa sem designação de prepostos. Todavia, em razão do aumento de trabalho e necessidades de múltiplas viagens, tornou-se necessário nomear Jandira Franco como gerente na sede de sua empresa. Antes de efetuar a nomeação, Marília da Rocha consulta seu advogado para que este lhe esclareça sobre as prerrogativas do gerente e sua atuação como preposto. Assinale a opção que está de acordo com a disposição legal e pode ser dada como orientação a Marília da Rocha.",
+    "alternativas": {
+      "A": "O gerente não está autorizado a praticar os atos necessários ao exercício dos poderes que lhe foram outorgados, pois tais atos sempre exigem poderes especiais.",
+      "B": "Se o empresário nomear dois ou mais gerentes, na falta de estipulação diversa, os poderes conferidos a eles presumem-se para atuação individual, sem solidariedade.",
+      "C": "O gerente nunca poderá estar em juízo em nome do preponente pelas obrigações resultantes do exercício da sua função porque tal prerrogativa é exclusiva do administrador.",
+      "D": "A alteração ou revogação do mandato conferido pelo empresário ao gerente, para ser oposta a terceiros, deve ser arquivada e averbada no Registro Público de Empresas Mercantis."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Empresarial",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "05_sociedade_anonima",
+    "modulo_nome": "Sociedades por Ações (S/A)",
+    "id": 1
+  },
+  {
+    "num": 50,
+    "enunciado": "Pastifício Ponte Serrada S/A celebrou contrato de comissão com Eloi Mendes para aquisição de cereais. O negócio foi efetuado pelo comissário conforme as instruções recebidas, mas a vendedora, Cerealista Campos Novos Ltda., ficou inadimplente na entrega do produto. Considerando-se que o contrato de comissão celebrado entre Pastifício Ponte Serrada S/A e Eloi Mendes não contém cláusula del credere, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O comissário não responde perante o comitente pelo inadimplemento do vendedor Cerealista Campos Novos Ltda., devendo o segundo suportar os prejuízos advindos.",
+      "B": "Tanto o comissário quanto o vendedor Cerealista Campos Novos Ltda. respondem solidariamente perante o comitente pelos prejuízos advindos.",
+      "C": "Apenas o comissário responde perante o comitente pelos prejuízos advindos do inadimplemento do vendedor Cerealista Campos Novos Ltda.",
+      "D": "O comissário e o vendedor Cerealista Campos Novos Ltda. respondem solidariamente perante o comitente pelos prejuízos advindos, mas o primeiro apenas em caráter subsidiário."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "05_sociedade_anonima",
+    "modulo_nome": "Sociedades por Ações (S/A)",
+    "id": 2
+  },
+  {
+    "num": 50,
+    "enunciado": "O empresário individual Valério Sampaio, devidamente inscrito na Junta Comercial do Estado do Espírito Santo, teve sua falência requerida em 3 de maio de 2023 com fundamento na falta de pagamento, sem relevante razão de direito, de nota promissória no valor de R$ 91.000,00, submetida previamente ao protesto especial. Após ser citado, apresentou contestação alegando que cessou suas atividades empresariais em 31 de março de 2020 e, como tal, não teria legitimidade passiva no processo. Sobre a hipótese, sabendo que o empresário não apresentou prova de cancelamento do registro na Junta Comercial, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Trata-se de empresário irregular diante da cessação do exercício da empresa.",
+      "B": "É possível a decretação da falência diante da falta de comprovação da cessação da empresa.",
+      "C": "Deve ser acatada a contestação apresentada em razão da cessação há mais de dois anos.",
+      "D": "Somente com o cancelamento do registro será possível a decretação da falência."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "05_sociedade_anonima",
+    "modulo_nome": "Sociedades por Ações (S/A)",
+    "id": 3
+  },
+  {
+    "num": 50,
+    "enunciado": "Itarana Avícola e Abatedouro S.A. celebrou contrato de alienação fiduciária de veículos automotores com o Banco Alegre S.A. O valor financiado deveria ser pago em 60 (sessenta) prestações mensais, mas, após o vencimento da 14ª (décima quart a) prestação, a fiduciante cessou o pagamento. Sobre a hipótese, assinale a opção que indica a providência assegurada por lei ao fiduciário.",
+    "alternativas": {
+      "A": "Vender os bens alienados a terceiros, independentemente de leilão, hasta pública, avaliação prévia ou qualquer outra medida judicial ou extrajudicial, após a comprovação prévia da mora do fiduciante, salvo disposição expressa em contrário prevista no contrato.",
+      "B": "Requerer, independentemente de comprovação da mora, contra o fiduciante, a busca e apreensão dos bens alienados fiduciariamente, a qual será concedida liminarmente, podendo ser apreciada em plantão judiciário.",
+      "C": "Ajuizar ação de execução para a entrega de coisa certa, pleiteando nos mesmos autos a busca e apreensão, que será deferida liminarmente, salvo na hipótese de ter sido requerida recuperação judicial pelo fiduciante.",
+      "D": "Promover, alternativamente ao pedido de busca e apreensão dos bens, independentemente de comprovação da mora, a consolidação da propriedade perante o competente cartório de registro de títulos e DOC_Documentos, desde que haja previsão expressa no contrato em cláusula em destaque."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "05_sociedade_anonima",
+    "modulo_nome": "Sociedades por Ações (S/A)",
+    "id": 4
+  },
+  {
+    "num": 47,
+    "enunciado": "Mercado Barra Velha Ltda. emitiu nota promissória no valor de R$ 19.800,00 (dezenove mil e oitocentos reai s) , com vencimento no dia 19 de dezembro de 2021. Não houve pagamento na data do vencimento e o credor somente levou o título a protesto no dia 2 de dezembro de 2023, sendo o protesto lavrado dois dias após. Sobre o caso, com base na legislação de regência da nota promissória e das condições para sua cobrança em face do emitente, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O credor ainda poderá promover a execução da nota promissória em face do emitente em razão da interrupção da prescrição pelo protesto cambial.",
+      "B": "O credor poderá promover a execução da nota promissória em face do emitente, considerando-se que ainda não expirou o prazo de cinco anos para a propositura da ação cambial.",
+      "C": "O credor não pode promover a execução da nota promissória, em razão do protesto para a cobrança do emitente ser facultativo e do decurso do prazo de três anos da data do vencimento.",
+      "D": "O título deveria ter sido apresentado até o primeiro dia útil após o vencimento, acarretando a perda do direito de ação em caso de inobservância dessa regra, embora o protesto seja facultativo para a cobrança."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "05_sociedade_anonima",
+    "modulo_nome": "Sociedades por Ações (S/A)",
+    "id": 5
+  }
+]

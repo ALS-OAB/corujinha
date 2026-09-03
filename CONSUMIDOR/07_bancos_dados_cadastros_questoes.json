@@ -1,0 +1,40 @@
+[
+  {
+    "num": 46,
+    "enunciado": "Você, como advogado(a) , foi procurado(a) pela senhora Magda para orientá-la quanto às dificuldades de atendimento de suas demandas no Serviço de Atendimento ao Consumidor (SAC) da operadora do plano de saúde a que ela aderiu a partir do mês de novembro de 2022. A consulente narrou a você que não consegue contato telefônico com o SAC nos finais de semana, pois o atendimento se encerra às 22h de sexta-feira e só é retomado a partir de 6h de segunda-feira e não há outro canal de atendimento no período indicado para o registro de demandas. Por fim, durante o tempo de espera para atendimento, a operadora veicula várias mensagens de caráter informativo sobre os procedimentos para fruição de direitos dos clientes e acesso à rede referenciada e mensagens publicitárias de seus patrocinadores. Com ",
+    "alternativas": {
+      "A": "Os fatos narrados pela consulente não constituem infração, podendo ser interrompido o atendimento em certos horários; é possível veicular mensagens informativas antes do atendimento, vedadas as mensagens publicitárias de seus patrocinadores.",
+      "B": "A operadora do plano de saúde pode interromper o atendimento ao consumidor em horários previamente determinados e divulgados, bem como apenas pode veicular mensagens de caráter informativo e publicitárias de seus próprios produtos e serviços.",
+      "C": "É defeso à operadora do plano de saúde interromper o atendimento ao consumidor, mas está autorizada a veicular mensagens informativas desde que tratem dos direitos e deveres dos consumidores.",
+      "D": "Os fatos narrados pela consulente revelam que a operadora do plano de saúde não cometeu infração administrativa, pois não é obrigatório disponibilizar outros canais de acesso ao SAC além do atendimento telefônico, sendo possível veicular mensagens antes do atendimento."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Consumidor",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "07_bancos_dados_cadastros",
+    "modulo_nome": "Bancos de Dados, Cadastros de Consumidores e SPC/Serasa",
+    "id": 1
+  },
+  {
+    "num": 45,
+    "enunciado": "Augusto assinou um contrato de adesão com a sociedade empresária AquaLimpa, fornecedora de água e esgoto em sua cidade, para o fornecimento de água em sua residência. Após meses de uso regular, Augusto foi surpreendido por uma cobrança inesperada no valor de R$ 2.500,00 (dois mil e quinhentos reai s) , sendo alegado um “ajuste de consumo retroativo”. A sociedade empresária AquaLimpa informou que o valor deveria ser pago imediatamente para evitar o corte no fornecimento de água. No entanto, Augusto verificou que o contrato não mencionava essa possibilidade de ajuste retroativo, nem qualquer explicação prévia sobre o cálculo desse valor. Diante da situação hipotética narrada e com base no Código de Defesa do Consumidor, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Por ser um contrato escrito, Augusto não tem direito de contestar a cobrança, já que os termos do contrato foram previamente estipulados pela sociedade empresária e aceitos por ele.",
+      "B": "Augusto deve questionar judicialmente a cobrança, uma vez que o contrato de adesão deve ser interpretado da forma mais favorável ao consumidor quando houver cláusulas ambíguas, contraditórias ou omissas.",
+      "C": "Como o fornecimento de água é um serviço essencial, a sociedade empresária AquaLimpa não pode cortar o fornecimento de água, embora possa realizar a cobrança dos valores retroativos nos termos pactuados.",
+      "D": "A sociedade empresária AquaLimpa pode cortar o fornecimento de água imediatamente se Augusto não pagar a dívida, pois a imediata interrupção no fornecimento de serviços em razão de inadimplência, independentemente de notificação, é lícita."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Consumidor",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "07_bancos_dados_cadastros",
+    "modulo_nome": "Bancos de Dados, Cadastros de Consumidores e SPC/Serasa",
+    "id": 2
+  }
+]

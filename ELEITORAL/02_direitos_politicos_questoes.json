@@ -1,0 +1,59 @@
+[
+  {
+    "num": 20,
+    "enunciado": "Helena, filiada ao partido político Beta e candidata ao cargo de governadora do Estado Alfa, consultou seu advogado a respeito da composição dos gastos de campanha, mais especificamente se o pagamento de honorários em razão da prestação de serviços advocatícios, no curso e em razão da campanha eleitoral, teria essa natureza jurídica. A assessoria respondeu, corretamente, que os referidos honorários",
+    "alternativas": {
+      "A": "estão incluídos no limite de gastos de campanha, sendo tidos como despesas eleitorais.",
+      "B": "são considerados gastos eleitorais e não estão incluídos no limite de gastos de campanha.",
+      "C": "pela sua essência alimentar, não têm correlação com os gastos eleitorais, o que afasta a possibilidade de serem enquadrados em qualquer limitador de despesas.",
+      "D": "podem ser considerados gastos eleitorais, caso o candidato assim os declare, e estão incluídos no limite de gastos de campanha."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Eleitoral",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "02_direitos_politicos",
+    "modulo_nome": "Direitos Políticos (Alistamento e Votação)",
+    "id": 1
+  },
+  {
+    "num": 20,
+    "enunciado": "Pedro, com 40 anos de idade, por razões ideológicas, decidiu não mais votar nas eleições para o provimento de cargos dos Poderes Executivo e Legislativo dos distintos níveis da Federação. Após repetir esse procedimento em três eleições consecutivas, compareceu ao cartório eleitoral e solicitou uma certidão de quitação eleitoral para que pudesse requerer a emissão do seu passaporte. Para sua surpresa, foi informado que sua inscrição fora cancelada, o que, ao seu ver, o impediria de obter o passaporte. Irresignado com a situação descrita, Pedro consultou você, como advogado(a) , a respeito da juridicidade desse procedimento. Assinale a opção que apresenta a informação correta.",
+    "alternativas": {
+      "A": "A obtenção do passaporte instrumentaliza o direito de ir e vir, o que não é influenciado pelo exercício do direito de voto.",
+      "B": "O exercício da objeção de consciência, como a realizada por ele, é amparado pela legislação eleitoral, sendo uma forma de exercício dos direitos políticos, logo o cancelamento foi ilícito.",
+      "C": "A inscrição eleitoral instrumentaliza o direito de votar, que não pode ser obstado pela prática de ilícitos eleitorais, o que configuraria sanção política, logo não poderia ter sido cancelada.",
+      "D": "O cancelamento é correto, caso ele não tenha pagado a multa ou apresentado justificativa no prazo previsto na legislação, a contar da última eleição a que deveria ter comparecido."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Eleitoral",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "02_direitos_politicos",
+    "modulo_nome": "Direitos Políticos (Alistamento e Votação)",
+    "id": 2
+  },
+  {
+    "num": 20,
+    "enunciado": "Logo após a diplomação de Maria, candidata eleita para o cargo de Prefeita do Município Delta, Ana, candidata derrotada, procurou você, como advogado(a) , com provas de que Maria recebera doação estimável em dinheiro, por meio da publicidade realizada, em seu benefício, pela organização da sociedade civil de interesse público Gama. Ana o(a) questionou em relação à juridicidade da conduta de Maria. Quanto à orientação a ser dada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Trata-se de captação ilícita de recursos, e a medida a ser ajuizada deve observar o procedimento da ação de investigação judicial eleitoral.",
+      "B": "Como não houve repasse de recursos financeiros, o fato de Maria ter sido beneficiada pela publicidade realizada por Gama não configura ilícito eleitoral.",
+      "C": "Ocorreu a preclusão de qualquer medida passível de ser adotada em relação à situação descrita, o que torna desinfluente a análise de sua licitude ou não.",
+      "D": "Como somente são admitidas doações expressas em moeda, a conduta é ilícita, o que acarreta a incidência da pena cominada, sendo possível a aplicação da sanção de multa a Gama e a Maria."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Eleitoral",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "02_direitos_politicos",
+    "modulo_nome": "Direitos Políticos (Alistamento e Votação)",
+    "id": 3
+  }
+]

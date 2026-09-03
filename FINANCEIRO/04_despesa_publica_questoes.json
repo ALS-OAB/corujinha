@@ -1,0 +1,40 @@
+[
+  {
+    "num": 24,
+    "enunciado": "O deputado federal José, por meio das emendas individuais impositivas constitucionalmente previstas que a ele competem, deseja destinar recursos para o Município Alfa. Contudo, deseja fazê-lo por meio de repasses diretos ao referido Município, independentemente de celebração de convênio ou de instrumento congênere. Assinale a opção que indica o instrumento constitucional que ele deve adotar.",
+    "alternativas": {
+      "A": "Transferência especial.",
+      "B": "Transferência com finalidade definida.",
+      "C": "Transferência individual.",
+      "D": "Transferência extraordinária."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Financeiro",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "04_despesa_publica",
+    "modulo_nome": "Despesa Pública e Empenho",
+    "id": 1
+  },
+  {
+    "num": 24,
+    "enunciado": "O projeto da Lei Orçamentária Anual (LO",
+    "alternativas": {
+      "A": "Viola a regra constitucional de que o orçamento da seguridade social deve integrar a Lei de Diretrizes Orçamentárias.",
+      "B": "Não atende à regra constitucional de que a LOA compreenderá também o orçamento de investimentos e o orçamento da seguridade social.",
+      "C": "Está correto, pois apenas o orçamento fiscal compõe a LOA, devendo o orçamento de investimento e o orçamento da seguridade social serem previstos em leis próprias para cada um desses tipos de orçamentos.",
+      "D": "É inadequado em relação ao orçamento de investimentos, que deveria compor a LOA, mas é admitido em relação ao orçamento da seguridade social, que pode ser previsto em outra lei, desde que seu valor global esteja previsto na LOA."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Financeiro",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_despesa_publica",
+    "modulo_nome": "Despesa Pública e Empenho",
+    "id": 2
+  }
+]

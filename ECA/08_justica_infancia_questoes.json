@@ -1,0 +1,40 @@
+[
+  {
+    "num": 43,
+    "enunciado": "Pedro, com 12 anos, foi vítima de bullying na escola em que estuda. Durante o recreio, um grupo de colegas da mesma idade o jogou, à força, dentro da lixeira. Um dos adolescentes filmou o ato e o divulgou em redes sociais, em tom de escárnio. Um jornal com veiculação on-line, em tom de reprovação da conduta e para combater a prática de bullying, reprisou as imagens que circularam pelas redes sociais. O pai de Pedro, enfurecido, procura você, como advogado(a) , para colher a orientação jurídica sobre as providências cíveis cabíveis, especialmente indenizatórias. Assinale a opção que apresenta, corretamente, a orientação recebida.",
+    "alternativas": {
+      "A": "O jornal que reprisou as imagens, mesmo não sendo autor da filmagem, poderá ser demandado na esfera cível para fins de compensação pelo dano moral que a divulgação do ato representou.",
+      "B": "O adolescente que realizou a filmagem deve ser o único demandado em caso de judicialização da questão, porque foi o autor da violação à imagem.",
+      "C": "Os adolescentes que efetuaram o ato de atirar Pedro na lixeira deverão ser demandados em eventual judicialização, pois foram os autores da única verdadeira infração existente no caso.",
+      "D": "Não há que se falar em responsabilização de qualquer sorte, pois sobre o ato em si, os praticantes e quem filmou são infensos à persecução cível e, o jornal, apenas cumpriu o papel relevante de divulgar e combater o bullying."
+    },
+    "gabarito": "A",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "08_justica_infancia",
+    "modulo_nome": "Justiça da Infância e da Juventude e Procedimentos",
+    "id": 1
+  },
+  {
+    "num": 43,
+    "enunciado": "Maria e José, ambos com 45 anos, possuem um filho em comum, Paulo, que, hoje, tem 17 anos. Quando Paulo tinha 12 anos, Maria e José se divorciaram e foi estipulada judicialmente a guarda unilateral para Maria, sendo certo que José sempre usou o seu direito de convivência com o adolescente em finais de semanas alternados. Após muito esforço, Maria conseguiu angariar recursos para fazer uma viagem dentro do território nacional com Paulo. A viagem será de uma semana e não afetará o direito de visitação de José. Ocorre que o genitor se opõe à viagem, mesmo sem apresentar qualquer justificativa para isso. Preocupada, Maria procura você, como advogado(a) , para que lhe preste a solução jurídica adequada. De acordo com o ECA, assinale a opção que, corretamente, indica a sua orientação.",
+    "alternativas": {
+      "A": "Maria deverá buscar o Juízo da Infância e Juventude e obter alvará para a autorização de viagem.",
+      "B": "José só pode se opor à viagem se tivesse sido estipulada a guarda compartilhada, o que não é a hipótese apresentada.",
+      "C": "Maria só pode fazer essa viagem com expressa autorização de José, já que ambos são detentores do poder familiar.",
+      "D": "Maria não precisa da anuência do genitor, nem de autorização judicial, uma vez que a viagem é dentro do território nacional."
+    },
+    "gabarito": "D",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "08_justica_infancia",
+    "modulo_nome": "Justiça da Infância e da Juventude e Procedimentos",
+    "id": 2
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "num": 67,
+    "enunciado": "Gregório é defensor público no Estado do Rio de Janeiro, cuja Constituição lhe assegura foro por prerrogativa de função no Tribunal de Justiça local. Durante o carnaval, na cidade de Salvador/BA, Gregório por acaso se encontra com seu irmão e inimigo capital Sandro em uma rua erma, durante a dispersão de bloco carnavalesco. Gregório então se aproveita da oportunidade para matar Sandro com golpes de espada. Assinale a opção que indica o foro competente para conhecer e julgar esse crime.",
+    "alternativas": {
+      "A": "O Tribunal do Júri da Comarca de Salvador/BA.",
+      "B": "O Tribunal de Justiça do Estado da Bahia.",
+      "C": "O Tribunal do Júri da Comarca do Rio de Janeiro/RJ.",
+      "D": "O Tribunal de Justiça do Estado do Rio de Janeiro. 9 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 1
+  },
+  {
+    "num": 64,
+    "enunciado": "Júnior foi condenado pelo delito de latrocínio, na modalidade tentada, a uma pena de 8 (oito) anos e 6 (seis) meses de reclusão, a ser cumprida em regime inicial fechado, já tendo a sentença transitado em julgado, sem nulidade. Júnior inicia a execução das penas e procura você, na qualidade de advogado(a) . Assinale a afirmativa que apresenta, corretamente, a orientação jurídica que possibilita reduzir o tempo de encarceramento de Júnior.",
+    "alternativas": {
+      "A": "Postular o perdão do ofendido e, assim, reduzir sua pena.",
+      "B": "Aguardar o decreto presidencial de comutação de pena.",
+      "C": "Requerer a classificação de Júnior para trabalho e estudo no sistema carcerário, a fim de viabilizar a remição de penas.",
+      "D": "Pleitear um decreto de anistia no âmbito da Assembleia Legislativa do seu Estado."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 2
+  },
+  {
+    "num": 66,
+    "enunciado": "Roberto Jorge, após regular pronúncia, foi levado a Júri, ocasião em que foi mantido algemado durante toda a sessão de julgamento, com a justificativa de ser pessoa de índole perigosa, já que responde à acusação por crime doloso contra a vida. A defesa técnica impugnou, sem sucesso, a determinação do Juízo. O Ministério Público, em plenário, postulou a condenação do acusado, asseverando que sua periculosidade fica comprovada pela necessidade do uso de algemas durante o julgamento. Roberto Jorge foi condenado pelo Conselho de Sentença, tendo sido aplicada pena privativa de liberdade de 15 (quinze) anos de reclusão. Você, como advogado(a) de Roberto Jorge, interpôs apelação criminal. Assinale a afirmativa que apresenta, corretamente, o objetivo da sua demanda.",
+    "alternativas": {
+      "A": "Postular a reforma da sentença, com a absolvição do acusado, pois este foi prejudicado no julgamento em razão do uso artbitrário de algemas.",
+      "B": "Arguir a nulidade posterior à pronúncia, em razão da manutenção do réu algemado, sem necessidade concreta, e da referência a este fato pelo órgão do Ministério Público.",
+      "C": "Arguir a nulidade da sessão de julgamento, em razão da manutenção do réu algemado; a manifestação do Ministério Público, contudo, não é vedada pela lei processual.",
+      "D": "Postular a redução das penas aplicadas pelo Juiz-Presidente, pois o uso de algemas e sua menção como argumento de autoridade não caracterizam nenhuma nulidade."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 3
+  },
+  {
+    "num": 68,
+    "enunciado": "A família de Luís procura você, como advogado(a) , explicando que existe uma lei nova, mais benéfica, que se aplica ao caso do seu parente. Você, ao estudar o caso, descobriu que já havia trânsito em julgado da condenação e que a lei era realmente mais benéfica. Nessa hipótese, você deve",
+    "alternativas": {
+      "A": "propor ação de revisão criminal, para que possa ser aplicada a lei mais benéfica.",
+      "B": "informar à família que, como existiu trânsito em julgado, a nova lei, mais benéfica, não se aplica.",
+      "C": "peticionar ao Juiz da Vara de Execuções Penais, requerendo a aplicação da nova lei, mais benéfica.",
+      "D": "propor habeas corpus perante o Supremo Tribunal Federal para aplicação da nova lei, mais benéfica."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 4
+  },
+  {
+    "num": 65,
+    "enunciado": "Fábio foi submetido a julgamento pelo Tribunal do Júri e, ao final, condenado a uma pena de 15 anos de reclusão, em regime inicial fechado. Você, como advogado(a) de Fábio, interpôs tempestivo e cabível recurso. Assinale a opção que indica o recurso correto interposto e/ou suas características.",
+    "alternativas": {
+      "A": "O recurso cabível é de apelação e o efeito devolutivo é restrito aos fundamentos de interposição.",
+      "B": "A alegação de decisão manifestamente contrária à prova dos autos só pode ser repetida por, no máximo, três vezes.",
+      "C": "O recurso cabível é o recurso em sentido estrito e tem efeito regressivo que pode ser exercido pelos próprios jurados.",
+      "D": "O recurso cabível tem ampla devolutividade, podendo o Tribunal rever todos os aspectos da sentença penal condenatória, inclusive as teses atinentes à materialidade e à autoria."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 5
+  },
+  {
+    "num": 63,
+    "enunciado": "Lucas era investigado por estupro de vulnerável, pois, de acordo com as investigações, teria mantido relações sexuais com pessoa menor de 14 anos. A partir de indícios concretos, a 1ª Vara Criminal da Comarca correspondente ao local dos fatos expediu mandado de busca e apreensão de aparelhos eletrônicos de Lucas, após regular requerimento do Ministério Público. Nos dispositivos eletrônicos apreendidos foram localizados diversos arquivos, cujo conteúdo apresentava abuso sexual infantil, armazenados e compartilhados nas redes sociais, acessíveis de qualquer lugar do país e do exterior, sem se confirmar, contudo, a hipótese inicial de estupro de vulnerável. Assim, Lucas foi denunciado como incurso nas penas do **Art. 241** A e do **Art. 241** -B, ambos do ECA (divulgação e armazenamento de co",
+    "alternativas": {
+      "A": "A ocorrência do trânsito em julgado impede que sejam suscitadas questões processuais atinentes à nulidade ou à incompetência absoluta, admitindo-se a rediscussão dos fatos apenas se for baseada em prova nova, mediante revisão criminal.",
+      "B": "Pode ser alegada a nulidade da busca e apreensão e de todos os atos dela decorrentes, diante da incompetência absoluta do Juízo que determinou a diligência, impetrando-se habeas corpus.",
+      "C": "Pode ser impetrado habeas corpus, alegando a nulidade da sentença e de todos os atos decisórios posteriores à realização da busca e apreensão, diante da incompetência absoluta do Juízo.",
+      "D": "Tendo em vista que a busca e apreensão foi deferida apenas para a investigação de estupro de vulnerável, é incabível a utilização das provas na persecução penal relativa a fato diverso, o que pode ser alegado pela impetração de um mandado de segurança."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 6
+  },
+  {
+    "num": 65,
+    "enunciado": "Anderson está sendo investigado pela prática do crime de extorsão mediante sequestro. Depois da quebra dos sigilos bancários e fiscal, a polícia efetuou o indiciamento de Anderson, sendo certo que não existia mais nenhuma diligência pendente. A defesa de Anderson requereu o acesso aos autos da investigação, que foi negado pelo Delegado de Polícia, com o argumento da inquisitividade e sigilo do inquérito policial. O Juiz também negou o acesso afirmando que o inquérito é sigiloso e possuía extratos bancários e fiscais. Assinale a opção que indica, corretamente, o argumento que você, na condição de advogado(a) , deve usar no recurso para garantir o acesso ao inquérito.",
+    "alternativas": {
+      "A": "O princípio de in dubio pro reo.",
+      "B": "O direito absoluto de acessar o inquérito, em qualquer hipótese, como consectário da ampla defesa.",
+      "C": "O princípio da publicidade, que deve ser aplicado tanto na fase de investigação quanto na fase processual.",
+      "D": "É direito do advogado regularmente constituído ter acesso às diligências já documentadas, somado ao fato de não existir nenhuma diligência pendente."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Penal",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "06_nulidades_decisoes",
+    "modulo_nome": "Nulidades e Sentença Penal",
+    "id": 7
+  }
+]

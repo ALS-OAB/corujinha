@@ -1,0 +1,312 @@
+[
+  {
+    "num": 35,
+    "enunciado": "Waldo é titular de vultoso patrimônio e amigo de infância de Tadeu, que passa por sérias dificuldades econômicas. Frente às adversidades vividas pelo amigo, Waldo entrega as chaves de um imóvel de sua propriedade para Tadeu e diz a ele: “a partir de agora essa casa é de sua propriedade.” Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A declaração verbal de Waldo, junto da tradição do imóvel, é suficiente para considerar-se celebrado e realizado um contrato de doação válido e eficaz.",
+      "B": "Para que a doação de imóvel de Waldo a Tadeu se aperfeiçoe será imprescíndivel celebrar o contrato por meio de escritura pública, seja qual for o valor do imóvel.",
+      "C": "Para que Waldo realize a pretendida doação de imóvel a Tadeu de modo válido, será imprescíndivel celebrar o contrato de forma escrita, seja por meio de escritura pública ou de instrumento particular, a depender do valor do imóvel.",
+      "D": "Caso Waldo optasse por doar dinheiro para Tadeu adquirir um imóvel, a doação seria válida sem que se fizesse por escritura pública ou instrumento particular, independentemente do valor transferido ao donatário."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "opcoes": {
+      "A": "A declaração verbal de Waldo, junto da tradição do imóvel, é suficiente para considerar-se celebrado e realizado um contrato de doação válido e eficaz.",
+      "B": "Para que a doação de imóvel de Waldo a Tadeu se aperfeiçoe será imprescíndivel celebrar o contrato por meio de escritura pública, seja qual for o valor do imóvel.",
+      "C": "Para que Waldo realize a pretendida doação de imóvel a Tadeu de modo válido, será imprescíndivel celebrar o contrato de forma escrita, seja por meio de escritura pública ou de instrumento particular, a depender do valor do imóvel.",
+      "D": "Caso Waldo optasse por doar dinheiro para Tadeu adquirir um imóvel, a doação seria válida sem que se fizesse por escritura pública ou instrumento particular, independentemente do valor transferido ao donatário."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 1,
+    "sintese": "<p>A doação de bem imóvel exige a celebração por escritura pública ou instrumento particular (Art. 541 do CC). A mera tradição verbal não transfere a propriedade imobiliária.</p>",
+    "logica_conceito": "<p>A doação é contrato solene. Para bens imóveis, a lei exige obrigatoriamente a forma escrita (escritura pública ou instrumento particular se de valor inferior a 30 salários mínimos). A entrega verbal das chaves não gera doação imobiliária válida.</p>",
+    "fundamentacao": "<p>Artigo 541 e Artigo 108 do Código Civil.</p>",
+    "dica": "<p>🔥 <b>Dica de OAB da Profª Roberta:</b> Doação de imóvel NUNCA é verbal! Exige forma escrita obrigatória. Doação verbal só vale para bens móveis de pequeno valor seguidos de tradição imediata!</p>",
+    "aula_comentario": "<p><b>Profª Roberta Queiroz (46º OAB - Direitos Reais / Coisas):</b> 'A doação de bem imóvel é contrato solene e exige OBRIGATORIAMENTE instrumento escrito (escritura pública ou instrumento particular conforme o Art. 108 e 541 CC). A simples entrega verbal das chaves não transfere a propriedade e não convalida a doação imobiliária!'</p>",
+    "analise": "<p><b>Alternativa A: Incorreta.</b> A declaração verbal não formaliza doação de bem imóvel.<br><b>Alternativa B: Incorreta.</b> Se o imóvel for de valor inferior a 30 salários mínimos, admite-se instrumento particular (Art. 108 CC).<br><b>Alternativa C: CORRETA.</b> Para a doação de imóvel ser válida, é imprescindível forma escrita (escritura pública ou instrumento particular dependendo do valor).<br><b>Alternativa D: Incorreta.</b> Doação de dinheiro admite forma verbal se seguida de imediata tradição (Art. 541, parágrafo único CC).</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Antônio é proprietário de um prédio que não tem acesso à via pública. De um lado, Antônio tem Ricardo como vizinho, cuja propriedade alcança a via pública. Do outro lado, Antônio tem Luíza como vizinha, cuja propriedade também alcança a via pública. Todavia, no caso do imóvel de Luíza, o caminho até a via pública é menos natural e mais difícil. Ricardo e Luíza recusaramse a oferecer voluntariamente a passagem. Diante disso, Antônio pode exigir",
+    "alternativas": {
+      "A": "tanto a passagem de Ricardo quanto a de Luiza, a seu critério, mas só precisará pagar indenização cabal se escolher Luiza.",
+      "B": "tanto a passagem de Ricardo quanto a de Luiza, a seu critério, e deverá pagar indenização cabal a quem escolher.",
+      "C": "que Ricardo lhe dê a passagem, sem que seja obrigado a pagar qualquer indenização a ele.",
+      "D": "que Ricardo lhe dê a passagem, mediante pagamento de indenização cabal."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "opcoes": {
+      "A": "tanto a passagem de Ricardo quanto a de Luiza, a seu critério, mas só precisará pagar indenização cabal se escolher Luiza.",
+      "B": "tanto a passagem de Ricardo quanto a de Luiza, a seu critério, e deverá pagar indenização cabal a quem escolher.",
+      "C": "que Ricardo lhe dê a passagem, sem que seja obrigado a pagar qualquer indenização a ele.",
+      "D": "que Ricardo lhe dê a passagem, mediante pagamento de indenização cabal."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 2,
+    "sintese": "<p>Questão do <b>38º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 38º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 38º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Vítor contraiu empréstimo perante uma instituição bancária e ofereceu, como garantia da dívida, a hipoteca sobre um bem imóvel dele. Considerando essa situação hipotética, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Vítor poderá alienar o imóvel hipotecado, salvo se o contrato de empréstimo vedar a alienação, cláusula que é considerada válida.",
+      "B": "Vítor poderá alienar o imóvel hipotecado, mas a alienação implicará o vencimento automático do empréstimo, independentemente de previsão no contrato.",
+      "C": "Vítor não poderá alienar o imóvel hipotecado, porque isso resultaria em conduta contrária à boa-fé objetiva.",
+      "D": "Caso Vítor realize melhoramentos no imóvel após a constituição da hipoteca, eles integrarão a garantia real em prol da instituição bancária."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "opcoes": {
+      "A": "Vítor poderá alienar o imóvel hipotecado, salvo se o contrato de empréstimo vedar a alienação, cláusula que é considerada válida.",
+      "B": "Vítor poderá alienar o imóvel hipotecado, mas a alienação implicará o vencimento automático do empréstimo, independentemente de previsão no contrato.",
+      "C": "Vítor não poderá alienar o imóvel hipotecado, porque isso resultaria em conduta contrária à boa-fé objetiva.",
+      "D": "Caso Vítor realize melhoramentos no imóvel após a constituição da hipoteca, eles integrarão a garantia real em prol da instituição bancária."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 3,
+    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Joana trabalhou por 15 anos como empregada doméstica na residência de Alzira, um imóvel de 60 metros quadrados, herdado de seu falecido pai. Durante todo esse período, Joana percebeu salários mensais, tal como acordado, porém nunca recebeu as verbas referentes às férias e ao décimo terceiro salário, bem como nunca teve as contribuições previdenciárias devidamente recolhidas. Depois da rescisão contratual, Joana promoveu a ação trabalhista, visando receber as verbas devidas e não pagas, tendo seus direitos reconhecidos por sentença transitada em julgado. Não obstante, o pagamento das verbas não foi realizado e, fato seguinte, foi promovida a execução, momento em que Joana, representada por seu advogado, diante do não pagamento e da inexistência de outros bens, requereu a penhora do imóvel r",
+    "alternativas": {
+      "A": "O imóvel é impenhorável, mas os bens móveis que o guarnecem são penhoráveis, independentemente do valor dos mesmos.",
+      "B": "O imóvel é impenhorável, bem como são impenhoráveis os móveis que guarnecem a casa, exceto as obras de arte e os adornos suntuosos.",
+      "C": "O imóvel na execução promovida por Joana é, em qualquer hipótese, penhorável.",
+      "D": "O imóvel, na execução promovida por Joana, é penhorável, desde que comprovada a má-fé da devedora."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "opcoes": {
+      "A": "O imóvel é impenhorável, mas os bens móveis que o guarnecem são penhoráveis, independentemente do valor dos mesmos.",
+      "B": "O imóvel é impenhorável, bem como são impenhoráveis os móveis que guarnecem a casa, exceto as obras de arte e os adornos suntuosos.",
+      "C": "O imóvel na execução promovida por Joana é, em qualquer hipótese, penhorável.",
+      "D": "O imóvel, na execução promovida por Joana, é penhorável, desde que comprovada a má-fé da devedora."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 4,
+    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "João é proprietário de um terreno e, por meio de escritura pública devidamente registrada no registro de imóveis, concedeu a Paula o direito real de superfície sobre esse imóvel, podendo Paula nele plantar pelo período de cinco anos. Decorridos dois anos da celebração do contrato, João decidiu vender o terreno a Fábio. Antes de ultimada a venda, Paula foi informada da intenção de venda e ofereceu a João as mesmas condições para que ela própria adquirisse o terreno. Diante dessa situação, considerando a disciplina prevista no Código Civil, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "João não pode vender o imóvel a terceiros durante o prazo de vigência do direito real de superfície, de modo que, apenas após o decurso do prazo de cinco anos, João pode vender o imóvel a Fábio.",
+      "B": "João pode vender o imóvel a Fábio, ainda que Paula tenha oferecido as mesmas condições para adquirir o terreno, mas, uma vez adquirido o terreno, Fábio estará obrigado a respeitar o direito real de superfície de Paula.",
+      "C": "João apenas restará obrigado a vender o imóvel a Paula se as condições oferecidas por ela forem melhores do que as oferecidas por Fábio, o que não é o caso.",
+      "D": "João é obrigado a respeitar o direito de preferência de Paula, em igualdade de condições, na aquisição do imóvel, caso decida vender o terreno."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "opcoes": {
+      "A": "João não pode vender o imóvel a terceiros durante o prazo de vigência do direito real de superfície, de modo que, apenas após o decurso do prazo de cinco anos, João pode vender o imóvel a Fábio.",
+      "B": "João pode vender o imóvel a Fábio, ainda que Paula tenha oferecido as mesmas condições para adquirir o terreno, mas, uma vez adquirido o terreno, Fábio estará obrigado a respeitar o direito real de superfície de Paula.",
+      "C": "João apenas restará obrigado a vender o imóvel a Paula se as condições oferecidas por ela forem melhores do que as oferecidas por Fábio, o que não é o caso.",
+      "D": "João é obrigado a respeitar o direito de preferência de Paula, em igualdade de condições, na aquisição do imóvel, caso decida vender o terreno."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 5,
+    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Mariana e Manuela celebraram contrato escrito de locação de imóvel urbano para fim residencial, pelo prazo de 30 meses. Decorrido o prazo previsto no contrato, Manuela, locatária, permaneceu no imóvel, e Mariana, locadora, periodicamente recebe e dá quitação dos aluguéis recebidos. Ivan, André e Caio celebraram negócio jurídico pelo qual se obrigaram a entregar um veículo da marca M a Bruna. Na data avençada para o cumprimento da obrigação, Ivan deu à Bruna um carro da marca M de sua propriedade. Sobre a situação hipotética apresentada, assinale a afirmativa correta. Sobre a situação de Mariana, passados três meses do prazo fixado no contrato, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Está sujeita ao direito potestativo de renovação de Manuela, que poderá renovar por mais 30 meses o contrato.",
+      "B": "Tem a possibilidade de exercer denúncia vazia, garantindo à Manuela, pelo menos, o prazo de 30 dias para a desocupação do imóvel.",
+      "C": "Não tem a faculdade de exercer denúncia vazia pois, em razão do prazo contratado inicialmente, somente caberá denúncia cheia.",
+      "D": "Deverá renegociar as cláusulas contratuais com Manuela, e estabelecer um novo prazo, por não haver presunção de prorrogação contratual para o caso."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "opcoes": {
+      "A": "Está sujeita ao direito potestativo de renovação de Manuela, que poderá renovar por mais 30 meses o contrato.",
+      "B": "Tem a possibilidade de exercer denúncia vazia, garantindo à Manuela, pelo menos, o prazo de 30 dias para a desocupação do imóvel.",
+      "C": "Não tem a faculdade de exercer denúncia vazia pois, em razão do prazo contratado inicialmente, somente caberá denúncia cheia.",
+      "D": "Deverá renegociar as cláusulas contratuais com Manuela, e estabelecer um novo prazo, por não haver presunção de prorrogação contratual para o caso."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 6,
+    "sintese": "<p>Questão do <b>42º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 42º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 42º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Brás Cubas procurou você, como advogado(a) , relatando ser possuidor e proprietário do imóvel situado à Rua Machado de Assis, nº XX, Centro, no Município Alpha, há mais de 50 anos, preservando, desde as suas origens até o presente, as mesmas características, sem que houvesse por parte da vizinhança qualquer reclamação ou denúncia, sobretudo no que tange à disposição das janelas, já que se encontram dentro dos limites legais. Segundo relato de Brás, sua vizinha, Virgília, no último mês, iniciou obra de expansão de sua casa, com abertura de uma janela no limite divisório com seu terreno e uma chaminé no telhado. Em consonância com o Código Civil brasileiro, assinale a opção que apresenta, corretamente, sua orientação sobre o caso apresentado.",
+    "alternativas": {
+      "A": "As janelas cuja visão não incida sobre a linha divisória, bem como as perpendiculares, não poderão ser abertas a menos de um metro e meio.",
+      "B": "A conduta de Virgília é válida e eficaz, porque não existe norma legal que impeça a abertura de janelas ou a construção de muro na linha divisória de imóveis.",
+      "C": "O proprietário pode, no lapso de ano e dia após a conclusão da obra, exigir que se desfaça janela que fora construída em desacordo com a legislação vigente.",
+      "D": "A construção da chaminé deve ser impedida devido à função social da propriedade, positivada no Código Civil brasileiro e tutelada pelo direito dos confinantes."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "opcoes": {
+      "A": "As janelas cuja visão não incida sobre a linha divisória, bem como as perpendiculares, não poderão ser abertas a menos de um metro e meio.",
+      "B": "A conduta de Virgília é válida e eficaz, porque não existe norma legal que impeça a abertura de janelas ou a construção de muro na linha divisória de imóveis.",
+      "C": "O proprietário pode, no lapso de ano e dia após a conclusão da obra, exigir que se desfaça janela que fora construída em desacordo com a legislação vigente.",
+      "D": "A construção da chaminé deve ser impedida devido à função social da propriedade, positivada no Código Civil brasileiro e tutelada pelo direito dos confinantes."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 7,
+    "sintese": "<p>Questão do <b>42º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 42º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 42º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 39,
+    "enunciado": "Cláudia é devedora de valores elevados e foi executada em determinada demanda. Para evitar a penhora de seu carro, celebrou contrato de compra e venda do veículo com Eduardo, seu amigo fraterno, indicando data anterior às dívidas. Cláudia e Eduardo combinaram que o contrato não produziria qualquer efeito, de modo que não houve o pagamento do preço e tampouco a transferência da propriedade do carro. Sobre o contrato celebrado entre Cláudia e Eduardo, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "É anulável.",
+      "B": "É válido, mas ineficaz.",
+      "C": "É nulo, sem possibilidade de aproveitamento.",
+      "D": "Pode ser convalidado, bastando que se desconsidere a data indicada e se considere a data em que ele efetivamente foi celebrado."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "opcoes": {
+      "A": "É anulável.",
+      "B": "É válido, mas ineficaz.",
+      "C": "É nulo, sem possibilidade de aproveitamento.",
+      "D": "Pode ser convalidado, bastando que se desconsidere a data indicada e se considere a data em que ele efetivamente foi celebrado."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 8,
+    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Carlos é titular de direito real de uma laje, referente à parte superior de uma edificação localizada em uma área urbana. Recentemente, ele tomou conhecimento de que uma empresa de internet está negociando diretamente com o proprietário da construção-base para instalar cabeamentos de fibra ótica e outros equipamentos de infraestrutura no subsolo dessa construção. A instalação não interfere no direito real de Carlos, bem como não afeta o uso do bem. Mesmo assim, Carlos tem dúvidas sobre a legalidade dessa instalação sem a sua expressa autorização, bem como sobre seu direito a eventual compensação. Diante disso, ele consultou você, como advogado(a) , para orientá-lo sobre a questão. Assinale a opção que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "Carlos tem o direito de impedir a instalação dos cabos de fibra ótica, pois a utilização do subsolo da construção-base requer sua autorização expressa como titular do direito real de laje.",
+      "B": "A empresa de internet pode instalar os cabos de fibra ótica no subsolo da construção-base sem a autorização de Carlos, pois a instalação não interfere em seu direito real de laje.",
+      "C": "Carlos deve ser compensado financeiramente pela empresa de internet antes da instalação dos cabos no subsolo da construção-base, devido à titularidade de seu direito real de laje.",
+      "D": "A instalação dos cabos de fibra ótica pela empresa de internet é ilegal e pode ser contestada por Carlos judicialmente, já que ele possui um direito real sobre a construção e não autorizou o uso do subsolo."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "opcoes": {
+      "A": "Carlos tem o direito de impedir a instalação dos cabos de fibra ótica, pois a utilização do subsolo da construção-base requer sua autorização expressa como titular do direito real de laje.",
+      "B": "A empresa de internet pode instalar os cabos de fibra ótica no subsolo da construção-base sem a autorização de Carlos, pois a instalação não interfere em seu direito real de laje.",
+      "C": "Carlos deve ser compensado financeiramente pela empresa de internet antes da instalação dos cabos no subsolo da construção-base, devido à titularidade de seu direito real de laje.",
+      "D": "A instalação dos cabos de fibra ótica pela empresa de internet é ilegal e pode ser contestada por Carlos judicialmente, já que ele possui um direito real sobre a construção e não autorizou o uso do subsolo."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 9,
+    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Ruth é proprietária do Sítio Felicidade, localizado na zona rural do município de Ribeirão Corrente (SP). Há 15 anos, ela mantém canos subterrâneos de irrigação que atravessam o Sítio da Lua, de propriedade de Demétrio, para captar água de uma nascente situada dentro desse último. O uso sempre foi contínuo e sem oposição, mas invisível a olho nu, já que o sistema está instalado sob o solo. Nunca houve registro da servidão no Cartório de Registro de Imóveis, tampouco um contrato formal entre os antigos proprietários. Em novembro de 2025, Pedro, novo dono do Sítio da Lua, ao descobrir as tubulações, notificou Ruth para interromper o uso da água, alegando que a servidão não se constituiu validamente por ausência de registro. Considerando o caso concreto e as normas do Código Civil sobre a con",
+    "alternativas": {
+      "A": "A usucapião da servidão poderia ser reconhecida após cinco anos de uso contínuo, dada a boa-fé e a posse qualificada de Ruth.",
+      "B": "Ruth adquiriu a servidão por usucapião, pois o uso foi contínuo e incontestado por mais de dez anos, ainda que não fosse visível.",
+      "C": "O direito de Ruth configura mera detenção tolerada, mas poderia ser convertido em servidão após 20 anos de utilização contínua.",
+      "D": "Ruth não adquiriu a servidão, pois, não sendo aparente, exige registro no Cartório de Imóveis para a sua constituição válida, não admitindo usucapião."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "opcoes": {
+      "A": "A usucapião da servidão poderia ser reconhecida após cinco anos de uso contínuo, dada a boa-fé e a posse qualificada de Ruth.",
+      "B": "Ruth adquiriu a servidão por usucapião, pois o uso foi contínuo e incontestado por mais de dez anos, ainda que não fosse visível.",
+      "C": "O direito de Ruth configura mera detenção tolerada, mas poderia ser convertido em servidão após 20 anos de utilização contínua.",
+      "D": "Ruth não adquiriu a servidão, pois, não sendo aparente, exige registro no Cartório de Imóveis para a sua constituição válida, não admitindo usucapião."
+    },
+    "modulo_codigo": "06_direitos_reais",
+    "modulo_nome": "Direitos Reais",
+    "id": 10,
+    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  }
+]

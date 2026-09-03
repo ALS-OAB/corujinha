@@ -1,0 +1,40 @@
+[
+  {
+    "num": 20,
+    "enunciado": "Joana, deputada estadual no Estado Alfa, vinha recebendo inúmeras críticas de alguns correligionários do seu partido político. Apesar do amplo apoio popular que recebia, para sua surpresa, não foi escolhida, na convenção partidária, para concorrer à reeleição ao cargo de deputada estadual. A esse respeito, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Como Joana busca a reeleição, deve ser considerada candidata nata.",
+      "B": "A deliberação adotada na convenção partidária é lícita, caso tenha sido adotada por maioria absoluta.",
+      "C": "Os partidos políticos têm autonomia para a escolha dos seus candidatos, observados os balizamentos legais.",
+      "D": "Joana pode requerer pessoalmente o registro de sua candidatura, ainda que não tenha sido aprovada na convenção partidária."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Eleitoral",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "04_partidos_federacoes",
+    "modulo_nome": "Partidos Políticos e Federações Partidárias",
+    "id": 1
+  },
+  {
+    "num": 20,
+    "enunciado": "No curso da campanha eleitoral, João, candidato ao cargo de Prefeito Municipal, doou três sacos de cimento a Pedro, sob o compromisso de que este nele votaria. Ao tomar conhecimento dos fatos, Ana, candidata ao mesmo cargo, procurou você, como advogado(a) , e solicitou que fosse ajuizada a ação cabível, de modo que o registro ou o diploma de João fosse cassado. Assinale a opção que indica, corretamente, a ação cabível no caso.",
+    "alternativas": {
+      "A": "Ação de impugnação do registro, que pode ser ajuizada até a data da eleição.",
+      "B": "Recurso contra a expedição de diploma, que pode ser ajuizada até três dias após a diplomação.",
+      "C": "Ação penal por ato de corrupção eleitoral, que pode ser ajuizada até fluir o prazo prescricional.",
+      "D": "Representação por captação ilícita de sufrágio, que pode ser ajuizada até a data da diplomação."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Eleitoral",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_partidos_federacoes",
+    "modulo_nome": "Partidos Políticos e Federações Partidárias",
+    "id": 2
+  }
+]

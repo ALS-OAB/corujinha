@@ -1,0 +1,40 @@
+[
+  {
+    "num": 20,
+    "enunciado": "Joana requereu o registro de sua candidatura para concorrer ao cargo eletivo de prefeita do Município Alfa, situado no Estado Beta. O registro não sofreu qualquer impugnação e foi deferido pela Justiça Eleitoral. Duas semanas após a proclamação do resultado da eleição, tendo sido Joana eleita prefeita municipal, Maria, que concorrera para o mesmo cargo e fora derrotada, descobriu que Joana era irmã da governadora do Estado Beta. Maria procurou você, como advogado(a) , questionando se era possível discutir a inelegibilidade de Joana, mesmo após a proclamação do resultado. Sobre a hipótese apresentada, assinale a opção que indica, corretamente, sua resposta.",
+    "alternativas": {
+      "A": "O processo eleitoral não pode retroagir em suas fases, logo, ocorreu a preclusão.",
+      "B": "Pode ser interposto recurso contra a expedição de diploma.",
+      "C": "É possível ajuizar a ação de impugnação de mandato eletivo.",
+      "D": "A decisão de proclamação dos eleitos pode ser impugnada mediante recurso inominado."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Eleitoral",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "08_crimes_eleitorais",
+    "modulo_nome": "Crimes Eleitorais e Processo Penal Eleitoral",
+    "id": 1
+  },
+  {
+    "num": 20,
+    "enunciado": "João, que acabara de assumir a função de tesoureiro do partido político Alfa, solicitou explicações ao(à) advogado(a) do partido a respeito dos cuidados que deveria ter na aplicação dos recursos oriundos do Fundo Especial de Assistência Financeira aos Partidos Políticos (Fundo Partidári o) , mais especificamente em relação à existência de plena liberdade valorativa do partido político na aplicação desses recursos e à necessidade, ou não, de prestação de contas. Sobre a hipótese formulada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Os recursos devem ser aplicados por Alfa, nas finalidades autorizadas em lei, sendo objeto de prestação de contas à Justiça Eleitoral, embora o referido Fundo receba tanto valores de origem pública como privada.",
+      "B": "Os recursos recebidos por Alfa devem ser aplicados nas finalidades autorizadas em lei, sendo objeto de prestação de contas apenas ao seu órgão de direção nacional, embora o referido Fundo seja formado a partir das sobras da arrecadação da União.",
+      "C": "Como Alfa tem personalidade jurídica de direito privado, pode aplicar livremente os recursos recebidos nas finalidades previstas em seu estatuto e deve prestar contas à Justiça Eleitoral, quando se comprometer a realizar um projeto de interesse público.",
+      "D": "Os recursos devem ser aplicados por Alfa nas finalidades livremente autorizadas em seu estatuto, mas, como os valores remetidos ao referido Fundo são captados pela Justiça Eleitoral com as multas eleitorais e as dotações da União, deve haver prestação de contas ao Tribunal de Contas da União."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Eleitoral",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "08_crimes_eleitorais",
+    "modulo_nome": "Crimes Eleitorais e Processo Penal Eleitoral",
+    "id": 2
+  }
+]

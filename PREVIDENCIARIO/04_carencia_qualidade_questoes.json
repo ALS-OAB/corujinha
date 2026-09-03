@@ -1,0 +1,40 @@
+[
+  {
+    "num": 70,
+    "enunciado": "Henrique e Amanda foram casados por 30 anos. Em 02/03/2022, Amanda, que era segurada obrigatória do Regime Geral de Previdência Social, veio a óbito. Henrique fez o requerimento de pensão por morte ao INSS no dia 02/05/2022. Segundo a Lei nº 8213/91, assinale a afirmativa que indica a data a partir da qual Henrique terá direito ao benefício.",
+    "alternativas": {
+      "A": "Do requerimento, já que foi requerido 60 dias após o óbito.",
+      "B": "Do óbito, já que foi requerido em até 90 dias após o óbito.",
+      "C": "Da decisão judicial, já que Henrique perdeu o prazo para requerer o benefício administrativamente.",
+      "D": "Do óbito, independentemente da data em que foi feito o requerimento."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Previdenciário",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "04_carencia_qualidade",
+    "modulo_nome": "Carência e Manutenção/Perda da Qualidade de Segurado",
+    "id": 1
+  },
+  {
+    "num": 70,
+    "enunciado": "Lucas, segurado obrigatório do Regime Geral de Previdência Social (RGPS), cometeu um crime e foi recolhido à prisão em regime fechado, em 1º/1/2023, tendo contribuído previamente por 24 meses. Sobre a hipótese narrada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O auxílio-reclusão é destinado ao segurado que foi preso, para que ele não fique desamparado.",
+      "B": "Os dependentes de Lucas fazem jus ao auxílio-reclusão, mesmo que o segurado preso não seja de baixa renda.",
+      "C": "A cônjuge de Lucas não poderá acumular o auxílio por incapacidade temporária que hoje recebe com o auxílioreclusão decorrente da prisão do marido, devendo optar pelo mais favorável.",
+      "D": "O exercício de atividade remunerada do segurado recluso, em cumprimento de pena em regime fechado, não acarreta a perda do direito ao recebimento do auxílio-reclusão para seus dependentes."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Previdenciário",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_carencia_qualidade",
+    "modulo_nome": "Carência e Manutenção/Perda da Qualidade de Segurado",
+    "id": 2
+  }
+]

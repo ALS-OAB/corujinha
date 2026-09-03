@@ -1,0 +1,59 @@
+[
+  {
+    "num": 9,
+    "enunciado": "“Mas a disciplina traz consigo uma maneira específica de punir, e que é apenas um modelo reduzido do tribunal. O que pertence à penalidade disciplinar é a inobservância, tudo o que está inadequado à regra, tudo que se afasta dela, os desvios.” Michael Foucault Foucault, em seu livro Vigiar e Punir, fala do poder disciplinar que recai sobre os corpos dos indivíduos e, também, dos castigos disciplinares que resultam de uma lei, um programa ou um regulamento. Assinale a opção que, segundo o autor da obra de referência, apresenta a função do castigo disciplinar.",
+    "alternativas": {
+      "A": "Reduzir os desvios, funcionando, portanto, como algo essencialmente corretivo.",
+      "B": "Coibir a ocorrência de crime, de modo a evitar a ocorrência de atos ilícitos.",
+      "C": "Expiar a culpa de ter se afastado da norma, de forma a produzir arrependimento.",
+      "D": "Indenizar a vítima da conduta indisciplinada, como forma de reparação de um dano."
+    },
+    "gabarito": "A",
+    "disciplina": "Filosofia do Direito",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "03_pospositivismo_dworkin",
+    "modulo_nome": "Pós-Positivismo, Princípios e Regras (Ronald Dworkin)",
+    "id": 1
+  },
+  {
+    "num": 9,
+    "enunciado": "Pois, segundo entendo, no limite do cognoscível é que se avista, a custo, a ideia do Bem; e, uma vez avistada, compreende-se que ela é para todos a causa de quanto há de justo e belo... (Platão) Em seu livro A República, Platão conta a famosa Alegoria da Caverna, ensinando a não confundir aparência (imperfeita) com essência (perfeita) . Nesse sentido, é correto afirmar que, para Platão, a Justiça corresponde",
+    "alternativas": {
+      "A": "a uma prática que decorre dos atos justos praticados por homens justos.",
+      "B": "ao contrato social que assegura os direitos e as liberdades individuais.",
+      "C": "ao processo histórico de luta contra a exploração e a conquista da emancipação.",
+      "D": "a uma concepção ideal a ser conhecida e compreendida pela razão."
+    },
+    "gabarito": "D",
+    "disciplina": "Filosofia do Direito",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "03_pospositivismo_dworkin",
+    "modulo_nome": "Pós-Positivismo, Princípios e Regras (Ronald Dworkin)",
+    "id": 2
+  },
+  {
+    "num": 9,
+    "enunciado": "Leia os fragmentos a seguir. Sócrates estava sentado à porta de sua casa. Nesse momento, passa um homem correndo e atrás dele vem um grupo de soldados. Um dos soldados então grita: agarre esse sujeito, ele é um ladrão! Ao que responde Sócrates: que você entende por ‘ladrão’? (...) Questões zetéticas têm uma função especulativa explícita e são infinitas. Questões dogmáticas têm uma função diretiva explícita e são finitas. Nas primeiras, o problema tematizado é configurado como um ser (que é algo?). Nas segundas, a situação nelas captada configura-se como um dever-ser (como deve-ser algo?). Por isso, o enfoque zetético visa saber o que é uma coisa. Já o enfoque dogmático preocupa-se em possibilitar uma decisão e orientar ação. (FERRAZ JUNIOR, Tercio Sampaio. Introdução ao Estudo do direito: ",
+    "alternativas": {
+      "A": "O enfoque dado por Sócrates pode ser considerado dogmático, pois coloca em dúvida o próprio conceito de ladrão utilizado pelo soldado.",
+      "B": "A acentuação da dúvida e do aspecto ontológico da conduta de Sócrates denotam uma característica típica das questões zetéticas.",
+      "C": "A utilização dos conceitos de roubo e furto previstos no Código Penal para descaracterizar a imputação de um homem correndo como sendo um ladrão é tipicamente zetética.",
+      "D": "O enfoque zetético deve ceder espaço para a função dogmática, pois o Direito no mundo atual exige decisões técnicas, tornando contraproducente especulações ontológicas."
+    },
+    "gabarito": "B",
+    "disciplina": "Filosofia do Direito",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "03_pospositivismo_dworkin",
+    "modulo_nome": "Pós-Positivismo, Princípios e Regras (Ronald Dworkin)",
+    "id": 3
+  }
+]

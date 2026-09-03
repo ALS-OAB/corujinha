@@ -1,0 +1,135 @@
+[
+  {
+    "num": 15,
+    "enunciado": "Márcio, deputado estadual do Estado-membro Alfa e líder do governo na Assembleia, vem demonstrando grande preocupação com o excessivo número de projetos de lei que chegam à Casa Legislativa do Estado e que, segundo ele, se aprovados, trarão muitas inovações e, em consequência, elevado grau de insegurança jurídica aos cidadãos. Por isso, ele sugere que o governador proponha uma emenda à Constituição do Estado (PEC estadual), no sentido de tornar mais dificultoso o processo legislativo para aprovação de lei ordinária. Sua ideia é a de que, ao invés de maioria relativa, a aprovação de lei ordinária apenas se configure caso atingido o quórum de maioria absoluta dos membros da Assembleia legislativa de Alfa. Avaliada pelos Procuradores do Estado Alfa, estes informam, acertadamente, que, segundo",
+    "alternativas": {
+      "A": "pode ser levada adiante, já que, no caso, com base no princípio federativo, há total autonomia do Estado-membro para a elaboração de suas próprias regras quanto ao processo legislativo.",
+      "B": "pode ser levada adiante, já que apenas não seria possível a proposta de emenda que viesse a facilitar o processo legislativo para a alteração de leis ordinárias.",
+      "C": "é inconstitucional, pois, com base no princípio da simetria, o tema objeto da suposta emenda tem de ser disciplinado com observância das regras estabelecidas pela Constituição Federal de 1988.",
+      "D": "é inválida, pois a Constituição Federal de 1988 veda aos detentores do cargo de Chefe do Poder Executivo o poder de iniciativa para propor a alteração no texto constitucional estadual."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 1
+  },
+  {
+    "num": 11,
+    "enunciado": "Emenda à Constituição inseriu novo direito social na Constituição Federal de 1988. Da análise do dispositivo normativo extraiu-se que a fruição do direito ali previsto somente seria possível com sua devida disciplina legal. Passados sete anos sem que o Congresso Nacional tivesse elaborado a referida regulamentação, mesmo após decisões do Supremo Tribunal Federal que reconheciam a mora e determinavam prazo razoável para a edição da norma regulamentadora, Fernando, que entende fazer jus a tal direito, procurou você, como advogado(a) , a fim de saber se há alguma providência judicial a ser tomada para que possa usufruir do direito constitucionalmente previsto. Sobre a hipótese, de acordo com o sistema jurídico-constitucional vigente, assinale a afirmativa que apresenta, corretamente, sua orie",
+    "alternativas": {
+      "A": "A via judicial não é cabível, posto que, com base no princípio da separação de poderes, somente a produção de lei regulamentadora pelo Congresso Nacional viabilizará a fruição do referido direito social.",
+      "B": "Fernando poderá ingressar com mandado de injunção perante o Superior Tribunal de Justiça, o qual, reconhecendo a existência de mora por parte do Congresso Nacional, poderá determinar que este Tribunal edite a lei regulamentadora imediatamente.",
+      "C": "O mandado de injunção, a ser impetrado por Fernando perante o Supremo Tribunal Federal, pode ser utilizado para requerer que o Tribunal estabeleça as condições em que se dará o exercício do referido direito social, de modo a permitir a sua fruição.",
+      "D": "Fernando tem a possibilidade de ajuizar uma ação direta de inconstitucionalidade por omissão perante o Supremo Tribunal Federal, requerendo que o Tribunal promova sua implementação imediata para todos que façam jus ao direito social."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 2
+  },
+  {
+    "num": 14,
+    "enunciado": "O Presidente da República almeja apresentar ao Poder Legislativo um projeto de lei sobre cidadania, além de obter rapidamente a sua aprovação. Com isso, quer cumprir uma promessa realizada durante sua campanha eleitoral. Por essa razão, consulta o Advogado-Geral da União para saber qual é a correta orientação constitucional a ser observada para a concretização do seu objetivo. Com base na situação hipotética narrada e no sistema jurídicoconstitucional brasileiro, assinale a opção que indica, corretamente, a resposta apresentada pelo Advogado-Geral da União.",
+    "alternativas": {
+      "A": "Edição de medida provisória, para que a iniciativa pudesse produzir efeitos rapidamente, devendo-se lembrar ainda que, por essa via, imediatamente ficaria trancada a pauta do Congresso Nacional para deliberar sobre outra matéria.",
+      "B": "Apresentação de projeto de lei na Câmara dos Deputados com pedido de urgência, sendo que, por essa via, cada Casa do Congresso Nacional, sucessivamente, tem até 45 (quarenta e cinc o) dias para deliberar sobre a proposta, sob o risco de sobrestamento das demais deliberações.",
+      "C": "Solicitação à base de apoio do Executivo no âmbito do Congresso Nacional para que inicie o processo legislativo de uma Emenda Constitucional, pois, só assim, ele poderia solicitar urgência para a deliberação da proposta nas Casas Legislativas.",
+      "D": "Requerimento, ao Congresso Nacional, de delegação para elaboração de lei delegada, pois, assim, ele não teria emendas ao seu projeto e, imediatamente, a lei produziria seus efeitos."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 3
+  },
+  {
+    "num": 16,
+    "enunciado": "No Estado Ômega, um deputado estadual ajuizou representação de inconstitucionalidade perante o Tribunal de Justiça local, visando questionar a constitucionalidade de uma lei estadual. O Tribunal, porém, se negou a conhecer da representação, argumentando que o deputado não possuía legitimidade ativa conforme estabelecido na Constituição Estadual. Inconformado, o deputado considera interpor recurso extraordinário, a ser julgado pelo Supremo Tribunal Federal (STF) contra a decisão do Tribunal de Justiça. Como base no sistema jurídico-constitucional brasileiro, o(a) advogado(a) do deputado estadual informou, corretamente, que",
+    "alternativas": {
+      "A": "não cabe recurso extraordinário, pois o Tribunal de Justiça é o guardião da Constituição Estadual e a questão não envolve norma de reprodução obrigatória.",
+      "B": "é cabível o recurso extraordinário, pois a decisão do Tribunal de Justiça envolve interpretação da Constituição Estadual, que deve ser revista pelo STF.",
+      "C": "não é possível interpor o recurso extraordinário, mas, sim, recurso ordinário, pois trata-se de matéria de direito infraconstitucional.",
+      "D": "deve ser interposto recurso extraordinário, pois qualquer decisão do Tribunal de Justiça pode ser revisada pelo STF, independentemente da matéria."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 4
+  },
+  {
+    "num": 12,
+    "enunciado": "João, pessoa com deficiência, beneficiária de pensão alimentícia devida pelo Estado Beta, ingressou com ação judicial para receber valores atrasados. Após desfecho favorável a João, o Poder Judiciário determinou que o pagamento dos débitos alimentares em precatórios seja efetuado, de acordo com a ordem cronológica de apresentação, sem estabelecer qualquer prioridade para João. Com base na situação descrita e no sistema jurídico-constitucional brasileiro, assinale a opção que apresenta, corretamente, o esclarecimento que você, como advogado(a) , daria a João.",
+    "alternativas": {
+      "A": "João, por ser pessoa com deficiência, tem preferência no recebimento de precatórios referentes a débitos alimentares, independentemente do montante dos valores devidos.",
+      "B": "As pessoas com deficiência, como João, tal como outras classes de pessoas, têm preferência no recebimento de precatórios referentes a débitos alimentares, observados os balizamentos estabelecidos pela ordem jurídica.",
+      "C": "A pessoa com deficiência tem preferência absoluta, em relação a qualquer outro credor, no recebimento de precatórios e dívidas de pequeno valor, somente em casos de débitos alimentares de até cinco salários mínimos.",
+      "D": "A preferência no recebimento de precatórios não se aplica a débitos alimentares, mesmo que se trate de pessoa com deficiência, considerando que todos os credores têm a mesma necessidade vital."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 5
+  },
+  {
+    "num": 14,
+    "enunciado": "O Presidente da República apresentou projeto de lei para aumentar a remuneração dos cargos X e Y do Poder Executivo. Durante a tramitação na Câmara dos Deputados, foi aprovada uma emenda parlamentar que estendeu esse aumento também aos cargos W e X. Sobre a emenda parlamentar apresentada, considerando a sistemática estabelecida pela Constituição da República, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Deve ser considerada válida, pois o Congresso Nacional tem competência para modificar projetos de lei de iniciativa do Presidente da República.",
+      "B": "É constitucional, desde que seja aprovada pela maioria absoluta dos membros da Câmara dos Deputados e do Senado Federal.",
+      "C": "Deve ser considerada inválida, pois o aumento de remuneração só pode ser feito por medida provisória editada pelo Presidente da República.",
+      "D": "É inconstitucional, pois não se pode aumentar despesa prevista em projetos de lei de iniciativa exclusiva do Presidente da República."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 6
+  },
+  {
+    "num": 16,
+    "enunciado": "Mariana, que nasceu no Brasil, decidiu adquirir a nacionalidade de um país asiático. Embora este país não tivesse imposto condições para sua permanência no respectivo território ou para o exercício dos direitos civis, ela acreditava que essa decisão facilitaria sua circulação pelo continente asiático, já que tinha o propósito de explorar vários sítios montanhosos. No entanto, ao retornar ao Brasil neste mês, Mariana foi informada de que essa escolha pode resultar na perda de sua nacionalidade brasileira. Preocupada, ela consultou você, como advogado(a) , para esclarecer a sua situação, explicando que nunca realizou qualquer pedido expresso para abdicar da nacionalidade brasileira. Sobre a situação de Mariana, de acordo com o sistema jurídicoconstitucional brasileiro, assinale a afirmativa ",
+    "alternativas": {
+      "A": "Ela mantém a nacionalidade brasileira, pois, no caso em análise, apenas o pedido expresso de perda da nacionalidade pode gerar tal consequência.",
+      "B": "Ela não perde a nacionalidade brasileira, desde que comunique previamente ao governo brasileiro que não deseja renunciar a ela ao adquirir a nova nacionalidade.",
+      "C": "Ela perde a nacionalidade brasileira apenas se deixar de exercer direitos políticos e civis no Brasil, como o voto ou a manutenção de propriedades, após adquirir a nova nacionalidade.",
+      "D": "Ela perde a nacionalidade brasileira, pois ao adquirir voluntariamente outra nacionalidade, sem imposição do Estado estrangeiro, ela perde automaticamente a nacionalidade originária."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "05_poder_judiciario",
+    "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
+    "id": 7
+  }
+]

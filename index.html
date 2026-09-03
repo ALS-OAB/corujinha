@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Corujinha OAB</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --border: #334155;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --accent: #3b82f6;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+    body { background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, sans-serif; min-height: 100vh; }
+
+    header {
+      padding: 20px 16px 12px;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; }
+    header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
+
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 99px;
+      margin-top: 6px;
+      letter-spacing: 0.5px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      padding: 14px;
+    }
+
+    a.card {
+      display: flex;
+      flex-direction: column;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 12px;
+      text-decoration: none;
+      color: var(--text);
+      transition: border-color 0.15s;
+      gap: 6px;
+    }
+    a.card:active { border-color: var(--accent); background: #263548; }
+
+    .card-icon { font-size: 22px; line-height: 1; }
+    .card-label { font-size: 13px; font-weight: 700; line-height: 1.3; }
+    .card-sub { font-size: 11px; color: var(--muted); }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🦉 Corujinha OAB</h1>
+  <p>Exames 37º ao 46º — questões comentadas</p>
+  <span class="badge">824 QUESTÕES</span>
+</header>
+
+<div class="grid">
+
+  <a class="card" href="ETICA/Dashboard_Etica_Premium.html">
+    <span class="card-icon">⚖️</span>
+    <span class="card-label">Ética Profissional</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="FILOSOFIA/Dashboard_Filosofia_Premium.html">
+    <span class="card-icon">🧠</span>
+    <span class="card-label">Filosofia do Direito</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="CONSTITUCIONAL/Dashboard_Constitucional_Premium.html">
+    <span class="card-icon">🇧🇷</span>
+    <span class="card-label">Constitucional</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="DIREITOS_HUMANOS/Dashboard_DireitosHumanos_Premium.html">
+    <span class="card-icon">🕊️</span>
+    <span class="card-label">Direitos Humanos</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="INTERNACIONAL/Dashboard_Internacional_Premium.html">
+    <span class="card-icon">🌐</span>
+    <span class="card-label">Internacional</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="CIVIL/Dashboard_Civil_Premium.html">
+    <span class="card-icon">📜</span>
+    <span class="card-label">Direito Civil</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="CPC/Dashboard_CPC_Premium.html">
+    <span class="card-icon">🏛️</span>
+    <span class="card-label">Processo Civil</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="PENAL/Dashboard_Penal_Premium.html">
+    <span class="card-icon">🔒</span>
+    <span class="card-label">Direito Penal</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="PROCESSUAL_PENAL/Dashboard_ProcessualPenal_Premium.html">
+    <span class="card-icon">👮</span>
+    <span class="card-label">Processo Penal</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="TRABALHISTA/Dashboard_Trabalhista_Premium.html">
+    <span class="card-icon">🏗️</span>
+    <span class="card-label">Dir. do Trabalho</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="PROCESSUAL_TRABALHISTA/Dashboard_ProcessualTrabalhista_Premium.html">
+    <span class="card-icon">⚙️</span>
+    <span class="card-label">Processo Trabalho</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="EMPRESARIAL/Dashboard_Empresarial_Premium.html">
+    <span class="card-icon">🏢</span>
+    <span class="card-label">Dir. Empresarial</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="TRIBUTARIO/Dashboard_Tributario_Premium.html">
+    <span class="card-icon">💰</span>
+    <span class="card-label">Tributário</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="FINANCEIRO/Dashboard_Financeiro_Premium.html">
+    <span class="card-icon">📊</span>
+    <span class="card-label">Financeiro</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="ADMINISTRATIVO/Dashboard_Administrativo_Premium.html">
+    <span class="card-icon">🏤</span>
+    <span class="card-label">Administrativo</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="AMBIENTAL/Dashboard_Ambiental_Premium.html">
+    <span class="card-icon">🌿</span>
+    <span class="card-label">Ambiental</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="CONSUMIDOR/Dashboard_Consumidor_Premium.html">
+    <span class="card-icon">🛒</span>
+    <span class="card-label">Consumidor</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="ECA/Dashboard_ECA_Premium.html">
+    <span class="card-icon">👶</span>
+    <span class="card-label">ECA</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="ELEITORAL/Dashboard_Eleitoral_Premium.html">
+    <span class="card-icon">🗳️</span>
+    <span class="card-label">Eleitoral</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+  <a class="card" href="PREVIDENCIARIO/Dashboard_Previdenciario_Premium.html">
+    <span class="card-icon">🛡️</span>
+    <span class="card-label">Previdenciário</span>
+    <span class="card-sub">8 módulos</span>
+  </a>
+
+</div>
+
+<footer>Corujinha OAB · ALS-OAB</footer>
+
+</body>
+</html>

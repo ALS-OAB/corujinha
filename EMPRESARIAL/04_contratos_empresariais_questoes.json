@@ -1,0 +1,97 @@
+[
+  {
+    "num": 47,
+    "enunciado": "Aral adquiriu bens de consumo de uma sociedade empresária, ficando esta de lhe entregar as mercadorias em até 10 (dez) dias úteis. Entretanto, a entrega não se realizou em razão da decretação de falência da vendedora e o consequente encerramento das atividades com o lacre dos estabelecimentos. O administrador judicial recebeu interpelação de Aral sobre a posição da massa falida quanto a entrega das mercadorias que comprou ou a devolução das parcelas já pagas. O administrador judicial se manifestou no sentido de não entregar a mercadoria ao comprador justificando a ausência de redução do passivo da massa falida e a extinção do contrato. Não há comitê de credores em funcionamento no processo falimentar. Considerando os fatos narrados e as disposições da Lei nº 11.101/2005, assinale a afirmat",
+    "alternativas": {
+      "A": "Pedir ao juiz da falência a indisponibilidade de bens da massa até o valor de seu crédito para fins de futuro pagamento.",
+      "B": "Pedir a restituição em dinheiro das parcelas pagas pela aquisição dos bens.",
+      "C": "Habilitar o crédito relativo ao valor pago na classe dos credores quirografários.",
+      "D": "Ajuizar ação de execução por quantia certa em face da massa falida para recebimento das parcelas pagas."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Empresarial",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "04_contratos_empresariais",
+    "modulo_nome": "Contratos Empresariais e Bancários",
+    "id": 1
+  },
+  {
+    "num": 49,
+    "enunciado": "Quatro professores, que dão aulas particulares, decidiram constituir uma sociedade simples e chamaram para integrar a sociedade Belfort Pereira, empresário individual, inscrito na Junta Comercial do Estado do Rio de Janeiro, sob a condição dele investir na sociedade como sócio minoritário. Sobre as condições para o enquadramento de uma sociedade simples como microempresa, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "É lícito o enquadramento como microempresa apenas em razão da participação do sócio Belfort Pereira no capital ser minoritária.",
+      "B": "O enquadramento como microempresa é exclusivo para as sociedades empresárias, de modo que a sociedade simples está impedida.",
+      "C": "É facultado o enquadramento como microempresa porque todos os sócios são pessoas naturais, independentemente da condição de empresário de um deles.",
+      "D": "É vedada a participação de pessoa física inscrita como empresário no capital de uma sociedade enquadrada como microempresa."
+    },
+    "gabarito": "*",
+    "disciplina": "Direito Empresarial",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "04_contratos_empresariais",
+    "modulo_nome": "Contratos Empresariais e Bancários",
+    "id": 2
+  },
+  {
+    "num": 49,
+    "enunciado": "Marialva Castro foi nomeada pelo empresário individual Wenceslau Paiçandu como gerente do seu estabelecimento, intitulado Hortifruti Fazenda Rio Grande. No instrumento de outorga de poderes consta que Marialva Castro não está autorizada a conceder desconto de preços nem receber pagamentos por cartão de crédito. De acordo com o Código Civil, considerando os fatos narrados e a condição de preposto de Marialva Castro, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "As limitações contidas na outorga de poderes pelo empresário ao preposto, para serem opostas a terceiros, dependem do arquivamento e da averbação do instrumento no Registro Público de Empresas Mercantis.",
+      "B": "As limitações contidas na outorga de poderes pelo empresário ao preposto, para serem opostas a terceiros, dependem do arquivamento e da averbação do instrumento no Registro de Títulos e Documentos.",
+      "C": "A modificação ou a revogação dos poderes concedidos por Wenceslau Paiçandu a Marialva Castro pode ser feita sem necessidade de arquivamento e de averbação do novo documento no Registro Público de Empresas Mercantis, a cargo das Juntas Comerciais.",
+      "D": "Independentemente do arquivamento e da averbação do instrumento de outorga de poderes em qualquer registro, Wenceslau Paiçandu responderá por quaisquer atos praticados pela gerente, dentro ou fora dos limites fixados, mesmo provado que a pessoa que tratou com o gerente conhecia tais restrições."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "04_contratos_empresariais",
+    "modulo_nome": "Contratos Empresariais e Bancários",
+    "id": 3
+  },
+  {
+    "num": 49,
+    "enunciado": "Uma sociedade simples que adotou um dos tipos societários previstos no Código Civil, com sede em Guarapari/ES, foi constituída por prazo determinado, até 31 de dezembro de 2023. Sobre a situação da sociedade empresária a partir de 1º de janeiro de 2024, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ela continuará em atividade normalmente até que algum sócio ou credor requeira sua dissolução judicial nos 30 (trinta) dias seguintes após o término do prazo de duração.",
+      "B": "Os administradores devem providenciar imediatamente a investidura do liquidante, mantendo os negócios sociais por até 180 dias (cento e oitenta dia s) ; findo esse prazo, a continuidade da atividade implica na responsabilidade ilimitada e solidária deles.",
+      "C": "A dissolução judicial da sociedade pode ser requerida por qualquer sócio, devido ao exaurimento do fim social, cabendo ao Juiz a nomeação do liquidante.",
+      "D": "A sociedade reputa-se dissolvida em razão do vencimento do prazo de duração, salvo se, sem oposição de sócio, não entrar a sociedade em liquidação, caso em que se prorrogará por tempo indeterminado."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Empresarial",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_contratos_empresariais",
+    "modulo_nome": "Contratos Empresariais e Bancários",
+    "id": 4
+  },
+  {
+    "num": 50,
+    "enunciado": "A sociedade empresária Elétrica Passa Sete Ltda., por meio de seu administrador, ajuizou tempestivamente ação renovatória de locação não residencial referente ao imóvel onde está localizada a filial na cidade de Varginha, MG. Na petição inicial, a autora indicou as condições oferecidas para a renovação da locação, especialmente o novo valor do aluguel proposto. Apresentada a contestação, o locador informou que recebeu proposta de terceiro para a nova locação em condições melhores do que aquelas propostas pela locatária na petição inicial, sendo o valor locativo do imóvel 12% maior do que o oferecido pela locatária. Considerados os fatos narrados, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O locador não pode apresentar na contestação proposta de terceiro para a locação, ainda que em condições melhores, diante do direito potestativo do locatário à renovação compulsória.",
+      "B": "A proposta de terceiro pode ser apresentada em documento público ou particular. Caso o documento seja particular e esteja com assinatura autenticada, é dispensável a intervenção de testemunhas.",
+      "C": "O locatário poderá, em réplica, manifestar ao locador que aceita as condições apresentadas por terceiro para obter a renovação pretendida.",
+      "D": "O ramo de negócio a ser explorado pelo terceiro proponente pode ou não ser o mesmo do locatário, desde que seja explorado continuadamente nos últimos três anos."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Empresarial",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "04_contratos_empresariais",
+    "modulo_nome": "Contratos Empresariais e Bancários",
+    "id": 5
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "num": 71,
+    "enunciado": "Francisco é caseiro desde 2019 em uma chácara localizada em área urbana, cujo proprietário aluga o imóvel por temporada por meio de um site especializado neste tipo de negociação. Francisco tem a incumbência de manter limpa a casa, receber os locatários e atender às eventuais necessidades deles no tocante ao conforto e à segurança. Além disso, de 2ª feira a sábado, Francisco faz a manutenção geral do local, independentemente de estar locado, para que a aparência esteja sempre impecável e, assim, os hóspedes recomendem a estadia na chácara a outros candidatos. Diante desta situação e das normas de regência, assinale a opção que indica a categoria profissional de Francisco.",
+    "alternativas": {
+      "A": "Trabalhador intermitente.",
+      "B": "Empregado doméstico.",
+      "C": "Empregado rural.",
+      "D": "Empregado comum."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "07_saude_seguranca",
+    "modulo_nome": "Segurança, Saúde no Trabalho e Insalubridade/Periculosidade",
+    "id": 1
+  },
+  {
+    "num": 74,
+    "enunciado": "Plínio Salgado ficou afastado do trabalho por 8 meses em benefício previdenciário decorrente de doença ocupacional relacionada ao trabalho. Ao retornar após a alta médica, foi informado que não teria direito ao gozo de férias, pois necessitaria cumprir mais um ano de trabalho, bem como seu FGTS deixou de ser depositado, já que não houve trabalho. Além disso, seu salário permaneceu congelado, por não haver trabalho, não lhe sendo devidas as diferenças salariais decorrentes do aumento espontâneo concedido pelo empregador aos empregados que estavam ativos. Na qualidade de advogado(a) de Plínio, assinale a opção que, corretamente, contempla os efetivos direitos de seu cliente.",
+    "alternativas": {
+      "A": "Plínio apenas faz jus aos depósitos do FGTS do período de afastamento, bem como ao reajuste salarial concedido pelo empregador.",
+      "B": "Plínio faz jus aos depósitos do FGTS do período de afastamento, bem como ao reajuste salarial concedido pelo empregador e ao cômputo do período de afastamento no período aquisitivo de férias.",
+      "C": "Plínio não tem direito ao reajuste salarial, pois não houve contraprestação no período do aumento espontâneo, não se tratando de norma coletiva.",
+      "D": "Plínio não tem direito aos valores do FGTS do período, pois em gozo do benefício previdenciário não há cômputo do tempo de serviço."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Trabalho",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "07_saude_seguranca",
+    "modulo_nome": "Segurança, Saúde no Trabalho e Insalubridade/Periculosidade",
+    "id": 2
+  },
+  {
+    "num": 72,
+    "enunciado": "Constantino é empregado em uma indústria de fabricação de móveis. O empregador ficou ciente de que o Ministério Público Estadual apresentou denúncia contra Constantino pela prática de fato típico, antijurídico e culpável, praticado durante uma assembleia de condomínio contra um morador do mesmo prédio. A denúncia foi recebida pelo juiz criminal e o processo penal teve início. A sociedade empresária consulta você, como advogado(a) , para saber que efeito jurídico essa situação terá no contrato de trabalho. De acordo com a legislação em vigor, assinale a afirmativa que, corretamente, apresenta sua resposta.",
+    "alternativas": {
+      "A": "O contrato de trabalho de Constantino ficará suspenso pelo recebimento da denúncia.",
+      "B": "O recebimento da denúncia é falta grave que automaticamente ensejará a extinção do contrato por justa causa.",
+      "C": "Nenhuma consequência haverá no contrato de trabalho, porque a presunção é de inocência.",
+      "D": "O contrato de trabalho ficará interrompido e Constantino será considerado licenciado até o término da ação penal."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "07_saude_seguranca",
+    "modulo_nome": "Segurança, Saúde no Trabalho e Insalubridade/Periculosidade",
+    "id": 3
+  },
+  {
+    "num": 75,
+    "enunciado": "Em sede de acordo coletivo, firmado em janeiro de 2024 e com vigência de dois anos, entre uma sociedade empresária e o sindicato da categoria profissional, constou cláusula determinando que o tempo de deslocamento dos empregados do portão até o interior da sociedade empresária, onde se situa o relógio de ponto, seria computado na jornada de trabalho. Isso porque o deslocamento é feito em transporte fornecido pela sociedade empresária e dura cerca de 20 minutos. Sobre a jornada, não consta mais nada na norma coletiva. A sociedade empresária, por liberalidade, mantém salas de recreação, biblioteca e uma capela. A utilização desses espaços antes e após o trabalho e durante os intervalos é facultada aos empregados. Em razão do ajuizamento de uma ação trabalhista por um exempregado, a sociedade",
+    "alternativas": {
+      "A": "Todos os períodos não se computam na jornada de trabalho dos empregados.",
+      "B": "Apenas o tempo de utilização da capela deve ser computado na jornada, pois o Estado é laico.",
+      "C": "Apenas o período de deslocamento deve integrar a jornada por força da norma coletiva. Os demais períodos não são considerados tempo à disposição.",
+      "D": "O período de deslocamento assim como o período de utilização da biblioteca, voltado para o estudo, devem ser computados na jornada. Os demais períodos não são computados na jornada."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "07_saude_seguranca",
+    "modulo_nome": "Segurança, Saúde no Trabalho e Insalubridade/Periculosidade",
+    "id": 4
+  },
+  {
+    "num": 75,
+    "enunciado": "Você foi consultado, na qualidade de advogado(a) , por quatro mulheres trabalhadoras (Ligia, Paula, Geórgia e Sílvi a) , acerca de situações específicas que ocorreram no mercado de trabalho. Ligia indagou sobre um anúncio de emprego para chefe de cozinha que continha expressa referência à preferência por homens. Paula teria sido preterida em promoção, porque estava grávida de 6 meses e entraria em licença-maternidade em pouco tempo. De Geórgia, na entrevista de emprego, foi exigido, como condicionante da contratação, o atestado de que não estaria grávida. Sílvia perguntou acerca de um anúncio de empregos exclusivos para homens, no qual havia a descrição dos serviços como sendo de transporte, armazenagem e movimentação de cargas de 30 kg, sem o auxílio de meios mecânicos. Acerca da sua resp",
+    "alternativas": {
+      "B": "Todas as exigências são ilegítimas, pois violam os direitos da mulher e demonstram discriminação no mercado de trabalho.",
+      "C": "As exigências nos casos de Ligia, Paula e Geórgia são ilegais, por violarem direitos das mulheres; em relação ao caso de Sílvia, a exigência é legítima.",
+      "D": "As exigências relacionadas a Paula e a Geórgia são ilícitas, pois ferem o direito à maternidade, sendo as demais justificáveis, com base nas naturais exigências do mercado de trabalho."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "07_saude_seguranca",
+    "modulo_nome": "Segurança, Saúde no Trabalho e Insalubridade/Periculosidade",
+    "id": 5
+  },
+  {
+    "num": 73,
+    "enunciado": "Pedro trabalha numa sociedade empresária desde 2022. Na norma coletiva da categoria de Pedro há uma cláusula que fixa o intervalo intrajornada de 20 minutos para a jornada superior a seis horas diárias e, outra cláusula, prevendo que a remuneração do trabalho noturno será igual à do diurno. Considerando o que foi estipulado na norma coletiva, de acordo com a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ambas as cláusulas da norma coletiva são inválidas.",
+      "B": "Somente a cláusula relativa ao trabalho noturno é válida.",
+      "C": "Somente a cláusula relativa ao intervalo intrajornada é válida.",
+      "D": "Ambas as cláusulas são válidas, porque relativas a direitos passíveis de negociação."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Trabalho",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "07_saude_seguranca",
+    "modulo_nome": "Segurança, Saúde no Trabalho e Insalubridade/Periculosidade",
+    "id": 6
+  }
+]

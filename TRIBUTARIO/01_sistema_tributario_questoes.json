@@ -1,0 +1,135 @@
+[
+  {
+    "num": 21,
+    "enunciado": "Em Londres, uma sociedade empresária chinesa contratou, com uma sociedade empresária alemã, a entrega de 20.000 toneladas de minério de ferro no Porto de Santos, São Paulo. Por problemas relacionados ao desembarque da mercadoria, a sociedade empresária chinesa resolveu demandar em face da alemã. De acordo com as normas de Direito Internacional Privado brasileiro, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A competência para processar e julgar a demada é exclusivamente da autoridade judiciária inglesa.",
+      "B": "A competência para processar e julgar a demanda é concorrentemente das autoridades judiciárias alemã e chinesa.",
+      "C": "A Justiça brasileira é concorrentemente competente para processar e julgar a demanda.",
+      "D": "A Justiça alemã é exclusivamente competente para processar e julgar a demanda. 7 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Tributário",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 1
+  },
+  {
+    "num": 28,
+    "enunciado": "O Estado Alfa alterou, por meio de lei, a contribuição social para custeio do regime próprio de previdência social, cobrada dos seus servidores ativos, dos aposentados e dos pensionistas. José e Márcio são servidores públicos do mesmo órgão estadual, ganhando cada um, respectivamente, a remuneração mensal de 15 mil reais e 10 mil reais. José, ao notar que a alíquota incidente sobre sua remuneração era de 16,5%, ao passo que para Márcio a alíquota era de 14,5%, ficou indignado e, em relação a essa situação diferenciada, resolve contratar você, como advogado(a) , para um eventual questionamento judicial. A respeito da posição de José, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Nenhum tributo incidente sobre a renda ou proventos poderá ter alíquotas progressivas, sob pena de violar a capacidade contributiva.",
+      "B": "É vedada a adoção de alíquotas progressivas para esta espécie de contribuição social, em respeito ao princípio da capacidade contributiva.",
+      "C": "A progressividade tributária deve ser obrigatoriamente adotada para todos os tributos estaduais, nos termos da CRFB/88, garantindo-se efetividade ao princípio da capacidade contributiva.",
+      "D": "Esta espécie de contribuição social poderá ter alíquotas progressivas de acordo com o valor da base de contribuição."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Tributário",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 2
+  },
+  {
+    "num": 26,
+    "enunciado": "Para conter a escalada de preços dos combustíveis que vem afetando a economia nacional, a equipe econômica do governo federal estuda a possibilidade de conceder, mediante lei complementar editada exclusivamente para tal fim, uma isenção temporária de um ano sobre todos os tributos federais e estaduais incidentes sobre os combustíveis (petróleo e derivado s) , atendendo aos requisitos das leis orçamentárias. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A concessão de tal isenção, mediante lei complementar, de caráter nacional, exclusivamente para este fim é admitida pela Constituição Federal.",
+      "B": "Sendo tal benefício fiscal apenas temporário, pode ser excepcionalmente admitido por ter, como causa, uma situação extraordinária de interesse nacional.",
+      "C": "Tal lei afronta a Constituição Federal ao atingir tributos de competência estadual.",
+      "D": "A competência tributária é privativa da Agência Nacional de Petróleo (ANP) quanto à tributação de combustíveis, e tal lei acaba por violá-la."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Tributário",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 3
+  },
+  {
+    "num": 29,
+    "enunciado": "Foi criado o Território Federal Alfa no Brasil, com a determinação de que, por sua extensão, deveria ser dividido em municípios. À luz do texto da Constituição Federal de 1988, sobre a cobrança de impostos nesse novo Território Federal, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Os impostos federais e municipais devem ser cobrados, mas os estaduais não, porque o Território não é Estado-membro.",
+      "B": "Os impostos federais e estaduais cobrados pertencerão à União, enquanto os impostos municipais pertencerão a cada um dos Municípios em que está dividido o Território.",
+      "C": "Os impostos federais cobrados pertencerão à União, mas os impostos estaduais e municipais pertencerão a cada um dos Municípios em que está dividido o Território.",
+      "D": "Os impostos cobrados, seja os federais, seja os estaduais, seja os municipais, pertencerão à União."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Tributário",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 4
+  },
+  {
+    "num": 27,
+    "enunciado": "Visando à melhoria do serviço de iluminação pública e da segurança no Município Alfa, foi publicada lei municipal, em 20/02/2024, instituindo uma contribuição cuja arrecadação estaria vinculada ao custeio, à expansão e à melhoria do serviço de iluminação pública e de sistemas de monitoramento para a segurança e a preservação de logradouros públicos. Acerca desta lei, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A contribuição poderia ser instituída e vinculada a todas essas finalidades, por expressa previsão constitucional.",
+      "B": "É inconstitucional a tentativa de custear a iluminação pública por espécie tributária distinta de impostos.",
+      "C": "A implantação de sistemas de monitoramento para a segurança e a preservação de logradouros públicos somente poderia ser custeada com recursos advindos de taxas, e não de uma contribuição.",
+      "D": "A implantação de sistemas de monitoramento para a segurança e a preservação de logradouros públicos somente poderia ser custeada com recursos advindos de impostos, e não de uma contribuição."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Tributário",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 5
+  },
+  {
+    "num": 25,
+    "enunciado": "Nova lei federal, ampliando o prazo de pagamento de certo tributo federal, foi publicada em 15/06/2023. Contudo, seu texto foi omisso quanto ao momento em que entraria em vigor. Diante desse cenário de omissão, assinale a opção que indica, corretamente, o momento em que tal lei tributária entrará em vigor, em todo o país.",
+    "alternativas": {
+      "A": "30 dias depois de oficialmente publicada.",
+      "B": "45 dias depois de oficialmente publicada.",
+      "C": "90 dias depois de oficialmente publicada.",
+      "D": "no 1º dia do exercício seguinte àquele em que foi oficialmente publicada."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Tributário",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 6
+  },
+  {
+    "num": 28,
+    "enunciado": "A lei federal que instituiu a Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados (Cide Combustívei s) fixou a alíquota do álcool etílico combustível em R$ 37,20/m³ para a comercialização no mercado interno. Contudo, o governo federal, querendo estimular o uso do álcool etílico combustível, pelo Decreto do Presidente da República nº XXX, de 1º de agosto de 2024, reduziu esta alíquota para R$ 20,50/m³. Mudada a política governamental sobre a matéria, pelo Decreto nº YYY, datado de 1º de fevereiro de 2025, tal alíquota foi restabelecida em R$ 37,20/m³, com efeitos a serem produzidos a partir de 3 de junho de 2025. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A produção de efeitos do Decreto nº YYY a partir de 3 de junho de 2025 viola o princípio da anterioridade tributária anual.",
+      "B": "A redução da alíquota para R$ 20,50/m³ por decreto é inconstitucional, ainda que seja mais benéfica ao sujeito passivo tributário.",
+      "C": "A redução da alíquota para R$ 20,50/m³ e seu restabelecimento para R$ 37,20/m³ podem ser feitas por decreto.",
+      "D": "O restabelecimento de tal alíquota da Cide Combustíveis para o patamar de R$ 37,20/m³ por decreto viola o princípio da legalidade tributária."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Tributário",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_sistema_tributario",
+    "modulo_nome": "Sistema Tributário Nacional e Princípios Constitutional-Tributários",
+    "id": 7
+  }
+]

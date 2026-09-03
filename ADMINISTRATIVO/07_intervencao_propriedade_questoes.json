@@ -1,0 +1,118 @@
+[
+  {
+    "num": 30,
+    "enunciado": "O pequeno Município Alfa, situado no interior do Estado Beta, enfrenta grave problema de abastecimento de água potável, pois não há fornecimento de água encanada para determinada região da cidade, por dificuldades técnicas. Visando à resolução para a questão juntamente com a iniciativa privada, o Município Alfa pretende, mediante licitação, contratar objeto que envolva inovação tecnológica ou técnica, sendo imprescindível a adaptação de soluções disponíveis no mercado. Atualmente, verifica-se a impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela Administração, razão pela qual é preciso o prévio debate com o setor privado, para se definirem e se identificarem os meios e as alternativas que possam satisfazer as necessidades da administração municipal. A",
+    "alternativas": {
+      "A": "concorrência, que é mais abrangente, seja do ponto de vista do valor do contrato, seja por contemplar variados objetos.",
+      "B": "leilão, em que serão admitidos como licitantes todos os interessados que preencherem os requisitos objetivos estabelecidos.",
+      "C": "concurso, no qual o poder público municipal não poderá revelar a outros licitantes as soluções técnicas propostas por um concorrente.",
+      "D": "diálogo competitivo, em que os licitantes devem apresentar proposta final após o encerramento dos diálogos."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "legislative_warning": "Questão sobre licitação elaborada no período de transição legislativa. Pode conter referências a regras das Leis 8.666/93 ou 10.520/02 desatualizadas frente à Lei 14.133/2021.",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "07_intervencao_propriedade",
+    "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
+    "id": 1
+  },
+  {
+    "num": 33,
+    "enunciado": "A sociedade empresária Alfa praticou ato lesivo à administração pública do Estado Beta, pois, em matéria de licitações e contratos, obteve vantagem indevida, de modo fraudulento, em sucessivas prorrogações de contrato administrativo, sem autorização legal, no ato convocatório da licitação pública ou no respectivo instrumento contratual. Com a devida orientação de seu advogado, visando obter isenção de sanções que provavelmente lhe seriam aplicadas, a sociedade empresária firmou com o Estado Beta acordo de leniência. No caso em tela, nos termos da chamada Lei Anticorrupção (Lei nº 12.846/13), a celebração do citado acordo isentará a sociedade empresária Alfa da proibição de receber incentivos, subsídios, subvenções, doações ou empréstimos na forma prevista na lei, bem como da sanção de",
+    "alternativas": {
+      "A": "multa civil, e reduzirá à metade a obrigação de ressarcimento dos danos ao erário.",
+      "B": "obrigação de ressarcimento ao erário e da medida de suspensão ou interdição parcial de suas atividades.",
+      "C": "publicação extraordinária da decisão condenatória e reduzirá, em até 2/3 (dois terço s) , o valor da multa aplicável.",
+      "D": "multa administrativa, e condicionará a manutenção das atividades da pessoa jurídica à adoção de programa de integridade, no prazo de 90 (noventa) dias da assinatura do acordo."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Administrativo",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "legislative_warning": "Questão sobre licitação elaborada no período de transição legislativa. Pode conter referências a regras das Leis 8.666/93 ou 10.520/02 desatualizadas frente à Lei 14.133/2021.",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "07_intervencao_propriedade",
+    "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
+    "id": 2
+  },
+  {
+    "num": 31,
+    "enunciado": "Há mais de dez anos o Município Delta trava uma batalha judicial com a sociedade empresária Ipsilone, em decorrência de uma construção irregular, que, apesar de não causar qualquer tipo de risco, não logrou obter a devida licença administrativa por violar formalmente as normas então vigentes, mas que trouxe diversos benefícios sociais e turísticos para a coletividade. Em decorrência do clamor público, o prefeito do Município Delta determinou a realização de uma consulta pública, para viabilizar a celebração de um compromisso que encerrasse a situação jurídica contenciosa, com vistas a melhor atender ao interesse geral. Em razão disso, os representantes da sociedade Ipsilone buscaram você, como advogado(a) , com o objetivo de esclarecer se a conduta do prefeito está adequada ao ordenamento ",
+    "alternativas": {
+      "A": "É vedado ao Município Delta realizar o almejado compromisso com a sociedade Ipsilone em decorrência do princípio da indisponibilidade do interesse público.",
+      "B": "O referido compromisso poderá conferir à sociedade Ipsilone a desoneração permanente de dever reconhecido por orientação geral, diante do princípio da supremacia do interesse público.",
+      "C": "O compromisso pretendido deve produzir efeitos a partir da respectiva formalização, antes mesmo de sua publicação oficial, à luz do princípio da transparência.",
+      "D": "O compromisso em questão deverá buscar solução jurídica proporcional, equânime, eficiente e compatível com os interesses gerais."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "07_intervencao_propriedade",
+    "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
+    "id": 3
+  },
+  {
+    "num": 30,
+    "enunciado": "Tertuliano vem acumulando ilicitamente dois cargos públicos em autarquias federais diferentes. Ao detectar tal situação, após os devidos trâmites, a autoridade competente notificou o servidor para que ele optasse pelo cargo em que pretendia permanecer. Em decorrência da omissão de Tertuliano em realizar a aludida escolha, foi publicada a portaria atinente à instauração do processo administrativo disciplinar por acumulação ilegal de cargos. Tertuliano procurou você, como advogado(a) , para saber das peculiaridades do andamento desse procedimento. Diante dessa situação hipotética, assinale a afirmativa que indica, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "A análise do caso deverá ser feita por uma comissão processante, composta de três servidores estáveis, cujo presidente deverá ser ocupante de cargo superior ou de mesmo nível de Tertuliano.",
+      "B": "A comissão processante, caracterizada a acumulação ilegal e provada a má-fé de Tertuliano, deverá indicar o cargo que estará sujeito à pena de demissão.",
+      "C": "A notificação para que Tertuliano realize a opção por um dos cargos vai contra a lei, pois ele deve ser demitido de ambos os cargos ilicitamente acumulados, após o devido processo administrativo.",
+      "D": "A opção de Tertuliano por um dos cargos até o último dia do prazo para defesa configura sua boa-fé, hipótese que se converterá, automaticamente, em pedido de exoneração do outro cargo."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "07_intervencao_propriedade",
+    "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
+    "id": 4
+  },
+  {
+    "num": 33,
+    "enunciado": "A sociedade empresária Bemquerer obteve junto ao órgão municipal competente uma licença, que não tem cunho ambiental, versando sobre matéria administrativa, a qual é ato vinculado, mediante o preenchimento dos requisitos legais, de acordo com a orientação geral da Administração, vigente à época do deferimento, quanto a certo conceito jurídico indeterminado constante da respectiva norma local. Diante da relevância de tal licença para as suas atividades, os dirigentes da aludida sociedade consultaram você, na condição de advogado(a) , em relação à viabilidade de modificação da situação jurídica deles, em decorrência de eventual mudança de entendimento atinente ao referido conceito jurídico indeterminado, notadamente se a nova orientação vier a impor um novo condicionamento para o Direito. À ",
+    "alternativas": {
+      "A": "Caso nova orientação geral venha a ser editada pela Administração, deve ser invalidada situação jurídica consolidada para a sociedade Bemquerer, mesmo que a licença ainda esteja em seu prazo de validade, considerando que a anulação deve operar efeitos retroativos.",
+      "B": "Eventual mudança de orientação geral em sede administrativa deve retroagir para alcançar a situação jurídica constituída para a sociedade Bemquerer, independentemente da orientação vigente à época do deferimento da licença, o que importaria necessariamente na revogação do ato deferido.",
+      "C": "O entendimento que permitiu o deferimento da licença para a sociedade Bemquerer apenas poderia prevalecer se fundado em jurisprudência firmada no âmbito do Poder Judiciário, considerando que as diretrizes estabelecidas em sede administrativa não podem ser consideradas orientações gerais.",
+      "D": "A decisão administrativa que venha a estabelecer nova orientação que preveja novo condicionamento do Direito, deverá prever regime de transição para que a sociedade Bemquerer possa cumprir tal condicionamento ulterior de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "07_intervencao_propriedade",
+    "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
+    "id": 5
+  },
+  {
+    "num": 31,
+    "enunciado": "O Estado Alfa, cuja capital é o Município Beta, mediante decreto do Governador, em observância às formalidades legais, declarou de utilidade pública uma grande área localizada no Município Sigma, sede de Comarca, a qual abarca o imóvel pertencente ao particular João. Em razão do grande apego emocional com a localidade, onde vive há 25 anos, João recusou todas as propostas oferecidas pelo Poder Público e tentou impedir que as autoridades administrativas estaduais ingressassem no terreno do seu imóvel para a realização de levantamentos. Por isso, o Estado Alfa pretende ingressar, em juízo, com uma ação visando à desapropriação do bem. Preocupado, João contratou você, como advogado(a) , para defendê-lo na futura demanda judicial. Nesse cenário, considerando as disposições do Decreto-Lei nº 3.",
+    "alternativas": {
+      "A": "A ação judicial deverá ser proposta pelo expropriante no foro da situação do bem imóvel, ou seja, na Comarca do Município Sigma.",
+      "B": "As autoridades administrativas do Estado Alfa poderão ingressar nas áreas compreendidas pela declaração de utilidade pública após a autorização judicial específica, ouvido o expropriado João.",
+      "C": "O Estado Alfa poderá se imitir provisoriamente na posse do imóvel de João, desde que, declarada a situação de urgência, deposite, em juízo, o valor que o expropriado João entender justo a título de indenização.",
+      "D": "Incumbirá ao expropriado João, em sede de contestação, expor todas as razões de fato e de direito com que impugna o pedido do expropriante, especificando as provas que pretende produzir para demonstrar que inexiste utilidade pública na desapropriação almejada pelo Estado Alfa."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "07_intervencao_propriedade",
+    "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
+    "id": 6
+  }
+]

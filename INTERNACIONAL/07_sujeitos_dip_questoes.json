@@ -1,0 +1,40 @@
+[
+  {
+    "num": 21,
+    "enunciado": "Uma sociedade empresária colombiana celebrou, na Inglaterra, com uma sociedade alemã, um contrato para a entrega de 500 (quinhentas) sacas de café tipo arábica no Porto de Santos, Brasil, sem cláusula de eleição de foro exclusivo. Durante o transporte, houve um acidente com a embarcação, que acarretou o perecimento da mercadoria. Você, como advogado(a) , é procurado(a) para ajuizar a presente ação. De acordo com o direito internacional privado brasileiro, assinale a opção que indica a autoridade judiciária competente para processar e julgar eventual demanda entre as contratantes.",
+    "alternativas": {
+      "A": "A autoridade judiciária inglesa, única e exclusivamente.",
+      "B": "A autoridade judiciária colombiana, concorrentemente.",
+      "C": "A autoridade judiciária alemã, única e exclusivamente.",
+      "D": "A autoridade judiciária brasileira, concorrentemente."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Internacional",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "07_sujeitos_dip",
+    "modulo_nome": "Sujeitos de Direito Internacional Público e Organizações",
+    "id": 1
+  },
+  {
+    "num": 21,
+    "enunciado": "João, brasileiro domiciliado no Japão, celebrou um contrato presencial no Japão com Adam, estrangeiro domiciliado no Brasil, com uma cláusula de eleição de foro, em que o Brasil foi escolhido como competente para resolver eventuais conflitos. A controvérsia sobre o contrato foi submetida à justiça brasileira. Assinale a opção que indica, conforme a Lei de Introdução às normas do Direito Brasileiro (LINDB), a lei que deve ser aplicada para a resolução da lide.",
+    "alternativas": {
+      "A": "A do Brasil, devido à cláusula de eleição de foro.",
+      "B": "A do Japão, porque é o local em que João é domiciliado.",
+      "C": "A do Brasil, porque é o local em que Adam é domiciliado.",
+      "D": "A do Japão, porque é o local em que o contrato foi celebrado."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Internacional",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "07_sujeitos_dip",
+    "modulo_nome": "Sujeitos de Direito Internacional Público e Organizações",
+    "id": 2
+  }
+]

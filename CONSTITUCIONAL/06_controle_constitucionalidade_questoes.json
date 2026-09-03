@@ -1,0 +1,135 @@
+[
+  {
+    "num": 16,
+    "enunciado": "O Presidente da República, ao finalizar projeto de lei de sua iniciativa privativa, é aconselhado por um assessor que encaminhe o texto ao Senado Federal, de forma a ali dar início à discussão e à votação do referido projeto. A justificativa para que o Senado Federal fosse definido como a casa iniciadora do projeto de lei era a de que a matéria teria recebido grande apoio no âmbito do Senado Federal. O Presidente da República, então, solicita que sua assessoria analise a possibilidade ventilada. Estes, após cuidadosa avaliação, informam ao Presidente da República que, segundo a ordem jurídico-constitucional brasileira, a discussão e a votação dos projetos de lei de iniciativa do Presidente da República terão início",
+    "alternativas": {
+      "A": "na Câmara dos Deputados ou no Senado Federal, conforme escolha discricionária de sua parte.",
+      "B": "na Câmara dos Deputados, necessariamente, sendo que ao Senado Federal restará o papel de casa revisora.",
+      "C": "por vezes na Câmara dos Deputados, por vezes no Senado Federal, devendo apenas ser respeitada a regra de alternância entre elas.",
+      "D": "por regra, no Senado Federal, salvo exceções estabelecidas na Constituição Federal de 1988. 6 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 1
+  },
+  {
+    "num": 12,
+    "enunciado": "O Presidente da República promulgou a Lei Federal XX/2022, versando sobre certa matéria, que também poderia ser objeto de medida provisória. Tal lei vem sendo aplicada normalmente por diversos órgãos judiciais e administrativos do País. No entanto, convicto da inconstitucionalidade da Lei Federal XX/2022, um legitimado resolveu ajuizar ação direta de inconstitucionalidade (ADI) perante o Supremo Tribunal Federal (STF) contra o referido diploma legal. No julgamento da ADI, o Plenário do STF resolve, por maioria absoluta de seis Ministros, julgar procedente o pedido e declarar a inconstitucionalidade da Lei Federal XX/2022. Com base na situação hipotética apresentada, assinale a opção que está de acordo com o sistema brasileiro de controle de constitucionalidade.",
+    "alternativas": {
+      "A": "A decisão final de mérito do STF no julgamento da ADI em tela vincula todo o Poder Judiciário, incluindo o próprio Pleno do Tribunal.",
+      "B": "O Presidente da República poderá editar medida provisória sobre a matéria, porque, ao exercer função legislativa, não está vinculado à decisão definitiva de mérito do STF, proferida em sede de ADI.",
+      "C": "A decisão definitiva de mérito proferida pelo STF no julgamento da referida ADI produz eficácia erga omnes, porque vincula plenamente todos os três Poderes do Estado (Executivo, Legislativo e Judiciári o) .",
+      "D": "Apenas a Administração Pública direta, nas esferas federal, estadual e municipal, está vinculada à decisão definitiva de mérito proferida pelo STF em sede de ADI."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 2
+  },
+  {
+    "num": 15,
+    "enunciado": "Determinada associação nacional, que congrega oficiais do registro e notários, foi surpreendida com a publicação da Lei Federal X, que mudou a destinação dos emolumentos cartorários, de modo que uma parte dos valores arrecadados passaria a ser destinada a políticas públicas do governo federal na área de educação. Considerando a iminente perda de arrecadação, a associação procura você, na qualidade de advogado(a) , para saber da constitucionalidade da Lei Federal X. Com base na hipótese narrada e no sistema jurídico-constitucional brasileiro, assinale a opção que apresenta, corretamente, o seu parecer.",
+    "alternativas": {
+      "A": "Não há inconstitucionalidade na Lei Federal X, pois os emolumentos cartorários, por serem recursos públicos, devem ter a destinação que lhe é atribuída em lei.",
+      "B": "A Lei Federal X é inconstitucional, pois vincula a destinação dos emolumentos cartorários a finalidade diversa daquela prevista na ordem constitucional.",
+      "C": "A Lei Federal X é coerente com o sistema constitucional, pois mudou a destinação dos emolumentos cartorários apenas no âmbito da União.",
+      "D": "Os emolumentos cartorários devem ser direcionados ao custeio da seguridade social, logo, a Lei Federal X afronta a ordem constitucional."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 3
+  },
+  {
+    "num": 11,
+    "enunciado": "No processo legislativo afeto ao projeto de Lei Complementar nº XXX e à proposta de Emenda Constitucional nº YYY, o Congresso Nacional aprovou a redação final de ambas. Como divulgado pela imprensa, auxiliares do Presidente da República entendiam que, tanto o projeto de Lei Complementar quanto a proposta de Emenda Constitucional melhor atenderiam aos seus objetivos se fossem suprimidos alguns dispositivos de ambos. Com essa convicção, sugeriram que o Presidente da República usasse do seu poder de veto, a fim de adequar os referidos textos àquilo que entendiam ser melhor para os interesses do país. Sobre o poder de veto do Poder Executivo, segundo o sistema jurídico constitucional brasileiro, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A Constituição da República não concede o poder de veto ao Chefe do Poder Executivo, por ser um instituto jurídico que desequilibraria a divisão de poderes.",
+      "B": "O Presidente da República pode vetar parte do projeto de Lei Complementar nº XXX, mas não têm poderes para fazer o mesmo em relação à proposta de Emenda Constitucional nº YYY.",
+      "C": "O poder de veto do Presidente da República se restringe às leis ordinárias, logo, não poderá vetar dispositivos do projeto de Lei Complementar nº XXX e da proposta de Emenda Constitucional nº YYY.",
+      "D": "Os dispositivos pertencentes ao projeto de Lei Complementar nº XXX e à proposta de Emenda Constitucional nº YYY podem ser vetados, conforme as competências concedidas àquele que detém a Chefia do Poder Executivo."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 4
+  },
+  {
+    "num": 13,
+    "enunciado": "Em razão de fenômenos climáticos que vêm ocorrendo de forma reiterada nos últimos anos, os Estados de determinada região do país vêm sofrendo grandes perdas econômicas, o que acentua o desequilíbrio socioeconômico em relação às demais regiões do país. Por haver no plano federal o entendimento de serem necessárias medidas que incentivem as atividades econômicas da região prejudicada, surgiu a proposta para que bancos estatais concedessem juros favorecidos para financiar atividades consideradas prioritárias para a região. A essa proposta se opôs o Governador do Estado Beta, que, entendendo haver inconstitucionalidade nela, solicitou aconselhamento jurídico ao seu corpo de advogados. Sobre a hipótese, segundo a perspectiva jurídico-constitucional brasileira, assinale a opção que apresenta, co",
+    "alternativas": {
+      "A": "O governador do Estado Beta está correto, em razão da violação ao princípio da igualdade de tratamento entre as regiões de um Estado Federal.",
+      "B": "A medida encontra respaldo constitucional por ser o combate às desigualdades regionais um objetivo fundamental da República.",
+      "C": "A proposta de bancos estatais oferecerem juros favorecidos afronta a ordem constitucional, mesmo que seja lícito combater as desigualdades regionais.",
+      "D": "O combate às desigualdades regionais não configura tema de índole constitucional, sendo seu enfrentamento delineado pela via legal, conforme a opção política do legislador."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 5
+  },
+  {
+    "num": 15,
+    "enunciado": "A partir da análise do conflito entre normas constitucionais originárias em uma relação processual, ambas válidas e vigentes, João, advogado do autor, sustentou que a norma X, por ser, sob a perspectiva conteudística, materialmente constitucional, deve ter preponderância sobre a norma Y, pois esta última versa sobre matéria que não é própria de uma Constituição, sendo considerada norma constitucional apenas sob o prisma da forma. Pedro, advogado da parte ex adversa, por não concordar com a análise de João, se opõe, afirmando que, sob uma perspectiva normativo-hierárquica, a discussão não possui sentido, já que, prima facie, ambas as normas possuem a mesma hierarquia no âmbito do ordenamento jurídico brasileiro. Sobre a hipótese apresentada, segundo a visão jurídicoconstitucional brasileira",
+    "alternativas": {
+      "A": "João está correto, pois as normas constitucionais, na perspectiva meramente formal, possuem, prima facie, status legal e, portanto, hierarquia inferior àquelas materialmente constitucionais.",
+      "B": "Pedro está correto, porque as normas formalmente constitucionais, sob a perspectiva do conteúdo, obrigatoriamente também o são sob a perspectiva de análise material.",
+      "C": "João, como a norma Y consubstancia norma constitucional somente sob o ponto de vista formal, está correto, pois há de se considerar que a ela deve ser sempre atribuído status supralegal, mas infraconstitucional.",
+      "D": "Pedro está correto, porque as normas X e Y, na perspectiva normativo-hierárquica, não possuem qualquer superioridade uma sobre a outra, sendo reconhecida em ambas a estatura constitucional."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 6
+  },
+  {
+    "num": 11,
+    "enunciado": "Maria descobriu que seu nome constava, erroneamente, em registros públicos estaduais como devedora de impostos, mesmo sem nada dever ao Fisco. Muito correta, procurou imediatamente a Secretaria de Estado da Fazenda do Estado Alfa, solicitando que fosse corrigida a informação. Porém, apesar das reiteradas solicitações, o órgão não realizou a retificação. Em razão disso, seu amigo Pedro sugeriu a impetração de um habeas data, o que seria feito diretamente por Maria, sem a presença de um(a) advogado(a) . Insegura, Maria procurou você, como advogado(a) , para saber se este seria o caminho adequado para a retificação desejada. Segundo o sistema jurídico-constitucional brasileiro, assinale a opção que apresenta, corretamente, a orientação a ser dada.",
+    "alternativas": {
+      "A": "A questão deve ser solucionada pela via do mandado de segurança, único remédio capaz de propiciar a retificação de dados, como no caso de Maria.",
+      "B": "O objetivo almejado por Maria deve ser atingido pela via de processo judicial sigiloso, não sendo o remédio sugerido hábil para solucionar o problema ventilado.",
+      "C": "Maria pode utilizar esse específico remédio constitucional, embora sua impetração vá depender da contratação de advogado(a) , que possua capacidade postulatória.",
+      "D": "O remédio constitucional em questão não é o instrumento adequado para o caso, pois é direcionado a situações em que se queira ter acesso a informações de sua própria pessoa."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "06_controle_constitucionalidade",
+    "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
+    "id": 7
+  }
+]

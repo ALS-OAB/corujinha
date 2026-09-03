@@ -1,0 +1,135 @@
+[
+  {
+    "num": 51,
+    "enunciado": "Joaquim celebrou com a concessionária Fast Car Ltda. contrato de compra e venda de veículo, com força de título executivo, em que restou prevista a entrega do automóvel, com indicação de seu valor (R$ 50.000,00), trinta dias após a avença. Não cumprido o contrato, Joaquim ajuizou execução para a entrega de coisa certa em face da referida loja. Citada, a ré não satisfez a obrigação, tendo a ordem de busca e apreensão restado infrutífera, uma vez que o bem não foi encontrado. Na qualidade de advogado(a) de Joaquim indique a providência a ser adotada para que Joaquim seja ressarcido dos danos sofridos.",
+    "alternativas": {
+      "A": "Propor ação de conhecimento para que a ré seja condenada ao pagamento da indenização pelos danos sofridos, na medida em que a ação proposta foi unicamente de execução para entrega de coisa certa.",
+      "B": "Pleitear, no mesmo processo, o recebimento tanto do valor da coisa como de perdas e danos, apurando-se em liquidação os prejuízos.",
+      "C": "Pleitear, no mesmo processo, o recebimento apenas do valor da coisa, sujeitando-se ao arbitramento judicial.",
+      "D": "Ajuizar outra execução, agora por quantia certa, uma vez que possui título executivo extrajudicial."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 1
+  },
+  {
+    "num": 53,
+    "enunciado": "Martina ajuizou ação pelo procedimento comum contra Marcela visando à indenização milionária, oportunidade na qual informou na petição inicial que não tinha interesse na audiência de conciliação. Após analisar a petição inicial, o MM. Juízo da 100ª Vara Cível da Comarca de Florianópolis/SC determinou a citação de Marcela para comparecer em audiência de conciliação, na forma do **Art. 334** do Código de Processo Civil e, eventualmente, apresentar contestação na forma do **Art. 335** do mesmo diploma legislativo. Após tomar conhecimento da ação indenizatória de Martina, Marcela apresentou petição concordando com o pedido de cancelamento da audiência de conciliação e se reservando o direito de apresentar contestação no prazo legal. Considerando que foram prestadas todas as informações e apres",
+    "alternativas": {
+      "A": "Da juntada nos autos do aviso de recebimento positivo do seu mandado de citação por correios.",
+      "B": "Da publicação da decisão do MM. Juízo da 100ª Vara Cível da Comarca de Florianópolis/SC que cancelar a audiência de conciliação agendada no despacho citatório.",
+      "C": "Do ato de protocolar o pedido de cancelamento da audiência de conciliação formulado por Marcela.",
+      "D": "Da audiência de conciliação, uma vez que o Código de Processo Civil obriga a realização desse ato processual, o qual não poderá ser cancelado por despacho do MM. Juízo da 100ª Vara Cível da Comarca de Florianópolis/SC."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Civil",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 2
+  },
+  {
+    "num": 55,
+    "enunciado": "Na qualidade de servidor público estadual, Marcos ajuizou ação pelo procedimento comum contra o Estado de Minas Gerais, buscando obter o pagamento de determinada verba remuneratória que lhe teria sido suprimida de forma administrativa, em contrariedade ao que dispõe a lei. Depois da citação do Estado de Minas Gerais e do regular curso do feito, o juiz responsável pela tramitação da ação julgou procedente o pedido formulado por Marcos, condenando o ente estatal ao pagamento da verba remuneratória. Na sequência, o cartório da serventia do juízo procedeu à intimação eletrônica das partes acerca da sentença, visto tratar-se de processo eletrônico. Sobre a situação hipotética descrita, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O prazo de que disporá o Estado de Minas Gerais para a interposição de eventual recurso de apelação será de 15 (quinze) dias úteis, contados do dia útil seguinte à consulta ao teor da intimação ou ao término do prazo para que a consulta se dê, dado que a intimação da sentença ocorreu de forma eletrônica, não devendo o prazo ser contado em dobro.",
+      "B": "O Estado de Minas Gerais poderá alegar a nulidade da intimação, visto não ser lícita a utilização de meio eletrônico para a comunicação de atos processuais, sendo imprescindível a intimação pessoal do ente estatal, que somente se pode dar por carga ou remessa dos autos.",
+      "C": "Caso o Estado de Minas Gerais tivesse interposto apelação antes de intimado eletronicamente da sentença, o recurso haveria de ser considerado intempestivo, por ter sido apresentado antes do termo inicial do prazo.",
+      "D": "Caso vislumbre omissão, contradição, obscuridade ou erro material na sentença, o Estado de Minas Gerais poderá opor embargos de declaração, no prazo de 10 (dez) dias úteis, considerando, como início do prazo, o dia útil seguinte à consulta ao teor da intimação ou ao término do prazo para que a consulta se dê, dado que gozará de prazo em dobro para todas as suas manifestações processuais."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 3
+  },
+  {
+    "num": 52,
+    "enunciado": "Neusa ajuizou ação condenatória em face de Marcelo. Em sua causa de pedir, a autora sustentou que o réu, conduzindo seu veículo de forma imprudente, avançou um sinal vermelho e colidiu contra o carro de Neusa, causando-lhe danos morais e materiais. Diante da necessidade de produção de prova oral, consistente em depoimento pessoal e prova testemunhal, o Juiz designou audiência de instrução e julgamento. As partes tempestivamente apresentaram suas testemunhas, que estavam nos respectivos veículos no momento da colisão. Neusa indicou Gabriel, seu filho de 17 anos. Por sua vez, Marcelo indicou João, seu amigo íntimo, e Regina, sua prima. Sobre o caso acima, segundo o ordenamento jurídico brasileiro, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Gabriel é incapaz de depor, por ser menor de 18 anos.",
+      "B": "João e Regina são testemunhas suspeitas, diante da amizade íntima e da relação de parentesco com Marcelo, respectivamente.",
+      "C": "Regina poderá depor como testemunha, não havendo impedimento referente à relação de parentesco que possui com Marcelo.",
+      "D": "O juiz poderá admitir o depoimento de João, ainda que amigo íntimo de Marcelo, caso em que será indispensável a prestação do compromisso de dizer a verdade."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Civil",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 4
+  },
+  {
+    "num": 54,
+    "enunciado": "Henrique propôs ação condenatória de alimentos em face de Juliano, seu pai. A sentença julgou procedente o pedido, condenando o réu ao pagamento de R$ 5.000 (cinco mil reai s) por mês. Inconformado, Juliano interpôs recurso de apelação, buscando a reforma da sentença. Após a intimação para apresentação de contrarrazões, você, como advogado(a) contratado por Henrique, deseja requerer o cumprimento provisório da sentença, com o intuito de, desde logo, receber os alimentos vincendos. Tomando o caso acima como premissa, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Você poderá requerer o cumprimento provisório de sentença, com dispensa de caução para a execução da decisão.",
+      "B": "Eventual reforma parcial da sentença, em razão do recurso de apelação, levará à perda de eficácia total do cumprimento, em razão de sua provisoriedade.",
+      "C": "Não incidirão multa e honorários no cumprimento provisório de sentença, pois o executado, em razão da pendência do recurso, não é obrigado a cumprir a decisão até o seu trânsito em julgado.",
+      "D": "Iniciado o cumprimento provisório de sentença, caso Juliano deposite o valor exequendo para se exonerar da multa, seu recurso de apelação não será conhecido ante a preclusão lógica do direito de recorrer."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Civil",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 5
+  },
+  {
+    "num": 56,
+    "enunciado": "Pedro, locatário de um imóvel, ingressa com ação de consignação em pagamento após a locadora, Ana, recusar-se a receber o aluguel, o que foi comprovado pela juntada de DOC_Documentos, nos quais Ana se recusa, expressamente, a receber a quantia. Atendendo a requerimento de Pedro, o Juiz determinou o depósito do valor em juízo, o que foi tempestivamente cumprido pelo autor. Ato contínuo, Ana é citada, mas não ofereceu contestação. Em tal hipótese, assinale a opção que apresenta, corretamente, a providência que o(a) advogado(a) deverá requerer ao Juízo.",
+    "alternativas": {
+      "A": "A intimação das partes para que especifiquem as provas que pretendem produzir.",
+      "B": "A decretação da revelia de Ana e a fixação de multa pela prática de ato atentatório à dignidade da justiça.",
+      "C": "A determinação de devolução do montante depositado e a extinção do processo sem resolução do mérito em razão de se tratar de pedido incontroverso.",
+      "D": "O julgamento pela procedência do pedido da ação de consignação em pagamento, declarando extinta a obrigação e condenando Ana ao pagamento de custas e honorários advocatícios."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 6
+  },
+  {
+    "num": 52,
+    "enunciado": "Por conta de danos sofridos em um acidente de trânsito, Juciara ajuizou ação em face de Carla, pleiteando a sua condenação ao pagamento de indenização. Julgado procedente o pedido, a Ré foi condenada ao pagamento de R$ 20.000,00 (vinte mil reai s) a título de indenização por danos morais e materiais. Transitada em julgado a sentença, Carla imediatamente peticiona no referido processo, antes de qualquer depósito, oferecendo o pagamento de R$ 15.000,00 (quinze mil reai s) , com o devido depósito de tal quantia, e pleiteando o reconhecimento do cumprimento de sua obrigação. Sobre tal fato, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Concluindo o Juiz pela insuficiência do depósito, incidirão a multa e os honorários advocatícios de 10% sobre o valor total devido.",
+      "B": "Juciara deverá ser intimada do depósito e, caso impugne o valor, somente poderá levantar o montante total após o Juiz decidir sobre a suficiência do depósito.",
+      "C": "Caso Juciara não se oponha ao valor ofertado, ainda que inferior à condenação, será reconhecida como satisfeita a obrigação, com a consequente extinção do processo.",
+      "D": "O cumprimento de sentença depende da expressa manifestação de vontade da parte autora, de modo que Carla não poderia realizar o depósito dos valores devidos antes de intimada para tanto."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Civil",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "08_procedimentos_especiais",
+    "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
+    "id": 7
+  }
+]

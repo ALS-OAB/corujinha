@@ -1,0 +1,59 @@
+[
+  {
+    "num": 34,
+    "enunciado": "A sociedade empresária Alfa é fabricante e comerciante de pilhas e baterias. Em matéria de responsabilidade compartilhada pelo ciclo de vida dos produtos, com base na Política Nacional de Resíduos Sólidos, a autoridade competente vem cobrando da sociedade empresária que promova o retorno dos produtos após o uso pelo consumidor, de forma independente do serviço público de limpeza urbana e de manejo dos resíduos sólidos. O sócio administrador da sociedade empresária Alfa entendeu que a responsabilidade pela destinação final das pilhas e baterias deve ser exclusivamente do consumidor final, razão pela qual contratou você, como advogado(a), para prestar consultoria jurídica. Levando em conta o que dispõe a Lei nº 12.305/2010, você informou a seu cliente que, no caso em tela, de fato, ele está ",
+    "alternativas": {
+      "A": "estruturar e implementar sistema de logística reversa.",
+      "B": "instituir o sistema de coleta seletiva no âmbito do Município onde está instalada a sede social da sociedade empresária.",
+      "C": "contratar cooperativas de catadores de materiais reutilizáveis e recicláveis para recolher os produtos.",
+      "D": "recomprar os produtos usados, não podendo disponibilizar postos de entrega de resíduos reutilizáveis e recicláveis."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Ambiental",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "03_licenciamento_eia",
+    "modulo_nome": "Licenciamento Ambiental e Estudo de Impacto (EIA/RIMA)",
+    "id": 1
+  },
+  {
+    "num": 36,
+    "enunciado": "A Sociedade Divergente, após os procedimentos pertinentes, obteve a licença de operação para as atividades lesivas ao meio ambiente que exerce pelo prazo de dez anos. Para tanto, vem cumprindo todas as condicionantes da licença ambiental, inclusive medidas mitigadoras e compensatórias, então determinadas pelo órgão competente. Dois anos depois da concessão da mencionada licença de operação, houve um grande avanço tecnológico, que viabiliza a drástica redução das externalidades negativas do empreendimento em questão. Por isso, foi editada uma lei que passou a exigir o emprego da nova técnica, inclusive, para as atividades já licenciadas. Em razão disso, os representantes da mencionada pessoa jurídica consultaram a sua assessoria jurídica para dirimir as dúvidas relacionadas aos efeitos do m",
+    "alternativas": {
+      "A": "poderá condicionar apenas os empreendimentos que não tenham obtido a licença de instalação ou a de operação, não podendo, em nenhuma hipótese, afetar aquelas que tenham sido validamente concedidas.",
+      "B": "importará na anulação automática da licença de operação anteriormente concedida, independentemente de motivação do respectivo órgão competente, por se tratar de medida mais protetiva ao meio ambiente.",
+      "C": "não poderá ser aplicada em nenhuma situação em que a licença ambiental tenha sido deferida de forma válida, seja ela prévia, de instalação ou de operação, de modo que somente pode condicionar os empreendimentos que ainda não iniciaram o licenciamento ambiental.",
+      "D": "é passível de ser exigida mesmo para as situações em que há licença de operação válida, pois o órgão ambiental competente, mediante decisão motivada poderá modificar as condicionantes, suspender ou cancelar licença expedida, quando ocorrer inadequação às normas legais."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Ambiental",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "03_licenciamento_eia",
+    "modulo_nome": "Licenciamento Ambiental e Estudo de Impacto (EIA/RIMA)",
+    "id": 2
+  },
+  {
+    "num": 36,
+    "enunciado": "A sociedade empresária XYZ, com sede no Estado Alfa, pretende desenvolver atividade econômica potencialmente causadora de significativa degradação ambiental nos territórios dos Estados Alfa e Beta. Dessa forma, com o objetivo de cumprir a legislação ambiental, a entidade contratou você para, na qualidade de advogado(a) , dar entrada com o requerimento de licenciamento ambiental junto ao(s) órgão(s) competente(s) , auxiliando-a a obter todas as licenças ambientais necessárias. Nesse cenário, considerando as disposições da Resolução nº 237/1997 do Conselho Nacional do Meio Ambiente (Conama) , que versa sobre o licenciamento ambiental, assinale a opção que apresenta, corretamente, a sua orientação.",
+    "alternativas": {
+      "A": "O licenciamento ambiental deverá ser realizado pelo órgão ambiental competente do Estado Alfa, onde está localizada a sede da sociedade empresária XYZ.",
+      "B": "Caberá aos órgãos ambientais dos Estados Alfa e Beta, em conjunto, procederem ao licenciamento ambiental da atividade econômica que a sociedade empresária XYZ pretende desenvolver.",
+      "C": "Compete ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) , autarquia de natureza federal, o licenciamento ambiental da atividade econômica que será desenvolvida pela sociedade empresária XYZ.",
+      "D": "A sociedade empresária XYZ poderá, a seu critério, requerer o licenciamento ambiental junto ao órgão ambiental competente do Estado Alfa ou do Estado Beta, já que a atividade econômica será desenvolvida nos dois entes federativos."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Ambiental",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "03_licenciamento_eia",
+    "modulo_nome": "Licenciamento Ambiental e Estudo de Impacto (EIA/RIMA)",
+    "id": 3
+  }
+]

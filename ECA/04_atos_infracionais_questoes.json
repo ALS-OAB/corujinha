@@ -1,0 +1,40 @@
+[
+  {
+    "num": 44,
+    "enunciado": "A mãe de Joaquim, criança com necessidades especiais, requereu acompanhamento por professor especializado em atendimento de pessoas com deficiência à escola-creche pública municipal em que o filho estuda. A escola-creche, no entanto, alegou carência de tais profissionais, porque o custo muito alto impedia que a municipalidade os contratasse. Ao consultar você, como advogado(a) , a genitora recebeu a seguinte orientação.",
+    "alternativas": {
+      "A": "A criança tem direito à educação, não se inserindo nesse plexo, porém, o direito individual e específico de acompanhamento especializado.",
+      "B": "Joaquim deve ter acesso à educação com metodologia especial, não significando, porém, que seja mandatória a presença de profissional especial.",
+      "C": "A atenção especial por profissional especializado é devida a Joaquim, não sendo oponível a dificuldade orçamentária declarada pela municipalidade.",
+      "D": "O ensino especializado é devido nas condições em que a entidade for capaz, não sendo obrigatória a presença de profissional especificamente capacitado, em razão da aplicabilidade da reserva do possível."
+    },
+    "gabarito": "C",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "04_atos_infracionais",
+    "modulo_nome": "Atos Infracionais e Responsabilidade do Adolescente",
+    "id": 1
+  },
+  {
+    "num": 43,
+    "enunciado": "Herminda, de 50 anos, é tia materna de Júlia, de 16 anos. Após verificar que Júlia teve notas baixas no colégio, Herminda decidiu ir à porta da escola e, com o intuito de correção, ridicularizou e humilhou a adolescente na frente de seus colegas, dizendo que Júlia era desleixada, que nunca conseguiria acesso à universidade, sendo uma vergonha para a família. Os pais de Júlia tomaram conhecimento do fato e ficaram revoltados. Decidiram, então, procurar você, como advogado(a) , para que indicasse a orientação jurídica adequada para sancionar o ato praticado por Herminda. Nesse caso, de acordo com o ECA, assinale a afirmativa que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "Herminda pode ser encaminhada a cursos ou programas de orientação, sendo que a aplicação dessa medida só pode ser feita pela autoridade judiciária.",
+      "B": "Herminda, em virtude de tal ato, pode receber sanções, como a advertência, a ser aplicada pelo Conselho Tutelar, sem prejuízo de outras providências legais.",
+      "C": "Herminda pode sofrer sanções, entre elas, a advertência. Para a aplicação da medida, é preciso representação do Ministério Público e decisão da autoridade judiciária.",
+      "D": "Herminda não tinha o direito de humilhar e ridicularizar Júlia, mesmo para fins corretivos, o que caberia aos pais por serem detentores do poder familiar, mas o ECA não prevê qualquer possibilidade de sanção à tia materna."
+    },
+    "gabarito": "B",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_atos_infracionais",
+    "modulo_nome": "Atos Infracionais e Responsabilidade do Adolescente",
+    "id": 2
+  }
+]

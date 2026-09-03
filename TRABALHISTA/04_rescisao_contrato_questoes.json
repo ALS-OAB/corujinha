@@ -1,0 +1,116 @@
+[
+  {
+    "num": 71,
+    "enunciado": "João Luiz trabalha desde os 18 anos no Banco Dinheiro Futuro S/A. Começou como caixa em 1990. Devido ao seu desempenho brilhante, agora, no dia 30/05/2022, foi eleito diretor. Em razão dessa nova condição, consultou você, na qualidade de advogado(a), acerca dos desdobramentos jurídicos relacionados ao seu contrato de trabalho. Sobre a hipótese, considerando o teor das normas trabalhistas em vigor e o entendimento jurisprudencial consolidado do TST, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O empregado eleito para ocupar cargo de diretor tem o respectivo contrato de trabalho suspenso, não se computando o tempo de serviço deste período, salvo se permanecer a subordinação jurídica inerente à relação de emprego.",
+      "B": "Com a eleição do empregado para o cargo de diretor, o respectivo contrato de trabalho será extinto com o pagamento dos direitos rescisórios pertinentes.",
+      "C": "A eleição de empregado para o cargo de diretor não induz suspensão ou interrupção do contrato de trabalho, uma vez que se considera promoção, podendo haver a reversão ao cargo efetivo após o término do mandato.",
+      "D": "O contrato de trabalho ficará interrompido, já que permanecem as obrigações de pagamento de remuneração, contagem do tempo de serviço e de recolhimento do FGTS. 0 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Trabalho",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "04_rescisao_contrato",
+    "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
+    "id": 1
+  },
+  {
+    "num": 71,
+    "enunciado": "Uma família, composta de pai, mãe e uma filha, respectivamente Jorge, Paula e Rita, trabalha na mesma sociedade empresária como funcionários do departamento de produção. Rita tem 16 anos de idade, estuda na parte da manhã em uma escola vizinha ao local de trabalho, e está cursando o primeiro ano do ensino médio. Os pais são responsáveis pelo setor de qualidade, que não conta com nenhum outro funcionário. Os três procuraram você, como advogado(a) , porque desejam fazer coincidir as férias escolares de Rita, no mês de julho, com as férias de Jorge e Paula, a fim de viabilizar uma viagem familiar. Entretanto, o empregador indeferiu o requerimento das férias de Jorge e Paula, tendo deferido apenas o de Rita. Sobre o direito às férias, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Cabe o ajuizamento de reclamação trabalhista requerendo que o juiz marque as férias dos 3 membros da mesma família, pois Rita tem direito às férias no período escolar e deverá ser acompanhada pelos pais.",
+      "B": "Cabe aos empregados a designação do período de férias, inexistindo direito ao empregador de indeferi-las.",
+      "C": "Os três poderão gozar férias juntos, mas Rita não tem direito de requerer férias concomitantemente com o período de férias escolares.",
+      "D": "Rita tem direito a fazer coincidir suas férias no emprego com as férias escolares e seus pais terão direito a gozar férias no mesmo período, desde que isso não resulte prejuízo para o serviço, causa do indeferimento pelo empregador."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "04_rescisao_contrato",
+    "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
+    "id": 2
+  },
+  {
+    "num": 74,
+    "enunciado": "Em 2024, uma companhia imobiliária contratou Olívia como estagiária. Olívia foi designada para trabalhar em regime de teletrabalho (trabalho em domicílio, home offic e) na confecção de planilhas de locatários inadimplentes, que, em seguida, são enviadas ao setor jurídico da sociedade empresária. Considerando os fatos e o que dispõe a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O regime de teletrabalho é incompatível com o estágio, por frustrar o seu objetivo principal que é a vivência prática das rotinas.",
+      "B": "Havendo autorização prévia do Juiz do Trabalho, é possível, em caráter excepcional, o regime de teletrabalho no estágio.",
+      "C": "Somente se estivesse na cota de estagiário com deficiência, ela poderia trabalhar em regime de teletrabalho.",
+      "D": "Se for conveniente para as partes, o regime de teletrabalho pode ser adotado nos contratos de estágio."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "04_rescisao_contrato",
+    "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
+    "id": 3
+  },
+  {
+    "num": 72,
+    "enunciado": "Os irmãos Décio e Beatriz são empresários. Décio explora a atividade pesqueira, enquanto Beatriz tem duas lojas de calçados. Em 2023, a sociedade empresária de Décio teve uma reclamação trabalhista ajuizada por um operador de produção que inseriu, na petição inicial, a sociedade empresária de Beatriz, advogando existir grupo econômico, apenas em razão do parentesco entre Décio e Beatriz. Considerando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O autor está correto, pois existe vínculo familiar entre Décio e Beatriz.",
+      "B": "Para se caracterizar grupo econômico somente é necessário haver identidade de sócios.",
+      "C": "Não há grupo econômico porque não há direção, controle ou administração de uma empresa sobre outra.",
+      "D": "O grupo econômico pode ser reconhecido pelo parentesco, mas apenas na fase executória da reclamação."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "04_rescisao_contrato",
+    "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
+    "id": 4
+  },
+  {
+    "num": 75,
+    "enunciado": "Determinada sociedade empresária firmou acordo coletivo com o sindicato dos empregados dispondo sobre banco de horas e compensação de horas extras, assim como sobre redução de intervalo. A jornada inicial de oito horas diárias, de segunda a sexta-feira, e quatro horas no sábado, perfazendo um total de 44 horas foi alterada. Pelo acordo coletivo, foi estabelecido que os empregados trabalhariam 30 minutos a mais no final do dia de segunda a quinta-feira e teriam apenas 30 minutos de intervalo, o que aumentaria o total trabalhado para nove horas diárias. Na sexta-feira o trabalho seria normal, com oito horas de jornada e intervalo de uma hora, e não haveria mais trabalho aos sábados. As horas extras excedentes seriam compensadas em até três meses com folgas ou redução da jornada diária de aco",
+    "alternativas": {
+      "A": "O acordo coletivo é válido, exceto quanto ao banco de horas.",
+      "B": "O acordo coletivo é inválido com relação ao acréscimo de jornada, pois o limite diário constitucional é de oito horas.",
+      "C": "O acordo coletivo é inválido apenas com relação à redução do intervalo, pois, para a jornada de oito horas, o intervalo mínimo é de uma hora.",
+      "D": "Em todas as hipóteses, não há violação à CLT ou à CRFB, pois admite-se a prevalência do negociado sobre o legislado, respeitados os limites mínimos previstos na Constituição."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_rescisao_contrato",
+    "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
+    "id": 5
+  },
+  {
+    "num": 75,
+    "enunciado": "Reginaldo trabalha para a sociedade empresária Móveis Modulados Ltda. desde 2021 como montador, sendo considerado um empregado exemplar. Em agosto de 2024, Reginaldo compareceu ao trabalho com uma tornozeleira eletrônica, fato que se tornou o comentário geral na sociedade empresária, pois todos especulavam o que Reginaldo teria feito de errado. A sociedade empresária, que nunca havia se deparado com tal situação, o(a) consultou, como advogado(a) , para obter um parecer sobre o que deverá ocorrer com o contrato de trabalho de Reginaldo. Você verifica pelo sistema processual que a tornozeleira foi colocada de modo cautelar, pois o processo de Reginaldo ainda está no início e refere-se a vias de fato que teve com um torcedor de time adversário quando estava em um estádio, no final de semana, ",
+    "alternativas": {
+      "A": "Será interrompido, sendo garantido a Reginaldo 50% do seu salário.",
+      "B": "Será suspenso, até que haja decisão final da justiça criminal.",
+      "C": "Será rompido por justa causa, em razão do mau procedimento.",
+      "D": "Não sofrerá qualquer consequência."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "04_rescisao_contrato",
+    "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
+    "id": 6
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "num": 24,
+    "enunciado": "João ganhou uma ação movida em face do Estado Gama, na qual este foi condenado a pagar o equivalente a 30 salários mínimos a título de danos morais pelo uso indevido de sua imagem em uma publicidade institucional do governo estadual. A ação transitou em julgado em 15 de julho de 2022. Seu advogado verifica que não há legislação específica estadual acerca de prazos e limites de valores sobre pagamentos pela Fazenda Pública em caso de condenação judicial. Diante desse cenário, e à luz da Constituição Federal de 1988, João receberá o valor a que tem direito",
+    "alternativas": {
+      "A": "por meio de precatório alimentar, que tem prioridade em relação aos demais, dentro do próprio ano do trânsito em julgado.",
+      "B": "por meio de Requisição de Pequeno Valor (RPV).",
+      "C": "por meio de precatório comum, a ser pago no ano seguinte ao do trânsito em julgado da condenação judicial.",
+      "D": "em dinheiro, no prazo máximo de 15 (quinze) dias contados da intimação da Fazenda Pública do trânsito em julgado da ação, através de transferência bancária entre a instituição financeira que administra o tesouro estadual e o banco em que João tem sua conta."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Financeiro",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "02_principios_orcamentarios",
+    "modulo_nome": "Princípios Orçamentários",
+    "id": 1
+  },
+  {
+    "num": 24,
+    "enunciado": "Em certo período de apuração, a despesa total de pessoal da União alcançou o patamar de 60% da receita corrente líquida (RCL), de acordo com os critérios de cálculo estabelecidos na Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal – LRF). Sobre o patamar alcançado, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Viola o limite válido para a esfera federal estabelecido na LRF, que é expressamente previsto em 45% da RCL.",
+      "B": "Viola o limite válido para a esfera federal estabelecido na LRF, que é expressamente previsto em 50% da RCL.",
+      "C": "Situa-se abaixo do limite válido para a esfera federal estabelecido na LRF, que está expressamente previsto em 70% da RCL.",
+      "D": "Mantém-se dentro do limite válido para a esfera federal estabelecido na LRF, uma vez que configura o limite previsto naquela norma jurídica."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Financeiro",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "02_principios_orcamentarios",
+    "modulo_nome": "Princípios Orçamentários",
+    "id": 2
+  },
+  {
+    "num": 24,
+    "enunciado": "Em determinado ano, na elaboração do projeto de Lei Orçamentária Anual (LO",
+    "alternativas": {
+      "A": "Veiculou indevidamente investimentos plurianuais e aqueles em andamento, os quais somente poderiam constar do Plano Plurianual (PPA).",
+      "B": "Inseriu, equivocadamente, os investimentos plurianuais em seu conteúdo, pois deveriam estar previstos na Lei de Diretrizes Orçamentárias (LDO).",
+      "C": "Adequa-se às disposições constitucionais que permitem tais inserções dos investimentos plurianuais e daqueles em andamento.",
+      "D": "Poderia conter, apenas, os investimentos já em andamento, uma vez que os investimentos plurianuais somente poderiam constar do Plano Plurianual (PPA)."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Financeiro",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "02_principios_orcamentarios",
+    "modulo_nome": "Princípios Orçamentários",
+    "id": 3
+  }
+]

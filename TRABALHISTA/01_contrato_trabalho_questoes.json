@@ -1,0 +1,135 @@
+[
+  {
+    "num": 68,
+    "enunciado": "Antônio Silva foi denunciado pelo Ministério Público do Estado do Rio de Janeiro pelo crime de tráfico de drogas. Essa denúncia foi rejeitada pelo juízo da 50ª Vara Criminal da Comarca do Rio de Janeiro, por falta de prova mínima da autoria e materialidade (justa causa). O órgão ministerial então interpôs recurso em sentido estrito dessa decisão, já arrazoado. Para evitar a caracterização de uma nulidade processual, é correto afirmar que o juízo deve, em seguida,",
+    "alternativas": {
+      "A": "nomear defensor público para apresentar contrarrazões recursais em favor de Antônio.",
+      "B": "nomear defensor dativo para apresentar contrarrazões recursais em favor de Antônio.",
+      "C": "notificar Antônio para apresentar contrarrazões recursais.",
+      "D": "remeter os autos ao Tribunal competente."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 1
+  },
+  {
+    "num": 73,
+    "enunciado": "Anne é diretora não-empregada de uma grande multinacional. Ela tem contraprestação pecuniária elevada e algumas vantagens pelo cargo que ocupa como, por exemplo, veículo com motorista e o aluguel de uma espaçosa residência. Na útima assembleia, no entanto, Anne levou a debate sua pretensão de receber mensalmente FGTS em conta vinculada. Sobre a pretensão de Anne, de acordo com a lei de regência, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A pretensão é inviável, porque Anne não tem o contrato regido pela CLT e, assim, não pode ter FGTS.",
+      "B": "Se a sociedade empresária desejar, poderá equiparar, para fins de FGTS, o diretor não-empregado aos demais trabalhadores.",
+      "C": "A Lei permite atender ao pedido, mas Anne terá creditada metade do percentual do FGTS de um empregado regular.",
+      "D": "Para ter direito ao FGTS, Anne terá que renunciar ao cargo que ocupa e passar a ser diretora empregada."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 2
+  },
+  {
+    "num": 71,
+    "enunciado": "Os sindicatos de classe de uma determinada categoria elaboraram uma convenção coletiva normatizando o pagamento do adicional de penosidade. A norma previa vigência de 2 (dois) anos, com término em outubro de 2023. Considerando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Mesmo com a vigência encerrada, os trabalhadores que recebiam o adicional possuem direito adquirido, e o pagamento deve prosseguir.",
+      "B": "Ao término da vigência da norma coletiva, caso ela não seja renovada, os trabalhadores perderão o direito ao adicional.",
+      "C": "Os trabalhadores que já recebiam o adicional continuarão com o direito se isso for homologado pelo Ministério do Trabalho.",
+      "D": "A vantagem se incorpora ao contrato de trabalho dos empregados ativos, e os admitidos posteriormente ao dies ad quem da norma coletiva não a receberão."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 3
+  },
+  {
+    "num": 74,
+    "enunciado": "Paulo trabalha desde 2022 na sociedade empresária Auditorias Fidedignas Ltda. como auditor. A empresa possui plano permanente de capacitação e, por isso, Paulo viaja com frequência para realizar cursos de auditoria em todo o país e se manter sempre atualizado. Em uma dessas viagens, Paulo estava no hotel tomando banho e abruptamente, sem motivo aparente, o vidro temperado do banheiro estourou, quebrando-se em vários pedaços, sendo que alguns deles atingiram e cortaram Paulo. Em virtude disso, o empregado precisou se afastar do serviço por 12 dias, findos os quais retornou ao trabalho e reassumiu suas atividades normais. Diante da situação apresentada e da legislação em vigor, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Uma vez que Paulo não estava trabalhando, o evento não é acidente do trabalho, daí porque ele não terá a garantia no emprego por 12 meses.",
+      "B": "O evento pode ser considerado acidente do trabalho e, por isso, o empregado terá estabilidade no emprego por 12 meses a partir do retorno.",
+      "C": "Trata-se de acidente do trabalho por equiparação, mas Paulo não terá estabilidade quando retornar.",
+      "D": "Não se trata de acidente do trabalho, mas, tendo ocorrido o sinistro, Paulo terá a garantia no emprego por um ano."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 4
+  },
+  {
+    "num": 72,
+    "enunciado": "Sérgio foi contratado, em 2022, por uma indústria mecânica para receber um salário mensal de R$ 3.000 (três mil reai s) . Ele pediu para não ter a CTPS assinada, porque estava recebendo o segurodesemprego do emprego anterior. Também não queria ter contracheque formal para que a ex-esposa não soubesse do novo emprego, uma vez que estava devendo a pensão alimentícia e não queria que houvesse desconto judicial. A sociedade empresária cedeu aos seus argumentos e não assinou sua carteira profissional. Sobre a decisão da sociedade empresária, considerando o que dispõe a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ela não precisa assinar a CTPS, desde que isso esteja previsto em norma coletiva.",
+      "B": "Ela agiu incorretamente, porque deveria anotar o contrato de trabalho na CTPS no prazo de cinco dias úteis.",
+      "C": "Ela está equivocada, pois a anotação da CTPS é direito irrenunciável e deve ser feita em 15 (quinze) dias corridos.",
+      "D": "Ela agiu corretamente, porque essa era a vontade livre manifestada pelo empregado e, atualmente, o negociado suplanta o legislado."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 5
+  },
+  {
+    "num": 72,
+    "enunciado": "Em outubro de 2023, a sociedade empresária Plantas Ornamentais Ltda. dispensou o empregado Josimar, sem justa causa, após dois anos de contrato de trabalho. A sociedade calculou as verbas resilitórias e depositou-as na conta do trabalhador em cinco dias e, no mesmo dia, fez o recolhimento da indenização de 40% sobre o FGTS. Ocorre que, por equívoco do setor de Recursos Humanos da sociedade empresária, as guias para o saque do FGTS e os formulários para o requerimento do seguro-desemprego somente foram entregues 60 dias após o término do aviso prévio. Sobre a hipótese, considerando os termos da CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Não se cogitará qualquer multa ou penalidade pela ausência de prejuízo, já que as verbas foram depositadas na conta de Josimar no prazo legal.",
+      "B": "A sociedade empresária pagará uma multa de 50% do valor das verbas resilitórias, em razão do atraso na entrega dos DOC_Documentos do FGTS e do seguro-desemprego.",
+      "C": "A situação gerou enorme prejuízo ao trabalhador, daí porque as verbas referentes à saída deverão ser pagas em dobro como forma de punição da sociedade empresária.",
+      "D": "A sociedade empresária pagará multa pelo atraso na entrega dos DOC_Documentos do FGTS e do seguro-desemprego em favor do trabalhador, no valor equivalente ao seu salário."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 6
+  },
+  {
+    "num": 75,
+    "enunciado": "Jonas trabalhava em uma sociedade empresária desde 2021. Com a nova chefia, que assumiu em janeiro de 2025, Jonas passou a ser explícita e sistematicamente discriminado pelo chefe em razão de sua orientação sexual, já que mantinha uma relação homoafetiva que era de conhecimento geral. Jonas foi dispensado, sem justa causa, em março de 2025. Em razão disso, Jonas o(a) procurou, na condição de advogado(a) , para conhecer dos seus direitos. Assinale a opção que, considerando os fatos narrados e a norma de regência, apresenta, corretamente, sua orientação jurídica para o caso.",
+    "alternativas": {
+      "A": "Nada há a fazer, porque é direito do empregador efetuar a dispensa sem justa causa.",
+      "B": "O direito que assiste a Jonas é ser reintegrado, com ressarcimento integral de todo o período de afastamento.",
+      "C": "Jonas poderá optar entre a reintegração ou a percepção, em dobro, da remuneração do período de afastamento.",
+      "D": "Caberá apenas o pagamento, de forma simples, do período compreendido entre a dispensa e o ajuizamento da ação."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_contrato_trabalho",
+    "modulo_nome": "Contrato Individual de Trabalho e Alterações",
+    "id": 7
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "num": 62,
+    "enunciado": "Fernanda trabalha como cuidadora de idosos e foi contratada para assistir ao idoso Luís Fernando, de 89 anos, que, não obstante a idade, seguia ativo, caminhando com algum apoio e realizando suas atividades de forma habitual, com relativa independência. Certo dia, Luís Fernando descia as escadas rolantes de um shopping- center, quando a barra de sua calça se prendeu nos degraus, o que levou Luís Fernando a se desequilibrar, e o suporte dado por Fernanda não foi suficiente para impedir a sua queda. O idoso fraturou o fêmur. Preocupada com eventual responsabilização criminal, Fernanda procura aconselhamento. Como advogado(a) de Fernanda, assinale a opção que apresenta sua orientação sobre os fatos e as possíveis consequências.",
+    "alternativas": {
+      "A": "Fernanda ocupa a posição de garantidora, devendo ser responsabilizada por delito comissivo por omissão por ter se operado o resultado danoso.",
+      "B": "A responsabilização de Fernanda dependeria de comprovação de efetiva negligência, imprudência ou imperícia, sem o que, não será responsabilizada pelo resultado danoso.",
+      "C": "Fernanda pode ser responsabilizada por crime omissivo próprio, diante do resultado danoso.",
+      "D": "Fernanda incidiu em conduta tipificada no Estatuto do Idoso."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 1
+  },
+  {
+    "num": 65,
+    "enunciado": "João dirigia seu veículo, um Porsche Cayenne ano 2015, por uma rodovia quando, em abordagem de rotina, foi parado pela Polícia Militar. João exibiu sua carteira nacional de habilitação e o certificado de registro e licenciamento de veículo (CRLV) do ano corrente. Após consulta ao sistema, o que é feito rotineiramente em abordagens na estrada, a Polícia Militar constatou que o CRLV era falso e o veículo era produto de roubo. João admitiu que pagou cerca de R$ 35.000,00 (trinta e cinco mil reai s) pelo veículo, avaliado em R$ 400.000,00, mas que não sabia que o veículo havia sido roubado, exibindo o respectivo recibo. Sabe-se que a pena do crime de receptação é de 1 a 4 anos e multa; e que a pena do crime de uso de documento público falso é de 2 a 6 anos e multa. Considerando a situação hipo",
+    "alternativas": {
+      "A": "A circunstância de o acusado ter adquirido o bem por preço muito inferior ao valor de mercado configura indício da prática de receptação.",
+      "B": "O delito de receptação, por expressa disposição legal, impõe a inversão do ônus da prova à defesa, cabendo a esta produzir a prova no sentido do desconhecimento da origem ilícita do bem.",
+      "C": "A comprovação da materialidade do delito de uso de documento materialmente falso prescinde de produção de prova pericial.",
+      "D": "O processo deve ser desmembrado, pois é cabível suspensão condicional do processo à receptação, devendo o feito prosseguir em relação ao uso de documento falso."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 2
+  },
+  {
+    "num": 67,
+    "enunciado": "André, primário, subtraiu o computador de Gustavo, enquanto este estava distraído em via pública, em uma sexta-feira. Na terça-feira da semana seguinte, após consultar as câmeras de vigilância, Gustavo identificou André como o responsável pela subtração, e acionou a Polícia Civil que, com base nas declarações de Gustavo, abordou André em via pública e com ele encontrou o computador subtraído dias antes. André foi, então, preso em flagrante pelo delito de receptação, na modalidade “conduzir” produto de furto. As penas do furto e da receptação são de - 1 a 4 anos. Como advogado(a) de André, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Deve ser postulado o relaxamento da prisão em flagrante, porque André praticou apenas o delito de furto, crime de natureza instantânea, inexistindo situação flagrancial.",
+      "B": "Deve ser postulada a liberdade provisória, pois, não obstante ter praticado dois delitos em concurso material, ainda assim é cabível a suspensão condicional do processo.",
+      "C": "André praticou delito de furto em concurso formal com receptação, o que autoriza a prisão em flagrante pelo delito de natureza permanente, mas é cabível a liberdade provisória, mediante fiança.",
+      "D": "André praticou apenas o delito de receptação, cuja pena máxima é igual a quatro anos, por isso, não é cabível a prisão preventiva, devendo ser postulada a liberdade provisória."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 3
+  },
+  {
+    "num": 63,
+    "enunciado": "Marilda, após ter sido regularmente processada, foi condenada, pelo Juízo originariamente competente, pela prática de desacato (pena: de seis meses a dois ano s) . Marilda procura você, como advogado(a) , porque deseja recorrer da condenação. Sobre a hipótese, assinale a opção que apresenta, corretamente, o recurso cabível.",
+    "alternativas": {
+      "A": "Apelação, juntamente com as razões, no prazo de dez dias.",
+      "B": "Apelação, no prazo de cinco dias, e as razões poderão ser juntadas no prazo de oito dias.",
+      "C": "Recurso inominado, juntamente com as razões, no prazo de dez dias.",
+      "D": "Apelação, no prazo de cinco dias, e as razões poderão ser juntadas no prazo de três dias."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 4
+  },
+  {
+    "num": 66,
+    "enunciado": "Daniel foi denunciado pela prática do crime de instigação ao suicídio. Após a fase de instrução, o Juiz pronunciou o réu, afirmando ser Daniel totalmente culpado da prática do crime e que qualquer jurado teria a obrigação moral de reconhecer provada a materialidade e a autoria. Nessa hipótese, de acordo com nosso ordenamento jurídico, você, como advogado(a) de Daniel, afirma que a decisão de pronúncia é",
+    "alternativas": {
+      "A": "ilegal, uma vez que houve excesso de linguagem.",
+      "B": "legal, porque observa o livre convencimento motivado do julgador.",
+      "C": "ilegal, uma vez que a pronúncia deveria ter sido decidida pelo Tribunal do Júri.",
+      "D": "legal, porque a restrição legal de excesso de linguagem aplicase apenas para o crime de homicídio."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 5
+  },
+  {
+    "num": 68,
+    "enunciado": "Em uma audiência, o Ministério Público indicou como testemunha a psiquiatra do réu. Após a qualificação da testemunha, você, na condição de advogado(a) do réu, deve",
+    "alternativas": {
+      "A": "solicitar exceção de suspeição da testemunha, em razão de sua profissão.",
+      "B": "oferecer contradita, alegando ser a testemunha proibida de depor por ter conhecimento dos fatos em razão de sua profissão.",
+      "C": "oferecer exceção de litispendência, já que a testemunha tem conhecimento dos fatos em razão de sua profissão.",
+      "D": "aguardar para alegar a nulidade apenas em eventual recurso extraordinário, momento previsto na legislação como o único adequado para esse tipo de arguição."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 6
+  },
+  {
+    "num": 66,
+    "enunciado": "Joaquim, menor impúbere de 8 anos de idade, sofreu castigos físicos imoderados praticados por seu pai, Geraldo. Diante do fato, a mãe de Joaquim, representando-o, constituiu você como advogado(a) do menor. Assinale a opção que apresenta, corretamente, o requerimento que você, como advogado(a) de Joaquim, deve apresentar.",
+    "alternativas": {
+      "A": "A fixação de medida cautelar do Código de Processo Penal, pois ausente um regramento específico em favor de vítimas do sexo masculino.",
+      "B": "A destituição de guarda, no âmbito cível, e, somente então, haverá legitimidade de Joaquim para postular qualquer medida no âmbito criminal.",
+      "C": "A fixação de medida protetiva de urgência de proibição de contato e aproximação, com base na lei específica de prevenção e enfrentamento à violência doméstica e familiar contra a criança e o adolescente.",
+      "D": "A fixação de medida protetiva de urgência de alimentos provisórios, com base na lei de violência doméstica e familiar contra a mulher, por analogia, ante a ausência de lei específica que ampare a pretensão de Joaquim."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 7
+  },
+  {
+    "num": 68,
+    "enunciado": "Débora, primária e sem antecedentes, foi presa em flagrante no Aeroporto Internacional de Guarulhos, quando desembarcava no Brasil, em voo vindo do exterior, com um artefato que simulava uma arma de fogo de uso proibido na bagagem, ou seja, um simulacro que pode facilmente ser confundido com uma arma de fogo real. O simulacro é produto de importação proibida no Brasil. Débora foi enquadrada no delito de tráfico internacional de armas, previsto no **Art. 18** do Estatuto do Desarmamento, cuja pena cominada é de 8 a 16 anos de reclusão, com a causa de aumento de metade ( **Art. 19** do Estatut o) . A Polícia Federal lavrou o auto de prisão em flagrante e Débora foi submetida à audiência de custódia perante o Juiz Federal de Guarulhos. Como advogado(a) de Débora, assinale a afirmativa que con",
+    "alternativas": {
+      "A": "A atipicidade do fato, ante o crime impossível e, ainda que assim não fosse, há incompetência absoluta da Justiça Federal.",
+      "B": "A desclassificação para contrabando (pena de 2 a 5 ano s) e o cabimento de liberdade provisória, com ou sem medidas cautelares diversas da prisão.",
+      "C": "Como Débora é mulher e não tem antecedentes criminais, e o fato não foi cometido mediante violência ou grave ameaça, é cabível a substituição da prisão preventiva por domiciliar.",
+      "D": "O fato foi meramente tentado, de forma que a pena mínima cominada com a redução máxima pela tentativa é igual a 4 anos, tornando cabível o acordo de não persecução penal."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_inquerito_acao_penal",
+    "modulo_nome": "Inquérito Policial e Ação Penal",
+    "id": 8
+  }
+]

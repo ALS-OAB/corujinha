@@ -1,0 +1,40 @@
+[
+  {
+    "num": 18,
+    "enunciado": "Você atua, como advogado(a) , em um caso em que seu cliente é um estrangeiro indocumentado que vive no Brasil. Isso ocorreu porque ele teve de fugir às pressas do país de origem, porque estava sendo perseguido por motivos religiosos. Ele gostaria de permanecer no Brasil e trazer a esposa. Assim, com base no que dispõe a Lei nº 9.474/97 que trata da implementação do Estatuto dos Refugiados no Brasil, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A perseguição por motivos religiosos não faz parte dos tipos de perseguição abrangidos no conceito de refugiado e, assim, ele deve regularizar sua documentação de estrangeiro ou deixar o país.",
+      "B": "A perseguição por motivos religiosos se enquadra no conceito de refugiado e ele pode pedir refúgio no Brasil, mas o refúgio é ato personalíssimo e não se estende à sua esposa.",
+      "C": "A situação condiz com a possibilidade de reconhecimento da condição de refugiado e os efeitos dessa condição são extensivos à esposa.",
+      "D": "A perseguição religiosa é motivo para que o governo brasileiro o declare refugiado e a extensão dessa condição à esposa depende de decisão judicial e não administrativa."
+    },
+    "gabarito": "*",
+    "disciplina": "Direitos Humanos",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_mecanismos_nacionais",
+    "modulo_nome": "Mecanismos Nacionais de Proteção aos Direitos Humanos",
+    "id": 1
+  },
+  {
+    "num": 18,
+    "enunciado": "Na condição de advogado(a) , você foi procurado por um grupo de mães de crianças entre 6 e 10 anos que tentaram, sem sucesso, matricular seus filhos na rede básica de ensino. Elas alegam que já envidaram todos os esforços no âmbito administrativo, sendo-lhes sempre apresentada a justificativa da inexistência de vagas. Considerando a situação hipotética em questão, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Caso seja demonstrada a inércia do Estado em prover o efetivo acesso ao ensino de primeiro grau, comprovando-se ainda que a situação foi devidamente submetida ao crivo do Poder Judiciário local, esgostados todos os recursos cabíveis, frustada a obtenção de tutela eficaz, o caso poderá ser submetido diretamente pelas vítimas à análise da Comissão Interamericana de Direitos Humanos.",
+      "B": "De acordo com a interpretação fixada pelo Supremo Tribunal Federal em relação ao direito à educação, em razão do seu desenvolvimento progressivo, não se pode configurá-lo como típico direito subjetivo, cujo efetiva implementação possa ser determinada por decisão judicial.",
+      "C": "Apesar de o direito à educação, em razão da sua natureza social, estar previsto no Protocolo Adicional de São Salvador, no âmbito do Sistema Regional Americano de Proteção dos Direitos Humanos foram previstos meios próprios para sua proteção, não sendo possível a utilização do sistema de petições individuais regulado pela Convenção Americana sobre Direitos Humanos.",
+      "D": "Em razão de o Brasil não ter ratificado o Protocolo Adicional de São Salvador, o caso em questão não poderá ser submetido aos órgãos integrantes do Sistema Regional Americano de Proteção dos Direitos Humanos."
+    },
+    "gabarito": "A",
+    "disciplina": "Direitos Humanos",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "06_mecanismos_nacionais",
+    "modulo_nome": "Mecanismos Nacionais de Proteção aos Direitos Humanos",
+    "id": 2
+  }
+]

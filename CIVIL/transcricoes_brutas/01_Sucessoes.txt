@@ -1,0 +1,1778 @@
+[00:03] [música]
+[00:13] [música]
+[00:18] [música]
+[00:35] [música]
+[00:41] [música]
+[00:51] [música]
+[01:00] Olá pessoal, tudo bem com vocês? Bom
+[01:02] dia. Iniciando os nossos sete encontros
+[01:06] antes da prova, esses encontros tão
+[01:09] importantes pra gente garantir os nossos
+[01:11] seis pontos na nossa prova que se
+[01:13] aproxima. Eu quero mandar um beijo para
+[01:16] todo mundo que tá aí ao vivo já
+[01:17] acompanhando a gente aqui no canal do
+[01:19] Grão AB. É um evento feito com muito
+[01:22] carinho para você. já algumas eh já
+[01:25] estamos a várias edições desse Roberta
+[01:28] que era o Roberta de Neve e agora só
+[01:30] Roberta Queiroz e as seis questões
+[01:32] mesmo, porque já é um evento de sucesso.
+[01:37] A gente sempre acerta as seis questões
+[01:40] da prova nesses sete encontros. É
+[01:43] impressionante. Eu fico chocada, mas
+[01:46] sempre dá certo, então vamos continuar
+[01:48] dando certo. Um beijo para Gabriel, para
+[01:51] o Luís Fernandes,
+[01:54] Fábio, Lu Santos, Lília Nunes e um beijo
+[01:57] muito especial para Eliana Prado, que tá
+[01:59] aí acompanhando a gente. Ela que sempre
+[02:02] me ajuda nas transmissões das aulas, eh,
+[02:05] comentando aqui no chat e sendo a
+[02:07] moderadora aqui do nosso chat. Bom, como
+[02:11] a gente sempre trabalha de trás para
+[02:13] frente, hoje a gente começa com
+[02:15] sucessões também, né? A gente vai fazer
+[02:19] uma abordagem sobre sucessões.
+[02:22] Ah,
+[02:24] profe, bom dia. Errei muito as questões
+[02:26] ontem. Socorro, Deus. Calma, tá tudo sob
+[02:30] controle. É assim que funciona mesmo. O
+[02:32] ideal é errar no simulado pra gente
+[02:34] poder acertar no dia da prova e ser uma
+[02:36] coisa assim, né, mais tranquila. Porque
+[02:38] quando a gente erra, a gente aprende com
+[02:41] o nosso erro. Camila, um beijo. Vamos
+[02:43] fechar direito civil. Maria Eduarda
+[02:45] também manda o link paraos seus amigos
+[02:47] que precisam acompanhar essa aula. De
+[02:50] qualquer sorte, essa aula vai ficar
+[02:51] disponível aqui para vocês também, tá
+[02:54] bom? Pois [roncando] muito que bem, hoje
+[02:56] vamos conversar sobre direito
+[03:00] sucessório. Vamos falar das nossas
+[03:02] regras, dos nossos cálculos, mas vamos
+[03:05] comentar tudo em formato de cobrança da
+[03:10] FGV, tá bom? Bora lá então pro nosso
+[03:13] material. Então, hoje, Direito das
+[03:16] Sucessões, o nosso encontro número sete.
+[03:20] Deixa eu te contar uma coisa, só uma
+[03:23] coisa que bastante eh interessante
+[03:27] pra gente eh observar. Um ponto que
+[03:32] merece destaque das nossas anotações
+[03:35] inicialmente é o seguinte. Ah, e não se
+[03:38] preocupe, [roncando] esse material que
+[03:40] nós vamos montar ao longo desses
+[03:43] encontros será o material que nós vamos
+[03:47] usar na revisão de véspera. Então, no
+[03:50] dia da revisão de véspera, você vai
+[03:51] receber um caderno de direito civil que
+[03:54] você vai guardar bem muito bem no
+[03:55] coração. E esse caderno será aquele que
+[03:59] vai salvar sua vida, tá? Então fique
+[04:03] esperto aí paraa nossa revisão de
+[04:05] véspera que vai ser dia 5, salvo engano,
+[04:08] né, gente? Deixa eu ver aqui.
+[04:11] Dia 5, porque a nossa prova é dia 6. Tô
+[04:14] olhando ali meu calendário e na revisão
+[04:17] de véspera eu entro enviando para vocês
+[04:20] um caderno bem muito bonito para vocês,
+[04:22] tá bom? Então, vamos lá no nosso
+[04:24] material, vamos começar as nossas
+[04:25] anotações. Olha só,
+[04:28] eh, quando a gente fala aqui
+[04:31] de morte,
+[04:34] para você entender o que que nós estamos
+[04:36] conversando, falar de sucessões é o
+[04:39] mesmo que falar de morte, mas não é
+[04:41] simplesmente a morte. É quando você tem
+[04:44] que trabalhar a questão
+[04:47] do morto que deixou uma herança. Essa
+[04:51] herança tem que ser partilhada entre os
+[04:55] herdeiros
+[04:58] que vão seguir uma regra de partilha.
+[05:04] Essas regras de partilha
+[05:09] são regras que são previstas.
+[05:13] na lei.
+[05:16] Vamos botar assim, ó, bem bonitinho,
+[05:19] pro nosso caderno ficar
+[05:22] preparado.
+[05:27] Essas regras de partilha,
+[05:31] elas são definidas
+[05:34] ou pela lei ou pela vontade do morto.
+[05:38] Mas Roberto, morto não tá mais aqui.
+[05:40] Como que ele deixa a vontade dele
+[05:42] definida? Ele deixa a vontade dele
+[05:45] definida
+[05:47] por meio de um testamento. Então, quando
+[05:49] a gente fala de partilha de bens,
+[05:52] seguindo essas regras, preste atenção
+[05:54] agora nós temos duas possibilidades e eu
+[05:58] vou te explicar essas possibilidades um
+[05:59] pouquinho mais adiante. Você já sabe,
+[06:01] você tá só recordando. Primeira questão,
+[06:05] seguindo a regra da lei. E aí nós vamos
+[06:09] aplicar a regra de sucessão
+[06:12] legítima. Então quando a gente fala de
+[06:15] sucessão legítima, são as regras
+[06:17] previstas na lei ou
+[06:21] seguindo a vontade que o morto deixou.
+[06:26] Aí é o que a gente chama de sucessão
+[06:31] testamentária,
+[06:36] tá? Sucessão testamentária.
+[06:40] Meus amigos,
+[06:42] já que a gente tá falando de herança, eu
+[06:44] quero que você lembre que ocorrida a
+[06:48] morte,
+[06:50] ocorrida a morte, ou seja,
+[06:53] aberta a sucessão. Então, quando a gente
+[06:56] fala abriu a sucessão, quer dizer
+[06:59] morreu, é a mesma coisa. Então, aberta a
+[07:04] sucessão. Vou botar aqui, ó, abertura da
+[07:07] sucessão.
+[07:10] Abertura da sucessão.
+[07:16] A gente tem uma regra muito clara.
+[07:19] Aberta a sucessão, ocorrida a morte. Ah,
+[07:22] morreu que horas? Morreu às 20:12.
+[07:25] Então, no exato momento da abertura da
+[07:28] sucessão,
+[07:30] pelo princípio da Saizine, quem é que
+[07:32] lembra? Princípio
+[07:35] da sizine
+[07:39] 1784
+[07:41] do Código Civil transmite-se
+[07:44] imediatamente
+[07:46] a posse
+[07:48] a posse
+[07:51] e a propriedade
+[07:55] dos bens da herança. Olha o desenho que
+[07:58] nós vamos fazer dos bens da herança.
+[08:02] Olha aqui, ó. Transmite-se
+[08:05] imediatamente. Olha aqui a setinha,
+[08:09] a propriedade dos bens da herança
+[08:12] aos herdeiros. Não ficou muito bom isso
+[08:16] aqui. Eu vou refazer. Aos
+[08:19] herdeiros. Tudo bem? Então,
+[08:22] imediatamente
+[08:24] com a morte, com a abertura da sucessão,
+[08:28] transmite-se a a posse e a propriedade
+[08:30] dos bens aos herdeiros. Isso aqui,
+[08:34] deixa eu botar um uma seta melhor aqui.
+[08:37] Isso aqui é uma ficção jurídica. Porque
+[08:41] veja, se a morte aconteceu, vamos
+[08:44] colocar assim, ó, se a morte aconteceu
+[08:52] às 20:2,
+[08:56] às 20:2
+[08:58] transmitiu a posse, a propriedade dos
+[09:00] bens aos herdeiros.
+[09:02] A herança não pode ficar no vácuo.
+[09:04] Alguém tem que cuidar. Só que aí quando
+[09:07] a pessoa tá viva, que ela tem um um
+[09:09] patrimônio, ela é vista de que forma?
+[09:12] Ela é vista como proprietária do bem.
+[09:14] Ah, eu sou dona do carro, da casa, né?
+[09:17] Do apartamento, do celular, do dinheiro
+[09:19] que tá no banco. Quando a pessoa morre,
+[09:22] a gente deixa de olhar os bens
+[09:24] isoladamente e passa a olhar como um
+[09:27] conjunto de bens. Isso já responde até
+[09:30] uma questão bastante importante de
+[09:32] prova. A gente passa a olhar o conjunto
+[09:36] de bens que nós chamamos de quê?
+[09:38] Herança. Entendeu? Então volta lá. A
+[09:41] gente passa a olhar o conjunto de bens
+[09:44] como sendo a herança. Então vamos fazer
+[09:46] o nosso conjunto de bens aqui. Imagina
+[09:49] que a pessoa deixou.
+[09:53] Ó a nossa bola de sempre. Imagina que a
+[09:55] pessoa deixou
+[09:59] vários imóveis,
+[10:04] vários imóveis.
+[10:06] Deixou dinheiro
+[10:09] em vários bancos,
+[10:12] deixou carros,
+[10:15] botando aqui os mais, né?
+[10:22] deixou
+[10:24] um helicóptero,
+[10:30] deixou várias coisas, várias coisas.
+[10:34] Quando a gente observa esses bens
+[10:37] conjuntamente,
+[10:39] é o que a gente chama de herança.
+[10:42] Isso aqui
+[10:45] é o que nós chamamos
+[10:47] de herança, é o conjunto todo. E quando
+[10:51] acontece a Saizine, no mesmo exato da
+[10:54] momento da morte, a gente consigna que
+[10:59] os herdeiros, vamos supor que sejam três
+[11:02] herdeiros.
+[11:05] Os herdeiros de maneira fictícia
+[11:09] ficam aqui, ó.
+[11:12] Ó,
+[11:15] quem que lembra do nossos herdeirin
+[11:16] aqui? Eles ficam aqui, ó,
+[11:21] segurando o pedacinho deles.
+[11:27] Imagina que você tem aqui
+[11:30] o herdeiro
+[11:32] rosa,
+[11:35] o herdeiro
+[11:36] azul
+[11:40] e o herdeiro verde.
+[11:43] Uma coisa é fato. Ninguém é dono de um
+[11:46] bem específico aqui, professora. Por
+[11:49] quê? Porque a herança, isso aqui mata
+[11:52] várias questões de prova. A herança,
+[11:57] conforme o que nós estamos conversando
+[11:59] aqui, a herança
+[12:03] é um conjunto de bens. Preste atenção, é
+[12:09] um conjunto
+[12:12] de bens.
+[12:13] deixado pelo falecimento de uma pessoa e
+[12:17] é um conjunto de bens que é por força da
+[12:20] lei imóvel.
+[12:22] A herança é um bem imóvel por disposição
+[12:26] de lei.
+[12:27] É um bem imóvel. É uma universalidade.
+[12:35] Claro que é uma universalidade, é um
+[12:37] conjunto de bens.
+[12:40] é uma universalidade
+[12:42] e até que seja feita a partilha
+[12:45] é indivisível.
+[12:48] Então, quais são as características
+[12:51] da herança? Ela é tratada como um
+[12:54] imóvel, ela é uma universalidade
+[12:58] e ela é o quê? Indivisível. Até que seja
+[13:02] feita a partilha, ela é indivisível.
+[13:05] Então, ninguém é dono de um bem
+[13:09] específico. Eu não posso afirmar que o
+[13:11] herdeiro verde é dono da casa e o
+[13:14] herdeiro rosa é dono do carro, porque na
+[13:17] verdade cada um é dono de uma cota
+[13:22] parte. A herança é indivisível. Sendo
+[13:25] indivisível, cada um é dono de uma cota
+[13:27] parte. A herança, ela é então, portanto,
+[13:31] dividida em três partes aqui, tá vendo?
+[13:35] Nós temos três herdeiros, três partes.
+[13:38] Nós vamos ter a parte do menino aqui
+[13:41] rosa.
+[13:44] Tá vendo? A parte do menino aqui azul
+[13:54] e a parte do menino verde.
+[14:02] Deu para você entender? Ninguém é dono
+[14:05] de um bem específico. Então
+[14:08] eu quero que você tome nota de uma
+[14:10] informação muito relevante paraa sua
+[14:13] prova.
+[14:14] Sempre cai em prova. Enquanto a gente tá
+[14:18] numa situação de herança,
+[14:21] regra do coração,
+[14:24] o herdeiro
+[14:28] não
+[14:30] é
+[14:32] dono
+[14:34] de bem
+[14:39] específico
+[14:43] da herança. O herdeiro não é dono de bem
+[14:47] específico da herança. O terceiro, o
+[14:50] herdeiro não é dono de bem específico da
+[14:54] herança.
+[14:56] Se cair na sua prova, o herdeiro pode
+[15:00] vender o bem específico da herança. Não,
+[15:04] ele não é dono e eu só posso vender
+[15:06] coisas que eu, olha,
+[15:11] eu que fiz. Eu só posso vender coisas
+[15:17] nas quais eu seja a proprietária. Se eu
+[15:20] não sou a proprietária, eu não posso
+[15:22] vender, lógico.
+[15:25] Então, no final das contas, se cair
+[15:28] assim, são três herdeiros e o morto
+[15:31] deixou três casas específicas, 1 2 3.
+[15:35] Podemos concluir que cada casa é mesmo
+[15:38] antes da partilha de cada herdeiro? Não,
+[15:41] não [roncando] podemos fazer essa
+[15:42] conclusão porque ainda que cada um fique
+[15:45] com uma casa específica, isso só vai ser
+[15:47] definido depois da partilha. Antes da
+[15:51] partilha, nada feito. Tudo bem? Volta
+[15:53] lá. [roncando]
+[15:55] Então, se cair na sua prova, o herdeiro
+[15:57] pode vender bem específico? Não, não
+[15:59] pode. Vamos anotar.
+[16:02] O herdeiro
+[16:05] não
+[16:08] pode
+[16:11] alienar
+[16:15] bem
+[16:17] específico
+[16:19] antes da partilha, porque ele não é
+[16:20] dono. Como é que ele vai vender um bem
+[16:22] específico antes da partilha,
+[16:25] né? Agora vem comigo, Roberta, nesse
+[16:29] exemplo que a gente tá dando, cada um é
+[16:32] dono de 1/3, certo? Certo. Então vamos
+[16:34] lá. 1/3,
+[16:37] 1/3,
+[16:39] 1/3, 1/3 pro rosa, 1/3 pro azul, 1/3 pro
+[16:42] verde. Então é dono de 1/3 do dinheiro
+[16:45] que tá na conta, 1/3 da casa, 1/3 do
+[16:48] helicóptero, 1/3 do carro e por aí vai.
+[16:52] Quando a gente fala dessa história de
+[16:53] 1/3, é porque nós estamos nos referindo
+[16:57] a cotas. Então, cada
+[17:02] herdeiro
+[17:04] com a saizine, posse, propriedade, com a
+[17:06] abertura da sucessão é dono
+[17:11] de quê? De cota. É dono de uma cota.
+[17:17] Vamos grifar.
+[17:19] Se ele não pode alienar,
+[17:21] seja de maneira gratuita ou onerosa,
+[17:23] ceder bem específico, ele pode ceder a
+[17:26] cota? Ah, ceder a cota ele pode. E por
+[17:29] que que ele pode ceder a cota? Porque
+[17:31] ele é dono da cota. Então, cada herdeiro
+[17:33] dono da cota, ele pode alienar a cota
+[17:36] dele. Isso aqui sempre cai na prova. Vou
+[17:40] botar aqui FGV.
+[17:42] Um herdeiro poderá ceder a cota dele.
+[17:47] Podemos ter uma sessão
+[17:53] de cota hereditária.
+[17:56] O herdeiro pode transferir para alguém a
+[18:00] cota parte que lhe cabe na herança. Ele
+[18:03] não pode alienar um bem específico, mas
+[18:04] ele pode ceder a cota dele. Pode. Isso
+[18:08] acontece por previsão do artigo 1794.
+[18:12] Só que tem um detalhe, todas as vezes
+[18:14] memoriza isso. Todas as vezes que a
+[18:17] gente tá falando de indivisibilidade e
+[18:19] bem imóvel e você tem vários donos, você
+[18:22] tem então, portanto, um condomínio.
+[18:26] Se eu tenho três herdeiros e um uma cota
+[18:29] parte de herança, nós estamos falando de
+[18:31] condomínio entre os herdeiros. Cínio,
+[18:34] cpropriedade.
+[18:36] Se um dos herdeiros quiser ceder de
+[18:39] forma gratuita, ou seja, doar a cota
+[18:42] dele para quem ele quiser, não tem regra
+[18:45] nenhuma. Ele doa. Ah, eu quero doar lá
+[18:47] pro João das Cove, beleza, vai na fé,
+[18:49] seja feliz. Agora, se ele quiser do
+[18:54] doar, não, ceder onerosamente, vender, a
+[18:57] gente tem que lembrar da regra de
+[18:59] condomínio, preferência, direito de
+[19:02] preferência dos outros condôminos.
+[19:05] Então, sempre que tem condomínio e um
+[19:07] dos condôminos quer ceder a cota dele, a
+[19:11] gente tem que lembrar do direito de
+[19:13] preferência. Então, pensa na regra.
+[19:17] Imagina que um dos herdeiros, o herdeiro
+[19:20] verde, ele quer ceder, ele quer fazer
+[19:22] uma sessão de cota hereditária. Ele pode
+[19:26] pode
+[19:29] essa sessão pode ser
+[19:33] gratuita
+[19:36] e aí beleza,
+[19:39] ele quer doar,
+[19:42] ele doa para quem ele quiser.
+[19:46] vai ser feliz. Não tem regra nenhuma
+[19:48] para seguir. Agora, se for uma sessão
+[19:52] onerosa,
+[19:55] uma venda, na verdade, ele tem que dar o
+[20:00] direito de preferência. Vou botar de
+[20:03] azul. Ele tem que dar o direito de
+[20:07] preferência.
+[20:08] De modo que se esse se essa criatura
+[20:11] azul quiser ceder de maneira onerosa,
+[20:14] ele tem que perguntar pro verde e pro
+[20:16] rosa se eles querem.
+[20:19] Tudo bem? Direito de preferência.
+[20:23] Roberta, e se for violado o direito de
+[20:25] preferência? Se for violado o direito de
+[20:29] preferência,
+[20:30] nós vamos ter um problema. Por se o azul
+[20:34] cede pro João das Cove, que tem nada a
+[20:37] ver com a história,
+[20:39] tá? Sede pro João das Cov que não tem
+[20:41] nada a ver com a história, onerosamente,
+[20:44] não. Pergunta pro rosa e pro verde. O
+[20:46] rosa e o verde possuem 180 dias
+[20:51] para exercer o direito de preferência no
+[20:54] sentido de adjudicar
+[20:59] o bem.
+[21:00] Eles vão poder adjudicar o bem, ou seja,
+[21:04] tomar para si. Excelência, violaram meu
+[21:07] direito de preferência, eu vou depositar
+[21:09] aqui o valor
+[21:12] e eu quero o bem para mim. Ah, mas e o
+[21:14] jumo das couve? Problema dele,
+[21:18] ele se vire com o herdeiro azul,
+[21:22] tá? problema dele. Ninguém mandou ele
+[21:25] fazer essa essa palhaçada de CD sem eh
+[21:30] CD onerosamente, óbvio, sem falar com o
+[21:34] herdeiro rosa e o herdeiro verde. Tudo
+[21:36] bem até aqui? Então vamos lá.
+[21:39] Um. Olha o que nós temos.
+[21:44] Falamos então dessa parte introdutória
+[21:48] da herança. Certo?
+[21:51] Agora deixa eu te contar uma coisa, te
+[21:54] contar uma coisa importante.
+[21:56] Tem essa parada aqui de morte, herança,
+[21:58] transmitir pros herdeiros, fazer a
+[22:00] partilha, seguir as regras, tudo
+[22:02] bonitinho. Falamos aqui inclusive de
+[22:04] questão que cai em prova. Agora, onde
+[22:07] que a gente faz a regra de partilha?
+[22:09] Como que a gente resolve a partilha de
+[22:12] bens? Como que a gente resolve a
+[22:14] partilha de bens? Vem comigo.
+[22:17] Então, ocorreu a morte.
+[22:22] A gente tem que
+[22:24] pegar a herança, que é indivisível,
+[22:28] universal,
+[22:30] é um bem imóvel,
+[22:33] entregar pros herdeiros,
+[22:37] resolvendo
+[22:41] a partilha.
+[22:43] Cabe em inventário, não é, Luís Carlos?
+[22:46] Um beijo, viu, Israel? Parabéns.
+[22:48] Obrigada. Olha lá
+[22:53] como que a gente vai fazer a partilha,
+[22:56] como que a gente vai fazer a partilha de
+[23:01] bens? Professora,
+[23:06] você falou que a gente segue a partilha,
+[23:11] né?
+[23:14] Teve uma pergunta aqui no chat, Jorge,
+[23:16] 180 dias a partir do conhecimento da
+[23:19] sessão. Deixa eu voltar. Boa pergunta,
+[23:21] Jorge. Eles têm 180 dias, tá, para
+[23:27] depositar o preço e haver para si a cota
+[23:29] cedida. estranho. Ele tem que fazer,
+[23:32] excelente pergunta, fazer e essa
+[23:35] adjudicação 180 dias após a transmissão.
+[23:40] Após a transmissão. Isso tá no artigo
+[23:42] 1795.
+[23:47] OK? Então, a lei fala em transmissão,
+[23:50] após a transmissão.
+[23:53] Tudo bem?
+[23:57] Beleza, vamos voltar então. Tá aí. Nós
+[24:01] estamos aqui resolvendo a história da
+[24:04] partilha de bens. Como que a gente vai
+[24:05] fazer? Vamos fazer uma linha do tempo
+[24:08] pra gente entender como é que funciona
+[24:09] isso. Então,
+[24:12] a linha do tempo vai ser mais ou menos
+[24:14] assim. Imagina que aconteceu
+[24:20] a morte.
+[24:23] Imagina que aconteceu a morte.
+[24:26] No dia 20/05,
+[24:28] tá?
+[24:31] Quando acontece a morte, imediatamente
+[24:33] alguém começa a tomar conta da herança.
+[24:35] É sempre assim, naturalmente alguém
+[24:38] começa a tomar conta da herança. A gente
+[24:39] chama essa pessoa que toma conta da
+[24:41] herança de administrador provisório.
+[24:46] Não é inventariante ainda, porque não
+[24:47] tem inventário, administrador
+[24:50] provisório.
+[24:52] E aí
+[24:54] esse administrador cuida
+[24:58] até que se abra o tal
+[25:01] do inventário,
+[25:05] porque no momento do inventário, tá
+[25:08] aqui, ó, no momento do inventário,
+[25:14] no momento do inventário,
+[25:18] o a gente vai ter a nomeação de um
+[25:20] inventariante.
+[25:26] que vai cuidar do inventário.
+[25:29] Esse inventário pode ser judicial,
+[25:37] judicial
+[25:39] ou pode ser
+[25:43] extra
+[25:45] judicial
+[25:48] no cartório.
+[25:54] OK, calma.
+[25:58] Terminou o inventário,
+[26:00] termina com a partilha feita.
+[26:04] Ou uma sentença, se ele for judicial, ou
+[26:06] uma escritura pública de partilha de
+[26:08] bens, se ele for extrajudicial.
+[26:11] Perfeito.
+[26:12] Mas o fato que eu quero que você lembre
+[26:15] é que entre a morte
+[26:18] e o início do inventário,
+[26:21] o Código Civil,
+[26:24] o Código Civil no artigo 1796
+[26:28] diz que no prazo de 30 dias, a contar da
+[26:32] abertura da sucessão, ou seja, da morte,
+[26:35] instaurar-se aá o inventário do
+[26:37] patrimônio hereditário.
+[26:40] Só que nós temos
+[26:43] uma outra regra no Código de Processo
+[26:45] Civil e nesse ponto o que prevalece é o
+[26:49] CPC.
+[26:51] O Código Civil no 1796
+[26:54] fala em 30 dias, mas o código de
+[26:59] processo no artigo 611, que é o que a
+[27:03] gente vai valer paraa nossa prova, que é
+[27:05] a regra, quem dá a martelada final sobre
+[27:07] regra processual é o CPC, não é o Código
+[27:09] Civil.
+[27:10] fala em dois meses. E essa é a regra que
+[27:14] nós vamos falar. Vou ler para você o
+[27:17] 1600, o 1000, o 611. Olha lá,
+[27:22] o processo de inventário
+[27:24] e de partilha deve ser instaurado dentro
+[27:29] de 2 meses
+[27:32] a contar da abertura da sucessão. Já te
+[27:35] expliquei. Abertura da sucessão, nós
+[27:37] estamos falando de quê mesmo? de
+[27:39] ocorrida morte, ultimando-se nos 12
+[27:43] meses subsequentes,
+[27:45] podendo o juiz prorrogar esses prazos de
+[27:48] ofício a requerimento da parte. Então,
+[27:51] vamos tomar nota disso porque já caiu na
+[27:53] prova da OAB. Vamos lá. Então, entre a
+[27:56] morte e a abertura do inventário, nós
+[27:59] temos o quê?
+[28:02] Artigo
+[28:04] 611 do CPC.
+[28:07] Temos, então, portanto,
+[28:11] vou botar em cima
+[28:13] dois
+[28:15] meses, OK? Dois meses entre a morte e a
+[28:23] abertura do inventário, tá? Devendo eh
+[28:27] terminar em 12 meses, mas na verdade eh
+[28:31] pode ser que não termine em 12 meses e
+[28:32] aí os herdeiros não vão ser punidos por
+[28:34] causa disso. Tudo bem?
+[28:37] Então veja bem,
+[28:40] basicamente é isso. Agora
+[28:46] com aine,
+[28:48] a herança, a gente viu aqui que a
+[28:50] herança vai automaticamente,
+[28:53] né? A gente viu aqui, a herança vai
+[28:57] automaticamente. Eu vou pegar esse
+[28:59] negócio, vou trazer para cá.
+[29:02] Olha
+[29:04] que perfeito isso.
+[29:07] Tá vendo?
+[29:09] Veja bem. Aqui a gente viu que
+[29:12] automaticamente
+[29:13] a herança vai aos herdeiros. É uma
+[29:17] ficção.
+[29:19] É uma ficção.
+[29:21] Agora
+[29:23] esses herdeiros aqui, presta atenção, o
+[29:26] verde, o azul e o rosa, eles precisam,
+[29:31] eles precisam, esses herdeiros,
+[29:36] eles precisam se manifestar.
+[29:39] Eles precisam se manifestar
+[29:42] se eles aceitam isso aqui. Cai em prova.
+[29:50] ou
+[29:52] se eles não querem a herança. É o
+[29:56] fenômeno da aceitação e da renúncia.
+[30:01] A aceitação, por mais que você esteja na
+[30:04] condição de herdeiro, ela tem que
+[30:06] acontecer.
+[30:08] E a aceitação, como é uma coisa mais eh
+[30:11] tranquila, artigo 1804,
+[30:17] essa aceitação pode ser tácita.
+[30:24] Botar assim, ó,
+[30:27] pode ser tácita.
+[30:33] Ah, vai aceitando.
+[30:35] Ou pode ser expressa.
+[30:38] Você pode fazer um documento falando:
+[30:39] "Eu aceito a herança". Renúncia não.
+[30:45] Renúncia é você abrir mão da herança. Aí
+[30:47] a gente tem o 180.
+[30:51] A renúncia só pode ser expressa
+[30:56] [roncando]
+[30:59] a renúncia. Somente pode ser expressa.
+[31:03] Expressa como, professora?
+[31:06] Só por escrito ou termo no processo.
+[31:13] Você entra no processo e faz uma petição
+[31:15] dizendo que está renunciando ou uma
+[31:21] escritura
+[31:23] pública de renúncia
+[31:26] ou uma escritura pública de renúncia.
+[31:29] Então, memoriza isso. A renúncia somente
+[31:33] pode ser expressa.
+[31:37] Somente pode ser expressa, tá? Somente
+[31:41] pode ser expressa. Detalhe importante do
+[31:45] coração,
+[31:47] professora,
+[31:49] inventário
+[31:51] no cartório.
+[31:54] Já vi uma regra. Atenção agora. Já vi
+[31:58] uma regra dizendo que o inventário no
+[32:01] cartório
+[32:02] não pode ter incapaz.
+[32:07] Eu também já vi essa regra, só que essa
+[32:10] regra mudou.
+[32:13] Essa regra mudou. Mudou mudou. Mudou por
+[32:18] uma resolução do CNJ.
+[32:20] Tá liberado, profe. Vamos embora anotar.
+[32:41] inventário no cartório. Produção
+[32:47] lá rapidinho, né?
+[32:51] Rapidinho, inventário no cartório. Hoje
+[32:54] a gente tem a resolução
+[32:57] 571
+[33:00] de 2024,
+[33:02] que é a resolução do CNJ.
+[33:06] Profe, o que que diz essa resolução? Tá
+[33:09] na mão.
+[33:12] Tá na mão. Olha o que que nós temos
+[33:14] nessa resolução. No artigo 12a.
+[33:18] O inventário. Vamos grifar. Vamos
+[33:21] grifar. O inventário poderá ser
+[33:25] realizado por escritura pública, ainda
+[33:28] que inclua interessado menor ou incapaz.
+[33:31] Isso aqui não podia, porque a regra
+[33:34] antes da resolução era assim: se tiver
+[33:39] interesse de incapaz menor, não pode ser
+[33:44] no cartório, tem que ser judicial.
+[33:47] Então, cuidado que isso mudou. Hoje o
+[33:50] inventário pode ser pode ser realizado
+[33:55] por escritura pública no cartório, isso
+[33:57] aqui pode cair, tá? A banca ainda não se
+[33:59] tocou para essa cobrança,
+[34:01] desde que o pagamento
+[34:04] do quinhão hereditário da cota do menor
+[34:08] ou da minhação ocorra em parte ideal de
+[34:10] cada um dos herdeiros inventariados e
+[34:13] haja manifestação favorável de quem,
+[34:15] gente?
+[34:18] do Ministério Público. O Ministério
+[34:20] Público não tá fora dessa história.
+[34:22] Então, eu posso fazer por escritura
+[34:24] pública de boa, mas o Ministério Público
+[34:27] não tá fora. Havendo menor ou incapaz, o
+[34:30] Ministério Público vai se manifestar. E
+[34:32] aí, olha, olha o que ato contínuo. Olha,
+[34:35] olha a informação que a gente tem aqui.
+[34:37] Vou pegar aqui o verde. Na hipótese do
+[34:40] caput deste artigo, é vedada a prática
+[34:44] de atos de disposição relativos aos bens
+[34:47] ou direitos,
+[34:49] pera aí.
+[34:53] Do interessado menor ou incapaz. Cuidado
+[34:55] com essa parte. Não pode abrir mão de
+[34:58] direitos dele.
+[35:00] Havendo nascituro. Quem é o nascituro?
+[35:04] Havendo, vou botar aqui de amarelo.
+[35:06] Havendo nascituro. Quem é o nascituro?
+[35:09] Quem é o nascituro?
+[35:12] É aquele que tá dentro do ventre
+[35:15] materno. Olha a minha menininha grávida
+[35:17] aqui, ó.
+[35:21] Havendo nascituro. Pode rolar essa
+[35:23] parada aí. Olha lá, o havendo nascituro
+[35:27] do autor da herança
+[35:29] para a lavratura nos termos do capot,
+[35:32] aguardasse o registro do seu nascimento
+[35:36] com a indicação da parentalidade com o
+[35:38] morto ou com a comprovação de não ter
+[35:41] nascido com vida, de ser considerado
+[35:44] nate morto. A eficácia da escritora
+[35:46] pública do inventário com interessado
+[35:48] menor ou incapaz dependerá da
+[35:50] manifestação, olha quem tá aqui de novo,
+[35:52] do Ministério Público, devendo o
+[35:54] tabelhão de notas encaminhar o
+[35:56] expediente ao respectivo representante
+[35:59] em caso de impugnação pelo Ministério
+[36:01] Público ou terceiro interessado, o
+[36:04] procedimento deverá ser submetido à
+[36:06] apreciação do juízo competente.
+[36:13] OK?
+[36:16] a apreciação do juízo competente. Então
+[36:20] essa é a resolução
+[36:24] do sujeito, né?
+[36:28] eh do sujeito, ó, do inventário na
+[36:33] escritura pública.
+[36:48] OK, gente. Agora vamos lá.
+[36:58] Vamos lá.
+[37:06] Pois muito que bem. Quer ver uma questão
+[37:08] de prova? Porque aí a gente falou, né,
+[37:10] aqui da questão da sessão, a gente falou
+[37:13] aqui da questão da renúncia e falamos
+[37:15] aqui da questão do inventário. Agora
+[37:17] veja bem, veja bem
+[37:21] aqui,
+[37:24] eu quero trabalhar com vocês uma questão
+[37:26] de prova
+[37:28] e uma questão de prova bem importante,
+[37:31] tá? Que que nós vamos ter aqui? Olha só,
+[37:36] vou botar aqui, ó, questão
+[37:41] de prova.
+[37:46] Questão de prova.
+[37:49] Nessa questão de prova, nós temos o
+[37:51] seguinte.
+[37:53] João,
+[37:55] João
+[37:57] é
+[37:59] credor.
+[38:01] João é credor
+[38:04] de Maria.
+[38:07] Como assim, Roberta? Obrigação mesmo.
+[38:10] João é credor de Maria. O João é credor
+[38:14] da Maria. Então, a Maria é devedora
+[38:18] do João. Ela deve, vamos botar aqui, R$
+[38:21] 50.000
+[38:24] para o João. É uma relação de dívida,
+[38:27] tá? Uma relação de dívida. Então, João é
+[38:31] aquele credor,
+[38:33] como todo e qualquer credor. Zoiudão
+[38:37] fica de olho,
+[38:40] vê se Maria paga ele. E se Maria não
+[38:44] pagar, que que ele vai fazer? Penhorar
+[38:46] os bens da Maria. E a Maria não tem
+[38:47]  nenhuma.
+[38:49] Acredita? Maria não tem nada.
+[38:54] Ninguém tem nada. Aí, vamos lá.
+[39:01] Quando
+[39:03] passou o tempo e João tentando receber o
+[39:06] dinheiro dele, tentando receber o
+[39:08] dinheiro dele, tentando receber o
+[39:09] dinheiro dele.
+[39:13] O João nunca conseguiu receber o
+[39:15] dinheiro dele, nunca conseguiu. Sempre
+[39:18] foi um inferno na vida dele receber esse
+[39:19] dinheiro e ele nunca conseguiu. Maria
+[39:21] Devedora.
+[39:24] Do outro lado do mundo,
+[39:29] o Zé,
+[39:32] que é o pai da Maria, tem três filhos.
+[39:39] Três filhos. Vou botar aqui assim, ó.
+[39:42] Maria,
+[39:44] Roberta. Essa Maria, essa Maria. Maria.
+[39:51] Antônio
+[39:55] e Nivaldo.
+[40:00] O Zé tem
+[40:03] a filha Maria,
+[40:05] o filho Antônio e o filho Nivaldo.
+[40:09] Então, Maria Devedora é filha do seu Zé,
+[40:12] tá?
+[40:13] E o seu Zé?
+[40:16] [música]
+[40:22] [música]
+[40:29] >> [música]
+[40:42] [música]
+[40:54] >> เ
+[40:58] >> [música]
+[41:11] [música]
+[41:18] >> Vamos lá, minha gente. Voltamos. Deu um
+[41:22] pipoco de energia aqui, não sei nem o
+[41:23] que que aconteceu, mas enfim, vamos
+[41:27] retomar. Vou refazer o desenho
+[41:33] da questão de prova. É sempre assim.
+[41:36] Isso aqui é o espírito ruim querendo
+[41:38] atrapalhar nosso estudo.
+[41:42] Vamos lá.
+[41:44] Vamos retomar nossa questão de prova.
+[41:46] Vamos lá.
+[41:48] Vamos botar aqui, ó.
+[41:56] Questão de prova. Vamos retomar de onde
+[42:00] a gente parou. O João, o João,
+[42:07] como a gente consignou aqui, ele é
+[42:10] credor
+[42:13] da Maria.
+[42:18] Maria, então é
+[42:23] devedora
+[42:27] em R$ 50.000,
+[42:29] tá? Maria é, então, portanto, é devedora
+[42:34] no valor de R$ 50.000.
+[42:39] Tudo bem?
+[42:41] E o João é aquele credor diligente.
+[42:46] Ele tá sempre ali, ó, vigiando
+[42:50] a Maria. Por a Maria não pagou. Maria
+[42:55] não fez o pagamento
+[42:57] ali para o João. Ela é devedora mesmo.
+[43:01] Quanto mais não fez o pagamento. E o
+[43:03] João tá ali a todo custo tentando
+[43:07] receber o dinheirinho dele e nada. né? E
+[43:10] nada.
+[43:13] Um belo dia acontece uma situação triste
+[43:18] para Maria, mas boa pro João. Olha o que
+[43:21] que rolou.
+[43:24] A Maria
+[43:27] é filha do seu Zé,
+[43:30] que tem como filhos a Maria,
+[43:34] o Antônio
+[43:38] e
+[43:41] o Nivaldo. Nem lembro se foi esse os
+[43:43] nomes que eu coloquei, mas vamos lá.
+[43:45] Nivaldo.
+[43:47] O seu Zé então é pai da Maria,
+[43:52] pai do Antônio e pai do Nivaldo.
+[43:56] E o seu Zé bateu as botas. Seu Zé
+[44:01] morreu.
+[44:03] Seu Zé morreu.
+[44:06] E o seu Zé morreu deixando
+[44:09] simplesmente uma herança de R$ 300.000.
+[44:15] Ou seja, cada filho,
+[44:19] né, fazendo uma conta de padaria aqui se
+[44:21] implória, vai receber 100.000.
+[44:26] Concorda? Pois muito que bem. Sabe o que
+[44:29] que a Maria fez?
+[44:31] A Maria foi lá,
+[44:37] invés de receber os 100.000, ela pegou e
+[44:40] fez, sabe o quê?
+[44:45] renunciou.
+[44:47] Ela renunciou
+[44:49] à herança dela. Ela falou: "Não quero".
+[44:54] Bom, se ela fala não quero é
+[44:58] simplesmente porque ela não vai receber
+[45:01] nada. E aí o Antônio e o Nivaldo vão
+[45:05] receber a cota do renunciante, porque
+[45:08] quando um herdeiro renuncia, a cota dele
+[45:12] acresce os demais herdeiros. A cota dele
+[45:16] vai acrescer os demais herdeiros,
+[45:19] entendeu? Então, nesse caso, o Nivaldo e
+[45:24] o Antônio vão receber 150 cada um.
+[45:30] Só que o credor da Maria descobriu essa
+[45:32] tramoia dela.
+[45:35] Como é que fica? Ele descobriu.
+[45:38] Ele soube
+[45:41] disso aqui.
+[45:43] Quando isso acontece, a gente tem que
+[45:46] lembrar de um artigo muito bacana
+[45:52] que nós temos.
+[45:54] E deixa eu te falar, é um artigo, gente,
+[45:58] muito cobrado em prova. Professora, que
+[46:01] artigo é esse? É o 1800
+[46:07] 13. E o 1813
+[46:10] diz o seguinte,
+[46:16] tá aqui, ó, 1813 diz o seguinte:
+[46:22] "Quando o herdeiro
+[46:25] prejudicar
+[46:27] os seus credores
+[46:32] renunciando
+[46:33] à herança,
+[46:35] poderão eles, com a autorização do juiz
+[46:38] aceitá-la
+[46:40] em nome do renunciante. Então, o que que
+[46:42] o João vai fazer? O João,
+[46:47] o João,
+[46:49] o João
+[46:51] como credor
+[46:55] poderá
+[46:57] [roncando]
+[47:00] poderá
+[47:02] aceitar.
+[47:07] no lugar
+[47:09] da Maria. É isso que vai acontecer. O
+[47:13] João, como credor, poderá aceitar no
+[47:15] lugar da Maria. Essa é a adicção do
+[47:18] 1813.
+[47:19] Então, a Maria foi dar uma desperta para
+[47:21] não pagar o João e aí ela pega,
+[47:26] renuncia à herança, o João vai lá e faz
+[47:28] o quê? Aceita.
+[47:31] Aí a banca vai querer saber o prazo. O
+[47:34] credor fará no prazo de 30 dias
+[47:38] seguintes ao conhecimento do fato. Então
+[47:43] ele poderá aceitar no lugar da Maria
+[47:45] desde que ele faça em 30 dias a partir
+[47:49] da ciência que ele teve da renúncia
+[47:53] dela.
+[47:55] Aí eu te pergunto, o João vai receber o
+[47:58] valor de R$ 100.000?
+[48:00] Não, ele vai receber o valor de 50.
+[48:03] Então, como que vai ficar o cálculo? 100
+[48:07] menos o 50, que é do João,
+[48:11] sobra um troco de 50. Esse troco de 50
+[48:16] aqui
+[48:17] permanece o quê?
+[48:20] Para os outros herdeiros, porque
+[48:24] permanece
+[48:25] objeto de renúncia. A banca vai
+[48:28] perguntar para você se o João pode ficar
+[48:30] com valor integral. Não, ele não pode
+[48:33] ficar com valor integral, óbvio que não.
+[48:36] Ele fica apenas com a parte que ele tem.
+[48:40] Tudo bem? E aí, gente, a gente conversou
+[48:44] aqui também sobre a questão das regras
+[48:48] de partilha, tá vendo? A gente falou
+[48:50] aqui da sucessão legítima, da sucessão
+[48:52] testamentária. Fizemos todos esses
+[48:55] comentários e agora eu quero te explicar
+[48:57] que regras são essas. Vamos fazer nosso
+[49:00] desenho. Vamos lá. Então, a gente
+[49:03] comentou que quando ocorre a morte surge
+[49:06] o fenômeno da herança e no final das
+[49:09] contas a gente vai seguir as nossas
+[49:12] regras
+[49:14] de partilha.
+[49:17] nossas regras de partilha. Mas, profe,
+[49:20] quais são essas regras de partilha?
+[49:23] Gente, nós temos basicamente
+[49:26] duas regras de partilha. Nós vamos ter
+[49:32] as regras, como a gente mencionou,
+[49:34] prevista na lei.
+[49:37] E quando essas regras estão previstas na
+[49:40] lei,
+[49:42] a gente chama
+[49:44] de sucessão
+[49:46] legítima.
+[49:48] E nós vamos eh observar a possibilidade
+[49:52] de regra
+[49:58] prevista em testamento. Então nós temos
+[50:01] duas opções. Aplicar
+[50:04] o que a lei manda partilhar.
+[50:09] Tá vendo aqui o que a lei manda
+[50:12] partilhar e aplicar o testamento.
+[50:16] Quando é que a gente chama,
+[50:20] como é que a gente chama a sucessão
+[50:22] prevista na lei?
+[50:27] Sucessão
+[50:30] legítima.
+[50:37] Ficou feio, né? Deixa eu botar assim, ó.
+[50:42] botar de roxo.
+[50:46] E a sucessão,
+[50:48] quando eu aplico regras de testamento,
+[50:52] é chamada
+[50:56] de sucessão
+[51:01] testamentária.
+[51:03] É óbvio que eu vou aplicar aplicar regra
+[51:05] de sucessão testamentária só quando
+[51:06] tiver testamento. Se não tiver
+[51:09] testamento, nada feito, né? Agora vamos
+[51:13] lá. Quando você aplica a regra de
+[51:15] sucessão legítima, você começa pelo
+[51:18] artigo 1829,
+[51:22] que diz quem são os herdeiros legítimos.
+[51:30] Quem é considerado
+[51:33] herdeiro pela lei? São os herdeiros. Vou
+[51:37] botar mais para cima aqui, ó. São os
+[51:39] chamados herdeiros
+[51:44] legítimos.
+[51:56] São os herdeiros legítimos.
+[51:59] Esses herdeiros legítimos são os
+[52:01] herdeiros que a lei diz que são
+[52:03] herdeiros. E quem são essas pessoas?
+[52:06] Existe uma ordem.
+[52:08] E você já está super adaptado a essa
+[52:10] ordem. Existe uma ordem de recebimento
+[52:13] da herança que é chamada ordem de
+[52:15] vocação hereditária prevista no artigo
+[52:17] 1829.
+[52:19] E quem são essas pessoas? Vamos lá.
+[52:23] Descendentes
+[52:25] do morto.
+[52:29] Quem são os descendentes do morto?
+[52:32] Filho, neto, bisneto, etc. infinito de
+[52:37] quem? Do morto.
+[52:40] Quem mais?
+[52:44] Ascendentes
+[52:46] do morto. Quem são essas pessoas? Pai,
+[52:51] mãe do morto, avô, avó do morto, bisavô,
+[52:54] bisavó do morto. E por aí vai infinito
+[52:57] para cima.
+[52:59] Quem mais?
+[53:01] cônjuge ou companheiro
+[53:06] do morto. Ficou torto, né?
+[53:12] Cônjuge ou companheiro do morto. Aqui eu
+[53:15] quero que você preste atenção.
+[53:19] Não existe
+[53:22] botar só comp. Não existe distinção
+[53:26] entre cônjuge e companheiro do morto.
+[53:30] Ah, morreu, deixou um cônjuge. Morreu,
+[53:33] deixou um companheiro. É a mesma coisa,
+[53:36] tá? Não tem tratamento distintivo de
+[53:39] detrimentoso entre cônjuge e companheiro
+[53:42] do morto.
+[53:44] E os
+[53:46] colaterais
+[53:49] até o quarto grau do morto. Quem são
+[53:52] essas pessoas?
+[53:55] Irmãos
+[53:57] que são segundo grau,
+[54:00] sobrinhos
+[54:04] que são terceiro grau,
+[54:08] tios
+[54:10] que são terceiro grau e os
+[54:15] primos que são
+[54:18] quarto grau,
+[54:23] tá?
+[54:27] que são quarto grau. Gente, presta
+[54:30] atenção aqui agora.
+[54:33] A ordem de vocação hereditária é essa.
+[54:37] São essas pessoas. Quando alguém morre,
+[54:41] a herança vai pros descendentes.
+[54:45] Não havendo descendentes
+[54:48] do morto. Ai, que coisa horrível.
+[54:54] Não havendo descendentes do morto, vai
+[54:56] para quem? Pros ascendentes.
+[54:59] Não havendo ascendentes do morto, vai
+[55:02] pro cônjuge ou companheiro. Não havendo
+[55:05] cônjuge ou companheiro, vai pro irmão.
+[55:08] Não havendo irmão, vai pro sobrinho. Não
+[55:11] havendo sobrinho, vai pro tio. Não
+[55:14] havendo tio, vai para os primos.
+[55:19] Professora, eu vi uma questão de prova
+[55:23] dizendo que o sujeito morreu deixando
+[55:27] tios e sobrinhos. Três tios e três
+[55:30] sobrinhos.
+[55:33] Perceba, muito embora tio e sobrinho
+[55:36] sejam parentes de terceiro grau, eles
+[55:39] não concorrem entre si. Não concorrem
+[55:42] entre si.
+[55:44] Tio e sobrinho são parentes de terceiro
+[55:47] grau, mas o sobrinho tem preferência.
+[55:50] Então, quando você tem uma pessoa que
+[55:52] morreu deixando tio e sobrinho, nós
+[55:56] vamos observar a regra básica de que tio
+[56:01] e sobrinho não concorrem entre si. O
+[56:05] sobrinho tem preferência. Então, nessa
+[56:08] situação aqui, olha lá, tio e sobrinho,
+[56:11] muito embora sejam de terceiro grau, o
+[56:14] sobrinho tem preferência,
+[56:18] tá? O sobrinho tem preferência no
+[56:21] recebimento da herança.
+[56:26] Tudo bem? Perfeito, professora. E a
+[56:30] sucessão testamentária?
+[56:33] A sucessão testamentária
+[56:35] aquela que vai ter
+[56:39] um testamento.
+[56:42] O morto
+[56:45] deixou um testamento.
+[56:47] E nós sabemos
+[56:49] que testamento eu deixo para quem eu
+[56:51] quiser.
+[56:54] Testamento eu deixo para quem eu quiser.
+[56:58] E um detalhe, eu sempre posso fazer o
+[57:02] meu testamento.
+[57:04] Sempre posso fazer o meu testamento.
+[57:06] Uai, professora,
+[57:08] mas falam que quando você tem herdeiro
+[57:10] legítimo, você não pode fazer
+[57:12] testamento.
+[57:14] Não, não é assim não. Eu sempre posso
+[57:18] fazer o meu testamento. Sempre.
+[57:23] A diferença
+[57:24] é que
+[57:28] está em quanto eu posso deixar no meu
+[57:32] testamento, quanto que eu posso deixar
+[57:34] no meu testamento, quanto de dinheiro eu
+[57:37] posso deixar no meu testamento?
+[57:39] Pensa que o morto tem um total
+[57:43] patrimonial.
+[57:45] Tá aqui a bola dele. Imagina que o
+[57:48] dinheiro que ele tem é 1 milhão.
+[57:54] 1 milhão.
+[57:56] OK. O José das Cove tem 1 milhão de
+[58:00] patrimônio.
+[58:02] Quando a gente pensa no patrimônio do
+[58:04] José das Cove,
+[58:07] a pergunta é: ele pode fazer o
+[58:09] testamento?
+[58:11] Pode sempre pode fazer o testamento.
+[58:15] Sempre é possível fazer um testamento.
+[58:20] E a partir de quantos anos eu posso
+[58:21] fazer o meu testamento? 16 anos.
+[58:25] Independentemente
+[58:28] do meu pai e da minha mãe, eu posso
+[58:30] fazer o meu testamento aos 16 anos
+[58:33] sozinho, direto no cartório,
+[58:35] tranquilamente,
+[58:36] ou testamento particular, eu posso fazer
+[58:39] também sozinho. Então, eu sempre posso
+[58:42] fazer o meu testamento. A diferença é o
+[58:45] seguinte,
+[58:47] desses herdeiros legítimos,
+[58:51] esses três aqui,
+[58:54] tá vendo aqui? Descendente, ascendente,
+[58:58] cônjuge ou companheiro, são denominados
+[59:02] herdeiros.
+[59:06] Herdeiros
+[59:09] necessários.
+[59:13] são denominados herdeiros
+[59:16] necessários,
+[59:20] certo? Herdeiros necessários.
+[59:23] Professora,
+[59:26] por que que são? Então, veja pelo
+[59:28] desenho.
+[59:30] Herdeiro legítimo é quem a lei diz que
+[59:32] é. São essas pessoas.
+[59:37] Nem todo herdeiro legítimo é necessário,
+[59:41] porque necessário são só essas pessoas.
+[59:45] E o que que tem a ver isso? Herder o
+[59:48] necessário, quando ele existe,
+[59:51] ele tem direito à metade
+[59:54] do patrimônio do morto. Então, a gente
+[59:57] divide, havendo herder o necessário, a
+[01:00:00] gente divide
+[01:00:03] dessa forma.
+[01:00:05] Metade dos bens
+[01:00:10] devem ser destinados
+[01:00:14] aos denominados
+[01:00:16] herdeiros. necessários. É o que a gente
+[01:00:19] chama de legítima
+[01:00:24] que corresponde
+[01:00:26] a 50% dos bens do morto.
+[01:00:31] É a chamada
+[01:00:34] legítima.
+[01:00:37] Os outros 50%.
+[01:00:41] Os outros 50%.
+[01:00:49] Tá vendo aqui, ó?
+[01:00:55] Os outros 50%
+[01:01:01] é a chamada parte disponível
+[01:01:04] que você pode dispor no testamento
+[01:01:08] sempre. É a chamada parte
+[01:01:13] disponível que você sempre pode colocar
+[01:01:17] no testamento. Então, por que que por
+[01:01:20] que que a gente fala que sempre é
+[01:01:21] possível testar? Porque pelo menos 50%
+[01:01:24] do seu dos seus bens botar em
+[01:01:27] testamento, tá? Pelo menos 50% dos seus
+[01:01:31] bens. Então, a ideia é, se eu quiser
+[01:01:34] fazer um testamento,
+[01:01:37] se eu quiser fazer um testamento, eu
+[01:01:39] posso dispor 100% dos meus bens no
+[01:01:43] testamento
+[01:01:45] se eu não tiver herdeiro necessário.
+[01:01:49] Ah, eu posso deixar para um tio, pode,
+[01:01:51] para um primo, pode, para um amigo,
+[01:01:52] pode. Agora, se eu tenho
+[01:01:57] herder o necessário, eu só posso dispor
+[01:02:02] até 50%.
+[01:02:11] Entendeu a ideia?
+[01:02:13] Porque se eu tenho o herdeiro
+[01:02:15] necessário, eu tenho que respeitar 50%
+[01:02:18] do patrimônio, que é a legítima do
+[01:02:19] herdeiro necessário.
+[01:02:22] Professor, e quais são as formas de
+[01:02:24] testamento? Nós temos formas,
+[01:02:29] botar aqui, ó, formas
+[01:02:33] ordinárias
+[01:02:36] de testamento e formas
+[01:02:40] especiais de testamento.
+[01:02:44] Forma especial só para situações
+[01:02:47] especiais. Formas ordinárias, eu tenho
+[01:02:49] testamento público, que eu faço tudo no
+[01:02:52] cartório,
+[01:02:53] testamento cerrado, que eu faço de
+[01:02:56] próprio punho e levo só para registrar
+[01:02:58] no cartório. E o testamento particular,
+[01:03:01] que ele é todo particular mesmo, não
+[01:03:03] levo nada pro cartório.
+[01:03:05] Lembrando que a pessoa que é cega
+[01:03:08] somente pode testar
+[01:03:12] na forma pública.
+[01:03:15] O cego somente pode testar na forma
+[01:03:18] pública.
+[01:03:20] As formas especiais de testamento é
+[01:03:22] aquela situação, por exemplo, você tá
+[01:03:23] numa viagem, sentiu que vai morrer, faz
+[01:03:26] o testamento a bordo da viagem. Aí pode
+[01:03:28] ser marítimo,
+[01:03:34] aeronáutico
+[01:03:40] e o militar. Mas o militar é só para os
+[01:03:43] militares
+[01:03:45] que estão lá, né, no fronte, numa
+[01:03:49] atividade militar, toma um tiro, toma
+[01:03:52] uma bomba lá e vai pensa que vai morrer,
+[01:03:55] pode fazer o testamento. É a única forma
+[01:03:57] de testamento oral que nós temos no
+[01:04:00] Brasil é o testamento militar. Nenhuma
+[01:04:02] outra forma de testamento é oral, nem
+[01:04:04] mesmo o testamento particular. O
+[01:04:06] testamento particular também não pode
+[01:04:07] ser oral, tá tudo bem? Então, observe
+[01:04:12] essa regra de sucessão legítima.
+[01:04:14] Cuidado, professora.
+[01:04:18] Sobre essa questão da parte da legítima
+[01:04:20] e da parte disponível. A parte
+[01:04:22] disponível eu posso deixar para quem eu
+[01:04:24] quiser. Pode, pode. Então, imagina o
+[01:04:28] seguinte,
+[01:04:30] vamos ver aqui um negócio. Imagina o
+[01:04:32] seguinte. Imagina você que a Maria
+[01:04:38] tem o filho um,
+[01:04:41] filho dois, filho três,
+[01:04:45] OK? Filho um, filho dois, filho três.
+[01:04:51] A Maria tem um patrimônio de R 1 milhão
+[01:04:53] deais.
+[01:04:56] Mesmo desenho que a gente colocou ali,
+[01:04:57] R$ 1 milhãoa. Então, toda vez que a
+[01:05:00] banca te der uma questão sobre
+[01:05:02] sucessões, que que você vai fazer? Vai
+[01:05:03] desenhar. Desenha a bolinha, passa o
+[01:05:05] risco no meio, atribui os valores, soma
+[01:05:08] tudo, vê qual é o valor total do
+[01:05:10] patrimônio e divide em legítima e parte
+[01:05:13] disponível. Se você tiver discutindo
+[01:05:15] isso na questão, então R 1 milhãoais, tá
+[01:05:18] aqui 1 milhão.
+[01:05:24] Se você observa o valor de 1 milhão,
+[01:05:27] quanto que é a parte disponível?
+[01:05:30] 500.000.
+[01:05:32] [roncando]
+[01:05:33] Então, 500.000. E a parte da legítima
+[01:05:37] 500.000.
+[01:05:39] Esses
+[01:05:41] 500.000
+[01:05:44] que é a parte da legítima,
+[01:05:49] obrigatoriamente tem que ser dividida
+[01:05:51] entre o filho um, filho dois e filho
+[01:05:54] três. Por quê? Porque os filhos, por
+[01:05:58] serem descendentes, eles são herdeiros.
+[01:06:03] Herdeiros
+[01:06:05] necessários.
+[01:06:08] Agora, a parte disponível,
+[01:06:12] ela pode deixar para quem ela quiser.
+[01:06:15] Professora,
+[01:06:16] essa parte disponível,
+[01:06:19] ela pode deixar,
+[01:06:23] ela pode deixar
+[01:06:30] para quem ela quiser, pode. Ah,
+[01:06:32] professora, ela gosta mais do filho
+[01:06:35] dois. Ela pode deixar a parte disponível
+[01:06:37] pro filho dois. Pode. Poxa, professora,
+[01:06:40] mas é sacanagem. Não, não é sacanagem. A
+[01:06:41] parte disponível ela dá para quem ela
+[01:06:43] quiser. Então, se ela vai deixa a parte
+[01:06:46] disponível pro filho dois em testamento,
+[01:06:50] como que nós vamos eh deliberar essa
+[01:06:54] divisão aqui?
+[01:06:56] Como que nós vamos deliberar?
+[01:06:58] 500 di por 3 vai dar uma cota de 166
+[01:07:03] 66 para cada filho, certo?
+[01:07:06] Então, como que vai ficar? O filho um
+[01:07:09] recebe 1666
+[01:07:12] de legítima. O filho dois recebe 1666
+[01:07:18] de legítima mais 500
+[01:07:22] do testamento e o filho três recebe 1666
+[01:07:29] de legítima
+[01:07:32] correspondente à parte de legítima.
+[01:07:35] Entendeu? Então, a parte disponível, eu
+[01:07:38] quero que você compreenda
+[01:07:40] que você deixa para quem
+[01:07:43] quiser.
+[01:07:46] Simples assim.
+[01:07:48] Pode ser para o outro herdeiro legítimo,
+[01:07:51] pode ser para quem você quiser, um
+[01:07:52] amigo, pode instituir uma fundação,
+[01:07:55] pode. Você pode instituir com a parte,
+[01:07:59] isso já caiu na prova da OAB, você pode
+[01:08:02] instituir com a parte disponível até
+[01:08:04] mesmo a criação de uma fundação. A
+[01:08:07] fundação é uma pessoa jurídica de
+[01:08:09] direito privado sem finalidade
+[01:08:11] lucrativa. Tá lá no artigo 62 do Código
+[01:08:14] Civil. Você pode instituir para quem
+[01:08:16] você efetivamente quiser, tá? Para quem
+[01:08:20] você quiser. Vamos lá.
+[01:08:23] Então aqui. Beleza. Beleza, professora.
+[01:08:26] Então a ideia é, eu sempre posso fazer o
+[01:08:29] meu testamento? Sim, você sempre pode
+[01:08:32] fazer o seu testamento. Sempre, sempre,
+[01:08:34] sempre, sempre. Então, vamos tomar nota
+[01:08:36] disso porque é importante.
+[01:08:39] Aí vem uma regra do coração agora, tá?
+[01:08:42] Regra
+[01:08:44] coração. Que regra é essa? Vamos lá.
+[01:08:49] Dito
+[01:08:51] que nós sempre
+[01:08:55] podemos
+[01:08:56] dispor em testamento,
+[01:09:04] a gente sabe que a vida não fica parada,
+[01:09:07] né?
+[01:09:09] A vida não fica parada. Eu sempre posso
+[01:09:11] fazer o testamento, só que tem uma regra
+[01:09:13] importante aqui.
+[01:09:16] Se
+[01:09:19] a herdeiro necessário
+[01:09:27] pode
+[01:09:29] testar
+[01:09:30] o quê?
+[01:09:32] Até
+[01:09:34] 50%.
+[01:09:36] Por quê? Que que nós temos aqui?
+[01:09:42] Porque somente a parte disponível
+[01:09:46] pode ser objeto de testamento. Até que
+[01:09:49] beleza, professora, já entendi isso.
+[01:09:50] Então, vamos lá. Isso que eu vou falar
+[01:09:52] para você sempre cai em prova. Eu quero
+[01:09:54] que você cole o olho aqui na tela. Cola
+[01:09:58] o olho na tela agora, por favor. Cola o
+[01:10:01] olho na tela agora.
+[01:10:04] Vamos lá.
+[01:10:07] Cola o olho na tela.
+[01:10:12] >> [roncando]
+[01:10:12] >> Imagina você
+[01:10:16] que eu tenho herdeiro necessário.
+[01:10:20] Eu tenho herdeiro necessário.
+[01:10:24] Eu vou lá,
+[01:10:26] faço o meu testamento
+[01:10:30] passando
+[01:10:32] os 50%.
+[01:10:35] Entendeu? Eu tenho herdeiro necessário
+[01:10:38] hoje. Eu tenho herdeiro necessário hoje.
+[01:10:42] Eu vou lá e faço um testamento passando
+[01:10:46] a regra dos 50%.
+[01:10:51] Que que vai acontecer aqui?
+[01:10:57] Que que vai acontecer aqui
+[01:11:00] lá na frente? Quando eu morrer, que o
+[01:11:02] juiz abrir o testamento e verificar que
+[01:11:05] na época que eu fiz o testamento, eu
+[01:11:08] tinha herdeiro necessário e eu não
+[01:11:10] podia,
+[01:11:12] eu não podia passar a cota.
+[01:11:17] Eu não podia passar a cota. Olha a
+[01:11:18] merda. Eu não podia passar a cota e
+[01:11:21] passei. Que que o juiz vai fazer? Ele
+[01:11:24] vai aplicar a regra de redução
+[01:11:28] da disposição testamentária. Ele vai
+[01:11:31] olhar pro meu testamento,
+[01:11:34] que tá aqui meu testamento, e ele vai
+[01:11:37] falar: "Gente,
+[01:11:39] passou da cota, vamos reduzir para 50%."
+[01:11:46] Tá? Ele vai fazer o cálculo do
+[01:11:48] patrimônio e vai reduzir para 50%. Isso
+[01:11:51] aqui é uma situação. Imagina essa outra
+[01:11:55] situação aqui.
+[01:11:57] Eu não tenho herdeiro necessário. Foi o
+[01:11:59] que caiu na prova da OAB já. Eu não
+[01:12:01] tenho herdeiro necessário.
+[01:12:05] Aliás, não vou nem anotar. Eu não tenho
+[01:12:07] herdeiro necessário. Fui lá, fiz um
+[01:12:11] testamento
+[01:12:13] dispondo todos os meus bens para um
+[01:12:16] amigo.
+[01:12:18] Posso, posso, eu não tenho herdeiro
+[01:12:20] necessário. Dispõe 100% dos bens para um
+[01:12:24] amigo. Beleza. O tempo passa. Meu
+[01:12:28] herdeiro necessário surge depois.
+[01:12:32] Surge depois. Tá aqui ele aqui, ó.
+[01:12:35] surgiu depois.
+[01:12:38] Sabe como que isso caiu na prova? Caiu
+[01:12:41] assim.
+[01:12:44] Eh, Maria
+[01:12:47] não tinha herdeiro necessário, não tinha
+[01:12:49] descendente, não tinha ascendente, não
+[01:12:51] tinha cônjuge, nem companheiro. Fez um
+[01:12:54] testamento dispondo 100% dos seus bens
+[01:12:56] para o seu melhor amigo. Beleza, foi
+[01:12:59] viver a vida. Show de bola.
+[01:13:02] >> [roncando]
+[01:13:02] >> De repente o tempo passa, Maria depois
+[01:13:07] de 3 anos do testamento e quando ela fez
+[01:13:10] realmente ela não tinha necessário, 3
+[01:13:12] anos depois do testamento, a Maria
+[01:13:15] engravida.
+[01:13:19] Quem tá fazendo questão de prova vai
+[01:13:20] lembrar dessa questão. Maria engravidou.
+[01:13:23] Quando a Maria engravidou,
+[01:13:26] ela,
+[01:13:28] o filho nasceu no dia do parto. O filho
+[01:13:31] nasceu e ela morreu no parto. A filha lá
+[01:13:34] nasceu. A pergunta é, quando ela fez o
+[01:13:37] testamento, ela podia ter feito o
+[01:13:38] testamento dispondo 100% pro seu amigo,
+[01:13:41] porque não tinha efetivamente herdeiro
+[01:13:44] necessário, não existiu o herdeiro
+[01:13:46] necessário ali, né? E tá tudo bem.
+[01:13:49] Então, beleza, vai viver a vida. Agora,
+[01:13:52] o herdeiro necessário surgiu depois.
+[01:13:55] Se o herdeiro necessário surge depois,
+[01:13:58] eu não vou reduzir o testamento.
+[01:14:02] Eu vou o quê?
+[01:14:04] Eu vou o quê?
+[01:14:08] Cortar o testamento, rasgar o
+[01:14:10] testamento, é o que a gente chama de
+[01:14:12] rompimento do testamento. Então, no
+[01:14:14] final das contas, se o herdeiro
+[01:14:16] necessário surge depois da feitura do
+[01:14:19] testamento,
+[01:14:21] não é caso de redução da disposição
+[01:14:24] testamentária. É caso de quê?
+[01:14:29] rom
+[01:14:31] pi
+[01:14:33] mento do testamento. O juiz vai olhar
+[01:14:36] pro papel
+[01:14:39] e vai o quê?
+[01:14:43] Rasgar o papel.
+[01:14:45] OK? Então, cuidado. Se eu já tenho o
+[01:14:51] herdeiro necessário e eu faço
+[01:14:54] testamento, é caso de redução. Se eu não
+[01:14:56] tenho o herdeiro necessário e eu faço o
+[01:14:59] testamento, é caso de rompimento do
+[01:15:02] testamento. OK?
+[01:15:04] Essa tela é muito importante. Se você
+[01:15:06] quiser até dar o print nela, fica à
+[01:15:09] vontade. Essa tela é bem importante
+[01:15:12] mesmo,
+[01:15:14] real, oficial.
+[01:15:23] Certo?
+[01:15:25] Vamos voltar
+[01:15:26] na parte de sucessão legítima.
+[01:15:31] Por quê? Por quê? Eu quero que você
+[01:15:35] observe
+[01:15:37] o seguinte,
+[01:15:39] que eu vi já até que tem até algumas
+[01:15:41] perguntas aí no chat sobre isso. Vamos
+[01:15:44] voltar aqui.
+[01:15:46] Quando a gente fala de sucessão
+[01:15:48] legítima, presta atenção que vai ser a
+[01:15:51] sua última oportunidade de entender isso
+[01:15:53] antes da sua prova que tá chegando.
+[01:15:56] Quando a gente fala de sucessão
+[01:16:05] legítima
+[01:16:07] é a aplicação das regras da lei. Acabei
+[01:16:10] de te explicar que consta no artigo 1829
+[01:16:14] a regra da ordem
+[01:16:21] de vocação
+[01:16:28] hereditária,
+[01:16:30] tá? Ou seja, a ordem de quem vai receber
+[01:16:32] a herança. Ordem de vocação hereditária.
+[01:16:36] Professora, ordem de vocação
+[01:16:38] hereditária. Entendi. É aquela ordem que
+[01:16:41] a gente conversou ali atrás. Exatamente.
+[01:16:45] Descendente, ascendente, cônjuge,
+[01:16:47] colater conjuge, companheiro, colaterais
+[01:16:49] até o quarto grau. Então, vamos colocar
+[01:16:50] aqui. A herança é deferida primeiro para
+[01:16:54] quem? Primeiro para quem? Vamos lá. Aos.
+[01:17:00] Descend
+[01:17:02] dentes de quem? Do morto.
+[01:17:05] Não tem como tratar de parente que não
+[01:17:07] seja do morto. Descendentes do morto.
+[01:17:09] Presta atenção agora. Se não houver
+[01:17:12] descendente, a herança vai para quem?
+[01:17:16] Ascendentes
+[01:17:18] de quem? do morto.
+[01:17:21] Se não houver ascendente, [roncando]
+[01:17:24] conjugou o companheiro do morto.
+[01:17:27] Detalhe, não tem como a pessoa ter ao
+[01:17:29] mesmo tempo conjugier companheiro. Não
+[01:17:31] tem. Alguém é amante e amante não tem
+[01:17:33] lá. Amante não recebe a herança.
+[01:17:37] Ou é um ou é outro.
+[01:17:40] Não havendo cônjou companheiro,
+[01:17:44] colaterais
+[01:17:46] até
+[01:17:48] o quarto grau. Então vamos por partes.
+[01:17:51] Quando a gente tá falando de
+[01:17:52] descendente,
+[01:17:56] nós temos uma ordem e eu tenho certeza
+[01:17:58] que você já ouviu essa regra por aí. Os
+[01:18:01] mais próximos excluem os mais remotos.
+[01:18:05] Professora, mais próximo de onde, pelo
+[01:18:07] amor de Deus. Os mais próximos do morto
+[01:18:10] excluem os mais remotos. Então, se o
+[01:18:14] morto tem filho, neto bisneto, quem são
+[01:18:19] os mais próximos do morto, filho.
+[01:18:23] Quem são os mais remotos? Os netos e os
+[01:18:25] bisnetos.
+[01:18:26] É só você fazer o desenho. Olha pro
+[01:18:29] desenho.
+[01:18:31] Tá aqui o morto.
+[01:18:35] Quem tá abaixo do morto? Filho. Depois
+[01:18:38] neto. Depois bisneto. Filho é primeiro
+[01:18:41] grau de descendência. Neto segundo grau
+[01:18:44] de descendência. Bisneto terceiro grau
+[01:18:47] de descendência. Os mais remotos,
+[01:18:51] eles são excluídos quando eu tenho os
+[01:18:53] mais próximos. Isso quer dizer que não
+[01:18:56] são todos esses descendentes que vão
+[01:18:58] receber, são os mais próximos. Então, se
+[01:19:01] eu tenho descendentes, filho, neto,
+[01:19:03] bisneto, primeiro eu entrego a herança
+[01:19:06] pros filhos. Se os filhos já forem
+[01:19:08] falecidos ou todos renunciarem, aí eu
+[01:19:11] vou pros netos. Se os netos são
+[01:19:14] falecidos ou todos renunciarem, aí eu
+[01:19:17] vou pros bisnetos.
+[01:19:19] Então,
+[01:19:20] se, por exemplo, a Maria,
+[01:19:23] a Maria tem o José de Filho e o Antônio
+[01:19:31] de Neto, que é o filho do José, se o
+[01:19:33] José tá vivo, quem vai receber herança é
+[01:19:35] o José, não é o Antônio. E eu não vou
+[01:19:38] dividir entre eles, porque os mais
+[01:19:40] próximos excluem os mais remotos. Então,
+[01:19:42] primeiro eu entrego pros filhos. Não
+[01:19:44] havendo os filhos porque são falecidos
+[01:19:46] ou renunciaram, eu vou pros netos. E por
+[01:19:49] aí vai.
+[01:19:52] Na linha de ascendente, a mesma coisa.
+[01:19:55] Se eu tenho aqui a Maria, a Maria tem
+[01:19:58] pai, mãe,
+[01:20:01] avô, avó,
+[01:20:03] avô, avó e a Maria morre, a herança da
+[01:20:08] Maria vai pro pai e pra mãe, não vai pro
+[01:20:11] pai, pra mãe e os avós, não. Agora, se
+[01:20:14] os pais são falecidos,
+[01:20:16] aí vai pros avós, porque os mais
+[01:20:19] próximos excluem os mais remotos. Pai e
+[01:20:22] mãe é primeiro grau, avô, avó segundo
+[01:20:25] grau com a Maria na ascendência. Então a
+[01:20:28] ideia é a mesma. Primeiro eu entrego pro
+[01:20:31] pai e pra mãe. Não havendo o pai e a
+[01:20:34] mãe, eu entrego pros avós. Não havendo
+[01:20:37] os avós, eu entrego pros bisavós. E por
+[01:20:40] aí vai.
+[01:20:43] Entendeu? Eu não junto todo mundo no
+[01:20:46] mesmo bolo e entrego a herança.
+[01:20:49] Não tem essa parada não.
+[01:20:52] Não tem essa parada não.
+[01:20:57] Agora você tem que ter um cuidado.
+[01:21:02] Primeiro
+[01:21:04] vamos botar a caneta mágica primeiro.
+[01:21:07] Ó a caneta mágica.
+[01:21:11] Primeiro eu vou pro descendente. Se não
+[01:21:14] tiver nenhum descendente, aí eu vou pros
+[01:21:18] ascendentes. Se não tiver nenhum
+[01:21:20] ascendente, aí eu vou pro cônjuge,
+[01:21:22] companheiro. Se não tiver nem o cônjuge,
+[01:21:25] nem o companheiro, eu vou pros
+[01:21:26] colaterais.
+[01:21:28] Nos colaterais,
+[01:21:30] a gente primeiro
+[01:21:32] mete os irmãos,
+[01:21:35] que são o segundo grau. Não, não tem
+[01:21:37] irmãos. ou porque todos foram falecidos
+[01:21:40] ou ou porque renunciaram. Aí eu vou
+[01:21:42] entregar pro sobrinho.
+[01:21:47] Terceiro grau.
+[01:21:49] Não tendo sobrinho,
+[01:21:52] tio.
+[01:21:54] Terceiro grau. Não tendo tio, primo.
+[01:21:59] Quarto grau.
+[01:22:03] Regra do coração. Regra de ouro.
+[01:22:07] Vamos colocar aqui. Embora.
+[01:22:12] Tio e sobrinho,
+[01:22:17] sejam
+[01:22:19] terceiro grau
+[01:22:24] colateral,
+[01:22:27] eles não
+[01:22:31] concorrem
+[01:22:34] entre si,
+[01:22:37] sobrinho.
+[01:22:41] tem
+[01:22:48] preferência,
+[01:22:50] tá? [roncando] Isso aqui já caiu na
+[01:22:51] prova do OAB.
+[01:22:53] Perfeito. Agora vamos lá.
+[01:22:57] antes de chegar no cônjuge ou
+[01:23:00] companheiro aqui, antes de chegar no
+[01:23:02] cônjuge ou companheiro e eu vou colocar
+[01:23:04] aqui cônjuge
+[01:23:07] ou
+[01:23:08] companheiro do morto.
+[01:23:12] muito possível e é normal que possa ter
+[01:23:17] o descendente do morto
+[01:23:19] e um companheiro, o descendente do morto
+[01:23:23] e o cônjuge, como também é possível ter
+[01:23:26] o ascendente do morto
+[01:23:30] e o companheiro, o ascendente do morto
+[01:23:35] e o cônjuge. É possível isso? Não é
+[01:23:38] possível. É possível, normal.
+[01:23:42] Se isso acontecer,
+[01:23:45] se isso acontecer,
+[01:23:48] nós vamos ter uma questão.
+[01:23:52] Dá uma olhada.
+[01:23:57] Se o morto deixar,
+[01:24:00] se o morto deixar
+[01:24:03] cônjuge
+[01:24:04] ou companheiro
+[01:24:07] a concorrer com os descendentes ou os
+[01:24:11] ascendentes, a gente vai ter que
+[01:24:13] dividir. É o que a gente chama de
+[01:24:14] concorrência,
+[01:24:16] tá? concorrência.
+[01:24:19] Gente, cuidado
+[01:24:22] nessa situação aqui. Cola o olho agora
+[01:24:25] para depois não dizer que não entendeu.
+[01:24:28] Nessa situação aqui do cônjuge ou
+[01:24:30] companheiro receber sozinho, ele recebe
+[01:24:33] sozinho
+[01:24:35] qualquer
+[01:24:37] que seja
+[01:24:39] o regime,
+[01:24:43] qualquer que seja o regime.
+[01:24:48] Ele era casado na comunhão universal,
+[01:24:49] ele vai receber sozinho. Ele era casado
+[01:24:51] na separação de bens com morto, ele vai
+[01:24:53] receber sozinho. Qualquer que seja o
+[01:24:55] regime.
+[01:24:57] Se ele estiver concorrendo com os
+[01:24:59] ascendentes,
+[01:25:01] com os ascendentes,
+[01:25:03] aqui também ele vai receber
+[01:25:10] qualquer
+[01:25:12] que seja
+[01:25:14] o
+[01:25:16] regime.
+[01:25:19] Tá vendo? Então, se a pessoa morreu,
+[01:25:21] deixou pai, mãe e cônjuge,
+[01:25:25] independentemente do regime de bens que
+[01:25:28] o cônjuge tinha com o morto, ele vai ele
+[01:25:30] vai dividir com os pais.
+[01:25:33] O problema é no inciso um, porque o 1829
+[01:25:39] deixa claro a questão da ordem de
+[01:25:43] vocação hereditária e o inciso um,
+[01:25:46] dizendo que o cônjuge
+[01:25:49] tem hora que ele vai concorrer com os
+[01:25:53] descendentes e tem hora que não.
+[01:25:54] Professora, aonde eu vejo isso?
+[01:25:58] O Código Civil deixa muito claro.
+[01:26:01] Eu vou te mostrar aqui o Código Civil.
+[01:26:04] Olha o Código Civil aqui, ó, no 1829.
+[01:26:08] Vamos descer lá.
+[01:26:11] A sucessão legítima defere-se na
+[01:26:13] seguinte ordem. Olha o inciso um.
+[01:26:16] aos descendentes
+[01:26:18] em concorrência com o cônjuge
+[01:26:20] sobrevivente,
+[01:26:22] salvo se casado este com o falecido no
+[01:26:25] regime da comunhão universal, na
+[01:26:29] separação de obrigatória de bens ou na
+[01:26:32] comunhão parcial de bens, não houver
+[01:26:33] deixado bens particulares.
+[01:26:36] Ele não fez essa ressalva no inciso dois
+[01:26:38] e no inciso três. aos ascendentes, em
+[01:26:41] concorrência com o cônjuge, qualquer que
+[01:26:43] seja o regime, ao cônjuge ou
+[01:26:45] companheiro, qualquer que seja o regime.
+[01:26:46] Tá vendo? Ele não fez essa ressalva. Se
+[01:26:49] ele não fez essa ressalva, é porque
+[01:26:51] qualquer que seja o regime. Agora,
+[01:26:53] quando a gente fala do inciso um, aí a
+[01:26:56] gente tem que analisar a questão do
+[01:26:57] regime.
+[01:26:59] Tem que analisar a questão do regime.
+[01:27:01] Olha como fica isso. Vamos lá.
+[01:27:06] Tem hora que sim,
+[01:27:09] ele vai dividir e tem hora que não, ele
+[01:27:12] não vai dividir.
+[01:27:14] Onde o não,
+[01:27:17] simplesmente
+[01:27:20] não vai ter divisão.
+[01:27:28] Quando é que sim? De acordo com o inciso
+[01:27:30] um, a gente observa aqui que sim. Sim,
+[01:27:35] vai dividir a herança
+[01:27:37] na comunhão parcial de bens
+[01:27:41] com bens particulares e aí será só nos
+[01:27:45] bens particulares,
+[01:27:48] na separação convencional de bens, que é
+[01:27:52] a separação escolhida e a gente vai
+[01:27:53] falar disso amanhã na aula de família e
+[01:27:57] na participação final nos acquestos.
+[01:28:00] Quando é que não
+[01:28:02] na comunhão parcial de bens
+[01:28:07] bens particulares,
+[01:28:10] na comunhão universal
+[01:28:13] e na separação obrigatória de bens.
+[01:28:18] Na separação obrigatória de bens.
+[01:28:22] Sensacional isso.
+[01:28:24] Sensacional
+[01:28:26] isso.
+[01:28:31] E aí na aula de direito das famílias, a
+[01:28:33] gente vai fazer um quadro sobre esse
+[01:28:35] regime de bens e você vai conseguir
+[01:28:37] visualizar claramente
+[01:28:39] como que tudo funciona.
+[01:28:42] Agora, veja uma coisa importante.
+[01:28:47] Veja uma coisa importante.
+[01:28:52] Veja uma coisa importante
+[01:28:56] que tá sempre caindo em prova.
+[01:28:58] Professora, o cônjuge ficou, o
+[01:29:02] companheiro ficou.
+[01:29:04] E aí, professora,
+[01:29:07] ele sendo ou não sendo
+[01:29:12] o recebedor da herança, ele concorrendo
+[01:29:15] ou não concorrendo com os filhos, com os
+[01:29:17] netos ou com os pais do morto, ele
+[01:29:20] morava na casa com o morto. Ele tem o
+[01:29:23] direito de ficar naquela casa. Isso tem
+[01:29:26] sempre sido cobrado em prova. é o
+[01:29:28] chamado direito real de habitação. E o
+[01:29:31] que que nós vamos ter aqui no direito
+[01:29:33] real de habitação? O artigo 1831,
+[01:29:37] que eu quero consignar com você aqui.
+[01:29:40] Olha o que diz o 1831.
+[01:29:44] ao cônjuge
+[01:29:48] ao cônjuge
+[01:29:51] sobrevivente,
+[01:29:54] qualquer
+[01:29:56] que seja o regime de bens,
+[01:30:00] será assegurado sem prejuízo da
+[01:30:03] participação que lhe caiba na herança,
+[01:30:05] se ele vai participar, se ele não vai
+[01:30:06] participar,
+[01:30:07] o direito real de habitação
+[01:30:12] relativamente
+[01:30:14] ao imóvel
+[01:30:16] destinado à residência da família, desde
+[01:30:19] que seja o único
+[01:30:23] dessa natureza a inventariar.
+[01:30:27] O único dessa natureza a inventariar é o
+[01:30:31] chamado
+[01:30:32] direito
+[01:30:36] direito
+[01:30:38] real
+[01:30:40] de
+[01:30:46] habitação.
+[01:30:48] Esse direito real de habitação, ele é
+[01:30:52] vitalício
+[01:30:54] até a morte do cônjuge de sobrevivente
+[01:31:01] e também gratuito. Não pode ser cobrado
+[01:31:06] nenhum tipo de aluguel da pessoa. Então,
+[01:31:09] ainda que, por exemplo, o João morreu,
+[01:31:11] era casado com a Maria, o João tinha
+[01:31:14] dois filhos só dele, os filhos vão
+[01:31:16] receber a casa, mas a Maria vai ter o
+[01:31:18] direito real de habitação,
+[01:31:20] tá? Quando a gente fala de companheiro,
+[01:31:27] companheiro, nós temos
+[01:31:30] o artigo 7º
+[01:31:33] da lei
+[01:31:35] 9278
+[01:31:38] de 96,
+[01:31:40] que é uma lei específica ao companheiro.
+[01:31:44] Como o código não reproduziu essa
+[01:31:46] questão do direito real de habitação pro
+[01:31:47] companheiro, a gente aplica a lei 9278
+[01:31:50] de 96, tá? E o companheiro também tem
+[01:31:55] direito real de habitação, certo?
+[01:31:59] Cuidado com essas regras. Cuidado com
+[01:32:02] essas regras, tá? Muito cuidado com
+[01:32:05] essas regras, por são regras importantes
+[01:32:08] que são cobradas em prova. Eu tenho
+[01:32:09] achado até eh um pouco interessante, mas
+[01:32:14] a FGV vem cobrando rotineiramente
+[01:32:18] direito real de habitação, tá? É
+[01:32:22] vitalício e gratuito. O cônjuge tem o
+[01:32:26] direito de permanecer, desde que seja o
+[01:32:28] único bem a ser inventariado naqu dessa
+[01:32:33] natureza, bem imóvel residencial da
+[01:32:37] família, tá bom?
+[01:32:39] Então, essas foram as nossas conversas
+[01:32:44] sobre sucessões.
+[01:32:46] [roncando]
+[01:32:47] Teremos um encontro amanhã no mesmo
+[01:32:50] horário de direito das famílias. Eu tô
+[01:32:52] esperando você aqui nesse mesmo horário,
+[01:32:55] nesse mesmo canal. E se você quiser
+[01:32:58] complementar os seus estudos lá no meu
+[01:33:00] canal também aqui no YouTube, Direito
+[01:33:02] como Nunca se viu, tem várias aulas,
+[01:33:05] vários temas interessantes que a gente
+[01:33:08] trata de direito civil e também um
+[01:33:11] pouquinho de processo lá paraa sua
+[01:33:13] prova. Então tem um monte de conteúdo lá
+[01:33:15] bacana, tá bom? Espero que você tenha
+[01:33:17] gostado desse encontro hoje. Não perca a
+[01:33:19] nossa revisão de véspera, porque com
+[01:33:21] base nesses encontros eu vou mandar um
+[01:33:23] material muito lindo para vocês, um
+[01:33:24] caderno de de direito civil elaborado
+[01:33:27] por nós juntinhos aqui na nossa aula, tá
+[01:33:30] bom? E aí na aula de família a gente vai
+[01:33:32] retomar essa história de regime de bens,
+[01:33:35] beleza? Beijo para você. Até o nosso
+[01:33:38] próximo encontro, amanhã às 10 horas.
+[01:33:41] Ciao. Ciao.
+[01:33:47] [música]
+[01:33:58] [música]

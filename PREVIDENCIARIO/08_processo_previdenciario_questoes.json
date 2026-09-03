@@ -1,0 +1,40 @@
+[
+  {
+    "num": 70,
+    "enunciado": "Em 2018, Antônio, segurado, empregado vinculado ao Regime Geral de Previdência Social, sofreu um acidente de trânsito quando voltava para sua residência. Depois de dois anos de afastamento, recebeu alta previdenciária e retornou ao trabalho. No entanto, Antônio apresenta sequelas do acidente que reduzem sua capacidade laborativa. Assinale a opção que indica o benefício previdenciário que ele poderá receber após a alta.",
+    "alternativas": {
+      "A": "Auxílio-acidente.",
+      "B": "Benefício por incapacidade temporária.",
+      "C": "Pecúlio previdenciário.",
+      "D": "Abono de permanência em serviço."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Previdenciário",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "08_processo_previdenciario",
+    "modulo_nome": "Processo Administrativo e Judicial Previdenciário",
+    "id": 1
+  },
+  {
+    "num": 70,
+    "enunciado": "Sílvia Lima, empregada segurada do Regime Geral da Previdência Social (RGPS), desempenha suas funções em atividades externas, mediante entregas de produtos elaborados por seu empregador. Em uma de suas entregas, logo após deixar a mercadoria e já no retorno ao seu posto de trabalho, foi atingida por um veículo em alta velocidade, que transitava em desacordo com os limites da via. Em virtude do ocorrido, Sílvia permaneceu afastada por um ano, em gozo de benefício previdenciário por incapacidade temporária, tendo se recuperado plenamente para as suas atividades. Sobre a situação de Sílvia, segundo o RGPS, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ela poderá se aposentar por incapacidade permanente.",
+      "B": "Ela tem direito ao auxílio-acidente após o retorno às atividades.",
+      "C": "Ela, durante o afastamento, deve continuar a receber salários, normalmente.",
+      "D": "Ela, após o retorno à sua atividade, gozará de estabilidade provisória de 12 meses no emprego."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Previdenciário",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "08_processo_previdenciario",
+    "modulo_nome": "Processo Administrativo e Judicial Previdenciário",
+    "id": 2
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "num": 69,
+    "enunciado": "Marina, empregada doméstica, é casada com Pedro, trabalhador avulso. Ambos são pessoas de baixa renda. O casal possui 2 (dois) filhos, um com 7 (sete) anos e outro com 15 (quinze) anos, sendo este inválido. Marina contribui para a Previdência Social há - 2 (dois) anos e Pedro iniciou a contribuição há 4 (quatro) meses. Diante do caso narrado, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Pedro não possui a carência mínima para receber o benefício do salário-família.",
+      "B": "Marina e Pedro não fazem jus ao salário-família por possuírem um filho maior de 14 (quatorze) anos.",
+      "C": "Marina e Pedro têm direito ao benefício do salário-família, na proporção do respectivo número de filhos.",
+      "D": "Pedro, na qualidade de trabalhador avulso, não possui direito ao benefício do salário-família."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Previdenciário",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "03_financiamento_contribuicoes",
+    "modulo_nome": "Financiamento da Seguridade Social e Contribuições",
+    "id": 1
+  },
+  {
+    "num": 69,
+    "enunciado": "Maria, empregada doméstica desde julho de 1990, no deslocamento para seu local de trabalho, sofreu um acidente em virtude de uma queda na saída do ônibus. Maria não sabe se deve procurar o sistema previdenciário desde já e se tem direito a algum benefício. Por isso, procurou você, como advogado(a) . Assinale a opção que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "O direito ao benefício não é reconhecido, pois os empregados domésticos não são cobertos pela Previdência Social brasileira.",
+      "B": "Sobre o afastamento do trabalho, sendo superior a 15 dias consecutivos, haverá direito ao benefício previdenciário por incapacidade temporária.",
+      "C": "O benefício previdenciário deve ser requerido de imediato pelo sítio eletrônico do Instituto Nacional do Seguro Social (INSS) ou por central telefônica.",
+      "D": "Sobre o afastamento do trabalho, se a incapacidade for inferior a 30 dias de afastamento, não haverá qualquer direito subjetivo a benefício previdenciário."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Previdenciário",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "03_financiamento_contribuicoes",
+    "modulo_nome": "Financiamento da Seguridade Social e Contribuições",
+    "id": 2
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "num": 69,
+    "enunciado": "Humberto Alves, que sempre atuou como advogado autônomo, logrou aprovação em concurso público para a Advocacia Geral da União, sendo regularmente nomeado em cargo público de provimento efetivo e iniciando suas atividades na função pública em janeiro de 2023. Diante da situação hipotética narrada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Humberto permanece vinculado ao Regime Geral de Previdência Social na condição de segurado empregado, salvo se optar pelo ingresso em regime diverso.",
+      "B": "Caso Humberto já ingresse no cargo público com tempo de contribuição e idade suficientes para a aposentadoria, poderá requerer a prestação imediatamente no regime previdenciário a que estiver vinculado.",
+      "C": "Humberto, na hipótese de mudança de regime previdenciário, não poderá computar os recolhimentos previdenciários pretéritos na condição de contribuinte individual.",
+      "D": "Humberto, já na condição de servidor público federal, é automaticamente filiado ao regime próprio de previdência dos servidores federais."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Previdenciário",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "07_reforma_ec103",
+    "modulo_nome": "Regras de Transição da Reforma Previdenciária (EC nº 103/19)",
+    "id": 1
+  },
+  {
+    "num": 69,
+    "enunciado": "Joana Silva, empregada doméstica, prestando serviço aos mesmos empregadores por cinco anos consecutivos, é demitida por justa causa, devido à prática de ilícito prontamente comprovado em ambiente laboral. Joana, seis meses após o desligamento, sofreu um acidente de trânsito, restando incapacitada permanentemente para qualquer atividade remunerada. Nesse contexto, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Joana poderá obter o benefício previdenciário de aposentadoria por incapacidade permanente.",
+      "B": "Joana não possui direito a qualquer prestação previdenciária, haja vista o desligamento por justa causa.",
+      "C": "Joana, caso comprove ter efetuado recolhimentos como facultativa, pode obter a concessão do benefício previdenciário.",
+      "D": "Joana somente pode obter o benefício previdenciário se o acidente tiver ocorrido no prazo de três meses após a demissão."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Previdenciário",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "07_reforma_ec103",
+    "modulo_nome": "Regras de Transição da Reforma Previdenciária (EC nº 103/19)",
+    "id": 2
+  }
+]

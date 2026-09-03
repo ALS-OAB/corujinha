@@ -1,0 +1,40 @@
+[
+  {
+    "num": 46,
+    "enunciado": "Carlos foi internado para tratamento de saúde. Apresentava estado grave, sendo seus familiares informados sobre a limitação do tempo de internação. Junto à assinatura dos DOC_Documentos de internação, o hospital exigiu dos familiares um depósito caução para assegurar a internação do paciente, caso extrapolado o dia-limite custeado pelo plano de saúde, o que fizeram prontamente. Os familiares de Carlos procuraram você, como advogado(a) , informando o ocorrido e que, de fato, o contrato do seguro-saúde apresentava essa cláusula limitadora. Assinale a opção que apresenta a orientação correta dada para o caso.",
+    "alternativas": {
+      "A": "A cláusula contratual que limita, no tempo, a internação hospitalar do segurado, é abusiva.",
+      "B": "O fato de o hospital ter exigido a prestação da caução não configura conduta abusiva, apesar da evidente vulnerabilidade, por força do princípio do equilíbrio contratual.",
+      "C": "A cláusula contratual que limita o tempo de internação não se mostra abusiva, por ter sido redigida de forma clara e compreensível.",
+      "D": "A cláusula contratual que limita o tempo de internação, embora abusiva, não é nula e, sim, anulável, por se tratar de contrato de adesão celebrado em situação de lesão ao consumidor."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Consumidor",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "04_praticas_comerciais",
+    "modulo_nome": "Práticas Comerciais, Oferta e Publicidade",
+    "id": 1
+  },
+  {
+    "num": 45,
+    "enunciado": "A sociedade empresária Fábrica de Alimentos Épsilon Ltda. alterou a embalagem de seu principal biscoito, destinado ao público infantil. O produto foi comercializado com redução de peso sem a devida ostensividade da informação no rótulo do produto, sem diminuição proporcional no preço e inexistência de indicação acerca da quantidade de açúcar e de lactose. Uma associação de defesa do consumidor procurou você, como advogada(o) , a respeito da conduta da sociedade empresária. A respeito do dever de informação previsto no Código de Defesa do Consumidor, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A informação acerca da redução quantitativa e dos ingredientes deve estar visível, sendo disponibilizada em mensagem clara e precisa.",
+      "B": "A falta e a deficiência material ou formal de informação só violam as normas de proteção do consumidor quando causam danos materiais ao consumidor.",
+      "C": "As informações a respeito da quantidade, da composição e do preço dos produtos podem constar em língua portuguesa ou estrangeira, desde que seja de fácil compreensão do consumidor.",
+      "D": "Caso o produto tenha na embalagem menção ao site da empresa, as informações a respeito da pesagem e dos ingredientes não precisam constar na embalagem, desde que estejam no endereço eletrônico."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Consumidor",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_praticas_comerciais",
+    "modulo_nome": "Práticas Comerciais, Oferta e Publicidade",
+    "id": 2
+  }
+]

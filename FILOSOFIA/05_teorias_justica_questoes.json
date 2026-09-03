@@ -1,0 +1,59 @@
+[
+  {
+    "num": 9,
+    "enunciado": "“E tiveste a audácia de desobedecer a essa determinação? Sim porque não foi Zeus que a promulgou; e a Justiça, a deusa que habita com as divindades subterrâneas jamais estabeleceu tal decreto entre os humanos; nem eu creio que teu édito tenha força bastante para conferir a um mortal o poder de infringir as leis divinas, que nunca foram escritas, mas são irrevogáveis; não existem a partir de ontem ou de hoje; são eternas sim e ninguém sabe desde quando vigoram.” Sófocles. O excerto acima é parte da peça Antígona, uma das mais importantes tragédias gregas, que foi escrita por Sófocles. De acordo com Aristóteles, em seu livro Retórica, essa peça de Sófocles pode ser usada para se entender o que seria uma lei natural. Assinale a opção que apresenta, segundo Aristóteles, o conceito de lei natur",
+    "alternativas": {
+      "A": "Aquela que emana do diálogo comum entre diferentes comunidades políticas e resulta em um acordo que está acima de leis e tratados impostos pelo Estado.",
+      "B": "Uma expressão da natureza divina, que se encarna na figura do rei ou do soberano e é a base da legitimidade da monarquia como forma de governo.",
+      "C": "As tradições de uma comunidade política, que são repassadas de geração em geração sob a presunção de realizarem os anseios de justiça de um determinado povo.",
+      "D": "A justiça da qual todos têm, de alguma maneira, uma intuição e que é comum a todos, independentemente de todo Estado e de toda convenção recíproca."
+    },
+    "gabarito": "D",
+    "disciplina": "Filosofia do Direito",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "05_teorias_justica",
+    "modulo_nome": "Teorias da Justiça (John Rawls, Aristóteles)",
+    "id": 1
+  },
+  {
+    "num": 9,
+    "enunciado": "Entre as diferentes correntes do positivismo jurídico, a Escola da Exegese destacou-se, sobretudo, por seus estudos em torno do Código de Napoleão. O jusfilósofo Miguel Reale, em seu livro Filosofia do Direito, afirma que, segundo essa escola, a evolução do Direito somente poderia se operar por meio do processo legislativo. Assinale a opção que, de acordo com Reale no livro em referência, apresenta a tese fundamental da Escola da Exegese.",
+    "alternativas": {
+      "A": "É a exegese da constituição que pode oferecer aos juristas a compreensão do ideal de justiça, que vincula e limita a liberdade de conformação legislativa da autoridade política.",
+      "B": "O Direito, por excelência, é revelado pelas leis, que são normas gerais escritas e emanadas pelo Estado, constitutivas de direito e instauradoras de faculdades e obrigações.",
+      "C": "A lei é o instrumento que revela os valores e princípios que são logicamente anteriores e eticamente superiores ao Estado e que conformam e estruturam o direito positivo.",
+      "D": "A interpretação da lei é a atividade essencial do jurista, que deve realizá-la buscando a vontade da lei em si, seus fins sociais e as exigências do bem comum, de modo a assegurar a própria evolução do direito."
+    },
+    "gabarito": "B",
+    "disciplina": "Filosofia do Direito",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "05_teorias_justica",
+    "modulo_nome": "Teorias da Justiça (John Rawls, Aristóteles)",
+    "id": 2
+  },
+  {
+    "num": 10,
+    "enunciado": "Para você, o layout (formatação e diagramaçã o) dessa prova estava",
+    "alternativas": {
+      "A": "muito bom.",
+      "B": "bom.",
+      "C": "regular.",
+      "D": "ruim. ###### Realização"
+    },
+    "gabarito": "C",
+    "disciplina": "Filosofia do Direito",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "05_teorias_justica",
+    "modulo_nome": "Teorias da Justiça (John Rawls, Aristóteles)",
+    "id": 3
+  }
+]

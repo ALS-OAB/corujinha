@@ -1,0 +1,97 @@
+[
+  {
+    "num": 44,
+    "enunciado": "No instrumento de oferta de crédito pessoal em favor do microempreendedor individual Eugênio Barros, dentre outras informações, constou o montante dos juros de mora e a taxa efetiva anual dos juros. Ao indagar o intermediário sobre a omissão da taxa efetiva mensal de juros, do Custo Efetivo Total da operação (CET) e do prazo de validade da oferta, o microempreendedor recebeu as seguintes explicações: i) a taxa efetiva mensal de juros estava indicada em documento apartado, apresentado ao interessado no ato; ii) o CET deveria ser consultado no aplicativo da instituição financeira ofertante, através do uso da fórmula fornecida no próprio aplicativo; iii) a oferta era válida apenas no dia de hoje, sem qualquer documento comprobatório que amparasse a informação. Considerando as explicações do i",
+    "alternativas": {
+      "A": "Todas as explicações prestadas estão corretas e em conformidade com as prescrições do CDC, não havendo necessidade de comprovação do prazo de oferta caso o beneficiário seja pessoa jurídica, como o microempreendedor individual.",
+      "B": "A única explicação equivocada prestada é em relação à taxa efetiva mensal de juros, que deve ser necessariamente indicada no instrumento da oferta, e não em documento apartado.",
+      "C": "Todas as explicações prestadas são equivocados e violam as prescrições do CDC, eis que a taxa efetiva mensal de juros e o CET devem ser indicados no instrumento da oferta e essa deve ser de, no mínimo, 7 (sete) dias.",
+      "D": "São equivocados os esclarecimentos prestados quanto ao CET, pois ele deve constar do instrumento da oferta ou em documento apartado e ser de fácil acesso ao consumidor; quanto ao prazo de validade da oferta, ele deve ser de, no mínimo, 2 (dois) dias. 3 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Empresarial",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_empresario_sociedades",
+    "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
+    "id": 1
+  },
+  {
+    "num": 50,
+    "enunciado": "Ainda que o Registro Público de Empresas Mercantis, a cargo das Juntas Comerciais, não possa examinar o mérito dos atos dos empresários, sociedades empresárias e cooperativas, limitando-se sua análise aos requisitos formais, existe proibição de arquivamento de DOC_Documentos em razão de expressa disposição legal. Assinale a opção que indica o documento que incorre na proibição legal de arquivamento.",
+    "alternativas": {
+      "A": "Os atos de empresas mercantis com nome idêntico a outro já existente.",
+      "B": "A prorrogação do contrato social depois de findo o prazo nele fixado.",
+      "C": "A alteração contratual, por deliberação majoritária do capital social, quando não houver cláusula restritiva.",
+      "D": "Os atos constitutivos de empresas mercantis que não designarem o nome do liquidante e a forma de liquidação."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_empresario_sociedades",
+    "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
+    "id": 2
+  },
+  {
+    "num": 50,
+    "enunciado": "A partir de 2022, a possibilidade de o local de exercício da atividade empresarial ser virtual passou a ser reconhecido no Código Civil. A respeito desse tema, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Se o empresário ou a sociedade empresária exercer a empresa em local virtual, tal local é denominado pelo Código Civil de “estabelecimento virtual”, com o mesmo significado jurídico de estabelecimento.",
+      "B": "Ao contrário do local físico de exercício da empresa, se ele for virtual, a fixação do horário de funcionamento competirá ao Município, observada a regra geral de qualquer horário ou dia da semana, inclusive feriados.",
+      "C": "Quando o local em que se exerce a atividade empresarial for virtual, o endereço informado para fins de registro poderá ser, conforme o caso, o endereço do empresário individual ou o de um dos sócios da sociedade empresária.",
+      "D": "A escolha do local virtual de exercício da empresa impõe ao empresário ou ao administrador da sociedade empresária o dever de comunicar sua alteração à Junta Comercial nos 15 (quinze) dias seguintes."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Empresarial",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "01_empresario_sociedades",
+    "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
+    "id": 3
+  },
+  {
+    "num": 50,
+    "enunciado": "A sociedade empresária Drogaria Ponto dos Volantes Ltda. requereu recuperação judicial e teve deferido o processamento, sendo que ambos os eventos ocorreram no ano de 2021. Nos exercícios sociais de 2021, 2022 e 2023, a sociedade não distribuiu lucros aos sócios, embora eles tivessem sido auferidos em 2022 e 2023. O sócio minoritário Lucas Sobrado consulta você, como advogado(a) , para saber sobre a legalidade da ausência de distribuição de lucros nos referidos exercícios sociais, informando que o plano de recuperação judicial foi aprovado em dezembro de 2022 e a concessão ocorreu em janeiro de 2023, mas o processo ainda não foi encerrado. Assinale a opção que apresenta, corretamente, seu parecer.",
+    "alternativas": {
+      "A": "É vedada a distribuição de lucros pela sociedade aos sócios enquanto não for encerrada a recuperação judicial, de modo que não há ilegalidade por parte dela.",
+      "B": "A sociedade não poderia ter deixado de distribuir lucros nos exercícios sociais de 2022 e 2023, pois os lucros devem ser pagos aos sócios por ser direito essencial deles.",
+      "C": "É vedada a distribuição de lucros pela sociedade aos sócios enquanto não for realizado o pagamento aos credores sujeitos à recuperação judicial, de modo que não há ilegalidade por parte dela.",
+      "D": "A sociedade empresarial, até a aprovação do plano de recuperação judicial, estava impedida de distribuir lucros aos sócios, mas não há justificativa para o não pagamento no exercício de 2023."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Empresarial",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "01_empresario_sociedades",
+    "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
+    "id": 4
+  },
+  {
+    "num": 47,
+    "enunciado": "À Assembleia de Credores, convocada para deliberação sobre o plano de recuperação judicial apresentado por Atacado Têxtil Itapemirim Ltda., compareceram os credores Afonso Fundão e Viana & Cia. Ltda. O primeiro é sócio da recuperanda e credor por empréstimo fornecido a ela; o segundo é credor por duplicatas, cujo valor e condições de pagamento não serão alterados pelo plano. Com base nessas informações e nas disposições sobre a participação e o voto nas Assembleias de Credores (Lei nº 11.101/2005), assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Apenas Afonso Fundão poderá votar, já que se trata de credor subordinado, integrante da classe III; Viana & Cia. Ltda. não poderá votar, porque o plano não alterou o valor ou as condições originais de pagamento.",
+      "B": "Nenhum dos credores poderá votar na Assembleia, em razão de o primeiro ser sócio da devedora, e o segundo não ter alterado o valor ou as condições originais de pagamento.",
+      "C": "Ambos poderão votar, em razão de o primeiro ser credor subordinado e o segundo credor quirografário, integrando a classe III na composição da Assembleia.",
+      "D": "Apenas Viana & Cia. Ltda. poderá votar na Assembleia por ser credor quirografário, integrando a classe III; Afonso Fundão não poderá votar, em razão de ser sócio da devedora."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_empresario_sociedades",
+    "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
+    "id": 5
+  }
+]

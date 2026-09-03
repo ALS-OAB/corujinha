@@ -1,0 +1,118 @@
+[
+  {
+    "num": 25,
+    "enunciado": "A sociedade empresária ABCJ Ltda., surpreendida com a notificação de um auto de infração da Secretaria da Fazenda do Município Alfa cobrando o Imposto sobre Serviços (ISS) dos anos de 2020 a 2022, e diante da urgência em obter certidões para participar de uma concorrência para a contratação de serviços de limpeza no hospital municipal, ajuizou uma ação anulatória e requereu uma tutela antecipada para suspender a exigibilidade do crédito tributário, que foi deferida pelo juiz. Como não possuia qualquer outro débito perante a Fazenda Municipal, requereu àquela repartição administrativa uma certidão fiscal. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A obtenção da decisão judicial suspendendo a exigibilidade do crédito tributário em cobrança não tem efeito na esfera administrativa tributária e por isso a sociedade empresária não terá direito à certidão pretendida.",
+      "B": "Com a decisão que suspendeu a exigibilidade do crédito tributário, a sociedade empresária terá direito a obter uma Certidão Negativa (CN).",
+      "C": "Não possuindo qualquer outro débito perante a Fazenda Municipal e graças à decisão que suspendeu a exigibilidade do crédito tributário, a sociedade empresária terá direito a uma Certidão Positiva com Efeitos de Negativa (CEPEN).",
+      "D": "Para obter a certidão fiscal pretendida, a sociedade empresária terá que depositar judicialmente o montante em cobrança, independentemente da referida decisão obtida. 8 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Tributário",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "legislative_warning": "Questão tributária elaborada antes da promulgação da Reforma Tributária (EC 132/2023). Atente-se para regras de transição de tributos como ICMS, ISS e criação do IBS/CBS.",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "05_impostos_estados",
+    "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
+    "id": 1
+  },
+  {
+    "num": 27,
+    "enunciado": "Um grupo de empresários da área têxtil decidiu criar um sindicato dos empregadores daquele setor, para fins de representação e defesa dos interesses da categoria econômica. Na assembleia geral ordinária constitutiva da instituição e para elaboração do estatuto social, surgiu a dúvida a respeito da possibilidade de obtenção da imunidade tributária sobre o patrimônio, renda ou serviços das entidades sindicais. Presente uma equipe de advogados, estes são incitados a se manifestarem a respeito. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Não há previsão constitucional para imunidade tributária de impostos de sindicato de empregadores.",
+      "B": "O setor têxtil se trata de categoria econômica que não permite o enquadramento na imunidade tributária de impostos dos sindicatos.",
+      "C": "Tal sindicato faz jus à imunidade tributária de impostos, desde que exerça suas atividades sem finalidade lucrativa e atenda ao requisito de não distribuição de qualquer parcela do seu patrimônio ou renda.",
+      "D": "Desde que os recursos provenientes das contribuições associativas sejam aplicados exclusivamente na sua área de atuação e vinculados a suas finalidades essenciais, tal sindicato poderá gozar da imunidade tributária de impostos."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Tributário",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "legislative_warning": "Questão tributária elaborada antes da promulgação da Reforma Tributária (EC 132/2023). Atente-se para regras de transição de tributos como ICMS, ISS e criação do IBS/CBS.",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "05_impostos_estados",
+    "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
+    "id": 2
+  },
+  {
+    "num": 25,
+    "enunciado": "Lei Ordinária do Município Alfa, publicada no Diário Oficial Municipal em 30/09/2020, instituiu uma Taxa de Fiscalização de Estabelecimentos Comerciais – TFEC, incidente sobre o setor de materiais de construção. Sua produção de efeitos se deu a partir de 01/01/2021, com a finalidade de aferir o cumprimento das normas de segurança e urbanização local e a taxa passou a ser cobrada por meio de alíquotas específicas, fixadas no valor de R$ 150,00 para empresas com capital social de até R$ 100.000,00, de R$ 300,00 para empresas com capital social de até R$ 500.000,00 e de R$ 1.500,00 para empresas com capital social superior a R$ 500.000,00. A associação dos empresários daquele setor empresarial pretende questionar essa cobrança. Diante desse cenário, a cobrança da referida taxa",
+    "alternativas": {
+      "A": "é legal e constitucional, por estar dentro da competência tributária do respectivo município, fundada no seu regular poder de polícia.",
+      "B": "não respeita o princípio da anterioridade, sendo inconstitucional nesse aspecto.",
+      "C": "é devida por atender aos princípios da progressividade e da capacidade contributiva, ao cobrar maior valor sobre a empresa com maior capital social e cobrar menor valor sobre a empresa com menor capital social.",
+      "D": "é ilegal por ser calculada com base no capital social das empresas."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Tributário",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "05_impostos_estados",
+    "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
+    "id": 3
+  },
+  {
+    "num": 28,
+    "enunciado": "Certa carga foi abandonada no Porto de Santos (SP) pela sociedade empresária Importação 100% Ltda. Em razão disso, passado o prazo previsto e obedecidas as formalidades da legislação tributária, foi aplicada pela Secretaria Especial da Receita Federal do Brasil (SERFB) a pena de perdimento de mercadoria importada por abandono. José, participando de leilão da SERFB, logra êxito em arrematar a carga abandonada. Sobre a arrematação de mercadorias abandonadas em leilão promovido pela SERFB, à luz do Código Tributário Nacional, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "José é considerado contribuinte do Imposto de Importação em relação às mercadorias abandonadas que arrematou.",
+      "B": "José será considerado responsável tributário pelo Imposto de Importação devido, juntamente com a Importação 100% Ltda.",
+      "C": "A base de cálculo do Imposto de Importação em leilão promovido pela SERFB será o valor de mercado que tais bens alcançariam.",
+      "D": "José, por ser pessoa física, não poderia arrematar bens oriundos da aplicação de pena de perdimento de mercadoria importada por abandono."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Tributário",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "05_impostos_estados",
+    "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
+    "id": 4
+  },
+  {
+    "num": 26,
+    "enunciado": "A entidade religiosa ABC requereu o reconhecimento da imunidade de IPTU do imóvel em que realizava seus cultos, bem como do edifício ao lado, que servia de moradia para seus ministros religiosos e suas famílias. O Município Alfa negou parcialmente tal reconhecimento, afirmando que, embora ambos os imóveis fossem registrados em nome da entidade religiosa ABC, possuíam matrículas distintas no Registro de Imóveis. Desta forma, reconheceu que apenas o imóvel em que realizava seus cultos seria contemplado com a imunidade tributária reconhecida pela Constituição Federal. Surpreendida, a entidade religiosa ABC procurou você, como advogado(a) , para questionar essa decisão. Assinale a opção que apresenta, corretamente, sua orientação para o caso.",
+    "alternativas": {
+      "A": "A entidade deve escolher sobre qual imóvel deve recair a imunidade do IPTU, uma vez que os imóveis têm matrículas distintas.",
+      "B": "O imóvel que tem como função precípua a realização dos cultos fará jus à imunidade do IPTU, já que os imóveis apresentam duplicidade de matrículas.",
+      "C": "A imunidade tributária religiosa do IPTU beneficia o imóvel em que se realiza o culto e todos os imóveis afetados à sua finalidade essencial, ainda que os imóveis tenham matrículas distintas.",
+      "D": "Para que os imóveis pudessem gozar da imunidade tributária religiosa do IPTU, seria necessário que suas matrículas fossem unificadas."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Tributário",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "05_impostos_estados",
+    "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
+    "id": 5
+  },
+  {
+    "num": 29,
+    "enunciado": "O Município Alfa, desejando aumentar sua arrecadação tributária, instituiu por lei ordinária municipal, publicada em 10/07/2025, um novo imposto sobre a concessão de autorizações para localização e funcionamento de estabelecimentos comerciais. A lei estabelece que produziria efeitos a partir de 01/01/2026. A sociedade empresária ABC Ltda., com estabelecimento comercial no Município Alfa, irresignada com a nova exação, contratou você, como advogado(a) , para ajuizar ação declaratória tributária antes do início da vigência da nova lei, visando garantir que não seja cobrada quanto ao novo imposto municipal. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A ação correta a ser manejada seria a ação anulatória tributária.",
+      "B": "O novo imposto só pode ser criado por meio de uma lei complementar municipal, e não por mera lei ordinária.",
+      "C": "A anterioridade nonagesimal não foi obedecida, pois a lei apenas entraria em vigor 90 dias após 01/01/2026.",
+      "D": "O Município Alfa não pode criar esse novo imposto, por não estar compreendido em sua competência tributária constitucional."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Tributário",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "05_impostos_estados",
+    "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
+    "id": 6
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "num": 11,
+    "enunciado": "Determinada lei federal de 2020 gerou intensa controvérsia em vários órgãos do Poder Judiciário, bem como suscitou severas críticas de importantes juristas que questionaram a constitucionalidade de diversos dos seus dispositivos. Afinal, cerca de metade dos juízes e tribunais do País inclinou-se por sua inconstitucionalidade. A existência de pronunciamentos judiciais antagônicos vem gerando grande insegurança jurídica no País, daí a preocupação de um legitimado à deflagração do controle concentrado de constitucionalidade em estabelecer uma orientação homogênea na matéria regulada pela lei federal em tela, sem, entretanto, retirá-la do mundo jurídico. Sem saber como proceder para afastar a incerteza jurídica a partir da mitigação de decisões judiciais conflitantes, esse legitimado solicitou",
+    "alternativas": {
+      "A": "Ação Direta de Inconstitucionalidade (ADI).",
+      "B": "Representação de Inconstitucionalidade (RI).",
+      "C": "Arguição de Descumprimento de Preceito Fundamental (ADPF).",
+      "D": "Ação Declaratória de Constitucionalidade (ADC)."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 1
+  },
+  {
+    "num": 13,
+    "enunciado": "Preocupado com a qualidade da educação básica ofertada pela rede de ensino municipal do Município Teta, o prefeito da cidade pretende apresentar projeto de lei à Câmara Municipal, no qual uma série de melhorias está prevista. No entanto, ciente da ausência de recursos orçamentários e financeiros para efetivar o que está previsto no projeto, o Prefeito levantou a hipótese de criar uma taxa de serviço, que seria paga por aqueles que viessem a se utilizar dos serviços municipais de educação básica (ensinos fundamental e médi o) em seus estabelecimentos oficiais. Antes de enviar o projeto de lei, o Prefeito consultou sua assessoria sobre a conformidade constitucional do projeto, sendolhe corretamente informado que a cobrança da referida taxa",
+    "alternativas": {
+      "A": "caracterizaria efetiva violação à ordem constitucional, posto ser o acesso gratuito à educação básica um direito subjetivo de todos.",
+      "B": "poderia ser exigida, contanto que o valor cobrado como contraprestação pelo serviço de educação não afrontasse o princípio da proporcionalidade.",
+      "C": "apenas poderia ser exigida daqueles que não conseguissem comprovar, nos termos legalmente estabelecidos, a hipossuficiência econômica.",
+      "D": "poderia ser exigida dos estudantes do ensino médio, mas não dos estudantes do ensino fundamental, aos quais a ordem constitucional assegura a gratuidade."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 2
+  },
+  {
+    "num": 15,
+    "enunciado": "Bento de Souza, governador do Estado Alfa, reconhecido como grande gestor público, foi indicado para assumir a presidência da Petrobras pelo Presidente da República. Honrado com o convite e inclinado a aceitá-lo, busca orientação com seu advogado(a) a respeito da possibilidade de cumular os dois cargos. Com base no ordenamento jurídico-constitucional brasileiro, assinale a opção que indica a orientação dada pelo(a) advogado(a) .",
+    "alternativas": {
+      "A": "Na eventualidade de Bento aceitar o convite para assumir a presidência da Petrobras, perderá o mandato de governador do Estado Alfa.",
+      "B": "Bento pode assumir o cargo na Petrobras, caso peça licença do cargo para o qual foi eleito, a ele podendo retornar, caso se exonere do cargo na sociedade de economia mista.",
+      "C": "Bento pode acumular os dois cargos públicos, devendo optar pela remuneração de Governador ou pela remuneração de presidente da Petrobras.",
+      "D": "Bento, após sua diplomação, mesmo que renunciasse ao cargo de governador, está proibido de assumir, no período para o qual foi eleito, o cargo de presidente da Petrobras."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 3
+  },
+  {
+    "num": 12,
+    "enunciado": "Ubirajara é membro de uma comunidade indígena situada em terras regularmente demarcadas, ali vivendo conforme as tradições dos seus ancestrais. Em determinado momento, ele resolveu tentar nova vida em uma cidade brasileira. Sem recursos para dar início a esse projeto, decidiu vender a terra em que habitava desde seu nascimento para um grupo de agricultores, que pretende ali se instalar definitivamente. Sobre a hipótese narrada, segundo a ordem jurídico-constitucional brasileira, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ubirajara somente poderá dispor das terras se a alienação, comprovadamente, atender aos imperativos da ordem econômica brasileira.",
+      "B": "Ubirajara, caso figure como proprietário das terras no registro de imóveis da localidade, poderá aliená-las, assegurado o direito de participação da comunidade no valor da venda.",
+      "C": "Ubirajara não pode efetivar a venda almejada, pois as terras em questão não são passíveis de alienação e nem mesmo de disposição.",
+      "D": "Ubirajara somente poderia alienar as terras após a devida autorização por parte da comunidade indígena, que é a proprietária das terras."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 4
+  },
+  {
+    "num": 14,
+    "enunciado": "O governador do Estado Alfa determinou, de forma deliberada, que Alfa deixasse de realizar os depósitos para pagamento de dívida fundada que possui com a União. Alertado sobre possíveis consequências jurídico-políticas passíveis de recaírem sobre o Estado Alfa, após dois anos de suspensão dos pagamentos, decidiu consultar o Procurador-Geral do Estado sobre a repercussão que tal situação poderia causar. Sobre a hipótese apresentada, segundo o sistema jurídicoconstitucional brasileiro, assinale a opção que apresenta, corretamente, o parecer do Procurador-Geral do Estado.",
+    "alternativas": {
+      "A": "O Presidente da República poderá decretar a intervenção federal no Estado Alfa, sendo necessária a apreciação a posteriori do Congresso Nacional.",
+      "B": "O Estado Alfa, em razão de sua condição de ente autônomo da República Federativa do Brasil, não se sujeita à intervenção por parte da União.",
+      "C": "O Presidente da República somente poderá decretar intervenção federal no Estado Alfa após decisão judicial por parte do Supremo Tribunal Federal.",
+      "D": "O Presidente da República poderá decretar intervenção federal no Estado Alfa, a ser executada pelo Congresso Nacional, diretamente ou por meio da autoridade que indicar."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 5
+  },
+  {
+    "num": 16,
+    "enunciado": "O Presidente da República emitiu decreto autônomo, disciplinando a organização e o funcionamento da Administração Federal. O Senador da República Joelson Cruz, Presidente do Partido Político Beta, entende que esse decreto viola a Constituição da República, além de contrariar o interesse público. Por essa razão, pretende que o seu Partido ajuíze uma ação, pela via do controle concentrado de constitucionalidade, contra o ato presidencial. Todavia, por não ter formação jurídica, procura os advogados do Partido Político Beta, a fim de que lhe instruam sobre a melhor maneira de concretizar o seu intento. Diante disso, considerando o que estabelece o sistema jurídicoconstitucional brasileiro, os advogados informaram, corretamente, que o decreto autônomo",
+    "alternativas": {
+      "A": "deve ser atacado com o ajuizamento de ação popular, por se tratar de ato do Poder Executivo e em razão dos objetivos desejados pelo Senador Joelson Cruz.",
+      "B": "não se submete ao controle concentrado de constitucionalidade, pois esse tipo de diploma não possui natureza normativa, apresentando natureza mandamental.",
+      "C": "pode ser objeto de ação direta de inconstitucionalidade, por ser um diploma normativo que busca seu fundamento de validade diretamente na Constituição da República.",
+      "D": "só pode ser objeto de apreciação por meio de arguição de descumprimento de preceito fundamental, pois esse é o instrumento adequado para impugnar atos administrativos do Poder Executivo."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 6
+  },
+  {
+    "num": 12,
+    "enunciado": "Romualdo, empresário do ramo de supermercados, dirige-se à Prefeitura do Município Alfa e solicita licença para instalar uma loja da sua rede em um bairro específico da cidade. O pedido é negado sob a justificativa de que já existia outro estabelecimento do mesmo ramo na região. Segundo a Prefeitura de Alfa, a concessão de licença afrontaria a Lei Complementar Municipal - nº X (LC X/2024), que exige distância mínima de mil metros entre estabelecimentos que comercializem produtos semelhantes. Romualdo, então, procura você, como advogado(a) , para analisar a situação com base na ordem jurídico-constitucional brasileira. Assinale a opção que apresenta, corretamente, sua análise sobre a hipótese narrada.",
+    "alternativas": {
+      "A": "A norma municipal deve ser observada, em respeito à autonomia municipal garantida pela ordem jurídica brasileira.",
+      "B": "A LC X é inconstitucional, já que Alfa, por não ser ente federativo, não possui competência legislativa para produzir leis complementares.",
+      "C": "A existência de norma legal federal sobre a questão deve ser avaliada, porque, pelo critério hierárquico, esta última prevaleceria sobre a norma municipal.",
+      "D": "A abertura do negócio em questão não deve ser restringida, porque a LC X, ao adotar o referido critério geográfico, viola o princípio constitucional da livre concorrência. 13 Marcos, que tem 56 anos de idade, é amigo de Joana, que já completou 58 anos de idade. Ambos, em disputas judiciais contra"
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 7
+  },
+  {
+    "num": 14,
+    "enunciado": "A Câmara Municipal de Alfa constatou que o Prefeito Municipal não prestou as contas anuais de governo, afetas à administração municipal, dentro do prazo estabelecido na legislação, o que se estendeu por três exercícios. Após reiteradas notificações, a omissão permaneceu, impedindo a fiscalização do uso dos recursos públicos. Diante dessa situação, o Governador do Estado Beta decidiu decretar intervenção estadual no Município para garantir a prestação de contas. No entanto, a medida gerou debate entre os AGT_Agentes políticos locais, que questionaram a sua legalidade e consultaram você, como advogado(a) , a esse respeito. Sobre a hipótese narrada, considerando a ordem constitucional vigente, assinale a opção que apresenta, corretamente, a orientação jurídica prestada.",
+    "alternativas": {
+      "A": "A Câmara Municipal de Alfa, ao constatar a omissão na prestação de contas, deve requerer diretamente ao Supremo Tribunal Federal que determine a intervenção estadual.",
+      "B": "A intervenção estadual, no caso, somente poderia ser decretada se houvesse uma determinação judicial reconhecendo a omissão como grave o suficiente para justificar a medida extrema.",
+      "C": "A intervenção estadual depende de autorização prévia do Poder Legislativo estadual, pois qualquer limitação à autonomia municipal exige controle político pelos representantes do povo.",
+      "D": "O Governador pode decretar a intervenção sem a necessidade de autorização legislativa ou judicial prévia, pois a situação apresentada no problema constitui hipótese expressa de intervenção estadual."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_direitos_fundamentais",
+    "modulo_nome": "Direitos e Garantias Fundamentais",
+    "id": 8
+  }
+]

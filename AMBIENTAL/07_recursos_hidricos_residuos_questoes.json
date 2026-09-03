@@ -1,0 +1,40 @@
+[
+  {
+    "num": 36,
+    "enunciado": "O engenheiro ambiental João foi contratado pelo empreendedor Alfa para coordenar uma equipe multidisciplinar durante a elaboração de estudo de impacto ambiental (EI",
+    "alternativas": {
+      "A": "João não praticou crime ambiental, pois não existe crime ambiental omissivo, mas deve ser responsabilizado na esfera ambiental, em âmbito cível e administrativo.",
+      "B": "João não realizou conduta que configure crime ambiental, pois não é o empreendedor, que deve responder, como pessoa jurídica, nas esfera criminal, cível e administrativa.",
+      "C": "João cometeu crime ambiental, e a pena deve ser aumentada, porque houve dano significativo ao meio ambiente, em decorrência do uso da informação incompleta e enganosa por ele apresentada ao órgão ambiental.",
+      "D": "João incorreu em crime ambiental, e a pena pena deve ser diminuída, porque o responsável pela elaboração e apresentação do EIA não é o empreendedor e sim, o profissional técnico."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Ambiental",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "07_recursos_hidricos_residuos",
+    "modulo_nome": "Recursos Hídricos e Resíduos Sólidos",
+    "id": 1
+  },
+  {
+    "num": 36,
+    "enunciado": "A sociedade empresária XYZ, recentemente constituída, exercerá atividade econômica potencialmente causadora de degradação ambiental, tornando-se necessário o licenciamento ambiental. Os sócios da entidade verificaram, contudo, que o Município Alfa, responsável pelo licenciamento ambiental no caso concreto, não dispõe de órgão ambiental capacitado ou de conselho do meio ambiente. Logo, a entidade contratou os serviços de um(a) advogado(a) para orientá-la sobre como proceder na sequência. O patrono constatou, então, que o Estado Beta, cuja capital está no Município Alfa, e a União possuem órgãos ambientais capacitados. Nesse cenário, considerando as disposições da Lei Complementar nº 140/2011, que versa sobre a competência ambiental dos entes federativos, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Na ausência de órgão ambiental capacitado ou conselho do meio ambiente no Município Alfa, a ação administrativa de licenciamento ocorrerá perante a União.",
+      "B": "Inexistindo órgão ambiental capacitado ou conselho do meio ambiente no Município Alfa, a ação administrativa de licenciamento ocorrerá perante o Estado Beta.",
+      "C": "Até que o Município Alfa crie um órgão ambiental capacitado ou um conselho do meio ambiente, a sociedade empresária XYZ não poderá exercer, regularmente, as suas atividades, por ausência de licenciamento ambiental.",
+      "D": "Como não há órgão ambiental capacitado ou conselho do meio ambiente no Município Alfa, a sociedade empresária XYZ terá direito ao licenciamento ambiental tácito, podendo exercer suas atividades de forma regular."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Ambiental",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "07_recursos_hidricos_residuos",
+    "modulo_nome": "Recursos Hídricos e Resíduos Sólidos",
+    "id": 2
+  }
+]

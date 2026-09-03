@@ -1,0 +1,40 @@
+[
+  {
+    "num": 10,
+    "enunciado": "Uma norma jurídica não vale porque tem um determinado conteúdo... (Hans Kelse n) O que faz uma norma jurídica ser válida é tema central para a teoria e a Filosofia do Direito. Depois da ocorrência de calamidade de grandes proporções, em razão de enchentes causadas por chuvas cuja intensidade foi classificada como “sem precedentes”, o Presidente da República vislumbra a possível necessidade de decretação de estado de defesa para combater o quadro caótico no qual se encontram quatro estados de uma determinada região do país. Depois de visitar o local, ele tem dúvidas acerca do prazo de duração da medida e, por isso, submete a proposta à apreciação de sua assessoria jurídica. Segundo o Normativismo Jurídico de Hans Kelsen, conforme apresentado em seu livro Teoria Pura do Direito, a validade d",
+    "alternativas": {
+      "A": "O Presidente da República tem poder discricionário para definir o prazo de duração, desde que haja aprovação prévia do Congresso Nacional.",
+      "B": "O tempo de duração não será superior a 30 (trinta) dias, podendo ser prorrogado uma vez, por igual período, se persistirem as razões que justificaram a sua decretação.",
+      "C": "O tempo para a superação da crise que deu origem à decretação pelo Presidente da República não pode ultrapassar uma sessão legislativa.",
+      "D": "O tempo de duração será definido discricionariamente, em respeito ao princípio da separação de poderes, pelo Congresso Nacional."
+    },
+    "gabarito": "C",
+    "disciplina": "Filosofia do Direito",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "08_etica_utilitarismo",
+    "modulo_nome": "Ética Jurídica, Moral e Utilitarismo",
+    "id": 1
+  },
+  {
+    "num": 10,
+    "enunciado": "O **Artigo 5º** , inciso XI, da CRFB/88 dispõe que “a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.” João Vicente, que residia em um quarto de hotel, procura você, na função de advogado(a) , para tentar anular o ingresso policial, sem mandado judicial e sem flagrante delito, utilizando como fundamento a norma constitucional acima citada. Assinale a opção que indica o tipo de interpretação adequado para fundamentar a ilegalidade do ingresso.",
+    "alternativas": {
+      "A": "Interpretação gramatical, baseada no brocardo in claris cessat interpretatio.",
+      "B": "Interpretação restritiva, sob o argumento de que não se pode usar um conceito de modo amplo.",
+      "C": "Interpretação autêntica, usando conceito semelhante previsto em norma de Direito Civil, que possui legislação específica acerca do alcance semântico do domicílio.",
+      "D": "Interpretação extensiva, usando a argumentação de que o alcance da norma e do conceito de casa é mais amplo do que o utilizado pela autoridade policial, a fim de abarcar aquele que reside em quarto de hotel."
+    },
+    "gabarito": "D",
+    "disciplina": "Filosofia do Direito",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "08_etica_utilitarismo",
+    "modulo_nome": "Ética Jurídica, Moral e Utilitarismo",
+    "id": 2
+  }
+]

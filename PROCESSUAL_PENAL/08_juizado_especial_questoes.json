@@ -1,0 +1,135 @@
+[
+  {
+    "num": 64,
+    "enunciado": "Arthur e sua esposa Aline, residentes no Distrito Federal, decidem viajar em um cruzeiro, partindo de Fortaleza com destino à cidade do Rio de Janeiro e fazendo uma parada em Recife. Durante passagem pela costa pernambucana, em alto-mar, o casal tem uma discussão e Arthur agride Aline, vindo a ser contido por seguranças do navio e retirado logo na primeira parada. Aline sofreu lesão que a incapacitou para suas atividades habituais por mais de trinta dias, mas que não deixou sequela ou debilidade permanente. Assinale a opção que indica a autoridade judiciária competente para processar Arthur.",
+    "alternativas": {
+      "A": "O Juizado Especial Federal da cidade do Rio de Janeiro.",
+      "B": "O Juizado Especial de Violência Doméstica e Familiar contra a Mulher do Distrito Federal.",
+      "C": "O Juízo Federal de Recife.",
+      "D": "A Vara Criminal da Comarca de Fortaleza."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Penal",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 1
+  },
+  {
+    "num": 66,
+    "enunciado": "Fabrício foi preso em flagrante pela prática do crime de roubo, tendo havido a regular conversão do flagrante em prisão preventiva. Contudo, passados mais de dois anos, a instrução processual não logrou finalizar a oitiva das testemunhas de acusação, pois o Ministério Público insiste na oitiva de policiais que, constantemente, faltam à audiência por motivos pessoais, alegando férias e licença. Fabrício permanece preso preventivamente, o que ensejou impetração de habeas corpus para o Tribunal de Justiça competente. O Tribunal de Justiça, em decisão colegiada, denegou a ordem de habeas corpus. Identifique, corretamente, a medida judicial a ser proposta para o caso narrado.",
+    "alternativas": {
+      "A": "Recurso odinário constitucional, dirigido ao Superior Tribunal de Justiça.",
+      "B": "Recurso de apelação, dirigido ao Superior Tribunal de Justiça.",
+      "C": "Agravo interno, dirigido para o Tribunal de Justiça.",
+      "D": "Recurso extraordinário, dirigido ao Supremo Tribunal Federal."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 2
+  },
+  {
+    "num": 68,
+    "enunciado": "Suelen ajuizou queixa-crime contra Bolívar, pela prática do crime de exercício arbitrário das próprias razões praticado sem violência ou grave ameaça, previsto no **Art. 345** , caput e parágrafo único, do CP, cuja pena cominada é de detenção de quinze dias a um mês, ou multa. A queixa-crime foi ajuizada perante o Juízo competente, que, após todo o trâmite preliminar, sendo infrutífero qualquer tipo de solução negociada, já na audiência de instrução e julgamento, rejeitou a queixa. Diante do caso narrado, como advogado(a) de Suelen, assinale a opção que indica o recurso que deve ser interposto.",
+    "alternativas": {
+      "A": "Recurso em Sentido Estrito, interposto na Vara Criminal. As razões podem ser apresentadas diretamente no Tribunal.",
+      "B": "Apelação, a ser interposta no Juizado Especial Criminal, já acompanhada de razões recursais dirigidas à Turma Recursal.",
+      "C": "Apelação, a ser interposta na Vara Criminal. As razões podem ser apresentadas diretamente na Turma Recursal.",
+      "D": "Recurso em Sentido Estrito, interposto no Juizado Especial Criminal, acompanhado de razões recursais dirigidas à Turma Recursal."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 3
+  },
+  {
+    "num": 65,
+    "enunciado": "Amanda impetra habeas corpus em favor de Telma, que foi presa preventivamente por decisão do Juiz de Primeiro Grau, sendo acusada da prática de crime hediondo. O habeas corpus foi impetrado com o argumento de excesso de prazo. O Tribunal concedeu a ordem de habeas corpus de ofício, fundamentado na incompetência do juiz que decretou a prisão. Sobre a hipótese narrada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O Tribunal equivocou-se, uma vez que a incompetência do julgador não é fundamento para a concessão de habeas corpus.",
+      "B": "O Tribunal agiu de modo correto, uma vez que é possível a concessão de habeas corpus de ofício sempre que houver constrangimento ilegal.",
+      "C": "O Tribunal agiu de modo correto, pois a incompetência do Juízo é o único fundamento que admite a concessão da ordem de habeas corpus de ofício.",
+      "D": "O Tribunal equivocou-se, pois fica vinculado aos argumentos apontados pelo impetrante do habeas corpus, sendo inadmissível a concessão de habeas corpus de ofício."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 4
+  },
+  {
+    "num": 67,
+    "enunciado": "Bernardo agrediu Carolina, sua ex-companheira, causando-lhe lesões corporais leves, em razão de a vítima ser mulher. O delito em questão é apenado com reclusão de dois a cinco anos. Na qualidade de advogado(a) de Carolina, cabe notar que,",
+    "alternativas": {
+      "A": "apesar do término do relacionamento, as disposições da Lei de Violência Doméstica e Familiar contra a Mulher são aplicáveis; ademais, não é cabível o Acordo de Não Persecução Penal, não havendo medida processual consensual em favor de Bernardo.",
+      "B": "devido ao término do relacionamento, as disposições da Lei de Violência Doméstica e Familiar contra a Mulher não são aplicáveis, mas Bernardo não pode se beneficiar de sursis processual ante a quantidade de pena abstratamente cominada ao delito.",
+      "C": "apesar do término do relacionamento, as disposições da Lei de Violência Doméstica e Familiar contra a Mulher são aplicáveis, de forma a se admitir a retratação da representação de Carolina, antes do recebimento da denúncia, em audiência especialmente designada para tal fim.",
+      "D": "devido ao término do relacionamento, as disposições da Lei de Violência Doméstica e Familiar contra a Mulher não são aplicáveis, de modo que Bernardo pode se beneficiar de sursis processual."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 5
+  },
+  {
+    "num": 65,
+    "enunciado": "Túlio abriu sua geladeira, retirou sua água com gás e, ao beber, sentiu um gosto estranho, posteriormente vindo a descobrir que se tratava de solvente. Em seguida, Túlio entrou no quarto e chamou sua esposa, Felícia, de “assassina”. Após o esclarecimento de que o solvente tinha sido colocado por equívoco na geladeira por seu filho Thor, Túlio pediu desculpas à Felícia. Alguns dias depois, Felícia contou, em uma roda informal, para a sua amiga Promotora de Justiça, que o marido a havia chamado de “assassina”. Diante de tais fatos, o Ministério Público ofereceu a denúncia por crime de injúria em desfavor de Túlio. Sobre o caso narrado, como advogado(a) de Túlio, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Em razão de envolver violência doméstica, o crime é de ação penal pública incondicionada, cabendo apenas se defender quanto ao mérito da acusação.",
+      "B": "O crime é de ação penal privada, devendo ser alegada a ilegitimidade do Ministério Público para a propositura da ação.",
+      "C": "O crime é de ação penal pública condicionada à representação, e essa conversa informal já vale como representação, cabendo apenas se defender quanto ao mérito da acusação.",
+      "D": "O crime é de ação pública condicionada à representação, mas a conversa informal não pode ser aceita como exercício do direito de representar."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Penal",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 6
+  },
+  {
+    "num": 67,
+    "enunciado": "Leandro oferece queixa-crime no Juizado Especial Criminal. O Juiz rejeita a queixa sustentando a existência de decadência. Na condição de advogado(a) de Leandro, assinale a opção que indica, corretamente, o recurso que deve ser interposto contra a decisão que rejeitou a queixa.",
+    "alternativas": {
+      "A": "Apelação.",
+      "B": "Recurso inominado.",
+      "C": "Carta testemunhável.",
+      "D": "Recurso em sentido estrito."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Penal",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "08_juizado_especial",
+    "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
+    "id": 7
+  }
+]

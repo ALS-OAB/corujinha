@@ -1,0 +1,117 @@
+[
+  {
+    "num": 70,
+    "enunciado": "Um sindicato de categoria profissional, após ser procurado por uma sociedade empresária e seguir os trâmites legais, pretende assinar com ela um acordo coletivo que, entre outras cláusulas, fixa redução em 20% da jornada e 20% do salário durante 1 ano para todos os empregados. Em relação a esse acordo coletivo, considerando a previsão da CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O acordo coletivo deverá prever a proteção dos empregados contra dispensa imotivada durante o prazo de vigência do instrumento coletivo.",
+      "B": "O acordo coletivo será nulo porque deveria ser pactuado por, no mínimo, 2 anos.",
+      "C": "O acordo coletivo será inconstitucional, porque não pode haver redução do salário, haja vista o prejuízo direto que isso causa ao trabalhador.",
+      "D": "A redução da jornada e do salário somente seria válida se fosse prevista em convenção coletiva, pois essa previsão é vedada pela CLT no acordo coletivo."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Trabalho",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "legislative_warning": "Questão trabalhista anterior a entendimentos consolidados recentes do STF/TST (ex: contribuição assistencial, correção do FGTS). Verifique jurisprudência atualizada.",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "03_ferias_salario",
+    "modulo_nome": "Remuneração, Salário e Férias",
+    "id": 1
+  },
+  {
+    "num": 75,
+    "enunciado": "Você advoga para uma rede de farmácias e recebeu uma petição inicial de reclamação trabalhista para elaborar defesa acerca de pedido de tempo despendido com troca de uniforme. No caso, alega o autor que levava cerca de 20 minutos para vestir o uniforme, composto por calça social comum, camisa social simples e sapato comum, só podendo registrar o ponto já uniformizado. Afirma, ainda, que levava o uniforme diariamente para casa para higienizá-lo, podendo chegar às dependências do - empregador já uniformizado. Sobre a hipótese apresentada, observadas as normas da CLT, assinale a opção que você apresentaria em defesa de sua cliente.",
+    "alternativas": {
+      "A": "O tempo despendido para a troca de uniforme sempre será computado na duração do trabalho, pois o empregado já se encontra nas dependências do empregador. Já o tempo despendido na higienização não deve ser computado.",
+      "B": "Inexistindo obrigatoriedade de troca de uniforme nas dependências do empregador, o tempo despendido não é computado na jornada de trabalho. Tampouco deve ser computado o tempo de higienização.",
+      "C": "O tempo despendido na troca de uniforme, assim como o gasto na higienização do mesmo, são computados na jornada de trabalho, pois estão relacionados diretamente com a função desempenhada e a obrigatoriedade de trabalhar com o uniforme.",
+      "D": "O tempo despendido na higienização do uniforme deverá ser computado na duração do trabalho, pois reduz o intervalo mínimo entre duas jornadas. Já a troca de uniforme comum não deve ser computado, porque não há obrigatoriedade de troca na empresa."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "03_ferias_salario",
+    "modulo_nome": "Remuneração, Salário e Férias",
+    "id": 2
+  },
+  {
+    "num": 73,
+    "enunciado": "Reinaldo, trabalhador rural, atua na Fazenda Boa Esperança como tratorista desde 1990. Em janeiro de 2021, o empregador de Reinaldo o dispensou sem justa causa, sendo que o ex-empregado ajuizou reclamação trabalhista em novembro de 2023. Sobre a situação apresentada, nos termos da Constituição Federal, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A prescrição para o trabalhador rural só tem início após uma prestação de contas, que não foi feita, razão pela qual não existe prescrição total.",
+      "B": "Como forma de proteção especial ao empregado rural, a lei garante que a ação possa ser proposta em até 5 (cinco) anos da extinção do contrato.",
+      "C": "Caso o reclamado suscite em defesa a prescrição extintiva, o juiz deverá acolhê-la.",
+      "D": "Somente se as verbas da extinção forem quitadas no sindicato de classe rural é que a prescrição bimestral terá início."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "03_ferias_salario",
+    "modulo_nome": "Remuneração, Salário e Férias",
+    "id": 3
+  },
+  {
+    "num": 71,
+    "enunciado": "Geraldo trabalha desde 2022 para uma sociedade empresária, atua na região metropolitana do Estado e recebe um salário fixo de R$ 4.000,00, sem qualquer desconto, exceto o imposto sobre a renda e o INSS. Além disso, desfruta de um pacote de benefícios que inclui auxílio-alimentação em forma de ticket, habitação num luxuoso apartamento, plano de saúde e auxílio-educação (compreendendo os valores relativos à matrícula, à mensalidade, à anuidade, aos livros e ao material didátic o) . Geraldo consultou você, como advogado(a) , para saber quais benefícios devem ter seu valor integrado à sua remuneração. Sobre a questão levantada por Geraldo, de acordo com os dados do enunciado e com o texto da CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Apenas a educação integrará a remuneração.",
+      "B": "Apenas o valor do plano de saúde não integrará a remuneração.",
+      "C": "Apenas habitação, fornecida pelo trabalho, integrará a remuneração.",
+      "D": "Alimentação, habitação, plano de saúde e auxílio-educação integrarão a remuneração."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "03_ferias_salario",
+    "modulo_nome": "Remuneração, Salário e Férias",
+    "id": 4
+  },
+  {
+    "num": 74,
+    "enunciado": "Em sede de sentença prolatada nos autos de reclamação trabalhista, na qual você advoga para a sociedade empresária, parte ré, o Juiz reconheceu que tanto o seu cliente como o autor da ação foram responsáveis pela rescisão motivada do contrato de trabalho, tendo se operado a justa causa do empregado, concomitantemente com a rescisão indireta por parte do empregador. Sobre os fatos apresentados, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Dada a concomitância de motivações para o término motivado da relação contratual, presume-se pela dispensa imotivada, sendo devidas as verbas trabalhistas daí decorrentes.",
+      "B": "Configurada a culpa recíproca, seu cliente terá direito apenas a 50% das férias vencidas e ao saldo de salários integral, não havendo direito aos valores de aviso prévio, férias e 13º salário proporcionais e à multa sobre o FGTS.",
+      "C": "Configurada a culpa recíproca, seu cliente terá direito a 50% do valor do aviso prévio, das férias proporcionais e do 13º salário proporcional, além dos valores das férias vencidas e do saldo de salários. A multa sobre o FGTS, no entanto, não será devida.",
+      "D": "Configurada a culpa recíproca, seu cliente terá direito a 50% do valor do aviso prévio, das férias proporcionais e do 13º salário proporcional e 20% da multa sobre o FGTS, além dos valores que já seriam devidos na hipótese de justa causa, quais sejam, férias vencidas e saldo de salários."
+    },
+    "gabarito": "*",
+    "disciplina": "Direito do Trabalho",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "03_ferias_salario",
+    "modulo_nome": "Remuneração, Salário e Férias",
+    "id": 5
+  },
+  {
+    "num": 74,
+    "enunciado": "Luana Moreira trabalha em uma sociedade empresária do setor de cosméticos das 7h às 13h15min e desfruta de 15 minutos de intervalo que ocorre das 10h às 10h15min, mas está pressionando sua chefia, aduzindo que teria direito a 1 hora, no mínimo, razão pela qual pretende receber 1 hora como extraordinária, com repercussão nas demais parcelas salariais do contrato. A sociedade empresária consultou você, como advogado(a) , para saber como agir. Sobre a hipótese apresentada, de acordo com a legislação trabalhista em vigor, assinale a afirmativa que, corretamente, apresenta a sua resposta.",
+    "alternativas": {
+      "A": "Luana deverá receber o restante do período do intervalo para inteirar 1 hora de forma indenizatória.",
+      "B": "Luana não tem direito ao pagamento do intervalo, considerando que a jornada não excede 6 horas e os 15 minutos são de intervalo.",
+      "C": "Luana deverá receber o valor correspondente a uma hora integral, com os devidos reflexos nas parcelas salariais do contrato de trabalho.",
+      "D": "Luana deverá receber a diferença de 45 minutos de forma indenizatória, com repercussão nas parcelas salariais do contrato de trabalho."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "03_ferias_salario",
+    "modulo_nome": "Remuneração, Salário e Férias",
+    "id": 6
+  }
+]

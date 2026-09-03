@@ -1,0 +1,2036 @@
+[00:22] [música]
+[00:42] [música]
+[00:51] [música]
+[01:01] [música]
+[01:09] [música]
+[01:17] [música]
+[01:25] [música]
+[01:29] Olá,
+[01:34] pessoal. Tudo bem com vocês? Bom dia.
+[01:38] Estamos iniciando agora mais um
+[01:39] encontro, aliás, bem na reta final
+[01:42] mesmo, real, oficial, dos nossos
+[01:45] encontros de direito civil e as nossas
+[01:48] eh seis questões. Eram sete, tiraram,
+[01:52] roubaram uma nossa, né? O povo do
+[01:54] previdenciário roubou uma questão nós e
+[01:56] ficamos aqui com as nossas seis
+[01:59] questões, tá bom? [limpando a garganta]
+[02:03] Nossa prova se aproxima, é domingo, no
+[02:06] sábado a gente tem um encontro muito
+[02:08] especial que é a nossa revisão de
+[02:10] véspera. Eu tenho uma surpresa para
+[02:13] vocês com essa revisão de véspera, que é
+[02:15] um material muito bem lindo, que é esse
+[02:17] material que a gente formula, que eu
+[02:19] faço um caderno e mando pros meus
+[02:21] alunos. E hoje nós vamos estudar a parte
+[02:24] de obrigações,
+[02:26] essa parte que antecede a parte de
+[02:29] contratos.
+[02:30] E vocês têm muito medo de obrigações,
+[02:33] mas a gente vai trabalhar todas as
+[02:35] possibilidades de cobrança. Não tenha
+[02:37] medo. Eu vou te explicar tudo bonitinho
+[02:39] nesse encontro hoje. Então já mando um
+[02:42] beijo para todo mundo que tá ao vivo. Já
+[02:43] mando o link dessa aula ao vivo agora
+[02:46] para todo mundo que precisa. Tô com a
+[02:48] garganta podre, mas vamos seguir em
+[02:51] frente que é isso, tá bom? Então vamos
+[02:54] embora. Vamos no nosso material. Hoje a
+[02:56] gente vai estudar obrigações. Coloquei
+[02:58] separado aqui para você e já coloquei
+[03:01] como que a gente tem a divisão da parte
+[03:04] de obrigações aqui no nosso código, tá?
+[03:07] Olha só, a gente tem aqui a parte de
+[03:10] obrigações sendo uma relação jurídica
+[03:15] entre credor e devedor. Toda parte
+[03:17] obrigacional consta no artigo 233
+[03:22] ao 240.
+[03:24] E de onde surgem as obrigações? Como que
+[03:27] isso aqui pode ser cobrado na sua prova?
+[03:30] Veja, pode ser cobrado na sua prova
+[03:32] dentro de um contrato. Exemplo, compra e
+[03:35] venda. um contrato de aluguel, um
+[03:38] contrato estimatório ou qualquer outra
+[03:40] outro tipo de contrato, pode cair na sua
+[03:43] prova como um ato ilícito. A
+[03:46] responsabilidade civil, que a gente já
+[03:48] conversou aqui, imagina quando alguém
+[03:52] bate no carro e surge uma obrigação de
+[03:54] pagar o conserto. Isso decorreu de um
+[03:56] ato ilícito. O jarro da planta que cai
+[03:59] da varanda lá embaixo em cima do carro
+[04:01] da pessoa ou, né, atinge uma pessoa,
+[04:05] gera uma obrigação de indenizar e a
+[04:07] obrigação de indenizar é uma obrigação
+[04:08] de pagar. Então você tem entre uma
+[04:11] relação entre credor e devedor
+[04:13] [roncando]
+[04:14] ou até mesmo por um ato unilateral.
+[04:17] Profe, quais são os atos unilaterais que
+[04:20] nós temos no Código Civil? Promessa de
+[04:23] recompensa. Promessa de recompensa.
+[04:26] Gestão de negócios. Enriquecimento sem
+[04:29] causa. Quando é que você tem a promessa
+[04:32] de recompensa? Promessa de recompensa é,
+[04:35] por exemplo, você tá andando na rua,
+[04:38] encontra aquela placa, né? É super
+[04:40] comum. Eh, perdi meu cachorro. Se você
+[04:42] encontrar o cachorro X da, né, com as
+[04:45] características X, você vai receber uma
+[04:49] recompensa de R$ 1.000. Isso é uma
+[04:51] promessa de recompensa. Se você cumprir
+[04:53] o prometido pelo prometente, você tem
+[04:57] direito ao recebimento da recompensa. Tá
+[05:00] pegando fogo na casa do vizinho, você
+[05:02] arromba o portão para poder eh apagar o
+[05:06] fogo. O excesso pode ser objeto de
+[05:08] indenização.
+[05:10] E na no enriquecimento sem causa, quando
+[05:13] é que a gente tem o enriquecimento sem
+[05:14] causa? Quando você tem um pagamento
+[05:16] indevido, por exemplo, que também é um
+[05:18] ato unilateral. O pagamento indevido é
+[05:21] qualquer pagamento que seja um pagamento
+[05:24] ou de uma obrigação que já foi paga ou
+[05:27] um pagamento que tá sendo feito a maior
+[05:29] ou de uma obrigação que não existe. E aí
+[05:32] você tem o direito ao ressarcimento, a
+[05:36] devolução do valor que foi pago a maior
+[05:39] ou indevidamente, ok? Não há pagamento
+[05:43] indevido de obrigação devida. Lembre-se
+[05:47] disso. E nem toda devolução tem sem
+[05:50] dobro. Óbvio que não. Só aquela que foi
+[05:53] recebida, evidentemente, de mafé, tá?
+[05:56] Então, a obrigação pode surgir de
+[05:58] variados contextos, não só dos
+[06:00] contratos. Como que então de fato você
+[06:04] consegue visualizar que esse livro do
+[06:05] código, ele não é um livro completamente
+[06:08] autônomo. As regras são autônomas, mas
+[06:11] as obrigações serão sempre embutidas
+[06:13] dentro de um contexto ou de um ato
+[06:16] unilateral, ou de uma um ato ilícito, ou
+[06:20] de um contrato. a maioria das vezes
+[06:23] dentro da prova está dentro de um
+[06:26] contrato ou dentro do contexto da
+[06:29] responsabilidade civil do ato ilícito.
+[06:32] Meus amigos, como que a parte de
+[06:34] obrigações é dividida e o que que você
+[06:36] tem que saber de início paraa sua prova?
+[06:39] Olha lá,
+[06:41] a o artigo 233
+[06:44] a 285
+[06:47] trabalha [limpando a garganta] a parte
+[06:47] de obrigações.
+[06:50] Transmissão das obrigações 286
+[06:53] a parte de eh
+[07:00] pera aí, 286 a 303,
+[07:03] transmissão das obrigações, tá?
+[07:08] a de implemento e extinção 3 304 a 388 e
+[07:12] na de implemento das obrigações 389 a
+[07:15] 420. Como que nós vamos trabalhar isso
+[07:17] aqui agora? Por meio de possibilidades
+[07:20] de questões cobradas, tá?
+[07:24] Professora,
+[07:26] você vai falar a questão, vai colocar a
+[07:27] questão? Não, eu vou te contar uma
+[07:29] história e a gente vai trabalhar essa
+[07:32] história
+[07:34] e os temas correlados. Mas eu quero que
+[07:37] você entenda que obrigação é sempre um
+[07:40] vínculo entre credor e devedor.
+[07:43] Credor, sujeito ativo da obrigação e
+[07:45] devedor sujeito passivo e sempre
+[07:48] envolvendo uma prestação. Olha para mim,
+[07:51] a prestação sempre tem um viés
+[07:53] patrimonial. Obrigações que não têm
+[07:57] aspecto patrimonial não são estudadas
+[08:00] dentro do contexto de obrigações. Podem
+[08:03] se tratar de deveres, dever de
+[08:06] fidelidade no casamento, dever de
+[08:09] cuidado para com os filhos. Isso não tem
+[08:11] viés eh obrigacional porque não tem
+[08:14] valor econômico. Então, quando a gente
+[08:17] fala de obrigação é sempre com valor
+[08:19] econômico. Um ponto que é importante, um
+[08:23] ponto que é importante,
+[08:26] não confunda obrigação com direitos
+[08:28] reais. Uma coisa é uma coisa, outra
+[08:31] coisa é outra coisa. Ah, professora,
+[08:33] então se eu celebro um contrato de
+[08:35] compra e venda do celular, eu pago o
+[08:39] celular, eu sou proprietária do celular
+[08:43] simplesmente porque eu paguei? Claro que
+[08:45] não. A gente já sabe disso, a gente já
+[08:48] viu isso. Por que você paga num contrato
+[08:53] de compra e venda não significa que você
+[08:55] seja o proprietário, porque são
+[08:57] institutos diferentes. O contrato ele se
+[09:02] forma pela manifestação de vontade. Ou
+[09:05] seja, a regra dos contratos é o
+[09:08] princípio do consensualismo. Os
+[09:10] contratos são formados pela manifestação
+[09:12] de vontade. Porém, o direito real é
+[09:15] outra história. Os direitos reais estão
+[09:18] elencados no 1225.
+[09:21] São direitos que gravitam em torno da
+[09:23] propriedade e são direitos que são
+[09:26] transmitidos, se a coisa for móvel pela
+[09:28] tradição, que é a entrega, e se a coisa
+[09:30] for imóvel pelo registro. Então, vamos a
+[09:35] um caso de prova. Dá uma olhada. Imagina
+[09:38] você, [roncando]
+[09:41] imagina você aqui que o João
+[09:45] celebrou um contrato. Vamos desenhar o
+[09:47] contrato dele aqui.
+[09:50] [limpando a garganta]
+[09:53] O João
+[09:56] vendedor
+[09:59] vendeu para o José. Então, portanto,
+[10:03] comprador, botar assim, ó, vendedor,
+[10:06] comprador,
+[10:09] um carro
+[10:13] por R$ 100.000,
+[10:16] OK? Esse é um contrato de compra e
+[10:19] venda.
+[10:21] nas regras estipuladas pelas partes,
+[10:26] esse contrato,
+[10:32] esse contrato foi celebrado no dia
+[10:35] 20/05.
+[10:38] ficou consignado que o pagamento
+[10:42] pelo carro deveria ser dia 20/05, no
+[10:46] mesmo dia da assinatura do contrato.
+[10:47] Isso é muito comum.
+[10:50] Mas a entrega do carro,
+[10:53] a entrega do carro
+[10:56] aconteceria no dia 20/05.
+[10:59] O João, vendedor se comprometeu a
+[11:01] entregar o carro no dia 25/05.
+[11:04] A primeira pergunta, primeira pergunta
+[11:09] de prova.
+[11:11] Por que
+[11:14] por
+[11:16] o José
+[11:18] pagou?
+[11:23] Ele é dono?
+[11:26] Sim ou não? Já vimos que não,
+[11:30] não,
+[11:31] ele não é dono. Por quê? Por quê? Porque
+[11:35] ele só assinam o contrato. Então a gente
+[11:39] conclui aqui que ele é apenas
+[11:44] apenas
+[11:49] credor. Ele é apenas credor, ou seja,
+[11:52] ele já pagou por uma obrigação e ele tem
+[11:54] que receber a prestação que é a entrega
+[11:57] do carro, que é uma obrigação de dar
+[11:58] coisa.
+[12:00] Por quê? Quando a gente celebra um
+[12:02] contrato, presta atenção agora, quando a
+[12:05] gente celebra um contrato, a gente tem
+[12:09] apenas e tão somente uma relação
+[12:12] obrigacional.
+[12:14] A gente tem um direito pessoal que é uma
+[12:17] relação entre credor
+[12:20] e devedor. Só isso. Mais nada, nada além
+[12:24] disso.
+[12:26] Agora, dentro de um contrato, você pode
+[12:30] ter tranquilamente o envolvimento de um
+[12:33] direito real. Por exemplo,
+[12:36] eu faço um contrato de compra e venda e
+[12:40] o objetivo do contrato de compra e venda
+[12:42] é transmitir a propriedade. Só que a
+[12:44] simples assinatura de um contrato não
+[12:47] gera essa transmissão. Não gera essa
+[12:50] transmissão. Então, perceba que uma
+[12:52] coisa é o contrato em si e a sua
+[12:55] formação que ocorre pela manifestação de
+[12:57] vontade, pelo consenso das partes, que é
+[13:01] exatamente o princípio do
+[13:02] consensualismo. Outra coisa
+[13:05] completamente diferente é o direito de
+[13:08] propriedade que tá ali dentro, porque o
+[13:10] direito de propriedade ele tem uma
+[13:12] formalidade para ser transmitido ao novo
+[13:16] proprietário.
+[13:18] Como que acontece essa formalidade?
+[13:20] Artigo 1226 e 1227.
+[13:24] Olha o que nós temos. 1200.
+[13:28] Todo o direito real tá no 1225.
+[13:31] É fato. O direito real gravita em torno
+[13:33] da propriedade. Aliás,
+[13:36] são atributos da propriedade o direito
+[13:39] de usar, gozar, de expor e reaver o bem.
+[13:42] Perfeito. Agora, veja bem, veja bem. O
+[13:45] direito real sobre bem móvel, que é o
+[13:50] caso do carro, se transmite com a
+[13:54] tradição.
+[13:57] [roncando]
+[13:57] E
+[13:59] o imóvel,
+[14:02] o imóvel se transmite com o com o
+[14:08] registro, tá? O imóvel se transmite com
+[14:12] o registro. Então, a gente vai observar
+[14:18] que
+[14:19] ele assinou o contrato, ele é apenas
+[14:22] credor. A partir de que momento ele será
+[14:25] dono?
+[14:29] Será o dono?
+[14:31] será o dono somente
+[14:36] após
+[14:39] a tradição. Então, se sua banca te
+[14:41] perguntar isso, você vai saber
+[14:44] responder. Antes da tradição, não.
+[14:45] Então, quando que seria em tese entrega?
+[14:49] Dia 25.
+[14:50] Agora vem comigo. Ele celebrou o
+[14:53] contrato. Isso aqui também pode ser uma
+[14:55] pergunta boa de prova. Ele celebrou o
+[14:58] contrato.
+[15:00] Ele celebrou o contrato dia 20/05.
+[15:04] O pagamento
+[15:06] aconteceu
+[15:08] também dia 20/05, certo?
+[15:14] A entrega deveria ser dia 25, mas quando
+[15:18] foi dia 22,
+[15:21] o mesmo vendedor vendeu para Maria o
+[15:25] carro.
+[15:27] vendeu para Maria dia 22/05 e fez a
+[15:30] entrega
+[15:33] para Maria.
+[15:35] Ele entregou o carro para Maria.
+[15:38] Minha pergunta é, e você, se você
+[15:40] prestou atenção nas minhas palavras
+[15:42] agora, você vai saber responder isso.
+[15:45] Veja, ele fez a entrega para Maria dia
+[15:47] 22/05.
+[15:49] Em algum momento o José pode agir contra
+[15:53] a Maria para buscar o carro?
+[15:56] Não, ele não pode. E por que que ele não
+[16:00] pode? Ele não pode justamente,
+[16:06] justamente porque ele nunca foi o dono.
+[16:10] E se ele nunca foi o dono, ele não tem
+[16:14] nenhuma ação reivindicatória contra a
+[16:17] Maria, porque o objeto da ação
+[16:19] reivindicatória é propriedade. E ele
+[16:22] nunca teve a propriedade. Por quê?
+[16:23] Porque ele nunca teve a tradição. Poxa,
+[16:27] Roberta, mas é sacanagem o João vender o
+[16:32] carro para outra pessoa, sendo que o
+[16:34] José já havia feito o pagamento. Sim, é
+[16:37] uma enormíssima sacanagem, mas não resta
+[16:41] outra alternativa ao José senão apenas
+[16:44] pedir de volta o dinheiro dele contra o
+[16:47] João e reclamar perdas e danos porque a
+[16:49] obrigação não foi cumprida por culpa do
+[16:53] próprio João que vendeu o carro para
+[16:54] outra pessoa. do direito obrigacional.
+[16:57] Sempre que a obrigação não é cumprida
+[17:00] por culpa de alguém, a gente pode
+[17:03] reclamar perdas e danos desse alguém que
+[17:06] via de regra é o próprio devedor. OK?
+[17:10] Então essa é uma questão que pode cair
+[17:13] na sua prova. Aliás, aliás,
+[17:17] por falar em direito real, olha isso
+[17:20] aqui.
+[17:22] Quando? Se você quiser dar o print nessa
+[17:25] tela, a hora é agora.
+[17:27] >> [limpando a garganta]
+[17:28] >> Quando a gente fala de obrigação,
+[17:31] olha que legal,
+[17:35] obrigação
+[17:37] que é essa relação jurídica entre credor
+[17:41] e devedor,
+[17:44] nós sabemos
+[17:46] o óbvio, direito obrigacional produz
+[17:50] efeito
+[17:52] inter partes. Olha que interessante
+[17:56] isso. Ou seja, a obrigação vincula
+[18:00] apenas
+[18:02] credor e devedor, certo? Eu não tenho
+[18:05] como atingir um terceiro senão naquelas
+[18:08] hipóteses de atingimento de terceiro por
+[18:10] meio dos contratos.
+[18:12] Quando você fala de direito real,
+[18:16] que são esses do
+[18:19] que gravita em torno da propriedade,
+[18:22] você não tem uma relação jurídica,
+[18:24] porque relação jurídica é sujeito.
+[18:26] Sujeito, você tem uma situação jurídica
+[18:30] de um sujeito e uma coisa. Por exemplo,
+[18:35] João e a casa do João, João e o carro do
+[18:38] João, João e o celular do João,
+[18:42] né? Então vamos trabalhar com exemplo da
+[18:44] propriedade. O João tem a propriedade da
+[18:46] casa dele. Esse direito real, a
+[18:51] característica dele é que ele seja
+[18:54] [roncando]
+[18:55] erga omnis, ou seja, oponível contra
+[18:59] todos. A ninguém é permitido violar o
+[19:02] direito de propriedade do tal do João.
+[19:06] Memoriza isso. Memoriza isso aqui.
+[19:10] Então, eu tenho de um lado a obrigação
+[19:14] interpartes
+[19:16] e o direito real erga homens. Show de
+[19:19] bola. Perfeito. Memoriza isso.
+[19:24] Vamos lá. Imagina você que a Maria, a
+[19:29] Maria
+[19:33] botar mais para cima. Questão de prova,
+[19:35] hein?
+[19:37] A Maria
+[19:39] é proprietária
+[19:42] dessa casa aqui.
+[19:46] Maria é proprietária da casa. E a Maria,
+[19:50] por ela ser proprietária, vamos
+[19:52] recordar, porque recordar é viver. Por
+[19:55] ela ser proprietária, quais são os
+[19:57] atributos da propriedade que ela tem
+[19:59] aqui? Lembra do grude? Grude.
+[20:04] A propriedade gruda no proprietário. O
+[20:07] grude, a propriedade gruda no
+[20:09] proprietário. Ele tem o direito de
+[20:11] gozar,
+[20:13] reaver de quem
+[20:16] detenha o bem justamente,
+[20:19] usar e dispor. Resumidamente, ela pode
+[20:24] porque ela pode dispor, ela pode vender
+[20:26] a casa porque ela tem o direito de usar,
+[20:29] ela pode morar na casa porque ela tem o
+[20:31] direito de reaver. Ela pode reivindicar
+[20:33] o imóvel de qualquer pessoa que invada o
+[20:36] imóvel. É o chamado direito de sequela.
+[20:39] Ela pode gozar do bem, alugar o bem.
+[20:42] Olha que interessante. Ela pode retirar
+[20:45] os frutos do bem. E por que ela pode
+[20:47] gozar? Ela resolveu
+[20:51] alugar o imóvel,
+[20:54] vai ouvindo essa história. Ela resolveu
+[20:57] alugar o imóvel. Então, ela fez um
+[21:00] contrato de
+[21:02] locação
+[21:04] deste imóvel. Se liga no esquema.
+[21:08] Ela fez um contrato de locação deste
+[21:10] imóvel
+[21:12] e ela resolveu alugar este imóvel.
+[21:16] Resolveu alugar este imóvel.
+[21:19] para
+[21:21] João.
+[21:24] Vamos dar uma de doida aqui e meteu
+[21:25] João. Resolveu alugar o imóvel
+[21:31] para o João. João, então, portanto, na
+[21:34] nossa dinâmica de um contrato de locação
+[21:38] locatário
+[21:40] e a Maria locadora,
+[21:45] tá?
+[21:47] >> [limpando a garganta]
+[21:47] >> Esse contrato de locação tem o período
+[21:51] de vigência de 48 meses
+[21:57] e o valor do aluguel,
+[22:00] R$ 5.000
+[22:02] mensais,
+[22:03] vencendo
+[22:06] todo dia 10.
+[22:11] Beleza, começou lá a pagar o aluguel, tá
+[22:14] morando biibi bobó.
+[22:18] Minha pergunta é
+[22:20] com 12 meses de vigência desse contrato,
+[22:24] João, inquilino maravilhoso,
+[22:28] impecável,
+[22:30] paga em dia, tudo bonitinho,
+[22:33] a Maria fala assim: "Rapaz, eu vou
+[22:36] vender este apartamento. Esse
+[22:37] apartamento não, essa casa.
+[22:41] Vou vender a casa.
+[22:46] A pergunta é: ela pode vender o imóvel
+[22:50] com um contrato de locação vigente?
+[22:53] Reage pra vida. Vamos lá. Ela pode
+[22:55] vender o imóvel com um contrato de
+[22:57] locação vigente. Que que você me diz?
+[23:01] Ah, professora, pode, né?
+[23:04] Porque uma coisa é uma coisa, outra
+[23:05] coisa é outra coisa. Perfeito. Vamos lá.
+[23:07] Vem comigo.
+[23:09] No meio do caminho, ela pode vender.
+[23:14] A Maria
+[23:17] decidiu
+[23:19] vender o imóvel.
+[23:22] Ela tem o direito de dispor. Confere?
+[23:25] Sim. Ela tá alugando. Ela tá alugando
+[23:30] porque ela tem o direito de gozar. Olha
+[23:33] que perfeito. Mas ela pode vender porque
+[23:36] o direito de dispor continua dela.
+[23:39] [roncando]
+[23:42] Então ela pode dispor. Porque ela pode
+[23:44] dispor a pergunta.
+[23:48] Ela pode
+[23:50] vender
+[23:53] resposta.
+[23:55] Óbvio
+[23:57] sim.
+[23:59] Que uma coisa não tem nada a ver com a
+[24:00] outra. pode vender. Só que como nós
+[24:04] estamos diante de um contrato de
+[24:06] locação,
+[24:07] a regra é muito clara. Temos que
+[24:11] respeitar a lei do inquilinato, que é a
+[24:14] nossa gloriosa
+[24:16] lei 82
+[24:18] 45.
+[24:21] E no artigo 27,
+[24:24] botar bem, eu vou vou botar até
+[24:26] destacado.
+[24:34] No artigo 27,
+[24:40] nós temos
+[24:43] o direito de preferência.
+[24:46] Direito
+[24:50] de preferência
+[24:53] ou preempção. Preferência de quem,
+[24:56] professora? Pelo amor de Deus, me
+[24:59] explica. Vamos lá. Vou abrir a nossa
+[25:02] 8245,
+[25:04] que eu quero que você olhe
+[25:07] bem bonitinho, porque isso aqui pode
+[25:08] cair na sua prova. Eu nem ia falar
+[25:10] disso,
+[25:13] mas veio um trem aqui no meu ouvido.
+[25:18] Então vamos lá. A criatura pode vender?
+[25:20] Que que você me diz? Ah, pode, profe.
+[25:24] Pois muito que bem. Olha o artigo 27.
+[25:28] No caso de venda,
+[25:30] promessa de venda, sessão, promessa de
+[25:34] sessão de direitos ou do da ação em
+[25:37] pagamento,
+[25:39] o locatário tem preferência para
+[25:43] adquirir um imóvel locado em igualdade
+[25:45] de condições com terceiros,
+[25:49] devendo o locador dar-lhe conhecimento
+[25:52] do negócio mediante notificação Jude ou
+[25:55] extra Jude ou até outro Outro meio de
+[25:57] ciência inequívoca. Pode ser até uma
+[25:59] mensagem pelo WhatsApp.
+[26:02] A comunicação conterá todas as condições
+[26:05] do negócio, em especial o mais óbvio de
+[26:08] um contrato de compra evenda, que é o
+[26:09] quê? O preço,
+[26:11] a forma de pagamento, a existência de
+[26:14] ônos reais, bem como o local e horário
+[26:17] em que pode ser examinada a documentação
+[26:20] pertinente.
+[26:22] 28. O direito de preferência do
+[26:25] locatário caducará se não for
+[26:28] manifestada de maneira inequívoca sua
+[26:30] aceitação integral à proposta no prazo
+[26:32] de 30 dias. Então vamos lá. A Maria pode
+[26:35] vender o imóvel? Pode, tem problema
+[26:39] nenhum ela vendeu o imóvel, mas ela tem
+[26:42] que notificar o João dizendo: "João, eu
+[26:47] tô vendendo o imóvel. Você quer
+[26:50] comprar?"
+[26:52] O João, né? Não, não, ele pode
+[26:56] simplesmente falar de cara quero, de
+[26:58] cara não, não quero. Ou se ele
+[27:01] permanecer em silêncio por 30 dias, o
+[27:05] silêncio será caracterizado como não
+[27:07] aceitação, como negativa. Não, não
+[27:10] quero.
+[27:13] Perfeito. De boinha, né? Então, a
+[27:16] criatura tem aqui, conforme o artigo 28,
+[27:23] 28. Olha o caminhão da aprovação
+[27:25] passando na sua rua, reage pra vida.
+[27:27] Vamos embora. 28, ele tem 30 dias.
+[27:33] 30 dias. nesses 30 dias pela lei, ele
+[27:38] pode sim aceitar, paga o preço e vai ser
+[27:41] o proprietário.
+[27:45] Ou ele pode não aceitar.
+[27:50] Ele pode não aceitar,
+[27:54] OK?
+[27:55] Ele pode não aceitar, professora. Se ele
+[28:00] aceita,
+[28:02] se ele aceita,
+[28:11] ele paga e vira o proprietário.
+[28:16] Ele paga e vira o proprietário.
+[28:19] Se ele não aceita,
+[28:24] se ele não aceita,
+[28:38] vamos grifar aqui. Não aceitou.
+[28:42] Ela pode vender para um terceiro?
+[28:46] Pode,
+[28:50] pode.
+[28:52] Agora,
+[28:56] se a criatura
+[29:00] se a criatura,
+[29:03] pensa comigo agora, eu quero que você
+[29:04] olhe pro material. Se a criatura era
+[29:09] possuidor,
+[29:10] João era possuidor,
+[29:12] aceita
+[29:14] e vira proprietário,
+[29:17] como é o nome que a gente dá para essa
+[29:21] transformação da posse,
+[29:26] da posse em propriedade?
+[29:32] Como que a gente dá
+[29:35] interversão
+[29:36] da posse? Interversão da posse, ele vira
+[29:42] proprietário.
+[29:43] Eu tenho uma inversão, né? Eu tenho uma
+[29:47] intervércio possessiones. Eu tenho uma
+[29:50] interversão
+[29:52] da posse.
+[29:56] OK. Ele virou proprietário.
+[29:59] Perfeito.
+[30:01] Se ele diz não,
+[30:03] se ele diz não, se ele diz não,
+[30:08] a Maria
+[30:10] pode vender para outra pessoa.
+[30:16] Vamos colocar aqui para o Antônio.
+[30:24] Pode ou não pode?
+[30:27] Pode ou não pode? Pode. Ah, professora,
+[30:30] aí o Antônio vai chegar lá, vai pagar e
+[30:32] vai ser o proprietário. Perfeito.
+[30:35] Exatamente.
+[30:37] Maria então vendeu
+[30:42] para o Antônio.
+[30:47] Só que quem tá morando lá por conta do
+[30:49] contrato de locação é o João.
+[30:53] A pergunta que não quer calar.
+[30:56] O Antônio
+[30:58] deve respeitar esse contrato.
+[31:01] É isso que pode cair na sua prova.
+[31:04] Antônio
+[31:06] deve
+[31:08] respeitar
+[31:10] o contrato. Não sei se você lembra,
+[31:15] tinha passado um ano só de vigência do
+[31:18] contrato e o contrato tem vigência de 48
+[31:20] meses. Ele deve respeitar o contrato?
+[31:27] Ele pode tirar o João da casa.
+[31:31] Regra.
+[31:34] Regra
+[31:37] não.
+[31:40] Roberta, ele não deve respeitar o
+[31:42] contrato, não. Por quê? Porque contrato
+[31:47] produz efeito interpartes.
+[31:50] Se o Antônio chegou depois na parada e
+[31:53] ele não assinou o contrato, ele vai
+[31:55] respeitar contrato. Por quê?
+[31:57] Claro que não. Claro que não.
+[32:02] Se eu tenho regra é porque eu tenho
+[32:05] exceção.
+[32:10] Essa característica ser erga homens é
+[32:13] característica de quê? De direito real.
+[32:19] Característica erga é característica de
+[32:21] direito real. característica de
+[32:23] obrigação é interpartes. Será que teria
+[32:27] como eu dar uma eficácia real a uma
+[32:30] obrigação? O que que significa isso? Dar
+[32:34] eficácia real a uma obrigação é dar uma
+[32:37] eficácia erga homnis a uma obrigação.
+[32:41] Por que que o direito real tem eficácia
+[32:44] ergais? Porque ele tem registro. Como
+[32:47] que eu daria então, portanto, uma
+[32:49] eficácia real a um direito pessoal?
+[32:53] Registrando,
+[32:55] professora, onde tem isso? Vamos no
+[32:58] Código Civil
+[33:01] agora. Eu vou no Código Civil. Olha
+[33:02] aqui, ó. Artigo
+[33:06] 476.
+[33:10] Não é 476, é 576.
+[33:15] Olha isso.
+[33:18] Perdão. Se a coisa for alienada durante
+[33:21] a locação, que é o caso aqui, o
+[33:24] adquirente
+[33:26] não ficará obrigado a respeitar o
+[33:28] contrato, porque contrato é interpartes.
+[33:32] Se nele não for consignada a cláusula de
+[33:34] sua vigência no caso de alienação e não
+[33:38] constar do registro.
+[33:41] E não constar do registro. volta no
+[33:45] material. Então, professora, ele não
+[33:47] precisa respeitar, não. Se ele quiser
+[33:50] tirar o João de lá, qual vai ser a ação?
+[33:53] Embora eu não concorde com isso, o STJ
+[33:56] falou que era ação de despejo.
+[33:58] [roncando]
+[34:00] Ação de despejo.
+[34:04] Eu não concordo porque se a criatura não
+[34:06] é parte no contrato de locação, como que
+[34:08] ele vai manejar uma ação de despejo? Mas
+[34:10] esse foi o posicionamento do STJ. Então,
+[34:12] a gente vai levar isso paraa nossa
+[34:13] prova. Agora, ele pode ter que respeitar
+[34:18] o contrato? Sim. Sim.
+[34:23] Se a gente tiver feito o [roncando]
+[34:26] registro
+[34:28] do contrato
+[34:31] de locação, porque quando a gente faz o
+[34:34] registro, a gente tá atribuindo uma
+[34:36] eficácia real, uma eficácia real ao
+[34:41] contrato
+[34:42] que, em tese seria ali eh
+[34:50] interpartes.
+[34:52] OK? [roncando]
+[34:54] Tudo bem? Isso também consta no artigo
+[34:57] oitavo da lei do inquilinato. Dá uma
+[34:58] olhada. Se o imóvel se o imóvel for
+[35:03] alienado durante a locação, [roncando] o
+[35:05] adquirente poderá denunciar o contrato
+[35:09] com o prazo de 90 dias para desocupação,
+[35:13] salvo se a locação for por tempo
+[35:15] determinado e o contrato contiver
+[35:17] cláusula de vigência em caso de
+[35:19] alienação, estiver
+[35:22] devidamente registrado, averbado na
+[35:24] matrícula do imóvel.
+[35:26] Então, olha o que que a gente tem aqui.
+[35:28] Se liga. Regra não. Ele vai promover a
+[35:31] ação de despejo. Ele vai dar quanto
+[35:34] tempo pra criatura sair? 90 dias.
+[35:40] 90 dias. Artigo
+[35:43] oitavo
+[35:45] da 8245.
+[35:48] 90 dias pra pessoa pelo menos arrumar um
+[35:49] lugar para sair, né, gente? Pelo amor de
+[35:51] Deus.
+[35:53] Sim, ele vai respeitar. Se o contrato
+[35:55] for registrado, tudo bem. [roncando]
+[35:59] Certo,
+[36:02] professora. Ele dá 90 dias para fazer a
+[36:06] denúncia.
+[36:07] Se depois desse prazo ninguém fizer
+[36:09] nada, é porque tá mantendo a locação. Se
+[36:14] o o Antônio que adquiriu o imóvel não
+[36:16] fizer nada também em 90 dias, mantém-se
+[36:19] a locação. A, o artigo, o parágrafo 2º
+[36:23] do artigo ovo diz: "A denúncia,
+[36:26] a denúncia deverá ser exercitada também
+[36:29] no prazo de 90 dias contados do registro
+[36:31] da venda ou do compromisso,
+[36:33] presumindo-se após esse prazo, se ele
+[36:35] não fizer nada, [roncando] a
+[36:37] concordância da manutenção da locação."
+[36:40] Parágrafo 2º, artigo oavº. OK? Então,
+[36:43] cuidado, a gente pode mexer com a
+[36:47] eficácia de uma obrigação, dando a ela
+[36:50] uma eficácia real atribuída aí no artigo
+[36:54] 576
+[36:56] do Código Civil e oitavo da 8245,
+[37:02] que é a lei do inquilinato. Isso aqui é
+[37:04] o tipo de questão de prova FGV, porque
+[37:09] você sabe que todas as questões são
+[37:12] [roncando] eh
+[37:14] casísticas, né, contextualizadas. Então,
+[37:16] a FGV sempre traz uma um contexto de
+[37:20] questão para que você possa resolver
+[37:24] essa questão como advogado. Esse é um
+[37:26] excelente, uma excelente questão de
+[37:28] obrigações que pode ser cobrada na sua
+[37:30] prova. Belezura? Vamos para mais um tipo
+[37:33] de questão. Vamos lá. Dá o print na
+[37:36] tela. 3 2 1. Vamos conversar sobre um
+[37:41] negócio aqui. Vamos lá.
+[37:44] Quando o devedor,
+[37:48] quando o devedor
+[37:52] [roncando]
+[37:53] não paga a dívida,
+[37:57] quando ele não paga a dívida,
+[38:02] que que o credor faz
+[38:05] quando o devedor não paga a dívida, que
+[38:08] que o credor faz? O credor,
+[38:12] o credor
+[38:15] deverá
+[38:17] cobrar, né? Ele vai cobrar a dívida. Ah,
+[38:20] professora,
+[38:22] ridículo.
+[38:24] Só que deixa eu te falar, ele cobra
+[38:30] sempre em um prazo.
+[38:33] Ele tem um prazo para cobrar.
+[38:39] Vem comigo.
+[38:41] No direito civil nós temos dois tipos de
+[38:45] prazo. Só tá velha, né, gente? Dona
+[38:47] lombar. Nós temos dois tipos de prazo.
+[38:52] Prazo prescricional e prazo decadencial.
+[38:55] Dois tipos. Ah, professora, já sei. Só
+[38:58] que você tem que lembrar.
+[39:00] Pracção
+[39:02] é credor cobrando devedor. Prazo de
+[39:05] prescrição é credor cobrando devedor.
+[39:07] Prazo de prescrição é credor cobrando
+[39:10] devedor. É credor cobrando devedor. É
+[39:13] credor cobrando devedor.
+[39:16] Todo prazo prescricional está previsto
+[39:18] em apenas dois artigos no Código Civil
+[39:22] 205 e 206. 205 e 206. O 206
+[39:29] traz casos específicos de 1 2 3 4 5
+[39:34] anos.
+[39:36] Se o caso não estiver elencado, a
+[39:40] relação jurídica não estiver elencada no
+[39:42] 206, você aplica o prazo prescricional
+[39:45] geral máximo do 205, que são 10 anos.
+[39:50] Então os prazos são de 1 2 3 4 5 10. Não
+[39:54] tem prazo de 6, 7, 8 e 9.
+[39:57] >> [roncando]
+[39:58] >> E às vezes o examinador coloca lá, será
+[40:00] no prazo prional de 7 anos. Você não é
+[40:02] idiota de marcar uma questão dessa
+[40:04] porque você sabe que nem esse prazo
+[40:05] existe,
+[40:07] tá bom? Então vamos lá. O prazo de
+[40:10] prescrição
+[40:12] é sempre é sempre
+[40:17] para cobrar. Então a gente escreve a
+[40:19] palavra prescrição assim, ó. Ó.
+[40:31] Se você compreendeu,
+[40:33] presta atenção,
+[40:37] se você compreendeu
+[40:40] que o prazo de prescrição é o credor
+[40:42] cobrando o devedor, qualquer outro prazo
+[40:45] de qualquer outra coisa que aparecer que
+[40:48] não seja o credor cobrando o devedor, é
+[40:50] prazo de decadência.
+[40:53] é prazo de decadência. Então, a
+[40:56] prescrição é o credor perdendo a
+[40:59] pretensão, a intenção de cobrar a
+[41:03] dívida.
+[41:05] Decadência é muito mais grave,
+[41:09] porque a decadência você perde o próprio
+[41:11] direito. Preste atenção no que eu vou te
+[41:13] explicar. Nem todo prazo de, aliás, olha
+[41:17] que interessante,
+[41:19] prazo de decadência
+[41:21] é sempre ligado a direito potestativo.
+[41:26] Direito potestativo é aquele direito que
+[41:29] para ser implementado
+[41:32] não depende do comportamento de ninguém,
+[41:36] só do próprio titular.
+[41:40] Nem todo direito potestativo tem prazo.
+[41:45] A exemplo do divórcio,
+[41:47] lembra que antes da emenda 66 de 2010
+[41:51] era um inferno para divorciar, porque
+[41:54] você tinha que você tava casado,
+[41:57] lembrando que o divórcio entrou no
+[41:59] Brasil em 1977.
+[42:02] Olha lá, você casava, você tinha que
+[42:06] ficar um ano casado. Depois de um ano
+[42:08] casado, você podia pedir a separação
+[42:10] judicial.
+[42:12] Depois de um ano da separação judicial,
+[42:14] você poderia converter essa separação em
+[42:17] divórcio.
+[42:18] Olha o inferno. Você ficava vinculado
+[42:20] pelo menos há dois anos da sua vida à
+[42:22] pessoa que você não quer. Ou você
+[42:26] poderia separar de fato por 2 anos e
+[42:29] entrar com a ação direta de divórcio. Aí
+[42:32] o juiz tinha que ouvir as testemunhas na
+[42:35] ação de justificativa.
+[42:37] era tudo consensual, mas ele tinha que
+[42:39] ouvir as testemunhas na ação
+[42:41] justificativa para mostrar para ele
+[42:44] demonstrar, provar que as partes estavam
+[42:46] separadas de fato por 2 anos. Aí era uma
+[42:49] mentiraiada danada na audiência. Não,
+[42:51] excelência, eles são separados, tem 2
+[42:53] anos. Juiz, como é que você sabe? Não,
+[42:55] eu sei, eu sei que é meu vizinho, eu sei
+[42:57] que são dois anos. Era mentiraiada.
+[42:59] Tinha juiz que fazia vista grossa porque
+[43:01] via que as pessoas não queriam estar
+[43:03] casadas realmente divorcia esse povo
+[43:05] logo e, né, no final das contas tinha
+[43:07] gente que respondia por crime de falso
+[43:09] testemunho.
+[43:12] Em 60 em com a emenda constitucional de
+[43:15] 2010 66 um um o Deus tocou no coração,
+[43:20] né? Porque falou assim: "Gente, ninguém
+[43:22] é obrigado.
+[43:25] Casou na quinta-feira, quer divorciar na
+[43:27] sexta, vai na fé, vai com Deus".
+[43:30] Não tem mais separação judicial e não
+[43:32] tem mais prazo. O divórcio é um direito
+[43:35] potestativo. Quando você olha nas
+[43:37] novelas, ah, então eu não vou te dar o
+[43:39] divórcio, meu amigo, dane. Se você não
+[43:42] tem essa história de não vou te dar o
+[43:43] divórcio, problema seu, tá maluco.
+[43:46] Divórcio não se dá, não se pede.
+[43:49] Divórcio se impõe. É por isso que nós
+[43:53] falamos na possibilidade, em nome de
+[43:56] Jesus, isso vai acontecer, do divórcio
+[43:59] potestativo no cartório.
+[44:02] Os cartórios do Pernambuco começaram a
+[44:05] fazer isso. A pessoa ia no cartório e
+[44:08] falava: "Consta aí que eu tô
+[44:09] divorciada".
+[44:11] O tabelião divorciava todo mundo e
+[44:14] notificava a outra parte para falar
+[44:17] assim: "Meu amigo, você tá divorciado".
+[44:19] Não podia mexer com partilha de bens,
+[44:20] óbvio. Mas o divórcio é potestativo. Eu
+[44:24] não preciso da anência do outro para
+[44:26] divorciar. É só eu não querer mais. Não
+[44:28] pense que lhe quero mal, apenas não te
+[44:30] quero mais. Acabou. Aí veio o CNJ e
+[44:33] falou: "Gente, vamos parar com essa
+[44:34] palhaçada aí, né? Vamos deixar as Vamos,
+[44:37] vamos vamos caminhar devagar. a gente já
+[44:38] evoluiu demais na parte do divórcio,
+[44:40] vamos esperar mais um tempinho. E aí
+[44:42] pararam com o divórcio no cartório, o
+[44:45] divórcio cartorário. E aí, gente, eu
+[44:47] quero que você entenda, nem todo direito
+[44:49] potestativo tem prazo, mas quando um
+[44:51] direito potestativo tiver prazo,
+[44:56] é decadencial. Quer ver um direito
+[44:58] potestativo que tinha prazo decadencial
+[45:01] e agora não tem mais? alteração do
+[45:03] prénome. E isso já caiu na sua prova,
+[45:06] porque em 2022, salvo engano, 2022, vou
+[45:10] até confirmar aqui,
+[45:13] nós tivemos uma alteração na lei de
+[45:14] registro público,
+[45:17] porque o que que aconteceu? Era possível
+[45:21] na lei de registro público alterar o
+[45:23] prome,
+[45:27] era possível alterar o prenome
+[45:32] direto no cartório.
+[45:36] Deixa eu ver aqui. Acho que é o artigo
+[45:37] 55.
+[45:39] [roncando]
+[45:46] Pera aí, gente. Deixa eu abrir aqui pra
+[45:48] gente falar, porque essa informação é
+[45:50] até uma informação bacana, porque ela já
+[45:52] caiu em prova.
+[45:55] 2022, exatamente. Exatamente. Artigo 55
+[45:59] da Lei de Registro Público. Em 2022, em
+[46:01] junho de 2022, nós tivemos uma alteração
+[46:04] do artigo 55. Porque o que que
+[46:06] aconteceu?
+[46:08] Quando você é prénome, né? Todo mundo
+[46:11] tem direito ao nome, nele compreendido o
+[46:14] prénome e o sobrenome. Então, Roberta,
+[46:16] prénome. Batista de Queirói, sobrenome.
+[46:19] Era possível alterar o prome direto no
+[46:23] cartório ao completar 18 anos pelo prazo
+[46:28] decadencial de 1 ano.
+[46:31] Então, eu tinha um direito potestativo,
+[46:33] alteração do prénome, direto no
+[46:36] cartório. E aí o que que rolou? Eu tinha
+[46:40] um ano, era um prazo decadencial, só
+[46:42] dependia de mim. Isso é o direito
+[46:43] potestativo, só depende de mim.
+[46:47] Esse artigo mudou em junho e caiu em
+[46:51] prova já. Mudou em junho de 2022.
+[46:55] E a redação passou a ser, olha lá, 55.
+[47:00] Toda pessoa tem direito ao nome, nele
+[47:03] compreendidos o prénome e o sobrenome.
+[47:06] Observado
+[47:07] ao eh observado que ao prénome serão
+[47:11] acrescidos os sobrenomes dos genitores
+[47:13] dos seus descendentes, Bibibi, Bababó. O
+[47:16] oficial do Registro Civil não registrará
+[47:19] promes suscetíveis de expor ao ridículo
+[47:22] seus portadores. Eh, observado que
+[47:25] quanto aos genitores não se conformarem
+[47:27] com a recusa, imagina nomes ridículos,
+[47:31] né? 1 2 3 de Oliveira 4, Stian, tem
+[47:36] esses nomes aí. Eh, tem uns que eh
+[47:42] Braulho Pinto Molhadinho, são nomes que
+[47:44] foram registrados.
+[47:46] E aí ele fala aqui no 56 o seguinte: a
+[47:51] pessoa registrada poderá, após ter
+[47:54] atingido a maioridade civil, requerer
+[47:57] pessoalmente e imotivadamente a
+[48:00] alteração do seu prénome,
+[48:02] independentemente de decisão judicial, e
+[48:04] a alteração será averbada
+[48:07] eh em meio eletrônico. Não tem mais
+[48:09] prazo. Eu posso alterar o meu prénome a
+[48:11] qualquer momento. Inclusive,
+[48:15] inclusive o Supremo no ano de 2018
+[48:20] no julgamento,
+[48:22] deixa eu só confirmar o número aqui
+[48:26] no Google
+[48:29] 4275.
+[48:33] Muito bem. Na ADI 4275
+[48:36] em 2018, também assentou que os
+[48:41] transgêneros podem alterar o prome e o
+[48:45] sexo no registro civil por
+[48:49] autodeclaração,
+[48:50] independentemente de cirurgia de
+[48:52] redesignação sexual.
+[48:56] É um caminho sem volta, só pode ser
+[48:58] feito uma vez. E como isso é uma uma
+[49:00] manifestação de vontade
+[49:03] caracterizada por ser um ato jurídico em
+[49:06] sentido estrito, você não tem como
+[49:09] desfazer,
+[49:11] a não ser que você comprove determinados
+[49:13] vícios, como uma coação, por exemplo,
+[49:17] sobre você te ameaçaram para você
+[49:18] alterar, etc.
+[49:20] Ok? Então, cuidado, é possível hoje
+[49:24] alterar o prénome a qualquer tempo. Não
+[49:26] tem mais esse prazo decadencial, porque
+[49:28] isso é um direito potestativo e é um
+[49:30] direito potestativo que não tem mais
+[49:32] prazo. E as pessoas transgêneros, ADI
+[49:35] 4275,
+[49:38] desde 2018 podem alterar o prome, o
+[49:41] prome e o sexo. Não quero me chamar mais
+[49:44] Roberta. Meu nome é Roberto e eu sou do
+[49:45] sexo masculino. Eu posso alterar direto
+[49:48] no cartório e motivar. não tem nem que
+[49:50] justificar e eu não tenho que comprovar
+[49:53] cirurgia de redesignação sexual. OK?
+[49:57] Pois muito que bem. Então vamos voltar
+[50:01] falando então, portanto, né, dos nossos
+[50:04] prazos prescricionais e a gente já fez a
+[50:06] diferença do prazo decadencial.
+[50:09] O prazo prescricional
+[50:12] ele é sempre previsto em lei, sempre.
+[50:17] Não existe prazo de prescrição
+[50:20] convencional, é sempre previsto em lei.
+[50:27] E aí
+[50:29] esses prazos
+[50:32] estão no 205
+[50:36] e no 206.
+[50:39] >> [roncando]
+[50:39] >> O 205
+[50:41] é um prazo
+[50:43] de 10 anos e o 206, casos de 1, 2, 3, 4
+[50:50] e 5 anos. Para casos específicos,
+[50:55] é bom você memorizar
+[50:58] que por essa regra do 206,
+[51:02] é bom memorizar que alimentos são 2
+[51:06] anos.
+[51:09] que
+[51:11] responsabilidade civil são 3 anos,
+[51:16] aluguel são os casos mais clássicos, né,
+[51:19] de prova, são 3 anos e enriquecimento
+[51:24] sem causa
+[51:27] também
+[51:29] são 3 anos. É bom memorizar de do e 3
+[51:33] anos, 2 anos alimentos, certo? Então
+[51:36] vamos lá.
+[51:38] Então vamos lá. Imagina você que o João,
+[51:44] [roncando]
+[51:44] o João, presta atenção agora, por favor.
+[51:48] O João,
+[51:51] ele agrediu a Maria.
+[51:54] Não, vamos botar o contrário. A Maria
+[52:00] [roncando] agrediu o João.
+[52:05] OK.
+[52:06] Essa agressão foi no dia 20/05.
+[52:12] Não, não vamos trabalhar com agressão
+[52:14] não, né?
+[52:16] Vamos colocar, vamos colocar que a
+[52:18] Maria,
+[52:20] a Maria emprestou um dinheiro pro João,
+[52:24] [roncando] tá? Ela emprestou R$ 100.000
+[52:26] pro João. Presta atenção. R$ 100.000 pro
+[52:29] João. 100K. [roncando]
+[52:34] R$ 100.000 R$ 1.000 pro João.
+[52:38] E esse empréstimo
+[52:40] foi feito dia 20/05
+[52:44] de 2020.
+[52:47] 20/05/2020.
+[52:56] [roncando]
+[52:58] Michele vai entrar ao vivo meio-dia para
+[53:00] falar de direito penal, né? Então vamos
+[53:02] lá. dia 20/05/2020,
+[53:05] considerando que o prazo presuncional
+[53:07] para Maria cobrar o João é de 5 anos,
+[53:11] a gente vai contar até quando?
+[53:15] 20/05/2020.
+[53:16] Então, 21, 22, 23, 24, 25. Ela tem até
+[53:22] quando? Ela tem até
+[53:26] dia 20/05
+[53:29] de 2025, porque prazo em ano a gente
+[53:32] conta o ano fechado, tá no Código Civil.
+[53:35] Ah, mas teve não sei o que lá vários
+[53:37] dias em fevereiro. Não importa, a gente
+[53:40] conta o ano fechado.
+[53:41] [roncando]
+[53:42] Então, tá, gente, presta atenção nisso
+[53:45] aqui. [roncando]
+[53:52] [risadas]
+[53:55] Professora, se fizer a cobrança em
+[53:57] público no Face, dá problema?
+[54:00] Olha,
+[54:05] manda o caminhão de som na casa do
+[54:07] desgraçado, do devedor. Mentira, não
+[54:10] pode. Não pode, porque para você exercer
+[54:14] o seu direito de crédito como credor,
+[54:17] você tem que exercer nos limites legais.
+[54:20] Como que você faz a cobrança? De maneira
+[54:22] extrajudicial,
+[54:23] né? Você pode ligar, mas também não pode
+[54:25] infernizar a vida da pessoa. Você pode
+[54:28] mandar uma notificação, né, mas também
+[54:31] não pode chegar lá e agredir a pessoa.
+[54:34] Rede social não é meio justo e adequado
+[54:37] de cobrança de dívida. é uma exposição
+[54:40] ou judicialmente ajuizar a ação. Você
+[54:43] pode responder por isso.
+[54:48] Pode responder por isso.
+[54:51] Vamos lá, então. Beleza.
+[54:55] Ela tem, então, fazendo uma linha do
+[54:57] tempo, [roncando]
+[55:00] ela tem do dia
+[55:04] 20/05
+[55:06] de 2020 até
+[55:11] o dia 20 do 5
+[55:15] de 2025, 5 anos, certo, gente? Olha pro
+[55:18] desenho, pelo amor de Deus.
+[55:21] Passou esse prazo.
+[55:24] Passou esse prazo.
+[55:27] Está prescrito.
+[55:29] É isso. Passou esse prazo, está
+[55:33] prescrito.
+[55:35] [roncando]
+[55:36] Entendeu?
+[55:38] Então, quando a gente fala de prazo de
+[55:40] prescrição,
+[55:42] [roncando]
+[55:43] é exatamente
+[55:46] esse prazo aqui, ó.
+[55:50] que pode ser cobrado.
+[55:54] Olha pro quadro,
+[55:57] tem uma parada aqui.
+[56:00] Se estiver prescrito
+[56:03] nesse pedaço aqui,
+[56:08] tem uma ideia.
+[56:15] Não pode
+[56:17] mais.
+[56:19] >> [roncando]
+[56:20] >> Cobrar a dívida
+[56:24] passa a ser uma obrigação natural.
+[56:29] O que que é uma obrigação natural? É
+[56:31] aquela obrigação que você tem credor,
+[56:34] você tem devedor, você tem prestação,
+[56:38] mas você não pode mais cobrar, não tem
+[56:40] mais exigibilidade.
+[56:43] Ao lado da dívida prescrita,
+[56:47] nós podemos mencionar como sendo
+[56:49] obrigação natural a dívida de jogo, por
+[56:53] exemplo.
+[56:55] São dívidas que existem, mas que não
+[56:56] podem ser cobradas. A pergunta que não
+[56:59] quer calar é
+[57:02] se o devedor
+[57:04] se o devedor
+[57:08] se o devedor
+[57:13] pagar voluntariamente
+[57:21] a dívida prescrita,
+[57:24] [roncando]
+[57:26] a dívida prescrita. sem saber que estava
+[57:29] prescrito. [roncando]
+[57:31] Pode pedir de volta,
+[57:34] pode pedir
+[57:36] de volta o que pagou.
+[57:38] Olha para mim, você só pode pedir de
+[57:42] volta o que é considerado pagamento
+[57:45] indevido. E pagamento indevido é o
+[57:49] pagamento de uma dívida que não existe,
+[57:51] de uma dívida que já foi paga ou o valor
+[57:54] a maior. Já te expliquei isso. Pagamento
+[57:57] indevido. Dívida que não existe. Dívida
+[58:00] que não existe, não é o mesmo que dívida
+[58:03] inexigível.
+[58:05] dívida que não existe, dívida que já foi
+[58:08] paga
+[58:11] ou pagamento a maior. Eu devo 100,
+[58:15] paguei 200. Eu vou pedir de volta o que
+[58:17] eu paguei a maior porque é indevido.
+[58:22] Tudo bem? Ele pagou e se ele pagou tá
+[58:28] tudo certo. Vida que segue. Não pode
+[58:31] pedir de volta. Porque o credor tem o
+[58:33] direito de quê?
+[58:35] de retenção
+[58:43] pode reter o pagamento.
+[58:47] Perfeito.
+[58:49] Agora vamos lá, usando o mesmo caso
+[58:52] aqui.
+[58:53] Você sabia
+[58:56] que se no meio desse período aqui do de
+[59:00] 2020 a 2025, que é o período para
+[59:02] cobrança,
+[59:11] o João, que é o devedor,
+[59:14] reconhece a dívida.
+[59:22] Se ele reconhece a dívida, sabe o que
+[59:24] que acontece?
+[59:28] Sabe o que que acontece
+[59:30] aqui?
+[59:32] Ele chega lá, tá chegando, ele chega em
+[59:35] 20 de abril de 2025 e fala: "Devo mesmo,
+[59:43] devo mesmo."
+[59:47] Que que vai acontecer aqui?
+[59:51] Que que acontece? Se no meio do caminho
+[59:54] do prazo prescricional, vou abrir aqui,
+[59:58] se no [roncando] meio do caminho do
+[59:59] prazo prescricional
+[01:00:01] ele chega e fala: "Olha aqui,
+[01:00:04] eu
+[01:00:06] devo,
+[01:00:09] eu devo, eu devo a obrigação." Olha o
+[01:00:13] artigo 202 do Código Civil, a
+[01:00:16] interrupção da prescrição. O que que é a
+[01:00:17] interrupção da prescrição? é zerar o
+[01:00:19] prazo e começar a contar de novo que
+[01:00:22] somente poderá ocorrer uma vez.
+[01:00:26] que som que poderá ocorrer uma vez
+[01:00:29] acontece por despacho do juiz,
+[01:00:34] por protesto, por protesto cambial, pela
+[01:00:37] apresentação do título de crédito, por
+[01:00:40] qualquer ato judicial que constitua em
+[01:00:42] mora o devedor, por qualquer ato
+[01:00:45] inequívoco, ainda que extrajudicial, que
+[01:00:48] importe o reconhecimento do direito do
+[01:00:51] devedor.
+[01:00:53] Se chega aqui e ele reconhece a dívida,
+[01:00:56] sabe o que que acontece? Zera, volta a
+[01:00:59] contar 5 anos. Por quê? Porque é caso
+[01:01:03] que
+[01:01:04] interrompe a obrigação, a prescrição.
+[01:01:09] Outra coisa, se no meio do caminho, olha
+[01:01:12] a merda. Se no meio do caminho de 2020 a
+[01:01:15] 2025, o devedor chega e fala assim: "Vou
+[01:01:19] pagar os juros". Rapaz, quem paga juros
+[01:01:23] tá reconhecendo a dívida.
+[01:01:26] É caso de interrupção,
+[01:01:30] zera,
+[01:01:31] volta. Só que a interrupção só pode
+[01:01:34] acontecer
+[01:01:35] uma única vez. volta a contar do zero.
+[01:01:39] São 5 anos, então vai contar do zero. Do
+[01:01:42] Se ele interrompe dia 20 de abril de
+[01:01:46] 2025,
+[01:01:49] aí vai ser 26, 27, 28, 29 e 30.
+[01:01:59] Só pode acontecer uma vez.
+[01:02:02] Interrupção. Interrupção só pode
+[01:02:03] acontecer uma vez. Agora vamos lá.
+[01:02:06] Prescrição.
+[01:02:08] Quem é que fica ali? Prescreve,
+[01:02:09] prescreve, prescreve. O devedor. A
+[01:02:12] prescrição favorece o devedor. Perfeito.
+[01:02:16] A prescrição favorece o devedor.
+[01:02:22] Vamos lá.
+[01:02:25] Quando está prescrito,
+[01:02:27] quem é que se deu bem?
+[01:02:30] Quando está prescrito, quem é que se deu
+[01:02:32] bem? o devedor. Então, a prescrição
+[01:02:36] beneficia
+[01:02:38] beneficia quem?
+[01:02:40] Beneficia quem? Beneficia o devedor. A
+[01:02:44] prescrição beneficia o devedor.
+[01:02:51] Perfeito.
+[01:02:54] Quando está prescrito, quem é que
+[01:02:56] poderia, então, em tese, abrir mão da
+[01:02:59] prescrição?
+[01:03:01] O devedor.
+[01:03:03] O devedor.
+[01:03:08] Se depois do Olha o inferno. Se depois
+[01:03:12] que está prescrito,
+[01:03:15] neste momento aqui, tá vendo? Aqui
+[01:03:18] estamos em 2026.
+[01:03:21] Ele reconhece a dívida,
+[01:03:26] não é que interrompe porque já não tem
+[01:03:28] mais prazo.
+[01:03:30] É caso de quê? Renúncia.
+[01:03:33] Sabia?
+[01:03:36] Ele pode renunciar,
+[01:03:39] porque o devedor pode renunciar à
+[01:03:42] prescrição.
+[01:03:44] E se ele pratica um ato de falar, devo
+[01:03:47] mesmo, ele está renunciando, ele está
+[01:03:50] renovando a dívida.
+[01:03:53] Aí ele vai ter que pagar. Por isso que
+[01:03:56] você em momento nenhum deve mencionar,
+[01:03:58] devo mesmo, vou pagar os juros. Nada
+[01:04:02] disso, porque você tá reconhecendo a
+[01:04:03] dívida. E reconhecimento da dívida
+[01:04:07] durante o prazo de prescrição é causa de
+[01:04:10] interrupção. Reconhecimento da dívida
+[01:04:12] depois que tá prescrito é caso de
+[01:04:15] renúncia da prescrição. E se você tá
+[01:04:17] renunciando à prescrição é porque você
+[01:04:19] tá aceitando ser cobrado de novo.
+[01:04:24] Tudo bem?
+[01:04:27] Não é lindo isso?
+[01:04:29] É lindo. Pois, vamos falar de outra
+[01:04:32] coisa. Dá o print nessa tela aí.
+[01:04:35] Relembre,
+[01:04:37] dívida prescrita é obrigação natural.
+[01:04:41] Dívida de jogo é obrigação natural.
+[01:04:44] Obrigação natural é a obrigação que tem
+[01:04:48] credor, devedor, prestação, mas não tem
+[01:04:53] exigibilidade, não tem a possibilidade
+[01:04:55] de cobrar. É uma dívida que existe, mas
+[01:04:58] não pode ser cobrada. e dívida que não
+[01:05:02] pode ser cobrada. O STJ tem um julgado
+[01:05:05] recente que fala que você não pode
+[01:05:07] cobrar nem
+[01:05:10] extrajudicialmente, não pode nem ficar
+[01:05:12] fazendo ligação pro inferno do devedor,
+[01:05:14] não.
+[01:05:16] E deixa eu te falar, isso caracteriza
+[01:05:18] abuso do direito. A pessoa responde
+[01:05:20] objetivamente,
+[01:05:22] mas se o devedor paga uma obrigação
+[01:05:25] natural, o credor tem o direito de reter
+[01:05:28] o pagamento, que é absolute retêncio, a
+[01:05:30] solução de retenção. Vamos lá.
+[01:05:35] Dá o print na tela.
+[01:05:37] 3 2 1. Olha esse outro caso.
+[01:05:44] Vamos lá. Agora vamos botar o João. João
+[01:05:46] de credor.
+[01:05:48] O João,
+[01:05:50] vamos desenhar,
+[01:05:52] emprestou
+[01:05:56] emprestou
+[01:05:58] R$ 50.000.
+[01:06:06] para Maria.
+[01:06:08] Qual o nome desse contrato mesmo?
+[01:06:11] Se dinheiro é coisa fungível e é
+[01:06:14] empréstimo de coisa fungível, chama-se
+[01:06:16] múo. Temos então portanto aqui um
+[01:06:19] contrato de multo. Então eu tenho o
+[01:06:22] credor,
+[01:06:26] um
+[01:06:28] mútuo,
+[01:06:32] contrato de múo
+[01:06:34] e
+[01:06:37] a devedora. Tudo bem?
+[01:06:42] Olha pro material.
+[01:06:45] Suponha você que esse contrato
+[01:06:49] foi celebrado dia 20/05,
+[01:06:56] dia 20/05
+[01:06:58] e o pagamento, vem comigo,
+[01:07:03] [aplausos]
+[01:07:03] reage, olha para mim nas obrigações.
+[01:07:08] não for estipulado a data do pagamento,
+[01:07:12] quando nas obrigações em geral, se não
+[01:07:16] for estipulada a data do pagamento, o
+[01:07:18] tempo do pagamento, considera-se
+[01:07:21] exigível de imediato.
+[01:07:26] Vou repetir. As obrigações em geral, se
+[01:07:30] não for estipulado o tempo do pagamento,
+[01:07:35] considera-se
+[01:07:36] imediatamente.
+[01:07:39] Bateu o carro hoje, causou o prejuízo
+[01:07:42] hoje. Que dia que tem que pagar? Hoje
+[01:07:45] o tempo do pagamento é imediatamente,
+[01:07:50] porém, contudo, todavia, em se tratando
+[01:07:54] de empréstimo de dinheiro,
+[01:07:58] não faz sentido exigir imediatamente,
+[01:08:02] porque o empréstimo de dinheiro, o
+[01:08:05] múlto, é um contrato de empréstimo de
+[01:08:08] consumo. Se eu te peço R$ 1.000
+[01:08:11] emprestado, é porque eu vou pegar os R$
+[01:08:13] 1.000 e vou gastar com alguma coisa.
+[01:08:16] Então não faz sentido você virar para
+[01:08:17] mim e falar assim: "Te empresto R$ 1.000
+[01:08:20] hoje, como a gente não definiu a data do
+[01:08:22] pagamento, você tem que me devolver hoje
+[01:08:24] mesmo. Não dá nem tempo da pessoa gastar
+[01:08:27] o dinheiro."
+[01:08:28] Então é o empréstimo de consumo.
+[01:08:31] No empréstimo de consumo, no múlto, em
+[01:08:34] se tratando de dinheiro, se não for
+[01:08:37] previsto o tempo do pagamento,
+[01:08:41] considera-se 30 dias depois.
+[01:08:45] É uma regra 592. Então, olha lá, vamos
+[01:08:49] supor que a data do pagamento não tenha
+[01:08:53] sido consignada. Então, a gente vai
+[01:08:56] trabalhar com o dia 20/06,
+[01:08:59] 30 dias depois.
+[01:09:02] Chegou no dia do pagamento, olha o
+[01:09:03] inferno clássico.
+[01:09:09] Chegou no dia do pagamento.
+[01:09:20] Maria não tinha dinheiro.
+[01:09:23] Sangue do cordeiro, né?
+[01:09:25] Maria
+[01:09:28] não
+[01:09:30] tem
+[01:09:32] o dinheiro para pagar.
+[01:09:36] Botar mais pequenininho aqui.
+[01:09:43] Maria não tem um dinheiro.
+[01:09:45] Tu acredita nisso? Maria não tem um
+[01:09:48] dinheiro. Só que a Maria chega pro João
+[01:09:50] e fala: "João, deixa eu te falar uma
+[01:09:52] coisa. Eu não tenho esse dinheiro agora.
+[01:09:57] Tô na merda, tô bed, não tenho esse
+[01:09:59] dinheiro, tô quebrada.
+[01:10:02] Mas eu tenho um carro,
+[01:10:07] eu tenho um carro que vale 55.000.
+[01:10:11] Aí a Maria vai lá
+[01:10:15] e oferece. Eu botei questão assim no
+[01:10:17] simulado e oferece
+[01:10:26] o negócio aqui, o carro
+[01:10:30] que vale 55.000
+[01:10:34] No lugar do pagamento,
+[01:10:40] no lugar do dinheiro.
+[01:10:43] Deixa eu te falar
+[01:10:46] a pergunta que é a cereja do bolo
+[01:10:58] porque o mais importante não é nem o
+[01:11:00] bolo, é a cereja do bolo. Cereja do
+[01:11:01] bolo. A pergunta essa você vai saber. Se
+[01:11:05] você assistiu as aulas, você vai saber.
+[01:11:08] João
+[01:11:11] é
+[01:11:14] obrigado
+[01:11:17] a aceitar.
+[01:11:21] Pergunta do coração real oficial.
+[01:11:25] Ele é obrigado
+[01:11:30] a aceitar.
+[01:11:32] Que que você me diz, produção?
+[01:11:36] Temos uma regra de ouro.
+[01:11:42] Qual que é
+[01:11:44] a regra de ouro? Essa regra de ouro está
+[01:11:48] inserida
+[01:11:49] no artigo
+[01:11:52] 313.
+[01:11:56] Regra de ouro mais reluzente da face da
+[01:11:58] Terra. Artigo 313. O credor não é
+[01:12:03] obrigado a aceitar prestação diversa da
+[01:12:07] que lhe é devida.
+[01:12:10] Vou repetir. O credor não é obrigado. O
+[01:12:14] credor não é obrigado a aceitar
+[01:12:18] prestação diversa daqu lhe é devida.
+[01:12:22] O credor não é obrigado a aceitar
+[01:12:25] prestação diversa daquele é devida. Como
+[01:12:28] a gente não é besta, a gente vai
+[01:12:29] aceitar. Regra de ouro. Aceitar, ó, a
+[01:12:31] gente vai anotar. Regra de ouro.
+[01:12:36] Regra de ouro.
+[01:12:39] O credor
+[01:12:43] não é
+[01:12:46] não é
+[01:12:48] obrigado
+[01:12:54] a aceitar
+[01:12:59] prestação
+[01:13:04] diversa
+[01:13:06] da devida.
+[01:13:09] Ainda que mais valiosa.
+[01:13:13] Ainda que mais valiosa.
+[01:13:16] Ainda que melhor,
+[01:13:21] ainda que melhor, ainda que mais
+[01:13:23] valiosa.
+[01:13:25] Mas a palavra aqui é que ele não é,
+[01:13:29] ele não é o quê?
+[01:13:33] Vou até deixar grifado.
+[01:13:35] Ele não é obrigado.
+[01:13:39] Produção, ele não é obrigado.
+[01:13:46] Mas se ele quiser,
+[01:13:49] e se ele quiser?
+[01:13:52] E se ele pensar assim, cara, que merda.
+[01:13:55] Melhor receber isso daqui logo
+[01:13:58] do que
+[01:14:00] ficar sem nada. Ele pode,
+[01:14:12] se ele quiser,
+[01:14:14] ele pode.
+[01:14:16] Se ele quiser,
+[01:14:19] ele pode.
+[01:14:21] Se a banca te perguntar,
+[01:14:26] se ele quiser, ele pode.
+[01:14:29] Como?
+[01:14:31] Temos duas opções.
+[01:14:35] Duas opções.
+[01:14:37] Vamos fazer uma bolinha aqui.
+[01:14:40] Vamos fazer uma bolinha sensacional.
+[01:14:51] Duas opções.
+[01:14:59] A professora tem a síndrome cadernal.
+[01:15:03] Curte.
+[01:15:05] Se ele
+[01:15:07] simplesmente
+[01:15:09] só
+[01:15:11] aceitar
+[01:15:14] falar: "Não, Maria, beleza, minha filha.
+[01:15:16] Segue teu rumo aí e me dá essa bosta
+[01:15:18] desse carro.
+[01:15:20] Qual o nome dessa situação? Tem gente aí
+[01:15:22] que já respondeu no chat. Qual o nome?
+[01:15:25] Que que nós vamos ter?
+[01:15:29] Dação
+[01:15:33] em
+[01:15:35] pagamento. Perfeito. Que que é dação em
+[01:15:38] pagamento? É o credor aceitar receber
+[01:15:41] prestação diversa daquele é devida.
+[01:15:43] Agora, se ele falar assim, não, Maria,
+[01:15:45] vamos fazer o seguinte,
+[01:15:50] vamos extinguir essa obrigação anterior,
+[01:15:54] vou te dar a quitação da obrigação
+[01:15:55] anterior e a gente cria uma nova
+[01:15:58] obrigação com um novo objeto.
+[01:16:02] Extinção
+[01:16:04] mais nova obrigação.
+[01:16:08] Extinção, nova obrigação. Extinção,
+[01:16:12] nova obrigação. Extinção, novação.
+[01:16:16] Se eu tenho a extinção e a criação de
+[01:16:18] uma nova obrigação, eu tenho uma
+[01:16:20] novação.
+[01:16:24] Então, se nesse caso,
+[01:16:31] lindo isso, se nesse caso
+[01:16:35] ele gera a extinção da obrigação
+[01:16:39] anterior,
+[01:16:41] essa que ela deve,
+[01:16:46] essa aqui ela deve, ficou uma coisa
+[01:16:49] linda isso aqui, né?
+[01:16:52] Extinção
+[01:16:59] da obrigação, essa que ela deve R$
+[01:17:01] 50.000. Ele extingue
+[01:17:04] e cria uma nova com a dívida do carro.
+[01:17:09] Uma nova. Que que a gente vai ter aqui?
+[01:17:16] Novação.
+[01:17:18] A novação.
+[01:17:23] A novação, nesse caso, é uma novação
+[01:17:25] objetiva, porque eu tô criando uma nova
+[01:17:28] obrigação com um objeto diferente, mas
+[01:17:30] poderia ser até uma nova obrigação com
+[01:17:32] pessoas diferentes. Aí eu teria uma
+[01:17:34] novação o quê, gente? subjetiva.
+[01:17:40] Perfeito. Então, ele não é obrigado a
+[01:17:43] aceitar porque tem a regra de ouro. O
+[01:17:44] credor não é obrigado a aceitar
+[01:17:46] prestação diversa daquele é devido. Mas
+[01:17:48] se ele quiser, se ele quiser, ele pode.
+[01:17:50] Se ele quiser, ele pode tudo, inclusive
+[01:17:53] nada, né? Se ele só aceita, qual é o
+[01:17:56] nome? da ação em pagamento. Se ele
+[01:17:59] extingue a obrigação anterior e cria uma
+[01:18:01] nova nova ação, como eu tô criando uma
+[01:18:04] nova obrigação com um objeto diferente e
+[01:18:06] as mesmas partes, é uma novação
+[01:18:08] objetiva. Mas se eu tivesse criando uma
+[01:18:11] nova obrigação com um sujeito diferente,
+[01:18:13] por exemplo, Antônio substituindo a
+[01:18:15] Maria na dívida, nós teríamos uma
+[01:18:17] novação subjetiva.
+[01:18:25] Beleza?
+[01:18:27] Marav gold. Marav gold. Pois muito que
+[01:18:30] bem.
+[01:18:32] Vamos botar o João emprestando esse
+[01:18:34] mesmo dinheiro para Maria.
+[01:18:37] Mesma coisa. Vou até copiar
+[01:18:41] para facilitar minha vida. Vamos lá.
+[01:18:46] Dá o print.
+[01:18:48] [limpando a garganta]
+[01:18:49] 3
+[01:18:50] 2 1.
+[01:18:52] Mesma coisa.
+[01:18:56] João, mesma coisa. Emprestou o dinheiro
+[01:18:59] paraa Maria,
+[01:19:02] emprestou 50.000, contrato de multo.
+[01:19:04] Bibiibi, bobobó. Só que quando ele
+[01:19:06] emprestou para Maria, ele falou: "Maria,
+[01:19:11] eu não confio em você.
+[01:19:14] Sei nem quem você é. Que dia que você me
+[01:19:17] paga?" Ela disse: "Dia 20 do mês que
+[01:19:20] vem". Tá bom, Maria.
+[01:19:23] Mas seguinte, é, eu quero uma garantia.
+[01:19:29] Eu quero uma garantia.
+[01:19:31] Aí ela fala: "Ai, que garantia?
+[01:19:35] Nós podemos ter garantias
+[01:19:38] fidejussórias, que são pessoas fiadores,
+[01:19:43] e podemos ter uma garantia real,
+[01:19:46] que é você devedor dar um bem em
+[01:19:48] garantia. Podemos ter uma garantia f uma
+[01:19:52] garantia real dado um bem móvel pen ou
+[01:19:56] imóvel hipoteca.
+[01:19:58] Suponha
+[01:20:00] que ela dê uma garantia
+[01:20:05] aqui
+[01:20:08] de um bem imóvel.
+[01:20:15] Se ela der uma garantia
+[01:20:17] de um bem móvel,
+[01:20:20] nós vamos ter o chamado
+[01:20:23] penhor. Suponha então que ela tenha dado
+[01:20:26] em garantia
+[01:20:32] o relógio
+[01:20:33] que vale, vamos botar aqui, 70.000
+[01:20:37] o relógio.
+[01:20:40] Então ela fez um penhor. Ela não tá
+[01:20:42] penhorando o relógio não. Larga de
+[01:20:44] feiura, ela tá empenhando o relógio.
+[01:20:46] Penhor é ato de juiz, tá?
+[01:20:49] [roncando]
+[01:20:50] Pois muito que bem. Pergunta número um.
+[01:20:55] E se você errar essa pergunta
+[01:20:58] na sua prova, eu dou na sua cara.
+[01:21:02] Pergunta número um.
+[01:21:05] Quero todo mundo me respondendo aí no
+[01:21:06] chat.
+[01:21:11] Se a Maria,
+[01:21:14] se a Maria, pergunta de prova, né, que é
+[01:21:17] questão contextualizada igual a prova.
+[01:21:20] Não pagar.
+[01:21:25] Quem assistiu minha aula, alguma aula aí
+[01:21:27] para trás aí recente que eu falei disso,
+[01:21:29] vai lembrar. Se a Maria não pagar,
+[01:21:33] o João
+[01:21:36] pode ficar
+[01:21:40] com o
+[01:21:42] relógio
+[01:21:47] para ele.
+[01:21:50] Que que você me fala? Se a Maria não
+[01:21:52] pagar, ele pode falar: "Ah, então tá,
+[01:21:54] sua devedora desgraçada, vou ficar com
+[01:21:56] relógio". Ele pode. Isso aqui já caiu na
+[01:22:00] prova.
+[01:22:03] Resposta.
+[01:22:05] Não, não pode porque a lei proíbe
+[01:22:11] é vedado o pacto comissório. Que que é o
+[01:22:15] pacto comissório?
+[01:22:17] é o pacto de
+[01:22:19] ficar com o bem dado em garantia em caso
+[01:22:22] de inadiplemento. Vale paraa hipoteca,
+[01:22:24] vale pro penhorro, vale para anticr, não
+[01:22:26] pode. Vedação do pacto comissório. E se
+[01:22:29] você tem a lei proibindo
+[01:22:35] algo e você faz, é porque é nulo.
+[01:22:41] Na verdade, ele vai ter que levar isso
+[01:22:42] aqui, ó, para o leilão para transformar
+[01:22:45] em dinheiro, pagar o saldo para ele e
+[01:22:47] devolver a diferença, o troco, se
+[01:22:49] houver, para a própria Maria.
+[01:22:54] É verdade o pacto comissório? Ah,
+[01:22:56] professora, eu lembro que quando caiu
+[01:22:59] essa questão na prova,
+[01:23:02] você fez um recurso. Fiz um recurso
+[01:23:04] porque tem enunciado jornada de direito
+[01:23:06] civil falando que pode, que é o pacto
+[01:23:09] marciano, mas
+[01:23:12] a banca não aceitou porque a banca é
+[01:23:14] extremamente legalista, não aceitou o
+[01:23:16] enunciado. Então, a gente vai manter com
+[01:23:18] a banca se ela cobrar de novo. Pergunta
+[01:23:21] dois
+[01:23:23] do coração dois.
+[01:23:28] Essa é boa.
+[01:23:30] Imagina você que o João chega para Maria
+[01:23:33] e fala: "Maria, o João não, a Maria,
+[01:23:35] né?" A Maria fala pro João: "João,
+[01:23:38] seguinte, esse relógio que eu te dei em
+[01:23:41] garantia, ele é um relógio de família.
+[01:23:44] Meu avô era muito apegado a esse
+[01:23:46] relógio. Meu avô morreu e o desejo dele
+[01:23:49] é ser enterrado com esse relógio. Me
+[01:23:52] devolve esse relógio, pelo amor de Deus,
+[01:23:54] porque o enterro do meu avô vai ser
+[01:23:55] amanhã e eu preciso satisfazer essa
+[01:23:57] última vontade dele.
+[01:24:00] Aí a o João, né, se comove com a
+[01:24:03] história da Maria e fala: "Tá bom,
+[01:24:04] Maria, eu vou devolver o relógio para
+[01:24:07] você."
+[01:24:09] E ele devolve.
+[01:24:11] A pergunta é
+[01:24:13] se o João,
+[01:24:16] se o João
+[01:24:20] devolver
+[01:24:24] o relógio
+[01:24:29] para Maria,
+[01:24:36] antes
+[01:24:38] da data.
+[01:24:41] do vencimento
+[01:24:47] significa
+[01:24:52] perdão,
+[01:24:55] perdão
+[01:24:58] da dívida.
+[01:25:03] Depois a Maria pode falar: "Ah, o idiota
+[01:25:05] me devolveu o relógio, então ele me
+[01:25:07] perdoou na minha dívida". seguinte, é
+[01:25:10] significa isso? Claro que não, mas é
+[01:25:14] claro que não. Mas é claro que não.
+[01:25:20] Não significa o perdão da dívida.
+[01:25:25] Significa apenas que ele renunciou à
+[01:25:27] garantia, né?
+[01:25:29] Vamos botar aqui. Não
+[01:25:35] significa
+[01:25:38] apenas
+[01:25:42] renúncia
+[01:25:44] da
+[01:25:47] dívida.
+[01:25:52] OK?
+[01:25:55] Aliás, eu quero que você lembre, vou até
+[01:25:58] botar um olhinho aqui
+[01:26:02] de atenção,
+[01:26:04] porque eu quero que você lembre que
+[01:26:06] remissão com sedilha
+[01:26:09] é o mesmo que pagamento.
+[01:26:13] Remissão com sedilha é o mesmo que
+[01:26:16] pagamento.
+[01:26:26] com dois S,
+[01:26:29] lembra?
+[01:26:31] Ó, a missa. Você vai na missa, você vai
+[01:26:34] fazer o quê? Pedir o quê?
+[01:26:40] Perdão.
+[01:26:43] Vamos grifar aqui, ó. Você vai na missa.
+[01:26:45] Você vai pedir o quê?
+[01:26:48] Perdão.
+[01:26:50] Então, remissão
+[01:26:53] com cedilha
+[01:26:55] é pagamento.
+[01:27:00] Remissão com 2 S é perdão.
+[01:27:04] Então, cuidado,
+[01:27:06] cuidado,
+[01:27:08] cuidado.
+[01:27:10] Remissão
+[01:27:12] com Sedilha é o ato de remir,
+[01:27:23] de fazer o pagamento,
+[01:27:25] de cumprir. Então, remissão da dívida é
+[01:27:30] o ato de remir.
+[01:27:32] A remissão com 2 S,
+[01:27:35] você tem o ato de remitir
+[01:27:39] no sentido de perdoar a dívida.
+[01:27:44] Cuidado, tá?
+[01:27:47] Cuidado. Essas palavras podem estar aí
+[01:27:49] na sua na sua prova, fazendo inferno na
+[01:27:52] sua vida.
+[01:27:56] Vou circular aqui.
+[01:28:03] Lembre-se que o ato de remitir
+[01:28:08] gera extinção da obrigação,
+[01:28:10] tá? Tá tá lá no código como forma
+[01:28:13] especial de pagamento.
+[01:28:17] Certo?
+[01:28:19] Tudo bem?
+[01:28:24] Vamos lá.
+[01:28:29] Dá uma olhada nisso aqui.
+[01:28:32] Imagina que a gente tem
+[01:28:37] a seguinte situação.
+[01:28:41] Eh,
+[01:28:43] como eu mencionei para você, nós podemos
+[01:28:45] ter na relação obrigacional
+[01:28:48] uma
+[01:28:52] fugiu a palavra aqui. esqueci o que que
+[01:28:53] eu ia falar, na verdade.
+[01:29:00] Café frio. Esqueci que que eu ia falar.
+[01:29:05] Ah, lembrei. Vamos lá. Vamos trabalhar
+[01:29:08] com a dívida aqui de novo. Olha só.
+[01:29:10] Imagina você que o João,
+[01:29:17] o João
+[01:29:19] de novo,
+[01:29:21] emprestou
+[01:29:23] 50.000
+[01:29:24] para Maria.
+[01:29:28] Temos então aqui, portanto, um contrato
+[01:29:30] de multo. João credor,
+[01:29:35] múlto,
+[01:29:38] devedora. Ai, vamos escrever, né?
+[01:29:43] Credor,
+[01:29:45] mútuo,
+[01:29:48] devedora.
+[01:29:50] Quando João celebrou esse contrato, ele
+[01:29:52] falou assim: "Maria, eu não te conheço,
+[01:29:56] então eu quero que você me dê garantias
+[01:29:59] de que você vai cumprir essa dívida".
+[01:30:02] Aí a Maria falou: "Beleza, não tenho
+[01:30:04] problema nenhum com isso. Vou te
+[01:30:06] entregar dois fiadores."
+[01:30:13] Olha isso, gente.
+[01:30:15] Vou te entregar dois fiadores
+[01:30:20] e vou te entregar
+[01:30:23] o relógio.
+[01:30:26] Então, ela deu duas garantias
+[01:30:28] fidejussórias. Olha para cá.
+[01:30:32] O fiador um,
+[01:30:39] o fiador um, que é o José,
+[01:30:42] e o fiador dois,
+[01:30:46] que é o Antônio.
+[01:30:51] E ainda fez o peior do relógio.
+[01:30:57] Presta atenção.
+[01:31:00] Ela entregou duas modalidades de
+[01:31:02] garantia,
+[01:31:04] fidejussória e real,
+[01:31:09] certo?
+[01:31:11] Pergunta número um.
+[01:31:16] Numa relação obrigacional,
+[01:31:20] vou puxar esse desenho mais para cá para
+[01:31:21] eu ter mais espaço para escrever. Numa
+[01:31:24] relação obrigacional.
+[01:31:27] Quem é que deve pagar a dívida? O
+[01:31:31] devedor.
+[01:31:35] Vamos lá.
+[01:31:40] Quem
+[01:31:41] deve pagar?
+[01:31:46] Você sabe essa resposta? Quem deve a
+[01:31:49] dívida e quem é que deve?
+[01:31:52] O devedor. No nosso caso, quem é que
+[01:31:54] deve pagar?
+[01:31:56] A Maria
+[01:32:02] pergunta dois,
+[01:32:06] quem pode
+[01:32:08] Quem pode pagar?
+[01:32:13] Quem pode pagar?
+[01:32:16] Seu pai pode pagar sua dívida? Pode. Sua
+[01:32:19] esposa pode pagar sua dívida? Pode. Sua
+[01:32:22] mãe pode te ajudar a pagar uma dívida?
+[01:32:24] Pode quem não é credor e não é devedor,
+[01:32:28] só pode ser um terceiro. A pergunta é:
+[01:32:32] quem pode pagar a dívida? Terceiros.
+[01:32:36] Terceiros podem pagar a dívida? Pode.
+[01:32:39] Meu pai cansou de pagar dívida minha.
+[01:32:43] Cansou de pagar dívida minha. Minha mãe,
+[01:32:46] coitada, cansou de pagar dívida minha.
+[01:32:50] Veja, pai e mãe da Maria
+[01:32:55] são terceiros. Tem nada que ver nessa
+[01:32:58] relação obrigacional, nada que ver.
+[01:33:02] Então são terceiros. Observe.
+[01:33:05] Terceiro é quem não é credor e quem não
+[01:33:07] é devedor. Sensacional.
+[01:33:12] Então, um terceiro pode pagar a dívida
+[01:33:13] de alguém? Pode. Tô doida para um
+[01:33:16] terceiro pagar minhas dívidas.
+[01:33:18] Problema nenhum. Você aceitaria? Fala aí
+[01:33:20] para mim no chat se você aceitaria que o
+[01:33:22] terceiro pagasse sua dívida, te ligasse
+[01:33:24] hoje e falasse: "Ô, meu amigo, tô
+[01:33:26] pagando sua dívida porque eu amo você".
+[01:33:35] Só que eu tenho dois tipos de terceiro.
+[01:33:37] Ai, Roberta, ela vem você complicar
+[01:33:39] minha vida com esse inferno. Temos dois
+[01:33:41] tipos de terceiro.
+[01:33:43] Eu tenho um terceiro interessado
+[01:33:50] e tenho o terceiro não interessado.
+[01:33:59] Qual a diferença entre um e outro?
+[01:34:01] Terceiro interessado
+[01:34:03] é aquele que não é nem credor nem
+[01:34:05] devedor, mas pode ser atingido
+[01:34:08] pelo inadimplemento.
+[01:34:11] Neste desenho, nós temos dois terceiros
+[01:34:15] interessados, José e Antônio.
+[01:34:19] [risadas]
+[01:34:21] Ó o povo falando: "Eu aceito um vorcuro
+[01:34:23] da vida, pagando minhas dívidas". Deus
+[01:34:25] me livre.
+[01:34:27] Porque, né, gente, Deus me livre. Uma
+[01:34:30] hora a casa cai e você aparece aí no no
+[01:34:33] WhatsApp do vocário. Eu tô chegando à
+[01:34:34] conclusão de que eu fui a única pessoa
+[01:34:37] que não teve dívida paga pelo Vcário,
+[01:34:40] né? Porque todo dia aparece uma pessoa
+[01:34:42] aí na mídia tendo as dívidas, tendo
+[01:34:46] vínculo com o cara. Ave Maria. Acho que
+[01:34:49] só eu que não conhecia esse homem no no
+[01:34:51] Brasil.
+[01:34:53] não interessado é qualquer pessoa que
+[01:34:55] não tem nada a ver e também não seria
+[01:34:57] atingido pelo não pagamento. Então vamos
+[01:35:00] lá. Qual a diferença?
+[01:35:03] Se
+[01:35:05] um terceiro interessado
+[01:35:09] se um terceiro interessado
+[01:35:11] não, aliás, se um terceiro interessado
+[01:35:15] paga a dívida,
+[01:35:17] sabe qual vai ser a consequência?
+[01:35:20] Ele subroga
+[01:35:24] na
+[01:35:26] condição
+[01:35:29] de credor.
+[01:35:31] Subrogar significa tomar o lugar de,
+[01:35:35] tá? Tomar o lugar de subirroga na
+[01:35:39] condição de credor.
+[01:35:41] Vamos supor
+[01:35:43] que o fiador Antônio, preste atenção
+[01:35:45] agora que você vai entender o que que
+[01:35:46] significa subrogar.
+[01:35:49] Vamos supor que o fiador Antônio paga a
+[01:35:53] dívida.
+[01:35:55] Sabe o que que vai acontecer aqui?
+[01:35:57] Sai o João. Olha pro quadro agora. Sai o
+[01:36:01] João
+[01:36:05] e entra o Antônio no lugar.
+[01:36:10] Subrogar significa isso, tomar o lugar
+[01:36:13] de.
+[01:36:15] E se o Antônio entra no lugar aqui,
+[01:36:20] se o Antônio entra no lugar aqui,
+[01:36:24] ele pode utilizar das outras garantias,
+[01:36:28] que é o penor e o fiador José, para
+[01:36:31] cobrar a dívida.
+[01:36:34] Então, quando a gente fala de subrogar,
+[01:36:37] significa que ele leva as demais
+[01:36:40] garantias,
+[01:36:42] entendeu?
+[01:36:45] Ele leva as demais garantias.
+[01:36:48] Agora volta,
+[01:36:52] volta.
+[01:37:03] Volta. Restabelece a situação original.
+[01:37:06] João emprestou 50.000 para Maria. Maria
+[01:37:08] ofereceu o fiador José, o fiador Antônio
+[01:37:10] e ainda deu um relógio de penhol.
+[01:37:12] Maria não pagou a dívida.
+[01:37:16] Maria não pagou a dívida.
+[01:37:20] Quando a Maria não paga a dívida,
+[01:37:23] [limpando a garganta]
+[01:37:24] quando a Maria não paga a dívida,
+[01:37:27] a mãe da Maria,
+[01:37:31] a mãe da Maria, dona Ângela, que tem
+[01:37:35] nada a ver aqui com a história. Tá vendo
+[01:37:36] Ângela em algum lugar aqui escrito? Não,
+[01:37:39] dona Ângela.
+[01:37:42] chega e fala: "João, tá aqui os R$
+[01:37:45] 50.000, tá pago.
+[01:37:48] Angela é não interessada, certa?" Certo.
+[01:37:52] Pois bem, quando o não interessado paga
+[01:37:54] a dívida em nome
+[01:37:57] do devedor,
+[01:38:00] não tem direito a nada.
+[01:38:03] Se a Ângela chega e fala: "Tô pagando a
+[01:38:05] dívida em nome da Maria, emite o recibo
+[01:38:07] no nome da Maria", ela não vai ter
+[01:38:09] direito a nada.
+[01:38:11] Agora, se ela paga a dívida em nome
+[01:38:14] próprio,
+[01:38:17] emite o recibo no meu nome, nome de
+[01:38:19] Ângela,
+[01:38:20] ela tem direito ao
+[01:38:23] reembolso. Professora, qual é a
+[01:38:26] diferença entre subrogar e virar credor
+[01:38:31] e ter direito apenas ao reembolso?
+[01:38:35] Quem se subroga na condição de credor
+[01:38:38] leva as garantias outras. Se o Antônio
+[01:38:42] paga a dívida, ele vem pro lugar do
+[01:38:44] João, ele pode cobrar do fiador José e
+[01:38:47] ainda utilizar o penor para pagamento da
+[01:38:49] dívida.
+[01:38:50] Se é um terceiro não interessado que tem
+[01:38:52] direito ao reembolso,
+[01:38:54] some tudo. Some fiador, some penor, some
+[01:39:00] dívida, some tudo. Não tem direito a
+[01:39:03] exigir nada de fiador nenhum, nem usar o
+[01:39:07] penhor para pagamento da dívida. Ele tem
+[01:39:09] direito apenas e tão somente ao
+[01:39:10] reembolso. Vou cobrar os 50.000 1 que eu
+[01:39:13] desembolsei.
+[01:39:16] Então, qualquer terceiro interessado,
+[01:39:18] aliás, qualquer terceiro não interessado
+[01:39:20] que paga a dívida, ele tem direito ao
+[01:39:23] reembolso? Não. Só se ele pagar a dívida
+[01:39:25] em nome em nome próprio. Dá o print
+[01:39:30] nessa tela aí.
+[01:39:34] Dá o print nessa tela. Tela
+[01:39:36] importantíssima, produção.
+[01:39:39] Importantíssima.
+[01:39:51] curtiu
+[01:39:54] pra gente fechar. Você já ouviu falar em
+[01:39:57] sessão de dívida, sessão de crédito?
+[01:40:01] Eu sou credora,
+[01:40:04] eu posso ceder. Maria me deve R$ 50.000.
+[01:40:07] Eu sou credora da Maria. Eu posso ceder.
+[01:40:10] Veja bem, eu posso ceder o crédito que
+[01:40:13] eu tenho para receber da Maria para o
+[01:40:15] João? Posso. Eu tenho que perguntar pra
+[01:40:18] Maria que é devedora, se ela concorda?
+[01:40:22] Claro que não. A obrigação da Maria numa
+[01:40:24] posição de devedora é simplesmente pagar
+[01:40:27] a dívida.
+[01:40:29] Então, se eu cedo o meu crédito pro
+[01:40:32] João, o João pode cobrar da Maria. Mas
+[01:40:35] deixa eu te falar, eu não tenho que
+[01:40:37] pedir paraa Maria para ceder o crédito
+[01:40:39] pro João. Ela que tem que pagar para
+[01:40:41] quem seja o credor. E digo mais, eu só
+[01:40:44] tenho que avisar pra Maria, né, para ela
+[01:40:45] fazer o pagamento pro João, porque onde
+[01:40:48] que a Maria vai adivinhar que o João é
+[01:40:51] credor?
+[01:40:54] Agora, se é a Maria que me deve R$
+[01:40:57] 50.000,
+[01:40:59] se é a Maria que me deve R$ 50.000, R$
+[01:41:01] 1.000 produção.
+[01:41:04] E ela quer sair da dívida para colocar o
+[01:41:08] João no lugar dela como devedor.
+[01:41:13] Aí ela tem que me pedir, porque a dona
+[01:41:15] da obrigação sou eu, credora. Eu como
+[01:41:18] dona da obrigação, eu cedo o meu crédito
+[01:41:20] para quem eu quiser. Agora, você que é
+[01:41:22] meu devedor, meu devedor quer sair da
+[01:41:26] relação obrigacional para entrar outra
+[01:41:28] pessoa no seu lugar, eu tenho que
+[01:41:30] concordar. Eu
+[01:41:32] tenho que concordar, porque você pode
+[01:41:34] estar querendo colocar uma pessoa
+[01:41:35] insolvente e insolvente é aquele que não
+[01:41:38] tem bens para pagar a dívida no meu
+[01:41:39] lugar, no seu lugar e me prejudicar.
+[01:41:42] Então, na sessão de crédito, o devedor,
+[01:41:47] na sessão de crédito, o devedor
+[01:41:53] não tem que autorizar, eu tenho que
+[01:41:55] avisar.
+[01:41:57] na sessão de dívida, que é também
+[01:41:58] chamada de assunção de dívida, o credor
+[01:42:02] tem que autorizar, não basta só o aviso.
+[01:42:06] E aí nós vamos ter aqui
+[01:42:11] a seguinte situação. Olha lá,
+[01:42:15] olha lá.
+[01:42:18] Maria deve
+[01:42:21] R$ 50.000. Vamos botar aqui, ó, pro
+[01:42:25] João.
+[01:42:27] A pergunta é: o João pode ceder o
+[01:42:30] crédito dele para Antônio? Sim. Sessão
+[01:42:32] de crédito. Maria deve autorizar? Não.
+[01:42:36] Ela só deve ser o quê? Avisada.
+[01:42:38] Agora imagina que aqui é a Maria que
+[01:42:43] deve R$ 50.000.
+[01:42:45] Maria pode ceder a dívida para o
+[01:42:47] Antônio? Sim. Sessão de dívida, assunção
+[01:42:50] de dívida. João deve autorizar sim,
+[01:42:54] porque o João é o credor. Isso aqui pode
+[01:42:55] cair na sua prova. Sessão de crédito não
+[01:43:00] tem anuência do devedor. Sessão de
+[01:43:03] dívida tem anuência do credor. Anote
+[01:43:06] isso. Anote o número.
+[01:43:11] OK. Dá o print nessa tela e vou voltar
+[01:43:16] todas as telas para você dar o print
+[01:43:19] nossos materiais de hoje. Falamos de
+[01:43:22] obrigações,
+[01:43:24] falamos tanta coisa. Vai dando o print
+[01:43:26] aí.
+[01:43:29] 3 2 1.
+[01:43:31] Olha que maravilhoso.
+[01:43:37] Vai dando print.
+[01:43:39] Não esqueça da questão da lei do
+[01:43:41] inclinado,
+[01:43:44] questão da prescrição
+[01:43:48] da ação em pagamento, inovação. Não
+[01:43:51] confunda. A banca já tentou confundir
+[01:43:57] o empréstimo.
+[01:44:02] Dá o print aí. Olha o tanto de coisa.
+[01:44:07] Maravig gold, né?
+[01:44:09] Cuidado com a sessão de crédito e a
+[01:44:11] assunção de dívida. OK, meus amores? E
+[01:44:14] esse foi o nosso encontro de hoje de
+[01:44:16] direito das obrigações.
+[01:44:19] Falta direito das coisas
+[01:44:23] e falta parte geral. Parte geral tá
+[01:44:26] agendado para sexta-feira às 10 da
+[01:44:28] manhã. Direito das coisas, eu vou entrar
+[01:44:30] em contato com a grade hoje para poder
+[01:44:33] ver se eu consigo marcar para amanhã às
+[01:44:34] 10 horas, tá bom? Mas fique ligado aí no
+[01:44:36] nosso canal que vai aparecer para você a
+[01:44:38] notificação, gente. Um beijo para vocês.
+[01:44:41] Qualquer coisa, tô aqui no YouTube com o
+[01:44:43] meu canal Direito como nunca se viu.
+[01:44:47] Eis que vou mandar um coração para você
+[01:44:49] agora aí no chat. Acabei de mandar é
+[01:44:53] esse nominho azul aqui, direito, como
+[01:44:54] nunca se viu. Eh, aqui no meu canal tem
+[01:44:57] várias aulas também de direito civil
+[01:45:01] e
+[01:45:04] questões inéditas. muita coisa boa para
+[01:45:06] você e qualquer coisa tô lá no Instagram
+[01:45:07] também, @robertakeiroz. Gente, um beijo
+[01:45:10] para vocês. Tá se aproximando, fique
+[01:45:12] ligado, participe da nossa revisão de
+[01:45:14] véspera. Estamos juntos no propósito da
+[01:45:17] sua aprovação, vai dar certo e sábado
+[01:45:21] tem um material muito lindo que eu vou
+[01:45:23] mandar só para quem tiver na revisão.
+[01:45:25] Beijo, beijo. Até a próxima. Ciao
+[01:45:30] [música]
+[01:45:43] [música]
+[01:46:00] >> [música]
+[01:46:06] [música]

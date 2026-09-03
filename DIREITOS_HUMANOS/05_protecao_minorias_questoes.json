@@ -1,0 +1,40 @@
+[
+  {
+    "num": 17,
+    "enunciado": "Você, como advogado(a) , recebeu uma família cujo filho mais velho é pessoa com deficiência. Na conversa inicial, os pais relataram algumas situações em que certas barreiras eram verdadeiros obstáculos para que seu filho pudesse exercer seus direitos. Com base no Estatuto da Pessoa com Deficiência, cabe a você, como advogado(a) , esclarecer que uma das barreiras mais significativas é a atitudinal. Assinale a afirmativa que a caracteriza.",
+    "alternativas": {
+      "A": "Os obstáculos existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo.",
+      "B": "Os comportamentos que impedem a participação social da pessoa com deficiência em igualdade de condições e oportunidades com as demais pessoas.",
+      "C": "As barreiras que ocorrem nos edifícios públicos e privados, bem como nos sistemas e meios de transportes de uso coletivo.",
+      "D": "Os meios que dificultam a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação."
+    },
+    "gabarito": "B",
+    "disciplina": "Direitos Humanos",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "05_protecao_minorias",
+    "modulo_nome": "Proteção aos Grupos Vulneráveis e Minorias",
+    "id": 1
+  },
+  {
+    "num": 17,
+    "enunciado": "Na condição de advogado(a) , você é procurado(a) por uma Organização não Governamental que atua na defesa e proteção dos Direitos Humanos de grupos minoritários no Brasil. A entidade solicita esclarecimentos quanto aos mecanismos de que dispõe para levar ao conhecimento das instâncias competentes, no âmbito do sistema global de proteção dos Direitos Humanos, uma situação que entende violar a Convenção para a Prevenção e a Repressão do Crime de Genocídio, com o objetivo de responsabilizar o Estado brasileiro. Nesse contexto, você deve esclarecer que, para a obtenção da finalidade pretendida, dentre os mecanismos existentes em nível global, as Organizações não Governamentais podem submeter o caso em questão diretamente à apreciação",
+    "alternativas": {
+      "A": "da Corte Internacional de Justiça.",
+      "B": "do Tribunal Penal Internacional.",
+      "C": "do Conselho de Direitos Humanos das Nações Unidas.",
+      "D": "do Alto Comissariado das Nações Unidas para os Direitos Humanos."
+    },
+    "gabarito": "C",
+    "disciplina": "Direitos Humanos",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "05_protecao_minorias",
+    "modulo_nome": "Proteção aos Grupos Vulneráveis e Minorias",
+    "id": 2
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "num": 54,
+    "enunciado": "Vitor, residente em Salvador/BA, precisou se mudar para Fortaleza/CE, por motivos profissionais. Para realizar sua mudança, propôs pagar uma quantia de R$ 10.000,00 (dez mil reais) para Danilo e Juarez, além de arcar com todos os custos da viagem. Por não ter acompanhado o serviço, Vitor não sabe quem efetivamente o fez. Após o término da mudança, Vitor tentou quitar a dívida, mas não sabia a quem pagar, pois ambos afirmaram ser titulares do crédito. Sendo assim, procurou você, como advogado(a), pois queria fazer o pagamento de forma consignada para extinguir a obrigação. Na qualidade de advogado de Vitor, assinale a opção que indica a posição acertada no tocante ao procedimento especial de ação de consignação em pagamento.",
+    "alternativas": {
+      "A": "Vitor requererá o depósito e a citação de Danilo, e, caso posteriormente se entenda não ser ele o titular, fará a citação de Juarez.",
+      "B": "Vitor não deve requerer o depósito, devendo no primeiro momento requerer a citação de todos os possíveis titulares do crédito, para que, após essa decisão, discuta-se o crédito devido.",
+      "C": "Vitor requererá o depósito e a citação dos possíveis titulares do crédito para provarem o seu direito.",
+      "D": "Vitor requererá o depósito e a citação de Juarez, e, caso posteriormente se entenda não ser ele o titular, fará o chamamento ao processo de Danilo. 16 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 1
+  },
+  {
+    "num": 51,
+    "enunciado": "Em determinada demanda judicial cível é proferida sentença de procedência do pedido autoral, com a condenação da sociedade empresária ré ao pagamento de determinado valor a título de reparação por dano material. Com o trânsito em julgado, o autor inicia a fase de cumprimento de sentença e, após alguns meses e diversas tentativas, sem sucesso, de penhora de bens do réu, apresenta requerimento de instauração do incidente de desconsideração da personalidade jurídica. Você, na condição de advogado(a) , é procurado(a) pelo réu, buscando saber sobre o incidente em questão. Assinale a opção que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "O referido incidente não é cabível no procedimento comum, sendo restrito ao âmbito da execução fiscal de débitos tributários.",
+      "B": "A instauração do mencionado incidente suspende o processo e sua resolução se dá por decisão interlocutória.",
+      "C": "O incidente apontado não é cabível na fase de cumprimento de sentença, por não haver título judicial formado em relação aos sócios cujo patrimônio se busca atingir.",
+      "D": "Instaurado o incidente no caso concreto, os sócios da sociedade ré devem ser intimados para exercício de seu direito de defesa."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 2
+  },
+  {
+    "num": 53,
+    "enunciado": "O engenheiro civil José Carlos Silva trabalha em Aracaju/SE. Ele realizou a reforma da casa de Luzia, no valor de R$ 15.000,00 (quinze mil reai s) . O serviço foi devidamente prestado, sem qualquer reclamação por eventuais falhas por parte de Luzia. Contudo, Luzia não efetuou o pagamento no prazo estipulado. José Carlos procurou Luzia para resolver o pagamento da dívida sem buscar o Poder Judiciário e, após diversas tratativas, Luzia assinou um documento particular em que reconhece a dívida de R$ 15.000,00 (quinze mil reai s) . O referido instrumento também foi assinado por duas testemunhas. Porém, no prazo estipulado para cumprimento da obrigação, Luzia não efetuou o pagamento e José Carlos ajuizou uma execução de título extrajudicial em face de Luzia. Depois da citação e da ausência do p",
+    "alternativas": {
+      "A": "José Carlos não poderá efetuar esse requerimento, pois não é possível o arbitramento de multa caso Luzia não indique bens sujeitos à penhora.",
+      "B": "José Carlos poderá efetuar esse requerimento, sendo considerada atentatória à dignidade da justiça conduta comissiva ou omissiva da executada que intimada, não indica ao juiz quais são e onde estão os bens sujeitos à penhora e os respectivos valores, nem exibe prova de sua propriedade e, se for o caso, a certidão negativa de ônus.",
+      "C": "José Carlos poderá efetuar esse requerimento, sendo possível o arbitramento de multa superior a 30% do valor atualizado da execução, mas não poderá ocorrer nenhuma outra sanção de natureza processual ou material em face da executada",
+      "D": "José Carlos não poderá efetuar esse requerimento, pois é sua obrigação indicar os bens possíveis de penhora de Luzia."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 3
+  },
+  {
+    "num": 56,
+    "enunciado": "Silene ajuizou ação de divórcio, cumulada com pedido de fixação de alimentos, em face de Jonas. O juiz, em sede de decisão de saneamento e organização do processo, entendeu que o pedido de divórcio estava apto para julgamento e, no que se refere à pretensão de alimentos, determinou a produção de prova oral, consistente em depoimento pessoal e prova testemunhal, bem como de prova documental suplementar. Ato contínuo, por meio de decisão interlocutória, o juiz julgou procedente o pedido de divórcio, e determinou o prosseguimento do processo para a fase instrutória em relação ao pedido de fixação de alimentos. Tomando o caso concreto como premissa, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A decisão de julgamento do pedido de divórcio poderá ser impugnada por agravo de instrumento.",
+      "B": "O número de testemunhas arroladas não poderá ser superior a cinco, sendo duas, no máximo, para cada fato.",
+      "C": "Depois do saneamento, Silene e Jonas podem pedir esclarecimentos ou solicitar ajustes no prazo comum de dez dias, findo o qual a decisão se torna estável.",
+      "D": "Em razão da impossibilidade de fracionamento de julgamento do mérito, o juiz não poderia ter julgado, desde logo, o pedido de divórcio, o qual somente poderia ser feito conjuntamente com o pedido de fixação de alimentos."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Civil",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 4
+  },
+  {
+    "num": 52,
+    "enunciado": "Você, como advogado(a) , foi procurado(a) por Joana e por Regina, cada uma pretendendo propor ação reparatória perante os Juizados Especiais Cíveis. Joana deseja ajuizar ação para cobrar o equivalente a 100 salários mínimos, ao passo que Regina pretende cobrar o correspondente a 30 salários mínimos. Sobre as ações pretendidas por Joana e Regina, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Regina poderá propor ação sem advogado, pois nas causas de até 30 salários mínimos não é obrigatória a assistência de advogado.",
+      "B": "Em nenhuma hipótese Joana poderá ingressar no Juizado Especial Cível, pois este não tem competência para processar causas cujo valor exceda a 40 salários mínimos, independentemente da matéria.",
+      "C": "Para o deferimento da gratuidade de justiça, Joana e Regina deverão comprovar ter renda inferior a 10 salários mínimos.",
+      "D": "Se nas ações propostas por Joana e Regina, o demandado não comparecer à sessão de conciliação ou à audiência de instrução e julgamento, reputar-se-ão verdadeiros os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção motivada do Juiz."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Civil",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 5
+  },
+  {
+    "num": 54,
+    "enunciado": "Juliana e André foram casados por anos, tiveram um filho que atualmente está com 6 anos, mas, por adversidades conjugais, resolveram pôr fim ao casamento. Após a separação, o filho ficou residindo com a mãe em cidade distinta do pai. Considerando que não tem mais volta a relação conjugal, Juliana, por meio do seu advogado, deseja propor ação de divórcio e guarda. Sobre o caso, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A ação de divórcio e guarda deve tramitar em segredo de justiça.",
+      "B": "A ação de divórcio e guarda deve ser proposta no domicílio de André.",
+      "C": "Se André, após a citação, não comparecer em audiência nem apresentar contestação, ele não poderá mais intervir no processo.",
+      "D": "Ainda que André apresente resistência à ação de divórcio e guarda, sendo vencido na ação, ele não poderá ser condenado em honorários de sucumbência."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 6
+  },
+  {
+    "num": 56,
+    "enunciado": "Joana ajuizou ação em face de Pietra, cirurgiã plástica, requerendo a sua condenação ao pagamento de danos morais e estéticos, resultantes de procedimento estético malsucedido. Ocorre que, anteriormente, em decisão transitada em julgado, fundada na mesma causa de pedir e contra a mesma profissional, um pedido idêntico de Joana foi julgado improcedente em face de Pietra, sob o fundamento de que não restou comprovada conduta negligente de Pietra, a ensejar a sua condenação. Em tal hipótese, assinale a opção que indica o fenômeno processual cabível para extinguir a ação proposta por Joana.",
+    "alternativas": {
+      "A": "Conexão, por ser comum o pedido e a causa de pedir.",
+      "B": "Litispendência, por se repetir ação já proposta e em curso.",
+      "C": "Perempção, por ter havido extinção de ação anteriormente proposta por Joana.",
+      "D": "Coisa julgada, por haver decisão de mérito transitada em julgado com as mesmas partes, causa de pedir e pedido."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Civil",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "06_recursos_civeis",
+    "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
+    "id": 7
+  }
+]

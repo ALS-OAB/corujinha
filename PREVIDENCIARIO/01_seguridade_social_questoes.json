@@ -1,0 +1,59 @@
+[
+  {
+    "num": 69,
+    "enunciado": "Maria, empregada doméstica, deu à luz um menino. No mês em que seu filho nasceu, foram contabilizadas sete contribuições mensais feitas por ela para o Regime Geral de Previdência Social. Em relação ao salário-maternidade solicitado por Maria, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Ela tem direito, pois a concessão desse benefício para as empregadas domésticas independe de carência.",
+      "B": "Ela terá direito, desde que contribua por mais três meses para o Regime Geral de Previdência Social.",
+      "C": "Ela não tem direito, já que não cumpriu o período de carência para a concessão do benefício.",
+      "D": "Ela não tem direito, pois as empregadas domésticas não podem gozar desse benefício."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Previdenciário",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_seguridade_social",
+    "modulo_nome": "Seguridade Social: Saúde, Assistência e Previdência",
+    "id": 1
+  },
+  {
+    "num": 69,
+    "enunciado": "Jorge, segurado obrigatório do Regime Geral de Previdência Social (RGPS), reside com sua mãe, Francisca, e sua filha, Helena, que é estudante e tem 19 anos. O emprego de Jorge é a principal fonte de renda da família e o único sustento da casa. Acontece que Jorge foi acometido de uma doença e veio a falecer. Por isso, as duas dependentes de Jorge ingressam com um pedido de pensão por morte no INSS. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Somente Helena faz jus à pensão por morte.",
+      "B": "Helena faz jus à pensão por morte, sendo necessária a comprovação de dependência econômica.",
+      "C": "Helena e Francisca fazem jus à pensão por morte, independentemente da comprovação de dependência econômica.",
+      "D": "Somente Francisca faz jus à pensão por morte, sendo necessária a comprovação de dependência econômica."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Previdenciário",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "01_seguridade_social",
+    "modulo_nome": "Seguridade Social: Saúde, Assistência e Previdência",
+    "id": 2
+  },
+  {
+    "num": 69,
+    "enunciado": "Antônio José, segurado obrigatório do Regime Geral de Previdência Social, completou 65 anos de idade, após 30 anos ininterruptos de atividade remunerada como segurado empregado. Diante disso, procurou você, como advogado(a) , para ser orientado sobre sua aposentadoria. Assinale a opção que apresenta, corretamente, a sua orientação.",
+    "alternativas": {
+      "A": "Antônio não possui carência para fins de aposentadoria.",
+      "B": "Antônio já possui idade e carência para fins de aposentadoria.",
+      "C": "Antônio somente poderia, no caso narrado, se aposentar após 35 anos de contribuição.",
+      "D": "Antônio não possui idade mínima, na forma fixada pela Constituição da República de 1988."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Previdenciário",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_seguridade_social",
+    "modulo_nome": "Seguridade Social: Saúde, Assistência e Previdência",
+    "id": 3
+  }
+]

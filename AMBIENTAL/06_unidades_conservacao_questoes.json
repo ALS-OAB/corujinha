@@ -1,0 +1,40 @@
+[
+  {
+    "num": 35,
+    "enunciado": "A sociedade empresária Alfa requereu licença ambiental para empreendimento consistente em indústria de cimento que gera materiais particulados, que se instalaria em determinada zona industrial já saturada. Durante o processo de licenciamento ambiental, restou comprovado que o projeto apresentado comprometeria a capacidade de suporte da área, causando grave poluição atmosférica. Diante dos riscos e impactos já de antemão conhecidos, o órgão ambiental licenciador indeferiu o pedido de licença. Assinale a opção que indica o princípio específico que embasou a decisão de negar a licença ambiental.",
+    "alternativas": {
+      "A": "Precaução, que requer certeza científica conclusiva e segura sobre os impactos ambientais.",
+      "B": "Prevenção, em que o risco é previamente conhecido e existe certeza a respeito da sua ocorrência.",
+      "C": "Desenvolvimento sustentável, que se relaciona à informação científica inconclusiva quanto aos danos ambientais a serem causados.",
+      "D": "Poluidor-pagador, que evidenciou que o perigo de dano ambiental era certo com elementos seguros para concluir que a atividade é efetivamente perigosa."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Ambiental",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "06_unidades_conservacao",
+    "modulo_nome": "Unidades de Conservação (SNUC)",
+    "id": 1
+  },
+  {
+    "num": 35,
+    "enunciado": "Diante das numerosas tragédias climáticas registradas, ganhou força nas recentes discussões jurídicas a pauta relacionada à designada litigância climática, por meio da qual o Judiciário é instado a se manifestar para impor medidas com vistas a reduzir efeitos deletérios sobre o clima, especialmente por meio de ações civis públicas ajuizadas pelo Ministério Público. A associação Puravida, que atua na área ambiental, tem especial interesse na aludida matéria, de modo que procurou você, como advogado(a) , para esclarecer dúvidas acerca do respectivo arcabouço jurídico. Com relação à atuação jurisdicional da litigância climática, assinale a afirmativa que apresenta, corretamente, seu esclarecimento.",
+    "alternativas": {
+      "A": "Inexiste qualquer amparo no ordenamento jurídico, diante da primazia do princípio da livre iniciativa e do desenvolvimento econômico do país.",
+      "B": "Tem assento, exclusivamente, em normas infraconstitucionais, notadamente na lei que institui a Política Nacional sobre a Mudança do Clima (PNMC).",
+      "C": "A temática dispõe de previsão em normas nacionais e internacionais que versam sobre o tema, mas não há fundamento constitucional que lhe confira amparo.",
+      "D": "Decorre das normas previstas na CRFB/88 para a proteção do meio ambiente ecologicamente equilibrado e de normas internacionais, além das editadas internamente para tal fim, como a Política Nacional sobre a Mudança do Clima (PNMC)."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Ambiental",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "06_unidades_conservacao",
+    "modulo_nome": "Unidades de Conservação (SNUC)",
+    "id": 2
+  }
+]

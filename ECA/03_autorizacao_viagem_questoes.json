@@ -1,0 +1,59 @@
+[
+  {
+    "num": 43,
+    "enunciado": "Pedro, adolescente de quinze anos, foi apreendido pela prática de ato infracional análogo ao crime de roubo. Realizados todos os procedimentos legais cabíveis, o juízo determinou cautelarmente que fosse recolhido à internação em instituição dedicada ao cumprimento de medida socioeducativa dessa natureza. Ocorre que não havia vaga na entidade de internação da comarca, pelo que Pedro foi recolhido a uma repartição policial, em seção isolada dos adultos e com instalações apropriadas, lá restando internado cautelarmente há vinte dias, aguardando o surgimento de vaga no estabelecimento dedicado. Com base nos fatos acima, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A internação jamais poderá ser realizada em repartição policial, nem mesmo cautelarmente, mesmo que seja impossível a transferência imediata.",
+      "B": "É admissível a intenação cautelar em estabelecimento policial ou prisional quando da situação exposta no enunciado, por prazo indeterminado, até que seja encontrada vaga em entidade apropriada.",
+      "C": "A manutenção de Pedro na repartição policial, por mais de cinco dias, é ilegal, comportando habeas corpus para fazer cessar tal estado de ilicitude.",
+      "D": "A internação em estabelecimento prisional é admisível quando neste local puderem ser desenvolvidas as atividades pedagógicas próprias dessa medida socioeducativa."
+    },
+    "gabarito": "C",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "03_autorizacao_viagem",
+    "modulo_nome": "Autorização para Viajar e Prevenção",
+    "id": 1
+  },
+  {
+    "num": 44,
+    "enunciado": "Roberta, 35 anos, descobriu que estava grávida e ficou muito preocupada, já que possui parcos recursos financeiros e acredita que não será uma boa mãe. Essa angústia desencadeou graves problemas que precisam ser tratados por meio de sessões com psicólogo(a) . Diante da falta de recursos financeiros para custear o profissional, Roberta lhe procura para obter orientação jurídica. De acordo com o Estatuto da Criança e do Adolescente (EC",
+    "alternativas": {
+      "A": "Roberta não possui direito a assistência psicológica, por inexistir previsão legal.",
+      "B": "O ECA garante o direito de assistência psicológica apenas no período pós-natal, caso se verifique que o estado puerperal pode prejudicar o desenvolvimento da criança.",
+      "C": "Roberta tem direito a assistência psicológica durante a gestação, no período pré e pós-natal, inclusive como forma de prevenir ou minorar as consequências do estado puerperal, sendo essa incumbência do poder público.",
+      "D": "De acordo com o ECA, o poder público deve proporcionar assistência psicológica a Roberta enquanto estiver gestante. No período pós-natal, como a criança estará fora de qualquer risco, o poder público não terá a obrigação de prestar assistência psicológica."
+    },
+    "gabarito": "C",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "03_autorizacao_viagem",
+    "modulo_nome": "Autorização para Viajar e Prevenção",
+    "id": 2
+  },
+  {
+    "num": 44,
+    "enunciado": "Matheus, 17 anos, insiste em passar longos períodos na rua, deixando de lado os deveres escolares e, também, os compromissos familiares. A rebeldia de Matheus é atribuída à ausência do pai, que abandonou a família logo após o seu nascimento e de quem nunca mais ele teve notícia. Carolina, preocupada com a situação do filho, busca a inserção de Matheus no mercado formal de trabalho e encontra a oportunidade em um grande supermercado da região. O estabelecimento necessita de uma pessoa para carregar as caixas de produtos e abastecer o mercado durante a madrugada, especificamente entre meia-noite e quatro horas da manhã. Entretanto, por ainda não ter atingido a maioridade, Carolina possui dúvidas sobre a possibilidade de Matheus trabalhar. Por isso, procura você, como advogado(a) , para ter s",
+    "alternativas": {
+      "A": "Matheus, por estar no final da adolescência, pode trabalhar sem restrições.",
+      "B": "Matheus não pode ingressar no mercado formal de trabalho, por ainda não ter completado 18 anos.",
+      "C": "Matheus não pode trabalhar no cargo oferecido, já que o ECA veda o trabalho noturno entre as 22h de um dia e as 5h do dia seguinte.",
+      "D": "Por ter 17 anos, Matheus pode trabalhar no mercado durante a madrugada, desde que a atividade não prejudique a sua frequência às aulas."
+    },
+    "gabarito": "C",
+    "disciplina": "Estatuto da Criança e do Adolescente (ECA)",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "03_autorizacao_viagem",
+    "modulo_nome": "Autorização para Viajar e Prevenção",
+    "id": 3
+  }
+]

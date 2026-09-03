@@ -1,0 +1,59 @@
+[
+  {
+    "num": 10,
+    "enunciado": "Há muitos tipos diferentes de relação entre o direito e a moral e a relação entre eles não pode ser isolada com proveito para efeitos de estudo. Em vez disso, é importante distinguir algumas das muitas coisas diferentes que podem querer dizer-se através da afirmação ou negação de que o direito e a moral estão relacionados. Herbert Hart Herbert Hart, em seu livro O Conceito de Direito, comenta sobre a influência da moral sobre o Direito, afirmando que nenhum positivista poderá negar que a estabilidade dos sistemas jurídicos depende, em parte, da correspondência com a moral. Assinale a opção que, segundo o autor no livro em referência, mostra como essa influência da moral sobre o direito pode ocorrer.",
+    "alternativas": {
+      "A": "Pode se dar por meio da legislação ou por intermédio do processo judicial. Pode ocorrer que, em alguns sistemas, os critérios últimos de validade incorporem explicitamente princípios de justiça ou valores morais substantivos.",
+      "B": "Por intermédio da religião, sobretudo naqueles estados que, mesmo tendo a forma laica, admitem a influência das autoridades religiosas sobre o funcionamento das instituições.",
+      "C": "Ocorre por meio do pensamento científico. O desenvolvimento da ciência aponta possibilidades que exigem uma base moral que normatize os padrões de conduta em relação ao que seria aceitável ou não naquela sociedade.",
+      "D": "A influência da moral sobre o direito acontece por força da própria natureza das coisas. São padrões de certo e errado que surgem naturalmente e em um determinado momento histórico são incorporados ao direito positivo de forma espontânea e automática."
+    },
+    "gabarito": "A",
+    "disciplina": "Filosofia do Direito",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "04_hermeneutica_argumentacao",
+    "modulo_nome": "Hermenêutica Jurídica e Teoria da Argumentação",
+    "id": 1
+  },
+  {
+    "num": 10,
+    "enunciado": "O governo é o exercício do poder supremo do Estado. Este poder só poderia estar ou nas mãos de um só, ou da minoria, ou da maioria das pessoas. Quando o monarca, a minoria ou a maioria não buscam, uns ou outros, senão a felicidade geral, o governo é necessariamente justo. (Aristóteles) No livro A Política, Aristóteles fala do que ele considera as formas adequadas ou justas de governo de um, de poucos e de muitos. São elas, respectivamente, monarquia, aristocracia e república. Porém, ele afirma que cada uma dessas formas de governo pode degenerar, respectivamente, para uma forma injusta. Seriam elas:",
+    "alternativas": {
+      "A": "Tirania, que busca apenas a utilidade do monarca; oligarquia, que busca apenas a utilidade dos ricos; e democracia, que busca apenas a utilidade dos pobres.",
+      "B": "Imperialismo, que busca apenas o que é bom para o império; aporofobia, que busca apenas o que é bom para os ricos; e timocracia, que busca apenas o que é bom para os pobres.",
+      "C": "Cleptocracia, que admite os desvios de quem governa; parlamentarismo, que enfraquece o poder do governante; e agorafobia, que enfraquece o poder dos cidadãos.",
+      "D": "Misticismo, que cria um fetiche em torno do governante; elitismo, em que apenas um pequeno grupo governa de fato; e assembleísmo, que dificulta o processo de decisão política."
+    },
+    "gabarito": "A",
+    "disciplina": "Filosofia do Direito",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "04_hermeneutica_argumentacao",
+    "modulo_nome": "Hermenêutica Jurídica e Teoria da Argumentação",
+    "id": 2
+  },
+  {
+    "num": 10,
+    "enunciado": "Em decisão histórica, o Supremo Tribunal Federal (STF) aplicou a lei de greve do setor privado, Lei nº 7.783/1989, aos servidores públicos, pois, apesar de existir previsão constitucional expressa desse direito ao setor público, não havia lei que a regulamentasse, impedindo o seu exercício. Ao verificar a ausência da norma e das razões de semelhança para aplicar o normativo já existente, assinale a opção que melhor explica a técnica utilizada pelo STF para justificar o seu julgamento.",
+    "alternativas": {
+      "A": "Costumes.",
+      "B": "Equidade.",
+      "C": "Analogia.",
+      "D": "Princípios Gerais de Direito."
+    },
+    "gabarito": "C",
+    "disciplina": "Filosofia do Direito",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "04_hermeneutica_argumentacao",
+    "modulo_nome": "Hermenêutica Jurídica e Teoria da Argumentação",
+    "id": 3
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "num": 23,
+    "enunciado": "O Presidente da República está elaborando projeto de lei que estabelece, de forma regionalizada, as diretrizes, objetivos e metas da Administração Pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A matéria tratada em tal projeto de lei objetiva instituir a Lei de Diretrizes Orçamentárias, a qual deve ser aprovada por quórum de maioria simples no Congresso Nacional.",
+      "B": "Tal projeto versa sobre a Lei de Diretrizes Orçamentárias e se submete à reserva de lei complementar.",
+      "C": "Embora institua o Plano Plurianual, tal projeto de lei necessita ser aprovado por quórum de maioria absoluta no Congresso Nacional.",
+      "D": "Trata-se de projeto de lei que institui o Plano Plurianual, a ser veiculado por meio de lei ordinária."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Financeiro",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_ppa_ldo_loa",
+    "modulo_nome": "Planejamento Orçamentário: PPA, LDO e LOA",
+    "id": 1
+  },
+  {
+    "num": 23,
+    "enunciado": "O Prefeito e a Câmara de Vereadores de Alfa, município com cem mil habitantes, situado no interior do Estado Beta, pretendem modernizar a administração pública municipal. Assim, iniciaram um programa de ampliação da transparência da gestão fiscal, que prevê a implantação de mecanismos previstos na Constituição Federal de 1988 e na Lei de Responsabilidade Fiscal, objetivando dar maior efetividade ao princípio da transparência fiscal. Sobre a hipótese formulada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "As contas apresentadas pelo Prefeito devem ficar disponíveis, durante todo o exercício, apenas no órgão técnico responsável pela sua elaboração, para consulta e apreciação pelos cidadãos e instituições da sociedade.",
+      "B": "A realização de audiências públicas durante os processos de elaboração e discussão dos planos, da lei de diretrizes orçamentárias e dos orçamentos não pode ser aplicada ao Município Alfa, mas tão somente às esferas estadual ou federal.",
+      "C": "O Município Alfa está obrigado a disponibilizar em meio eletrônico de amplo acesso público suas informações e seus dados contábeis, orçamentários e fiscais de acordo com uma periodicidade, um formato e um sistema estabelecidos pelo órgão central de contabilidade da União.",
+      "D": "A prestação de contas do Prefeito deve ter ampla divulgação, mas o respectivo parecer prévio do Tribunal de Contas do Estado Beta sobre tais contas é apenas enviado à Câmara de Vereadores para que estas possam ser julgadas, não podendo ser veiculado em meios eletrônicos de acesso público."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Financeiro",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "01_ppa_ldo_loa",
+    "modulo_nome": "Planejamento Orçamentário: PPA, LDO e LOA",
+    "id": 2
+  },
+  {
+    "num": 23,
+    "enunciado": "O Município Alfa estava enfrentando dificuldades para pagar em dia a remuneração de seus servidores públicos municipais. Em razão disso, resolveu requerer à instituição financeira federal BNDES um empréstimo, a fim de pagar as remunerações em atraso. O Município ofereceu, em garantia do empréstimo, terrenos de sua propriedade, cujo valor de mercado inclusive suplantava o montante a ser emprestado. Diante desse cenário, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "É proibido ao BNDES realizar empréstimo para o pagamento de despesas com pessoal.",
+      "B": "Como houve oferta de garantia em valor superior ao do empréstimo, este deverá ser realizado pelo BNDES.",
+      "C": "É facultado ao BNDES realizar o empréstimo, mas apenas se reputar que as garantias oferecidas são de liquidez satisfatória.",
+      "D": "Somente uma instituição financeira controlada pelo Estado em que se localiza o Município Alfa poderia realizar tal empréstimo."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Financeiro",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_ppa_ldo_loa",
+    "modulo_nome": "Planejamento Orçamentário: PPA, LDO e LOA",
+    "id": 3
+  }
+]

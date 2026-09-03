@@ -1,0 +1,97 @@
+[
+  {
+    "num": 48,
+    "enunciado": "Para honrar um empréstimo que lhe foi concedido, o empresário Ruy Barbosa subscreveu nota promissória em favor de Medeiros Neto, com vencimento para o dia 30 de março de 2023. O primeiro endossante transferiu o título em preto para Wagner Desidério e proibiu novo endosso. Considerando o efeito legal da cláusula de proibição de novo endosso, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "para o endossante Medeiros Neto, a cláusula de proibição de novo endosso tem efeito de cessão de crédito perante o endossatário direto e de endosso perante os endossatários posteriores.",
+      "B": "Wagner Desidério não poderá realizar novo endosso no título sob pena de desoneração de responsabilidade cambial dos coobrigados.",
+      "C": "a cláusula de proibição de novo endosso é nula, tal qual a de endosso parcial, por restringir a responsabilidade cambiária do endossante a seu endossatário imediato.",
+      "D": "Medeiros Neto, embora coobrigado, não responde pelo pagamento da nota promissória perante os endossatários posteriores a Wagner Desidério."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Empresarial",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "07_direito_consumidor",
+    "modulo_nome": "Concorrência e Propriedade Industrial",
+    "id": 1
+  },
+  {
+    "num": 48,
+    "enunciado": "Os cientistas Pio Alves e Cardoso Moreira desenvolveram dois produtos que reúnem os requisitos de patenteabilidade e reivindicaram a autoria perante o Instituto Nacional da Propriedade Industrial (INPI). O primeiro recebeu registro de patente na categoria de invenção e, o segundo, a patente na categoria de modelo de utilidade. Assinale a opção que indica o privilégio de exploração que as patentes assegurarão aos autores.",
+    "alternativas": {
+      "A": "Temporário, para ambos.",
+      "B": "Vitacílio, para ambos.",
+      "C": "Perpétuo, até a terceira geração de descedentes dos autores.",
+      "D": "Temporário, para Pio Alves, autor da invenção, e vitalício para Cardoso Moreira, autor do modelo de utilidade."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "07_direito_consumidor",
+    "modulo_nome": "Concorrência e Propriedade Industrial",
+    "id": 2
+  },
+  {
+    "num": 48,
+    "enunciado": "F. Beltrão, G. Carneiro e S. Moreira decidiram constituir uma sociedade do tipo simples de prazo indeterminado, que entrou em atividade na data da assinatura do contrato, levado a registro na semana seguinte, no Registro Civil de Pessoas Jurídicas. Assinale a opção que indica a hipótese de dissolução de pleno direito dessa sociedade.",
+    "alternativas": {
+      "A": "A deliberação dos sócios, por maioria absoluta do capital.",
+      "B": "O esgotamento da exploração do objeto social ou verificada a sua inexequibilidade.",
+      "C": "O falecimento de qualquer dos sócios, independentemente de optarem pela dissolução.",
+      "D": "A existência de apenas um sócio, não reconstituída a pluralidade em até 180 (cento e oitent a) dias."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Empresarial",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "07_direito_consumidor",
+    "modulo_nome": "Concorrência e Propriedade Industrial",
+    "id": 3
+  },
+  {
+    "num": 49,
+    "enunciado": "Francisco Morato tem domicílio em Cidade Ocidental/GO e pretende ser empresário individual em Brasília/DF. Se o negócio der certo, Francisco Morato pretende abrir duas filiais, uma em Unaí/MG e, outra, em Natividade/TO. Considerando-se as normas do Código Civil para a inscrição do empresário e da instituição de filiais, é correto afirmar que Francisco Morato deverá realizar sua inscrição como empresário na Junta Comercial do",
+    "alternativas": {
+      "A": "Estado de Goiás, tendo como referência a cidade do seu domicílo, Cidade Ocidental, e, com relação às filiais, nas Juntas Comerciais dos Estados de Minas Gerais e do Tocantins, sem necessidade de averbação da constituição das filiais na Junta Comercial do Estado de Goiás.",
+      "B": "Distrito Federal, tendo como referência a sede da sociedade empresária, Brasília, e, com relação às filiais, nas Juntas Comerciais dos Estados de Minas Gerais e do Tocantins, com averbação da constituição das filiais na Junta Comercial do Distrito Federal.",
+      "C": "Estado de Goiás, tendo como referência a cidade do seu domicílo, Cidade Ocidental, e, com relação às filiais, na mesma Junta Comercial, por ser o lugar do seu domicílio.",
+      "D": "Distrito Federal, tendo como referência a sede da sociedade empresária, Brasília, e, com relação às filiais, na mesma Junta Comercial por ser o lugar da sede."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "07_direito_consumidor",
+    "modulo_nome": "Concorrência e Propriedade Industrial",
+    "id": 4
+  },
+  {
+    "num": 49,
+    "enunciado": "A sociedade empresária Pinheiros & Filhos Ltda., constituída em 2017 e com sede em Pancas, ES, pretende registrar como marca o sinal distintivo nominativo Pancadão, a ser utilizado nos produtos alimentícios que ela fornece a mercados, supermercados e armazéns na região de Pancas, ES, e Resplendor, MG. Na mesma cidade de Pancas, ES, há um estabelecimento explorado pelo empresário individual Domingos Guandu, cujo título é Bar e Mercearia Pancadão, constituído em 2000 e usado desde então, que revende os produtos alimentícios fornecidos por Pinheiros & Filhos Ltda. Considerados estes dados, a respeito do registro de marca, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Não há impedimento do registro de Pancadão como marca, pois o uso do mesmo sinal distintivo para título de estabelecimento de terceiro, ainda que anterior, é incapaz de retirar a originalidade da marca.",
+      "B": "Não há impedimento do registro de Pancadão como marca, haja vista que o sinal distintivo é novo e só há proteção para o título de estabelecimento no âmbito da propriedade industrial com o registro no INPI.",
+      "C": "Pancadão não poderá ser registrado como marca por ser a reprodução de sinal distintivo característico de título de estabelecimento de terceiro, quando suscetível de causar confusão ou associação entre a marca e o título de estabelecimento.",
+      "D": "Pancadão não poderá ser registrado como marca em razão da prioridade de uso do título de estabelecimento Pancadão pelo empresário Domingos Guandu, em âmbito nacional, decorrente da inscrição do empresário na Junta Comercial."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Empresarial",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "07_direito_consumidor",
+    "modulo_nome": "Concorrência e Propriedade Industrial",
+    "id": 5
+  }
+]

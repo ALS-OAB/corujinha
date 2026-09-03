@@ -1,0 +1,135 @@
+[
+  {
+    "num": 74,
+    "enunciado": "Rachel foi contratada como empregada em 2019 por uma sociedade empresária fabricante de automóveis. Ocorre que a fábrica fica em um lugar longínquo, não servido por transporte público regular, e por isso a sociedade empresária disponibiliza um ônibus para buscar os empregados pela manhã e deixá-los em casa, ao final da jornada. Raquel gasta diariamente, em média, 50 minutos para chegar ao emprego e outros 50 minutos para retorno. Considerando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Os 50 minutos gastos na ida e os 50 minutos gastos na volta devem ser pagos como horas extras, na condição de hora in itinere.",
+      "B": "O tempo despendido pelo empregado desde sua residência até o posto de trabalho e para seu retorno não será computado na jornada de trabalho.",
+      "C": "O tempo gasto no transporte deverá ser pago porque será computado na jornada de trabalho, mas sem adicional.",
+      "D": "O juiz, no caso concreto, após a análise da geografia do local, deverá decidir se o tempo gasto no transporte deverá, ou não, ser quitado como hora extra."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo do Trabalho",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 1
+  },
+  {
+    "num": 77,
+    "enunciado": "Pedro Arnaldo ajuizou reclamação trabalhista em face da ex-empregadora. No dia da audiência, rejeitada a possibilidade de acordo, o feito foi contestado. A parte ré, porém, requereu o adiamento em razão da ausência de uma testemunha, que estava intimada regularmente. Na audiência seguinte Pedro Arnaldo, sem qualquer justificativa, não compareceu. Diante disso, nos termos da CLT e do entendimento jurisprudencial consolidado do TST, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A ausência do reclamante, quando adiada a instrução após contestada a ação em audiência, não importa arquivamento do processo.",
+      "B": "A ausência do reclamante importará no arquivamento do feito na hipótese.",
+      "C": "O feito deverá ser novamente adiado para o comparecimento do reclamante, que não deu causa ao adiamento anterior.",
+      "D": "Ausente o interesse de agir, o feito deverá ser extinto sem resolução do mérito."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo do Trabalho",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 2
+  },
+  {
+    "num": 77,
+    "enunciado": "Jeferson trabalhou em São Paulo de 2018 a 2023, quando foi dispensado sem justa causa e voltou para sua cidade de origem, Fortaleza/CE. Entendendo ter realizado sobrejornada sem receber, Jeferson contratou um advogado na sua cidade que ajuizou reclamação trabalhista distribuída a uma das Varas de Fortaleza/CE requerendo o pagamento de horas extras. A ex-empregadora foi citada para a audiência, que ocorrerá em quatro meses, mas pretende deslocar o feito para São Paulo, pois foi o único local da prestação de serviços e onde o autor foi contratado. Para tanto, a ex-empregadora o(a) contratou como advogado(a) . Na qualidade de advogado(a) da sociedade empresária, considerando os fatos e o que dispõe a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A sociedade empresária poderá apresentar a exceção de incompetência territorial até a audiência.",
+      "B": "A sociedade empresária deve apresentar a exceção de incompetência territorial em até dez dias corridos, contados da citação.",
+      "C": "A sociedade empresária deverá apresentar a exceção de incompetência territorial em cinco dias úteis, contados da citação.",
+      "D": "Não se poderá apresentar exceção de incompetência territorial, porque a ação pode ser ajuizada no domicílio do autor, ainda que não coincida com o local da prestação dos serviços."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo do Trabalho",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 3
+  },
+  {
+    "num": 80,
+    "enunciado": "Em determinada reclamação trabalhista, o recurso ordinário interposto pela ex-empregadora encontra-se pendente de julgamento e alcança todo o objeto da condenação. Para agilizar o procedimento, o reclamante iniciou a execução provisória do julgado, apresentando os cálculos de liquidação pertinentes, que foram submetidos à análise do adversário, da contadoria do juízo e, depois, homologados por serem reputados corretos. O juiz concedeu 48 horas para que a sociedade empresária depositasse a quantia nos autos, o que foi cumprido. Logo depois o exequente peticionou a liberação do valor homologado a seu favor. Diante desses fatos e do disposto na CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Inviável a pretensão, porque a execução provisória fica limitada ao bloqueio ou à penhora.",
+      "B": "É possível a liberação, desde que o trabalhador assine um termo de compromisso garantindo que devolverá a quantia caso a decisão seja revertida pelo Tribunal.",
+      "C": "Tendo o crédito trabalhista natureza alimentar, o juiz poderá liberar o valor sem qualquer condição.",
+      "D": "Na Justiça do Trabalho, como regra, os recursos têm efeito suspensivo, de modo que não é possível a execução provisória, havendo evidente falha do juiz. ### Questionário de percepção sobre a prova Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação d"
+    },
+    "gabarito": "A",
+    "disciplina": "Processo do Trabalho",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 4
+  },
+  {
+    "num": 78,
+    "enunciado": "Você, na qualidade de advogado(a) de Pedro, ajuizou reclamação trabalhista em face da indústria de calçados Guanabara. Pedro trabalhou para a sociedade empresária ré, entre os anos de 2018 e 2022, e afirma que não recebeu o 13º salário de 2021 e que trabalhava cerca de 10 horas por dia. Você ajuizou reclamação trabalhista, pretendendo o pagamento do 13º salário de 2021 e as horas extras. A ex-empregadora apresentou defesa, aduzindo que pagou o 13º salário, que, conforme cartões de ponto juntados, Pedro não realizava horas extras e sua jornada estava prevista em norma coletiva da categoria. Na qualidade de advogado(a) de Pedro, você impugnou os cartões de ponto argumentando que não refletiam o real horário laborado, sendo certo que os DOC_Documentos mostram horários variados de início e fim da ",
+    "alternativas": {
+      "A": "O ônus da prova do pagamento do 13º salário caberá à ré e, o das horas extras, ao autor.",
+      "B": "A ré deverá provar o pagamento do 13º salário, assim como a inexistência das horas extras, uma vez que os controles de ponto foram impugnados.",
+      "C": "Em razão da variação de horários registrada nos cartões de ponto, o ônus da prova recairá sobre a ré para as horas extras, bem como para o 13º salário, já que o pagamento é fato extintivo da obrigação.",
+      "D": "Dada a variação de horários, há presunção absoluta da validade da jornada indicada nos cartões de ponto, tendo a ré se desincumbido do ônus. Cabe à ré a prova do pagamento do 13º salário, por ser fato extintivo da obrigação."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo do Trabalho",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 5
+  },
+  {
+    "num": 76,
+    "enunciado": "João Paulo trabalhou como vendedor em uma loja de calçados de 20/02/2022 a 30/01/2023, situada próxima de sua residência, no município de Duque de Caxias, RJ. Pela proximidade, menos de 50 m de distância, João Paulo ia a pé para o serviço e não optou por receber vale-transporte. Ocorre que, ao ser dispensado, ajuizou ação trabalhista reclamando a concessão do benefício, ação que seu advogado distribuiu para o Município do Rio de Janeiro, indo para a 100ª Vara do Trabalho (VT) do Rio de Janeiro, que designou uma audiência presencial. A loja está localizada em Duque de Caxias e você, advogado(a) da loja, tem seu escritório na mesma cidade. Sobre a competência territorial e a medida processual a ser adotada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A ação poderá transcorrer no Rio de Janeiro, tendo sido essa a opção do empregado, pelo que se prorrogou a competência.",
+      "B": "Deverá ser apresentada exceção de incompetência territorial em preliminar de contestação, podendo também ser suscitada oralmente no momento da audiência, antes da defesa.",
+      "C": "Deverá ser apresentada petição de exceção de incompetência territorial até cinco dias após o recebimento da notificação citatória, em peça autônoma e antes da audiência.",
+      "D": "Deverá ser apresentada exceção de incompetência territorial no ato da audiência em peça autônoma, mas junto com a apresentação da defesa, de modo a evitar eventual preclusão."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo do Trabalho",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 6
+  },
+  {
+    "num": 80,
+    "enunciado": "Jonas, executado na Justiça do Trabalho, reclamou com você, na condição de advogado(a) , porque um Oficial de Justiça chegou à residência dele, em uma quinta-feira, dia útil, às 5h30, com ordem judicial para penhorar o seu imóvel, sendo certo que o mandado de penhora não continha nenhuma previsão de excepcionalidade. A revolta do executado reside no horário de chegada do Oficial de Justiça à sua residência, o que o obrigou a acordar muito cedo, o mesmo valendo para sua esposa. Sobre os fatos apresentados, considerando o previsto na CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O procedimento é regular porque a lei não prevê horário para a prática dos atos processuais.",
+      "B": "O Oficial de Justiça está equivocado, porque somente poderia realizar o ato processual a partir das 6 horas.",
+      "C": "O procedimento é irregular, porque a lei prevê que os atos processuais podem ser feitos a partir das 7 horas.",
+      "D": "Se os atos podem ser realizados até mesmo no domingo, mesmo sem a autorização do Juiz, com igual razão pode ser feito durante a semana, às 5h30. ### Questionário de percepção sobre a prova Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova "
+    },
+    "gabarito": "B",
+    "disciplina": "Processo do Trabalho",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "01_organizacao_justica",
+    "modulo_nome": "Organização da Justiça do Trabalho e Competência",
+    "id": 7
+  }
+]

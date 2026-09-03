@@ -1,0 +1,40 @@
+[
+  {
+    "num": 45,
+    "enunciado": "Carlos, um consumidor, celebrou um contrato de adesão para aquisição de um pacote turístico. Ao ler atentamente o contrato, Carlos identificou uma cláusula que determinava que ele não poderia requerer indenização à empresa em caso de eventuais prejuízos decorrentes de cancelamentos por causas naturais. Preocupado, Carlos procura você, como advogado(a) , para buscar amparo legal e entender a validade da cláusula em questão. Diante disso, assinale a afirmativa que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "A cláusula é válida, porque o **Art. 51** do CDC possui um rol exemplificativo de cláusulas abusivas, e essa cláusula específica não está listada entre as proibidas.",
+      "B": "A cláusula é inválida, porque o **Art. 51** do CDC possui um rol taxativo de cláusulas abusivas, e essa cláusula não está listada entre as permitidas.",
+      "C": "A cláusula é válida, porque o **Art. 51** do CDC, que possui um rol de cláusulas abusivas, não se aplica aos contratos de adesão.",
+      "D": "A cláusula é inválida, porque o **Art. 51** do CDC apresenta um rol exemplificativo de cláusulas abusivas, permitindo a anulação das cláusulas que se mostrem abusivas, mesmo que não listadas."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito do Consumidor",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_superendividamento",
+    "modulo_nome": "Prevenção ao Superendividamento",
+    "id": 1
+  },
+  {
+    "num": 46,
+    "enunciado": "- (",
+    "alternativas": {
+      "A": "A coletividade de pessoas, ainda que indetermináveis, equipara-se a consumidor, podendo ser tutelada judicialmente por meio de Ação Civil Pública.",
+      "B": "A Ação Civil Pública é incabível, pois somente o consumidor individual e identificado possui legitimidade para pleitear indenização por danos oriundos da relação de consumo.",
+      "C": "O conceito de consumidor por equiparação exige que a coletividade seja determinada e tenha comprovadamente adquirido o produto para ser considerada consumidora.",
+      "D": "Apenas os consumidores que efetivamente adquiriram e consumiram o produto possuem legitimidade para buscar reparação por danos, ainda que representados por associação."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito do Consumidor",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_superendividamento",
+    "modulo_nome": "Prevenção ao Superendividamento",
+    "id": 2
+  }
+]

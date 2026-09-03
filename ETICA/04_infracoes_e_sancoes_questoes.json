@@ -1,0 +1,287 @@
+[
+  {
+    "num": 4,
+    "enunciado": "A advogada Celina celebrou com a cliente Camila um contrato de prestação de serviços advocatícios. Na cláusula X, foi disposto que a extensão do patrocínio é limitada ao primeiro grau de jurisdição. Na cláusula W, foi disposto valor diverso de honorários contratuais para a hipótese de a causa encerrar-se por acordo. Considerando o informado sobre o contrato realizado, de acordo com o Código de Ética e Disciplina da OAB, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A cláusula X é vedada, pois não se admite tal limitação de atuação em grau de jurisdição. A cláusula W também é vedada, pois não se admite a previsão de valores diversos de honorários em caso de acordo.",
+      "B": "O conteúdo da cláusula W, com disposição de valor diverso de honorários contratuais para a hipótese de a causa encerrar-se por acordo pode ser incluído no contrato sem que isso implique ilegalidade. A limitação de atuação em grau de jurisdição prevista na mencionada cláusula X encontra vedação legal.",
+      "C": "A cláusula X é permitida. Por sua vez, a cláusula W é vedada, pois não se admite a previsão de valores diversos de honorários em caso de acordo.",
+      "D": "As duas cláusulas narradas não violam a disciplina do citado Código de Ética e Disciplina da OAB. 3 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+    },
+    "gabarito": "D",
+    "disciplina": "Ética Profissional",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 1
+  },
+  {
+    "num": 2,
+    "enunciado": "Assinale a alternativa que indique a sua avaliação quanto à capacidade crítica e interpretativa desta prova em relação ao cenário e ao ordenamento jurídico contemporâneo.",
+    "alternativas": {
+      "A": "Plenamente satisfatória.",
+      "B": "Satisfatória.",
+      "C": "Pouco satisfatória.",
+      "D": "Insatisfatória."
+    },
+    "gabarito": "D",
+    "disciplina": "Ética Profissional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 2
+  },
+  {
+    "num": 7,
+    "enunciado": "O advogado Alex encontra-se licenciado junto à OAB. Assinale a opção que, corretamente, apresenta uma causa para o licenciamento de Alex.",
+    "alternativas": {
+      "A": "O requerimento de licenciamento, independentemente de motivação, formulado por Alex.",
+      "B": "O fato de Alex passar a sofrer de doença física incurável.",
+      "C": "O exercício por Alex, de forma definitiva, de atividade incompatível com a advocacia.",
+      "D": "O fato de Alex passar a sofrer de doença mental curável."
+    },
+    "gabarito": "D",
+    "disciplina": "Ética Profissional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 3
+  },
+  {
+    "num": 5,
+    "enunciado": "O advogado Edson foi contratado para prestar a um cliente assessoria jurídica quanto a uma questão imobiliária. Considerando o caso hipotético, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Edson pode prestar a assessoria de modo verbal. Também não é necessária a outorga de mandato ou formalização por contrato de honorários.",
+      "B": "Edson deve prestar a assessoria de modo escrito. Faz-se necessária a outorga de mandato, mesmo que não haja formalização por contrato de honorários.",
+      "C": "Edson pode prestar a assessoria de modo verbal. É necessária a outorga de mandato, mesmo que não haja formalização por contrato de honorários.",
+      "D": "Edson deve prestar a assessoria de modo escrito, mas não é necessária a outorga de mandato ou formalização por contrato de honorários."
+    },
+    "gabarito": "A",
+    "disciplina": "Ética Profissional",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 4
+  },
+  {
+    "num": 1,
+    "enunciado": "Na sua avaliação, o grau de dificuldade desta prova, quanto ao conteúdo programático abordado, foi",
+    "alternativas": {
+      "A": "muito fácil.",
+      "B": "fácil.",
+      "C": "médio.",
+      "D": "difícil."
+    },
+    "gabarito": "B",
+    "disciplina": "Ética Profissional",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 5
+  },
+  {
+    "num": 6,
+    "enunciado": "Valmir, bacharel em Direito, aprovado no Exame da Ordem dos Advogados do Brasil, ocupa o cargo público de agente de Polícia Civil do Estado Alfa. Movido por sentimento altruísta, Valmir requer sua inscrição na OAB, pois pretende, nos momentos de folga da atividade policial, exercer a advocacia de forma gratuita, eventual e voluntária, em favor de instituições sociais sem fins econômicos que não disponham de recursos para a contratação de profissional. À luz dessas informações, e considerada a legislação vigente, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Valmir poderá exercer regularmente a advocacia, inclusive pro bono.",
+      "B": "Valmir não poderá exercer a advocacia remunerada, pois ocupa cargo incompatível, mas poderá exercer a advocacia pro bono.",
+      "C": "Valmir não poderá exercer a advocacia, mesmo pro bono, uma vez que o cargo público que ocupa atrai o regime da incompatibilidade.",
+      "D": "A condição de servidor público atrai o regime do impedimento, razão pela qual Valmir não poderá exercer a advocacia contra a Fazenda Pública que o remunera. Observado esse impedimento, não haverá óbice para o exercício da advocacia pro bono."
+    },
+    "gabarito": "C",
+    "disciplina": "Ética Profissional",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 6
+  },
+  {
+    "num": 2,
+    "enunciado": "Assinale a alternativa que indique a sua avaliação quanto à capacidade crítica e interpretativa desta prova em relação ao cenário e ao ordenamento jurídico contemporâneo.",
+    "alternativas": {
+      "A": "Plenamente satisfatória.",
+      "B": "Satisfatória.",
+      "C": "Pouco satisfatória.",
+      "D": "Insatisfatória."
+    },
+    "gabarito": "A",
+    "disciplina": "Ética Profissional",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 7
+  },
+  {
+    "num": 7,
+    "enunciado": "Atena, médica oftalmologista, e Dionísio, advogado atuante em Direito de Família, são casados há 5 anos e residem em casa alugada na cidade de Uberaba/MG. Sendo ambos iniciantes em suas respectivas profissões e visando evitar gastos, decidem instalar seus escritórios profissionais na própria casa em que residem. Assim, montaram um consultório médico e um escritório de advocacia na parte frontal da residência e anunciaram conjuntamente, em outdoor próximo, os serviços médicos e advocatícios, em publicidade que ressaltou o fato de serem casados. Acerca dos limites das atividades de advocacia e da publicidade do advogado, conforme o Código de Ética e Disciplina e o Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Atena e Dionísio poderão constituir seus escritórios profissionais no mesmo imóvel, bem como divulgar seus respectivos trabalhos conjuntamente, desde que o outdoor em que incluírem a publicidade seja de pequeno porte.",
+      "B": "A divulgação dos serviços de advocacia em conjunto com serviços médicos não é vedada, desde que tenha caráter meramente informativo e zele pela discrição e sobriedade.",
+      "C": "Dionísio não poderá anunciar seus serviços advocatícios em conjunto com outras atividades, ainda que com sua esposa que exerce a medicina, pois o Estatuto da Ordem e o Código de Ética e Disciplina proíbem tal conduta de forma peremptória.",
+      "D": "A divulgação conjunta dos serviços médicos e advocatícios será permitida, excepcionalmente, neste caso, porque Atena e Dionísio são casados e moram na mesma residência, de modo que não lhes seria possível exigir conduta diversa."
+    },
+    "gabarito": "C",
+    "disciplina": "Ética Profissional",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 8
+  },
+  {
+    "num": 3,
+    "enunciado": "Considerando a extensão da prova em relação ao tempo total, você considera que ela foi",
+    "alternativas": {
+      "A": "Sim, todos.",
+      "B": "Sim, a maioria.",
+      "C": "Poucos.",
+      "D": "Não, nenhum."
+    },
+    "gabarito": "D",
+    "disciplina": "Ética Profissional",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 9
+  },
+  {
+    "num": 8,
+    "enunciado": "Rita, advogada regularmente inscrita na OAB, compareceu ao Detran para providenciar a transferência de um veículo que acabara de adquirir. Instada a apresentar seu documento de identificação civil, Rita apresentou sua carteira da OAB, a qual não foi aceita pelo funcionário da repartição, que afirmou ser imprescindível a apresentação da Carteira de identidade (Registro Gera l) ou da Carteira Nacional de Habilitação (CNH). Com base no enunciado, a recusa do documento emitido pela OAB foi",
+    "alternativas": {
+      "A": "ilegítima, uma vez que o documento emitido pela OAB constitui prova de identidade civil para todos os fins legais.",
+      "B": "correta, pois, à míngua de previsão legal, não poderia o funcionário do Detran admitir a carteira da OAB como documento de identificação civil.",
+      "C": "inválida, pois, embora não haja expressa previsão legal, a carteira da OAB tem sido admitida como documento válido de identificação civil pela prática consuetudinária.",
+      "D": "inadequada, porém não ilegal, uma vez que os DOC_Documentos de identidade profissional do advogado estão previstos somente no Regulamento Geral da Advocacia, não sendo exigível que o funcionário do Detran conheça as normas internas da OAB."
+    },
+    "gabarito": "A",
+    "disciplina": "Ética Profissional",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 10
+  },
+  {
+    "num": 5,
+    "enunciado": "Pedro, advogado regularmente inscrito na OAB, foi eleito Deputado Federal e deseja continuar exercendo a advocacia, patrocinando causas contra a Caixa Econômica Federal. Ele também cogita a possibilidade de concorrer ao cargo de Presidente da Câmara dos Deputados. Com base nas disposições do Estatuto da OAB, assinale a afirmativa correta sobre a possibilidade de Pedro continuar advogando.",
+    "alternativas": {
+      "A": "Caso Pedro seja eleito Presidente da Câmara dos Deputados, ele ficará impedido de atuar em causas contra a Caixa Econômica Federal, mas poderá advogar em causas particulares.",
+      "B": "Pedro, na condição de Deputado Federal, poderá advogar contra a Caixa Econômica Federal, desde que seja em causa própria, tendo em vista que o impedimento se aplica apenas a causas de terceiros.",
+      "C": "Como Deputado Federal, Pedro está impedido de exercer a advocacia contra a Caixa Econômica Federal, mas pode atuar em causas que não envolvam entes públicos ou concessionárias de serviço público.",
+      "D": "Pedro, como Deputado Federal, estará em situação de incompatibilidade total com o exercício da advocacia e não poderá atuar como advogado em nenhuma causa, mesmo em processos particulares."
+    },
+    "gabarito": "C",
+    "disciplina": "Ética Profissional",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 11
+  },
+  {
+    "num": 2,
+    "enunciado": "Roberto, advogado autônomo com destacada atuação no Direito Criminal, foi investido no cargo de diretor jurídico da Nossa Estatal, empresa pública federal que atua no mercado financeiro em regime de competição com o setor privado. Acerca da nova condição profissional de Roberto, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A nova atividade exercida por Roberto caracteriza incompatibilidade para o exercício da advocacia, mesmo em causa própria.",
+      "B": "Durante o período da investidura, Roberto estará exclusivamente legitimado para o exercício da advocacia vinculada ao cargo de diretor jurídico.",
+      "C": "Roberto, durante o período da investidura, somente não poderá atuar como advogado autônomo contra a Fazenda Pública à qual está vinculada sua entidade empregadora.",
+      "D": "Uma vez que a atuação de Roberto é na área criminal, sem relação direta com o mercado financeiro, Roberto poderá continuar exercendo normalmente a advocacia autônoma."
+    },
+    "gabarito": "B",
+    "disciplina": "Ética Profissional",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 12
+  },
+  {
+    "num": 8,
+    "enunciado": "Euclides é advogado regularmente inscrito na OAB e foi flagrado praticando assédio sexual contra diversas colaboradoras de seu escritório, conduta que foi amplamente divulgada na imprensa regional após a veiculação de imagens captadas por câmeras de segurança, nas quais o advogado aparece se insinuando de forma inapropriada. O caso causou grande repercussão regional, afetando a imagem da Advocacia. Diante disso, o Tribunal de Ética e Disciplina do Conselho Seccional determinou a suspensão preventiva de Euclides, designando sessão especial para ouvi-lo na semana seguinte à suspensão. No mesmo ato, o Tribunal estabeleceu que o processo disciplinar deveria ser concluído em prazo máximo de 180 dias. Com base no Estatuto da Advocacia e da OAB, sobre a decisão do Tribunal, assinale a afirmativa ",
+    "alternativas": {
+      "A": "O procedimento adotado foi regular, pois diante da gravidade dos fatos e da ampla repercussão, o Tribunal de Ética pode suspender preventivamente o advogado e prorrogar o prazo do processo disciplinar para até 180 dias.",
+      "B": "O procedimento adotado foi válido apenas quanto à suspensão, pois o Estatuto admite a suspensão preventiva sem qualquer necessidade de notificação ou sessão de oitiva, desde que haja repercussão negativa à imagem da OAB.",
+      "C": "O procedimento foi irregular, porque a suspensão preventiva do advogado somente é válida se o representado for previamente notificado ou, depois de notificado, não comparecer, e o prazo máximo do processo, na hipótese, é de 90 dias.",
+      "D": "O procedimento adotado foi regular quanto ao prazo máximo de duração do processo disciplinar, mas irregular quanto à suspensão preventiva, pois, embora seja cabível, a oitiva do advogado deve ocorrer antes da suspensão, e não posteriormente."
+    },
+    "gabarito": "C",
+    "disciplina": "Ética Profissional",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 13
+  },
+  {
+    "num": 7,
+    "enunciado": "Ana é advogada e acaba de dar à luz seu primeiro filho, a quem ainda amamenta. Ela foi cientificada de que a Sexta Câmara Cível deverá julgar um caso em que é uma das advogadas constituídas pelo recorrente. Sobre a hipótese, assinale a opção que indica o direito que Ana tem assegurado.",
+    "alternativas": {
+      "A": "Vaga reservada na garagem do Fórum.",
+      "B": "Suspensão de prazos processuais, desde que haja notificação por escrito ao cliente.",
+      "C": "Entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X.",
+      "D": "Acesso a creche, onde houver, ou a local adequado para o atendimento das necessidades do bebê."
+    },
+    "gabarito": "D",
+    "disciplina": "Ética Profissional",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 14
+  },
+  {
+    "num": 4,
+    "enunciado": "Os advogados Eduardo e Diogo são sócios de uma sociedade profissional de advogados, cujos atos constitutivos foram devidamente registrados e aprovados pelo Conselho Seccional da OAB na base territorial em que está localizada a sua sede. No entanto, Eduardo foi contratado por Afonso para representálo em uma ação de alimentos movida por sua esposa Dalila, e Diogo foi contratado por Dalila para representá-la na mesma ação. Os advogados desejam saber se podem continuar com essas representações, tendo em vista que são sócios da mesma sociedade de advogados. Sobre o caso narrado, com base no **Art. 15** do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Eduardo e Diogo não podem representar, em juízo, clientes com interesses opostos, por serem sócios da mesma sociedade de advogados.",
+      "B": "Eduardo e Diogo podem representar Afonso e Dalila em juízo, desde que firmem compromisso por escrito de que não haverá conflito de interesse entre os dois advogados.",
+      "C": "Eduardo e Diogo podem continuar com as respectivas representações de Afonso e Dalila, desde que informem previamente ao Juiz que ambos fazem parte da mesma sociedade.",
+      "D": "Eduardo e Diogo podem continuar com as representações, desde que cada um atue de forma independente dentro da sociedade de advogados, contando com corpo auxiliar próprio."
+    },
+    "gabarito": "A",
+    "disciplina": "Ética Profissional",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "04_infracoes_e_sancoes",
+    "modulo_nome": "Infrações e Sanções Disciplinares",
+    "id": 15
+  }
+]

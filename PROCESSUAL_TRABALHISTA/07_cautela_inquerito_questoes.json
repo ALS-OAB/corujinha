@@ -1,0 +1,116 @@
+[
+  {
+    "num": 80,
+    "enunciado": "Uma sociedade empresária de grande porte, condenada na Justiça do Trabalho, verificando a nulidade de sua citação em uma reclamação trabalhista que se encontra na fase executória, pretende ajuizar ação rescisória. Seus advogados se dedicaram à peça e agora chegou o momento do ajuizamento da ação. Em relação a custas e depósito prévio, de acordo com a CLT, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Nas ações rescisórias, não há custas no depósito prévio.",
+      "B": "A sociedade empresária sujeita-se ao depósito prévio de 20% (vinte por cento) do valor da causa.",
+      "C": "Não haverá necessidade de qualquer preparo porque, estando a causa na fase de execução, não cabe ação rescisória.",
+      "D": "Devem ser recolhidas custas no importe de 2% sobre o valor da condenação. 2 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023 QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. As"
+    },
+    "gabarito": "B",
+    "disciplina": "Processo do Trabalho",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "07_cautela_inquerito",
+    "modulo_nome": "Procedimentos Especiais e Inquérito",
+    "id": 1
+  },
+  {
+    "num": 78,
+    "enunciado": "John estava empregado em uma sociedade empresária de óleo e gás, mas foi injustamente dispensado por justa causa, com base em uma falsa acusação de consumo de álcool a bordo da plataforma, no dia 20/03/2023. Você, como advogado de John, ajuizou reclamação trabalhista e a única testemunha do seu cliente não fala ou entende português, apenas inglês. Você a arrolou como testemunha, e já requereu e obteve o benefício da gratuidade de justiça. Sobre seu requerimento para a produção da prova, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Você deverá requerer ao juiz um intérprete, que será custeado pela ré, se sucumbente no objeto da prova, ou pela União, se você for a parte sucumbente.",
+      "B": "Deverá ser requerido ao juiz um intérprete, que, independentemente da gratuidade de justiça, deverá ser custeado pela parte a quem o depoimento interessar.",
+      "C": "Considerando que seu cliente fala inglês, ele poderá servir de intérprete pelo princípio da economia processual.",
+      "D": "A gratuidade de justiça não alcança o intérprete, sendo apenas para custas e perícias judiciais, logo a parte autora deverá custear a despesa processual."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo do Trabalho",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "modulo_codigo": "07_cautela_inquerito",
+    "modulo_nome": "Procedimentos Especiais e Inquérito",
+    "id": 2
+  },
+  {
+    "num": 78,
+    "enunciado": "Em sede de reclamação trabalhista, a decisão deferindo horas extras para o autor transitou em julgado. Após a liquidação de sentença e fixado o débito em R$ 10.000,00, a sociedade empresária que é ré foi intimada a pagar. Ocorre que, você, advogado(a) da sociedade empresária ré, entendeu que os valores estavam incorretos. Seu cliente teve um veículo penhorado para garantir a execução. Você apresentou embargos à execução tempestivamente, contestados pela parte contrária. O juiz julgou improcedente sua alegação e manteve o valor. Seu cliente lhe perguntou se haveria mais alguma medida para discutir - o valor. Admitindo que você foi notificado da decisão na data de ontem e que ela não contém nenhum vício processual formal, assinale a - opção que indica o recurso cabível.",
+    "alternativas": {
+      "A": "Agravo de Instrumento.",
+      "B": "Agravo de Petição.",
+      "C": "Ordinário.",
+      "D": "Recurso de Revista."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo do Trabalho",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "07_cautela_inquerito",
+    "modulo_nome": "Procedimentos Especiais e Inquérito",
+    "id": 3
+  },
+  {
+    "num": 76,
+    "enunciado": "Você, como advogado(a) , foi procurado(a) por Orlando, exfuncionário da sociedade empresária Limpeza Total Ltda., a qual prestava serviços para uma autarquia pública federal, aduzindo que foi dispensado sem receber as verbas rescisórias. Você deseja propor uma reclamação trabalhista em face da exempregadora, mas tem conhecimento de que esta não possui lastro financeiro algum, apesar do valor da causa da ação, que monta o equivalente a 30 salários mínimos. Orlando, como trabalhava no Departamento de Recursos Humanos, forneceu dados e provas de que a tomadora dos serviços nunca fiscalizou o contrato, nem conferiu o adimplemento de quaisquer dos direitos trabalhistas dos empregados terceirizados. Na melhor defesa de seu cliente, assinale a afirmativa que apresenta, corretamente, o que você de",
+    "alternativas": {
+      "A": "Uma ação apenas em face da ex-empregadora, pois não cabe responsabilidade subsidiária da autarquia pública federal.",
+      "B": "Uma ação exclusivamente em face da tomadora dos serviços, pelo rito sumaríssimo, pois já tem conhecimento do inadimplemento da ex-empregadora.",
+      "C": "Uma reclamação trabalhista em face da ex-empregadora e da tomadora dos serviços, que responderá subsidiariamente, sendo certo que a ação correrá pelo rito ordinário.",
+      "D": "Uma reclamação trabalhista em face da ex-empregadora e da tomadora dos serviços, que responderá subsidiariamente, sendo certo que a ação correrá pelo rito sumaríssimo."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo do Trabalho",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "07_cautela_inquerito",
+    "modulo_nome": "Procedimentos Especiais e Inquérito",
+    "id": 4
+  },
+  {
+    "num": 79,
+    "enunciado": "Helena foi empregada de uma sociedade empresária de fevereiro de 2022 a janeiro de 2024, quando foi dispensada sob a alegação de justa causa. Ciente de que não fez absolutamente nada de errado, e considerando que sua única testemunha é uma outra exfuncionária que se encontra enferma e terá pouco tempo de vida, Helena ajuizou, em março de 2024, uma ação para produção antecipada de provas, distribuída por sorteio para a 950ª Vara do Trabalho de São Paulo. Na referida ação foi colhido o depoimento da testemunha, que pouco depois veio a falecer. Arquivada a produção antecipada de provas, Helena pretende ajuizar reclamação trabalhista para anular a justa causa aplicada, valendo-se inclusive do testemunho da finada. Sobre o fato narrado, considerando o disposto na norma de regência, assinale a a",
+    "alternativas": {
+      "A": "A ação deverá ser distribuída ao Juízo da 950ª Vara do Trabalho de São Paulo, que é prevento para apreciar a lide.",
+      "B": "A reclamação trabalhista será livremente distribuída a uma das Varas do Trabalho de São Paulo.",
+      "C": "Qualquer Juízo do Trabalho poderá apreciar a demanda na localidade de São Paulo, exceto a 950ª Vara, que já realizou parte da instrução e formou juízo de valor.",
+      "D": "Far-se-á a distribuição por dependência à 950ª Vara do Trabalho de São Paulo, cabendo ao(à) advogado(a) do réu suscitar exceção de suspeição, caso o mesmo Magistrado que instruiu a produção antecipada da prova queira julgar a causa."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo do Trabalho",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "07_cautela_inquerito",
+    "modulo_nome": "Procedimentos Especiais e Inquérito",
+    "id": 5
+  },
+  {
+    "num": 78,
+    "enunciado": "Em determinada reclamação trabalhista que tramita perante a 58ª Vara do Trabalho de Cuiabá, MT, o pedido formulado foi julgado procedente em parte. A sociedade empresária reclamada recorreu ordinariamente e o reclamante, de forma adesiva. Distribuídos os apelos pelo Tribunal Regional, o Relator verificou que o recurso ordinário da reclamada se encontrava intempestivo, já que interposto no 16º dia contado da publicação da sentença. Considerando esses fatos e a norma de regência, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Os dois recursos não serão conhecidos.",
+      "B": "O recurso ordinário não será conhecido, e o recurso adesivo será apreciado.",
+      "C": "O recurso adesivo não será conhecido, salvo se o reclamante recorrente tiver feito o preparo na forma da lei.",
+      "D": "Equivocado o Relator, pois, havendo recurso adesivo, o prazo é contado em dobro, pelo que o recurso ordinário é tempestivo e será conhecido."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo do Trabalho",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "modulo_codigo": "07_cautela_inquerito",
+    "modulo_nome": "Procedimentos Especiais e Inquérito",
+    "id": 6
+  }
+]

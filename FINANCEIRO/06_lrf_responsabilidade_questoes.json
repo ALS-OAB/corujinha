@@ -1,0 +1,40 @@
+[
+  {
+    "num": 24,
+    "enunciado": "A Escolinha do Gol, entidade privada sem fins lucrativos, que realiza sua função social de fomento ao esporte no Município Alfa, Estado Beta, entre os anos de 2020 a 2022, recebeu diretamente da União a quantia de R$ 100.000,00 (cem mil reai s) para financiar seu programa beneficente de ensino e treinamento de futebol para crianças carentes da localidade. Pedro, administrador da instituição e técnico de futebol da escolinha, recebeu, em janeiro de 2023, uma notificação do Tribunal de Contas da União (TCU) intimando a instituição a prestar contas dos recursos recebidos no prazo de 30 (trinta) dias, sob pena da imediata devolução, acrescida de juros, correção monetária e multa. Tendo Pedro aplicado 100% dos recursos recebidos nas atividades da escolinha, contrata você, como advogado, para or",
+    "alternativas": {
+      "A": "Por não se tratar de uma entidade pública, e sim de uma instituição privada, não se submete à fiscalização e ao controle de qualquer Tribunal de Contas.",
+      "B": "Não pode o TCU fiscalizar e controlar tais repasses, cabendo apenas ao Tribunal de Contas do Estado Beta, por ser o Município Alfa destinatário e efetivo usuário de tais recursos repassados.",
+      "C": "É devida a prestação de contas de qualquer pessoa física ou jurídica, pública ou privada que receba e utilize dinheiro público.",
+      "D": "Apenas deverão prestar contas dos recursos públicos recebidos aqueles que os aplicarem em atividade diversa da originalmente estabelecida ou que não os tenham aplicado integralmente."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Financeiro",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "06_lrf_responsabilidade",
+    "modulo_nome": "Lei de Responsabilidade Fiscal (LRF - LC nº 101/00)",
+    "id": 1
+  },
+  {
+    "num": 24,
+    "enunciado": "O Município Alfa revogou a lei que instituía a cobrança do Imposto Predial e Territorial Urbano (IPTU) dos imóveis situados em seu território, há mais de 5 anos, deixando, desde então, de realizar sua cobrança e arrecadação. Notificado pelo respectivo Tribunal de Contas para retornar a cobrar o imposto por descumprir um dos requisitos essenciais de uma gestão fiscal responsável, o prefeito pergunta a você, como advogado(a) , qual será a consequência para a municipalidade, caso mantenha a política da não instituição, previsão e efetiva arrecadação de todos os impostos de sua competência constitucionalmente atribuída. Nesse cenário, à luz da Lei de Responsabilidade Fiscal (LC nº 101/2000), você respondeu que o Município Alfa ficará impedido de",
+    "alternativas": {
+      "A": "realizar operações de crédito.",
+      "B": "realizar qualquer concurso público.",
+      "C": "receber transferências voluntárias.",
+      "D": "contratar com qualquer outro ente da Federação."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Financeiro",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "06_lrf_responsabilidade",
+    "modulo_nome": "Lei de Responsabilidade Fiscal (LRF - LC nº 101/00)",
+    "id": 2
+  }
+]

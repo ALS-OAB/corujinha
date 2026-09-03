@@ -1,0 +1,134 @@
+[
+  {
+    "num": 53,
+    "enunciado": "Marcela ajuizou ação de cobrança em face de Gabriel, seu vizinho, a fim de obter o pagamento de aluguéis vencidos no período de fevereiro a junho de determinado ano, relativos à locação da sua vaga de garagem. Uma vez citado, Gabriel apresentou contestação tempestivamente, invocando uma questão preliminar de falta de interesse processual. Instada a se manifestar em réplica, Marcela alegou que teria cometido um erro material na digitação da sua petição inicial, uma vez que nela deveria ter constado, como termo final da dívida, o mês de “julho” - e não de “junho”. Sem a oitiva de Gabriel, constatando não haver mais provas a serem produzidas, o juiz proferiu sentença, condenando o réu ao pagamento dos aluguéis relativos aos meses de fevereiro a julho. Surpreso com a sentença, Gabriel question",
+    "alternativas": {
+      "A": "Por não se tratar de modificação, mas de simples retificação de erro material, Marcela poderia ter requerido a alteração do pedido a qualquer tempo, sendo dispensável a manifestação de Gabriel.",
+      "B": "Em se tratando de alteração do pedido posterior à citação, Marcela não poderia tê-lo feito sem o consentimento de Gabriel e sem que ele fosse ouvido.",
+      "C": "Marcela poderia ter alterado o pedido, independentemente do consentimento de Gabriel, desde que ele fosse ouvido.",
+      "D": "Por se tratar de alteração do pedido antes do saneamento do processo, o consentimento de Gabriel era desnecessário."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 1
+  },
+  {
+    "num": 56,
+    "enunciado": "Humberto, em conjunto com seus amigos Paulo e Maria, eram os únicos sócios da Sociedade Incorporadora Ltda. Com o falecimento de Humberto e considerando que nenhum de seus sucessores integrava o quadro societário da Sociedade Incorporadora Ltda., seu espólio ajuizou ação de dissolução parcial da referida sociedade, requerendo a citação apenas de Paulo e Maria. Devidamente citados, Paulo e Maria concordaram com o pedido formulado na ação, pelo que o juiz proferiu sentença decretando a dissolução parcial da sociedade em relação ao espólio de Humberto e condenando Paulo e Maria ao pagamento de honorários advocatícios de sucumbência. Na sentença, o juiz relegou a apuração de haveres da sociedade para a fase subsequente e imediata de liquidação. Diante da situação hipotética acima descrita, ass",
+    "alternativas": {
+      "A": "A sentença proferida pelo juiz está contaminada por vício de nulidade, tendo em vista que a Sociedade Incorporadora Ltda. não foi citada para integrar a lide, concordando com o pedido ou contestando a ação.",
+      "B": "Paulo e Maria poderão interpor recurso de apelação contra a sentença, sob o argumento de que, não tendo eles se oposto ao pedido de dissolução parcial da sociedade, descaberia ao juiz condená-los ao pagamento de honorários advocatícios de sucumbência.",
+      "C": "Ainda que não realizada a partilha dos bens de Humberto, seu espólio não possui legitimidade para ajuizar a ação, pois a legitimidade para requerer a dissolução parcial da Sociedade Incorporadora Ltda. é apenas dos sócios resmanescentes, Paulo e Maria.",
+      "D": "O juiz não poderia ter determinado a apuração de haveres na fase subsequente e imediata de liquidação, visto ser necessário para a referida a apuração o ajuizamento de ação autônoma, distinta da ação de dissolução parcial de sociedade."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 2
+  },
+  {
+    "num": 52,
+    "enunciado": "Leonardo adquiriu uma televisão na Loja Francesa pelo valor de R$ 12.000,00 (doze mil reai s) , quantia que seria paga por meio de cartão de crédito em 12 (doze) parcelas de R$ 1.000,00. Ocorre que, após o pagamento da 6ª (sexta) parcela, a Loja Francesa passou a cobrar R$ 2.000,00 (dois mil reai s) de Leonardo nas 6 (seis) parcelas restantes. Por ter constatado a cobrança indevida somente depois de realizar o pagamento integral, Leonardo ajuizou ação pelo procedimento comum em face da Loja Francesa para ser ressarcido em dobro pelo valor indevidamente cobrado na forma do **Art. 42** , parágrafo único, do Código de Defesa do Consumidor. Depois da contestação e regular instrução, o Juízo da Vara Cível competente proferiu sentença julgando procedente o pedido de Leonardo, com a consequente c",
+    "alternativas": {
+      "A": "Não será possível interpor qualquer recurso, pois é irrecorrível a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.",
+      "B": "Reclamação, pois é irrecorrível a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.",
+      "C": "Ação rescisória, pois é irrecorrível a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.",
+      "D": "Agravo interno, pois esse é o recurso cabível contra a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos."
+    },
+    "gabarito": "D",
+    "disciplina": "Processo Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 3
+  },
+  {
+    "num": 55,
+    "enunciado": "Maria Joana tem contrato de locação firmado com Mariana há muitos anos. A relação contratual entre elas é tranquila, e Maria Joana nunca atrasou o pagamento do aluguel. Além disso, mantém - o imóvel de Mariana em perfeito estado de conservação. O contrato estipula os casos de rescisão. Certo dia, ocorreu um desastre natural na localidade em que Mariana morava e a Defesa Civil a orientou a não voltar para casa, pois o local não oferecia mais segurança. Diante dessa situação, Mariana não teve outra saída, senão pedir o imóvel que locou para Maria Joana, para seu uso próprio. Mariana respeitou a legislação e o contrato, mas Maria Joana recusou-se a desocupar e a entregar - o imóvel. Mariana, sem ter onde morar, ajuizou ação de despejo em face de Maria Joana no Juizado Especial Cível. A advoga",
+    "alternativas": {
+      "A": "A alegação da advogada de Maria Joana, com relação à competência do Juizado Especial Cível, está correta.",
+      "B": "As ações de maior complexidade não são de competência dos Juizados Cíveis, portanto as ações de despejo não podem ser ajuizadas perante tais órgãos jurisdicionais.",
+      "C": "O Juizado Especial Cível é competente para conciliar, processar e julgar as causas cíveis de menor complexidade, assim considerada a ação de despejo para uso próprio.",
+      "D": "As ações de despejo e as de natureza alimentar, quando não complexas, podem ser propostas nos Juizados Especiais Cíveis."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Civil",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 4
+  },
+  {
+    "num": 51,
+    "enunciado": "Rodrigo e Thaís, após o início do namoro, assistiam a um show em uma arena lotada, com cerca de dez mil pessoas, promovido pela Alegria Produções Artísticas. Em um determinado momento, eles perceberam que o teto montado especialmente para o evento estava desabando e, em consequência, duas mil pessoas ficaram feridas, entre elas, Rodrigo e Thaís. Após a negativa da Alegria Produções Artísticas em reparar os danos causados, Rodrigo e Thaís convenceram todas as pessoas feridas no show a proporem ação, em conjunto, em face da produtora. Sobre o caso concreto, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Duas ou mais pessoas não podem litigar no mesmo processo, haja vista que a ação judicial deverá ser proposta de forma individualizada.",
+      "B": "Duas ou mais pessoas podem litigar no mesmo processo, em conjunto, mas apenas no polo ativo, ficando vedado o litisconsórcio passivo.",
+      "C": "O Juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes na fase de conhecimento, quando este comprometer a rápida solução do litígio ou dificultar a defesa ou o cumprimento de sentença.",
+      "D": "O Juiz não poderá limitar o litisconsórcio facultativo, por ausência de previsão legal, sendo direito de todos os envolvidos no acidente propor a ação em conjunto."
+    },
+    "gabarito": "C",
+    "disciplina": "Processo Civil",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 5
+  },
+  {
+    "num": 53,
+    "enunciado": "Em execução fundada em título extrajudicial, movida por Murilo, seu ex-sócio, Marília foi executada. Após regular citação, Marília não ofertou defesa, não nomeou bens à penhora, nem pagou o débito exequendo. Por essa razão, Murilo requereu a realização de penhora em contas correntes de titularidade de Marília, com o intuito de satisfazer seu crédito. A indisponibilidade do valor foi determinada pelo Juízo. Tomando o caso acima como premissa, assinale a afirmativa correta. (",
+    "alternativas": {
+      "B": "Eventual impenhorabilidade das quantias tornadas indisponíveis poderá ser comprovada por Marília no prazo de 10 dias, contados da intimação da penhora.",
+      "C": "Marília poderá requerer a substituição da penhora do dinheiro por fiança bancária, em valor não inferior ao do débito constante da petição inicial, acrescido de vinte por cento.",
+      "D": "Caso Marília efetue o pagamento da dívida por outro meio, o Juiz determinará a notificação da instituição financeira para que, em até 48 horas, cancele a indisponibilidade."
+    },
+    "gabarito": "A",
+    "disciplina": "Processo Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 6
+  },
+  {
+    "num": 55,
+    "enunciado": "Glauco ingressou com uma ação contra Alex que, após o trânsito em julgado da sentença condenatória, deu início ao cumprimento de sentença. Alex foi devidamente intimado para pagar o débito no prazo legal, mas não realizou o pagamento. Seis dias após o término do prazo para o pagamento, ao ser questionado sobre a apresentação da impugnação ao cumprimento de sentença, Alex afirmou que ainda aguardava uma intimação específica para impugnar, pois acreditava que o prazo para se manifestar só começaria a contar após essa nova intimação. Diante dessa situação, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Alex está correto, pois o prazo para impugnação ao cumprimento de sentença só se inicia após uma nova intimação específica para esse fim.",
+      "B": "O prazo para impugnação ao cumprimento de sentença tem início após o transcurso do prazo para o pagamento voluntário, independentemente de nova intimação.",
+      "C": "Alex pode apresentar a impugnação a qualquer momento durante a execução, pois não há prazo específico para essa manifestação, em razão do princípio da ampla defesa, devendo ser apresentada em autos apartados.",
+      "D": "O prazo para a impugnação ao cumprimento de sentença tem início antes do prazo para o pagamento voluntário, isto é, primeiro Alex é intimado para impugnar e, caso a impugnação não seja acolhida, ele é intimado para efetuar o pagamento do débito."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "05_provas_sentenca",
+    "modulo_nome": "Instrução Probatória e Sentença",
+    "id": 7
+  }
+]

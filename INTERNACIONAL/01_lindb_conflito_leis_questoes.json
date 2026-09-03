@@ -1,0 +1,59 @@
+[
+  {
+    "num": 19,
+    "enunciado": "Você, como advogado(a), foi procurada(o) por uma família indígena que relatou ter interesse em manter sua cultura e suas tradições. Contudo, na escola pública mais próxima da comunidade indígena, escola em que estudam algumas crianças dessa comunidade, o ensino ocorre apenas em Língua Portuguesa. Em relação a isso, você deve esclarecer para a família que",
+    "alternativas": {
+      "A": "o paradigma adotado pelo ordenamento jurídico brasileiro é o da integração, por isso o ensino feito exclusivamente Em Língua Portuguesa é, na verdade, uma forma de assegurar o direito dos índios de se integrarem à cultura mais abrangente.",
+      "B": "no ensino regular fundamental cabe apenas a Língua Portuguesa. Para que seja assegurada às comunidades indígenas a utilização da sua língua materna isso deve acontecer fora do ensino regular fundamental, em escolas mantidas pelas próprias comunidades indígenas.",
+      "C": "no ensino fundamental de competência dos municípios, cada municipalidade, de acordo com sua legislação local, é que vai decidir sobre a utilização ou não de línguas maternas indígenas no sistema oficial de ensino.",
+      "D": "não obstante o ensino fundamental regular ser ministrado em Língua Portuguesa, deve ser assegurada às comunidades indígenas também a utilização de suas línguas maternas e processos próprios de aprendizagem."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Internacional",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "01_lindb_conflito_leis",
+    "modulo_nome": "LINDB e Conflito de Leis no Espaço",
+    "id": 1
+  },
+  {
+    "num": 21,
+    "enunciado": "Sofia, brasileira nata, com dupla nacionalidade, portuguesa e brasileira, decidiu renunciar à nacionalidade brasileira e procurou você, como advogado(a) , para receber a orientação jurídica adequada sobre os efeitos de tal decisão. Depois da avaliação do caso, você afirmou, corretamente, à sua cliente que",
+    "alternativas": {
+      "A": "a renúncia sendo feita de forma expressa, perante autoridade brasileira competente, dará causa à declaração da perda da nacionalidade brasileira.",
+      "B": "a renúncia, sendo feita de forma tácita, dará causa à declaração da perda da nacionalidade brasileira.",
+      "C": "após a efetivação da perda da nacionalidade, ela não poderá readquirir a nacionalidade brasileira originária.",
+      "D": "a renúncia não será aceita pela autoridade brasileira competente, em razão do risco de geração de situação de apatridia."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Internacional",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "modulo_codigo": "01_lindb_conflito_leis",
+    "modulo_nome": "LINDB e Conflito de Leis no Espaço",
+    "id": 2
+  },
+  {
+    "num": 21,
+    "enunciado": "Hector, cidadão espanhol, chega ao Brasil, em janeiro de 2024, para passar as férias de verão em Salvador. Contudo, é proibido de ingressar no país pela Polícia Federal do Aeroporto Internacional de Salvador, porque, em janeiro de 2020, Hector foi expulso do Brasil e tal medida fora conjugada com o impedimento de reingresso por cinco anos. Sobre a hipótese apresentada, assinale a opção que indica, corretamente, a medida de retirada compulsória a ser aplicada a Hector.",
+    "alternativas": {
+      "A": "Extradição.",
+      "B": "Expulsão.",
+      "C": "Deportação.",
+      "D": "Repatriação."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Internacional",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "01_lindb_conflito_leis",
+    "modulo_nome": "LINDB e Conflito de Leis no Espaço",
+    "id": 3
+  }
+]

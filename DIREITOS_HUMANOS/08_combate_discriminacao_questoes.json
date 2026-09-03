@@ -1,0 +1,40 @@
+[
+  {
+    "num": 18,
+    "enunciado": "STJ transfere à Justiça Federal apuração da morte de líderes de trabalhadores rurais em Rondônia A pedido da Procuradoria-Geral da República (PGR), a Terceira Seção do Superior Tribunal de Justiça (STJ) determinou a transferência, para a Justiça Federal, de seis inquéritos relativos a crimes de homicídio praticados contra líderes de trabalhadores rurais e outras pessoas que denunciaram grilagem de terras e exploração ilegal de madeira em Rondônia. Notícias do STJ – 25/08/2023 A notícia acima, informada no site do STJ, diz respeito a um instituto exclusivo para a proteção dos Direitos Humanos previsto na Constituição Federal/88. Assinale a opção que o indica.",
+    "alternativas": {
+      "A": "Arguição de Descumprimento de Preceito Fundamental.",
+      "B": "Incidente de Deslocamento de Competência.",
+      "C": "Tese com Repercussão Geral.",
+      "D": "Ação Popular."
+    },
+    "gabarito": "B",
+    "disciplina": "Direitos Humanos",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "modulo_codigo": "08_combate_discriminacao",
+    "modulo_nome": "Combate ao Preconceito, Discriminação e Violência",
+    "id": 1
+  },
+  {
+    "num": 18,
+    "enunciado": "Em relação aos Direitos Humanos das pessoas presas, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Tanto as Regras de Nelson Mandela quanto as Regras de Bangkok possuem natureza de soft law, ou seja, são consideradas normas não vinculantes de Direito Internacional. Nada obstante, configuram-se em importantes diretrizes que servem de orientação para os Estados membros da Organização das Nações Unidas.",
+      "B": "No âmbito do Sistema de Proteção Interamericano de Direitos Humanos foram editadas as denominadas regras de Nelson Mandela, com vistas à fixação de standards mínimos de organização e funcionamento dos estabelecimentos prisionais, em ordem à proteção dos direitos dos indivíduos privados de suas liberdades.",
+      "C": "De acordo com as Regras Mínimas das Nações Unidas para o Tratamento de Presos, todas as penas cruéis, desumanas, degradantes ou que impliquem tortura devem ser proibidas. Entretanto, não há óbice à imposição do confinamento solitário prolongado, desde que aplicado como forma de sanção disciplinar, em razão de falta grave cometida pelo apenado.",
+      "D": "No âmbito do sistema global, há dois tratados, consubstanciando-se em norma de jus cogens, que estabelecem disposições específicas para os presos do sexo masculino e do sexo feminino. Assim, enquanto as Regras de Nelson Mandela disciplinam os cuidados mínimos com os encarcerados do sexo masculino, não se aplicando às mulheres presas, as regras de Bangkok se destinam exclusivamente ao encarcerament"
+    },
+    "gabarito": "A",
+    "disciplina": "Direitos Humanos",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "modulo_codigo": "08_combate_discriminacao",
+    "modulo_nome": "Combate ao Preconceito, Discriminação e Violência",
+    "id": 2
+  }
+]
