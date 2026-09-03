@@ -3,502 +3,466 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Corujinha · Exame de Ordem OAB</title>
+  <title>Corujinha · Plataforma OAB · André L. da Silva</title>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
   <style>
+    /* ── Tokens idênticos aos dashboards ── */
     :root {
-      --blue:     #1e5ca8;
-      --blue-dk:  #0d3b72;
-      --blue-lt:  #e8f0fb;
-      --red:      #c8102e;
-      --red-lt:   #fdf0f2;
-      --text:     #0f172a;
-      --muted:    #4b5563;
-      --dim:      #9ca3af;
-      --border:   #e5e7eb;
-      --bg:       #f9fafb;
-      --surface:  #ffffff;
-      --shadow:   0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
-      --shadow-md:0 4px 16px rgba(0,0,0,.07), 0 2px 6px rgba(0,0,0,.04);
-      --shadow-lg:0 12px 32px rgba(0,0,0,.10), 0 4px 10px rgba(0,0,0,.05);
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --surface-border: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --text-light: #94a3b8;
+      --primary: #0f172a;
+      --accent-color: #2563eb;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,.04), 0 1px 2px rgba(0,0,0,.02);
+      --shadow-float: 0 10px 30px -5px rgba(0,0,0,.04), 0 4px 12px -2px rgba(0,0,0,.02);
+      --shadow-hover: 0 20px 35px -10px rgba(0,0,0,.07), 0 8px 16px -4px rgba(0,0,0,.02);
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; -webkit-tap-highlight-color: transparent; }
-    body { background: var(--bg); color: var(--text); min-height: 100vh; -webkit-font-smoothing: antialiased; }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, -apple-system, sans-serif; -webkit-tap-highlight-color: transparent; }
+    body { background-color: var(--bg); color: var(--text-main); min-height: 100vh; display: flex; flex-direction: column; -webkit-font-smoothing: antialiased; }
 
-    /* ── Topo institucional ── */
-    .topbar {
-      background: var(--blue-dk);
-      padding: 6px 32px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-    .topbar-left { font-size: 11px; color: rgba(255,255,255,.65); letter-spacing: 0.3px; }
-    .topbar-right { font-size: 11px; color: rgba(255,255,255,.5); }
-
-    /* ── Header principal ── */
+    /* ── Header (idêntico aos dashboards) ── */
     header {
-      background: var(--blue);
-      padding: 0 32px;
-      height: 64px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--surface-border);
+      padding: 18px 40px;
       display: flex;
-      align-items: center;
       justify-content: space-between;
-      box-shadow: 0 2px 8px rgba(13,59,114,.35);
+      align-items: center;
       position: sticky;
       top: 0;
       z-index: 100;
     }
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 14px;
+    .brand { display: flex; align-items: center; gap: 14px; }
+    .brand img { width: 38px; height: auto; display: block; }
+    .brand-text h1 { font-size: 16px; font-weight: 700; color: var(--text-main); letter-spacing: -0.3px; }
+    .brand-text p { font-size: 12px; color: var(--text-muted); font-weight: 400; }
+    .header-info { display: flex; align-items: center; gap: 12px; }
+    .info-pill {
+      font-size: 12px; font-weight: 600;
+      padding: 6px 14px; border-radius: 8px;
+      display: flex; align-items: center; gap: 6px;
     }
-    .brand-seal {
-      width: 38px;
-      height: 38px;
-      border-radius: 50%;
-      background: var(--surface);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-    }
-    .brand-seal svg { display: block; }
-    .brand-text-wrap { display: flex; flex-direction: column; gap: 1px; }
-    .brand-name {
-      font-size: 16px;
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.3px;
-      line-height: 1;
-    }
-    .brand-sub {
-      font-size: 10px;
-      font-weight: 600;
-      color: rgba(255,255,255,.65);
-      text-transform: uppercase;
-      letter-spacing: 1px;
-    }
-    .header-pill {
-      background: rgba(255,255,255,.15);
-      border: 1px solid rgba(255,255,255,.25);
-      color: rgba(255,255,255,.9);
-      font-size: 11px;
-      font-weight: 700;
-      padding: 6px 14px;
-      border-radius: 6px;
-      letter-spacing: 0.5px;
-      text-transform: uppercase;
-    }
-
-    /* ── Hero ── */
-    .hero {
-      background: var(--blue);
-      padding: 40px 32px 48px;
-      position: relative;
-      overflow: hidden;
-    }
-    .hero::after {
-      content: '';
-      position: absolute;
-      bottom: 0; left: 0; right: 0;
-      height: 32px;
-      background: var(--bg);
-      border-radius: 32px 32px 0 0;
-    }
-    .hero-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 32px;
-      flex-wrap: wrap;
-    }
-    .hero-text { flex: 1; min-width: 220px; }
-    .hero-eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 11px;
-      font-weight: 700;
-      color: rgba(255,255,255,.75);
-      text-transform: uppercase;
-      letter-spacing: 1.2px;
-      margin-bottom: 12px;
-    }
-    .hero-eyebrow-dot {
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
-      background: var(--red);
-      flex-shrink: 0;
-    }
-    .hero-title {
-      font-size: 26px;
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.5px;
-      line-height: 1.2;
-      margin-bottom: 10px;
-    }
-    .hero-desc {
-      font-size: 14px;
-      color: rgba(255,255,255,.7);
-      line-height: 1.65;
-      max-width: 500px;
-    }
-    .hero-stats {
-      display: flex;
-      gap: 2px;
-      align-self: center;
-      flex-shrink: 0;
-      background: rgba(255,255,255,.12);
-      border: 1px solid rgba(255,255,255,.2);
-      border-radius: 12px;
-      overflow: hidden;
-    }
-    .stat {
-      padding: 16px 22px;
-      display: flex;
-      flex-direction: column;
-      gap: 3px;
-      border-right: 1px solid rgba(255,255,255,.15);
-    }
-    .stat:last-child { border-right: none; }
-    .stat-n { font-size: 22px; font-weight: 800; color: #fff; letter-spacing: -0.5px; }
-    .stat-l { font-size: 10px; font-weight: 600; color: rgba(255,255,255,.6); text-transform: uppercase; letter-spacing: 0.5px; }
+    .info-pill.success { background: #ecfdf5; color: #047857; border: 1px solid #a7f3d0; }
+    .info-pill.neutral { background: #f8fafc; color: var(--text-muted); border: 1px solid var(--surface-border); }
 
     /* ── Main ── */
-    main {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 8px 24px 64px;
-    }
+    main { flex: 1; max-width: 1200px; width: 100%; margin: 0 auto; padding: 36px 24px; }
 
-    /* ── Section head ── */
-    .section-head {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      margin: 28px 0 18px;
-    }
-    .section-label {
-      font-size: 11px;
-      font-weight: 800;
-      color: var(--blue);
-      text-transform: uppercase;
-      letter-spacing: 1.2px;
-      white-space: nowrap;
-    }
-    .section-rule { flex: 1; height: 1px; background: var(--border); }
-
-    /* ── Grid ── */
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 14px;
-    }
-
-    /* ── Card ── */
-    a.card {
-      display: block;
+    /* ── Hero banner (idêntico aos dashboards) ── */
+    .hero-banner {
       background: var(--surface);
-      border: 1px solid var(--border);
-      border-top: 3px solid var(--c, var(--blue));
-      border-radius: 10px;
-      padding: 20px;
-      text-decoration: none;
-      color: var(--text);
-      box-shadow: var(--shadow);
-      transition: box-shadow 0.2s, transform 0.2s;
+      border: 1px solid var(--surface-border);
+      border-left: 3px solid var(--accent-color);
+      border-radius: 14px;
+      padding: 32px 36px;
+      margin-bottom: 32px;
+      box-shadow: var(--shadow-float);
     }
-    a.card:hover {
-      box-shadow: var(--shadow-lg);
-      transform: translateY(-2px);
+    .hero-subtitle {
+      font-size: 11px; font-weight: 700;
+      color: var(--accent-color);
+      text-transform: uppercase; letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+    .hero-banner h2 { font-size: 22px; font-weight: 700; color: var(--text-main); margin-bottom: 8px; letter-spacing: -0.3px; }
+    .hero-banner > p { font-size: 14px; color: var(--text-muted); max-width: 760px; line-height: 1.6; }
+
+    .hero-stats { display: flex; gap: 28px; margin-top: 20px; flex-wrap: wrap; }
+    .stat-item { display: flex; flex-direction: column; gap: 2px; }
+    .stat-val { font-size: 22px; font-weight: 800; color: var(--text-main); letter-spacing: -0.5px; }
+    .stat-lbl { font-size: 10px; font-weight: 700; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.8px; }
+
+    /* ── Tabs / view-tabs (idêntico aos dashboards) ── */
+    .view-tabs {
+      display: flex; gap: 8px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--surface-border);
+      padding-bottom: 12px;
+    }
+    .tab-btn {
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--text-muted);
+      padding: 8px 16px; border-radius: 8px;
+      font-size: 13px; font-weight: 600;
+      cursor: default;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .tab-btn.active {
+      background: var(--surface); color: var(--text-main);
+      border: 1px solid var(--surface-border);
+      box-shadow: var(--shadow-sm); font-weight: 700;
     }
 
-    .card-head {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 12px;
+    /* ── Grid (idêntico aos dashboards) ── */
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 20px;
     }
+
+    /* ── module-card (idêntico aos dashboards) ── */
+    a.module-card {
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-radius: 14px;
+      padding: 24px;
+      display: flex; flex-direction: column;
+      justify-content: space-between;
+      box-shadow: var(--shadow-float);
+      transition: all 0.2s ease;
+      text-decoration: none;
+      color: var(--text-main);
+    }
+    a.module-card:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-hover);
+      border-color: #cbd5e1;
+    }
+    .card-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+
+    /* Sigla colorida na cor da disciplina */
     .card-sigla {
-      font-size: 10px;
-      font-weight: 800;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-      color: var(--c, var(--blue));
-      background: color-mix(in srgb, var(--c, var(--blue)) 10%, white);
-      padding: 4px 9px;
-      border-radius: 5px;
-      border: 1px solid color-mix(in srgb, var(--c, var(--blue)) 22%, white);
+      font-size: 11px; font-weight: 800;
+      letter-spacing: 0.8px; text-transform: uppercase;
+      color: var(--disc-color);
+      background: color-mix(in srgb, var(--disc-color) 12%, white);
+      padding: 4px 10px; border-radius: 6px;
+      border: 1px solid color-mix(in srgb, var(--disc-color) 25%, white);
     }
-    .card-count {
-      font-size: 11px;
-      font-weight: 500;
-      color: var(--dim);
-    }
-    .card-name {
-      font-size: 14px;
-      font-weight: 700;
-      color: var(--text);
-      margin-bottom: 4px;
-      letter-spacing: -0.2px;
-      line-height: 1.35;
-    }
-    .card-scope {
-      font-size: 12px;
-      color: var(--muted);
-      line-height: 1.5;
-    }
-    .card-foot {
-      margin-top: 14px;
-      padding-top: 12px;
-      border-top: 1px solid #f3f4f6;
-      display: flex;
-      align-items: center;
+    .card-count { font-size: 11px; color: var(--text-light); font-weight: 500; }
+    .card-title { font-size: 16px; font-weight: 700; color: var(--text-main); margin-bottom: 8px; line-height: 1.35; letter-spacing: -0.3px; }
+    .card-desc { font-size: 13px; color: var(--text-muted); line-height: 1.55; margin-bottom: 18px; }
+
+    .card-footer {
+      display: flex; align-items: center;
       justify-content: space-between;
+      padding-top: 14px;
+      border-top: 1px solid #f1f5f9;
     }
-    .card-mods { font-size: 11px; color: var(--dim); font-weight: 500; }
-    .card-link {
-      font-size: 11px;
-      font-weight: 700;
-      color: var(--blue);
-      display: flex;
-      align-items: center;
-      gap: 3px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
+    .card-info { font-size: 12px; color: var(--text-light); font-weight: 500; }
+
+    .btn-primary {
+      background: var(--primary);
+      color: #ffffff;
+      border: 1px solid var(--primary);
+      padding: 9px 18px;
+      border-radius: 8px;
+      font-size: 13px; font-weight: 600;
+      cursor: pointer;
+      display: flex; align-items: center; gap: 6px;
+      transition: all 0.2s;
+      text-decoration: none;
     }
-    .card-link svg { transition: transform 0.2s; }
-    a.card:hover .card-link svg { transform: translateX(3px); }
+    .btn-primary:hover { background: #1e293b; border-color: #1e293b; }
 
     /* ── Footer ── */
     footer {
-      background: var(--blue-dk);
-      color: rgba(255,255,255,.5);
+      background: var(--surface);
+      border-top: 1px solid var(--surface-border);
       text-align: center;
       padding: 20px 32px;
       font-size: 12px;
-      letter-spacing: 0.2px;
-      margin-top: 48px;
+      color: var(--text-light);
     }
-    footer strong { color: rgba(255,255,255,.8); font-weight: 600; }
 
-    /* ── Mobile ── */
-    @media (max-width: 640px) {
-      .topbar { display: none; }
-      header { padding: 0 16px; height: 56px; }
-      .hero { padding: 28px 16px 44px; }
-      .hero-stats { width: 100%; }
-      .stat { flex: 1; padding: 12px 14px; }
-      main { padding: 4px 14px 48px; }
-      .grid { grid-template-columns: 1fr; gap: 10px; }
-      .hero-title { font-size: 20px; }
+    @media (max-width: 768px) {
+      header { padding: 14px 20px; }
+      .hero-banner { padding: 20px; }
+      .hero-banner h2 { font-size: 18px; }
+      .grid-container { grid-template-columns: 1fr; }
     }
   </style>
 </head>
 <body>
 
-<div class="topbar">
-  <span class="topbar-left">Conselho Federal da Ordem dos Advogados do Brasil</span>
-  <span class="topbar-right">1ª Fase · Exame de Ordem</span>
-</div>
-
 <header>
   <div class="brand">
-    <div class="brand-seal">
-      <!-- Balança — ícone jurídico SVG -->
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M12 3v18M3 6l4 8M3 6h18M21 6l-4 8" stroke="#1e5ca8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M7 14H3a4 4 0 004 4 4 4 0 004-4H7zM21 14h-4a4 4 0 004 4 4 4 0 004-4h-4z" stroke="#c8102e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-    </div>
-    <div class="brand-text-wrap">
-      <span class="brand-name">Corujinha</span>
-      <span class="brand-sub">Plataforma de Estudos OAB</span>
+    <img src="assets/oab-nc.png" alt="OAB Nacional" width="38">
+    <div class="brand-text">
+      <h1>Corujinha · Plataforma OAB 1ª Fase</h1>
+      <p>André L. da Silva</p>
     </div>
   </div>
-  <span class="header-pill">37º – 46º Exame</span>
+  <div class="header-info">
+    <span class="info-pill success">✓ 824 Questões Verificadas</span>
+    <span class="info-pill neutral">37º – 46º Exame</span>
+  </div>
 </header>
 
-<div class="hero">
-  <div class="hero-inner">
-    <div class="hero-text">
-      <div class="hero-eyebrow">
-        <span class="hero-eyebrow-dot"></span>
-        Questões Oficiais · Gabarito Verificado
-      </div>
-      <div class="hero-title">Plataforma de Estudos<br>para o Exame de Ordem</div>
-      <div class="hero-desc">Questões reais dos últimos 10 exames da OAB organizadas por disciplina e módulo temático, com fundamentação legal e análise por alternativa.</div>
-    </div>
-    <div class="hero-stats">
-      <div class="stat"><span class="stat-n">824</span><span class="stat-l">Questões</span></div>
-      <div class="stat"><span class="stat-n">20</span><span class="stat-l">Disciplinas</span></div>
-      <div class="stat"><span class="stat-n">10</span><span class="stat-l">Exames</span></div>
-    </div>
-  </div>
-</div>
-
 <main>
-  <div class="section-head">
-    <span class="section-label">Selecione a Disciplina</span>
-    <div class="section-rule"></div>
+
+  <div class="hero-banner">
+    <div class="hero-subtitle">REPOSITÓRIO OFICIAL · 20 DISCIPLINAS · 824 QUESTÕES NA 1ª FASE OAB</div>
+    <h2>Questões Comentadas com Fundamentação Legal</h2>
+    <p>Questões reais dos últimos 10 exames da OAB organizadas por disciplina e módulo temático, com gabarito oficial, análise por alternativa e fundamento legal.</p>
+    <div class="hero-stats">
+      <div class="stat-item"><span class="stat-val">824</span><span class="stat-lbl">Questões</span></div>
+      <div class="stat-item"><span class="stat-val">20</span><span class="stat-lbl">Disciplinas</span></div>
+      <div class="stat-item"><span class="stat-val">10</span><span class="stat-lbl">Exames</span></div>
+      <div class="stat-item"><span class="stat-val">160</span><span class="stat-lbl">Módulos</span></div>
+    </div>
   </div>
 
-  <div class="grid">
+  <div class="view-tabs">
+    <button class="tab-btn active">📚 Todas as Disciplinas (20)</button>
+  </div>
 
-    <a class="card" href="ETICA/Dashboard_Etica_Premium.html" style="--c:#7c3aed">
-      <div class="card-head"><span class="card-sigla">EOAB</span><span class="card-count">122 questões</span></div>
-      <div class="card-name">Ética Profissional</div>
-      <div class="card-scope">Estatuto da Advocacia · Infrações e Sanções · Honorários · Publicidade</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+  <div class="grid-container">
+
+    <a class="module-card" href="ETICA/Dashboard_Etica_Premium.html" style="--disc-color:#d97706">
+      <div>
+        <div class="card-top"><span class="card-sigla">EOAB</span><span class="card-count">122 questões</span></div>
+        <div class="card-title">Ética Profissional</div>
+        <div class="card-desc">Estatuto da Advocacia · Infrações e Sanções · Honorários · Publicidade e Marketing</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="CONSTITUCIONAL/Dashboard_Constitucional_Premium.html" style="--c:#16a34a">
-      <div class="card-head"><span class="card-sigla">CF/88</span><span class="card-count">59 questões</span></div>
-      <div class="card-name">Direito Constitucional</div>
-      <div class="card-scope">Direitos Fundamentais · Organização do Estado · Controle de Constitucionalidade</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="CONSTITUCIONAL/Dashboard_Constitucional_Premium.html" style="--disc-color:#059669">
+      <div>
+        <div class="card-top"><span class="card-sigla">CF/88</span><span class="card-count">59 questões</span></div>
+        <div class="card-title">Direito Constitucional</div>
+        <div class="card-desc">Direitos Fundamentais · Organização do Estado · Controle de Constitucionalidade</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="CIVIL/Dashboard_Civil_Premium.html" style="--c:#2563eb">
-      <div class="card-head"><span class="card-sigla">CC</span><span class="card-count">56 questões</span></div>
-      <div class="card-name">Direito Civil</div>
-      <div class="card-scope">Parte Geral · Obrigações · Contratos · Família · Sucessões</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="CIVIL/Dashboard_Civil_Premium.html" style="--disc-color:#2563eb">
+      <div>
+        <div class="card-top"><span class="card-sigla">CC</span><span class="card-count">56 questões</span></div>
+        <div class="card-title">Direito Civil</div>
+        <div class="card-desc">Parte Geral · Obrigações · Contratos · Família · Sucessões · Direitos Reais</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="CPC/Dashboard_CPC_Premium.html" style="--c:#0891b2">
-      <div class="card-head"><span class="card-sigla">CPC</span><span class="card-count">60 questões</span></div>
-      <div class="card-name">Processo Civil</div>
-      <div class="card-scope">Competência · Tutelas · Provas · Recursos · Execução</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="CPC/Dashboard_CPC_Premium.html" style="--disc-color:#0284c7">
+      <div>
+        <div class="card-top"><span class="card-sigla">CPC</span><span class="card-count">60 questões</span></div>
+        <div class="card-title">Processo Civil</div>
+        <div class="card-desc">Competência · Tutelas · Provas · Recursos · Execução Civil</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="PENAL/Dashboard_Penal_Premium.html" style="--c:#dc2626">
-      <div class="card-head"><span class="card-sigla">CP</span><span class="card-count">59 questões</span></div>
-      <div class="card-name">Direito Penal</div>
-      <div class="card-scope">Teoria do Crime · Ilicitude · Culpabilidade · Penas · Crimes em Espécie</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="PENAL/Dashboard_Penal_Premium.html" style="--disc-color:#dc2626">
+      <div>
+        <div class="card-top"><span class="card-sigla">CP</span><span class="card-count">59 questões</span></div>
+        <div class="card-title">Direito Penal</div>
+        <div class="card-desc">Teoria do Crime · Ilicitude · Culpabilidade · Penas · Crimes em Espécie</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="PROCESSUAL_PENAL/Dashboard_ProcessualPenal_Premium.html" style="--c:#b91c1c">
-      <div class="card-head"><span class="card-sigla">CPP</span><span class="card-count">57 questões</span></div>
-      <div class="card-name">Processo Penal</div>
-      <div class="card-scope">Inquérito · Prisão · Provas · Procedimentos · Recursos</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="PROCESSUAL_PENAL/Dashboard_ProcessualPenal_Premium.html" style="--disc-color:#b45309">
+      <div>
+        <div class="card-top"><span class="card-sigla">CPP</span><span class="card-count">57 questões</span></div>
+        <div class="card-title">Processo Penal</div>
+        <div class="card-desc">Inquérito Policial · Prisão · Provas · Procedimentos · Recursos Penais</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="ADMINISTRATIVO/Dashboard_Administrativo_Premium.html" style="--c:#334155">
-      <div class="card-head"><span class="card-sigla">DA</span><span class="card-count">50 questões</span></div>
-      <div class="card-name">Direito Administrativo</div>
-      <div class="card-scope">Atos · Licitações · Contratos · Improbidade · Responsabilidade</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="ADMINISTRATIVO/Dashboard_Administrativo_Premium.html" style="--disc-color:#7c3aed">
+      <div>
+        <div class="card-top"><span class="card-sigla">DA</span><span class="card-count">50 questões</span></div>
+        <div class="card-title">Direito Administrativo</div>
+        <div class="card-desc">Atos Administrativos · Licitações · Contratos · Improbidade · Responsabilidade</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="TRIBUTARIO/Dashboard_Tributario_Premium.html" style="--c:#b45309">
-      <div class="card-head"><span class="card-sigla">CTN</span><span class="card-count">50 questões</span></div>
-      <div class="card-name">Direito Tributário</div>
-      <div class="card-scope">Obrigação Tributária · Lançamento · Crédito · Impostos</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="TRIBUTARIO/Dashboard_Tributario_Premium.html" style="--disc-color:#0891b2">
+      <div>
+        <div class="card-top"><span class="card-sigla">CTN</span><span class="card-count">50 questões</span></div>
+        <div class="card-title">Direito Tributário</div>
+        <div class="card-desc">Obrigação Tributária · Lançamento · Crédito Tributário · Impostos em Espécie</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="TRABALHISTA/Dashboard_Trabalhista_Premium.html" style="--c:#d97706">
-      <div class="card-head"><span class="card-sigla">CLT</span><span class="card-count">49 questões</span></div>
-      <div class="card-name">Direito do Trabalho</div>
-      <div class="card-scope">Contrato · Jornada · Remuneração · Férias · FGTS</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="TRABALHISTA/Dashboard_Trabalhista_Premium.html" style="--disc-color:#ea580c">
+      <div>
+        <div class="card-top"><span class="card-sigla">CLT</span><span class="card-count">49 questões</span></div>
+        <div class="card-title">Direito do Trabalho</div>
+        <div class="card-desc">Contrato de Trabalho · Jornada · Remuneração · Férias · FGTS</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="PROCESSUAL_TRABALHISTA/Dashboard_ProcessualTrabalhista_Premium.html" style="--c:#ca8a04">
-      <div class="card-head"><span class="card-sigla">CLT-P</span><span class="card-count">49 questões</span></div>
-      <div class="card-name">Processo do Trabalho</div>
-      <div class="card-scope">Dissídio · Audiência · Recursos · Execução Trabalhista</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="PROCESSUAL_TRABALHISTA/Dashboard_ProcessualTrabalhista_Premium.html" style="--disc-color:#d97706">
+      <div>
+        <div class="card-top"><span class="card-sigla">CLT-P</span><span class="card-count">49 questões</span></div>
+        <div class="card-title">Processo do Trabalho</div>
+        <div class="card-desc">Dissídio Individual · Audiência Trabalhista · Recursos · Execução</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="EMPRESARIAL/Dashboard_Empresarial_Premium.html" style="--c:#475569">
-      <div class="card-head"><span class="card-sigla">DE</span><span class="card-count">40 questões</span></div>
-      <div class="card-name">Direito Empresarial</div>
-      <div class="card-scope">Tipos Societários · Títulos de Crédito · Falência</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="EMPRESARIAL/Dashboard_Empresarial_Premium.html" style="--disc-color:#4f46e5">
+      <div>
+        <div class="card-top"><span class="card-sigla">DE</span><span class="card-count">40 questões</span></div>
+        <div class="card-title">Direito Empresarial</div>
+        <div class="card-desc">Tipos Societários · Títulos de Crédito · Falência e Recuperação Judicial</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="AMBIENTAL/Dashboard_Ambiental_Premium.html" style="--c:#15803d">
-      <div class="card-head"><span class="card-sigla">DA-AMB</span><span class="card-count">21 questões</span></div>
-      <div class="card-name">Direito Ambiental</div>
-      <div class="card-scope">PNMA · SISNAMA · Código Florestal · Crimes Ambientais</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="AMBIENTAL/Dashboard_Ambiental_Premium.html" style="--disc-color:#059669">
+      <div>
+        <div class="card-top"><span class="card-sigla">DA-AMB</span><span class="card-count">21 questões</span></div>
+        <div class="card-title">Direito Ambiental</div>
+        <div class="card-desc">PNMA · SISNAMA · Código Florestal · Unidades de Conservação · Crimes Ambientais</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="FILOSOFIA/Dashboard_Filosofia_Premium.html" style="--c:#6d28d9">
-      <div class="card-head"><span class="card-sigla">FD</span><span class="card-count">21 questões</span></div>
-      <div class="card-name">Filosofia do Direito</div>
-      <div class="card-scope">Jusnaturalismo · Positivismo · Hermenêutica · Escolas</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="FILOSOFIA/Dashboard_Filosofia_Premium.html" style="--disc-color:#4f46e5">
+      <div>
+        <div class="card-top"><span class="card-sigla">FD</span><span class="card-count">21 questões</span></div>
+        <div class="card-title">Filosofia do Direito</div>
+        <div class="card-desc">Jusnaturalismo · Positivismo · Hermenêutica Jurídica · Escolas Filosóficas</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="DIREITOS_HUMANOS/Dashboard_DireitosHumanos_Premium.html" style="--c:#0e7490">
-      <div class="card-head"><span class="card-sigla">DH</span><span class="card-count">20 questões</span></div>
-      <div class="card-name">Direitos Humanos</div>
-      <div class="card-scope">Sistemas ONU e OEA · CADH · PIDCP · PIDESC</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="DIREITOS_HUMANOS/Dashboard_DireitosHumanos_Premium.html" style="--disc-color:#0284c7">
+      <div>
+        <div class="card-top"><span class="card-sigla">DH</span><span class="card-count">20 questões</span></div>
+        <div class="card-title">Direitos Humanos</div>
+        <div class="card-desc">Sistemas ONU e OEA · CADH · PIDCP · PIDESC · Mecanismos de Proteção</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="INTERNACIONAL/Dashboard_Internacional_Premium.html" style="--c:#1d4ed8">
-      <div class="card-head"><span class="card-sigla">DI</span><span class="card-count">20 questões</span></div>
-      <div class="card-name">Direito Internacional</div>
-      <div class="card-scope">Tratados · MERCOSUL · Imunidades · Arbitragem</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="INTERNACIONAL/Dashboard_Internacional_Premium.html" style="--disc-color:#d97706">
+      <div>
+        <div class="card-top"><span class="card-sigla">DI</span><span class="card-count">20 questões</span></div>
+        <div class="card-title">Direito Internacional</div>
+        <div class="card-desc">Tratados Internacionais · MERCOSUL · Imunidades · Arbitragem Internacional</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="ECA/Dashboard_ECA_Premium.html" style="--c:#0284c7">
-      <div class="card-head"><span class="card-sigla">ECA</span><span class="card-count">19 questões</span></div>
-      <div class="card-name">ECA</div>
-      <div class="card-scope">Estatuto da Criança e do Adolescente · Medidas · Conselho Tutelar</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="ECA/Dashboard_ECA_Premium.html" style="--disc-color:#0284c7">
+      <div>
+        <div class="card-top"><span class="card-sigla">ECA</span><span class="card-count">19 questões</span></div>
+        <div class="card-title">ECA</div>
+        <div class="card-desc">Estatuto da Criança e do Adolescente · Medidas Protetivas · Conselho Tutelar</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="PREVIDENCIARIO/Dashboard_Previdenciario_Premium.html" style="--c:#0369a1">
-      <div class="card-head"><span class="card-sigla">RGPS</span><span class="card-count">18 questões</span></div>
-      <div class="card-name">Direito Previdenciário</div>
-      <div class="card-scope">Benefícios · Custeio · Segurados · INSS</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="PREVIDENCIARIO/Dashboard_Previdenciario_Premium.html" style="--disc-color:#d97706">
+      <div>
+        <div class="card-top"><span class="card-sigla">RGPS</span><span class="card-count">18 questões</span></div>
+        <div class="card-title">Direito Previdenciário</div>
+        <div class="card-desc">Regime Geral de Previdência Social · Benefícios · Custeio · Segurados</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="CONSUMIDOR/Dashboard_Consumidor_Premium.html" style="--c:#0f766e">
-      <div class="card-head"><span class="card-sigla">CDC</span><span class="card-count">18 questões</span></div>
-      <div class="card-name">Direito do Consumidor</div>
-      <div class="card-scope">Responsabilidade · Práticas Abusivas · SNDC</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="CONSUMIDOR/Dashboard_Consumidor_Premium.html" style="--disc-color:#059669">
+      <div>
+        <div class="card-top"><span class="card-sigla">CDC</span><span class="card-count">18 questões</span></div>
+        <div class="card-title">Direito do Consumidor</div>
+        <div class="card-desc">Responsabilidade do Fornecedor · Práticas Abusivas · Proteção Contratual · SNDC</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="ELEITORAL/Dashboard_Eleitoral_Premium.html" style="--c:#be123c">
-      <div class="card-head"><span class="card-sigla">CE</span><span class="card-count">18 questões</span></div>
-      <div class="card-name">Direito Eleitoral</div>
-      <div class="card-scope">TSE · Partidos · Crimes Eleitorais · Financiamento</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="ELEITORAL/Dashboard_Eleitoral_Premium.html" style="--disc-color:#0284c7">
+      <div>
+        <div class="card-top"><span class="card-sigla">CE</span><span class="card-count">18 questões</span></div>
+        <div class="card-title">Direito Eleitoral</div>
+        <div class="card-desc">TSE · Partidos Políticos · Crimes Eleitorais · Financiamento de Campanhas</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
-    <a class="card" href="FINANCEIRO/Dashboard_Financeiro_Premium.html" style="--c:#92400e">
-      <div class="card-head"><span class="card-sigla">LRF</span><span class="card-count">18 questões</span></div>
-      <div class="card-name">Direito Financeiro</div>
-      <div class="card-scope">Lei de Responsabilidade Fiscal · Orçamento Público</div>
-      <div class="card-foot"><span class="card-mods">8 módulos</span><span class="card-link">Estudar <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 6h7M6.5 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+    <a class="module-card" href="FINANCEIRO/Dashboard_Financeiro_Premium.html" style="--disc-color:#4f46e5">
+      <div>
+        <div class="card-top"><span class="card-sigla">LRF</span><span class="card-count">18 questões</span></div>
+        <div class="card-title">Direito Financeiro</div>
+        <div class="card-desc">Lei de Responsabilidade Fiscal · Orçamento Público · Crédito Público</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-info">8 módulos</span>
+        <span class="btn-primary">Questões →</span>
+      </div>
     </a>
 
   </div>
 </main>
 
 <footer>
-  <strong>Corujinha</strong> · Plataforma de Estudos OAB · Gabaritos verificados contra caderno oficial · 37º ao 46º Exame
+  Corujinha · OAB 1ª Fase · André L. da Silva · Gabaritos verificados contra caderno oficial · 37º ao 46º Exame
 </footer>
 
 </body>
