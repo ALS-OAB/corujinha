@@ -830,7 +830,7 @@ def build_module(prefix, title, out_filename):
 
     function buildQuestionSlide(q, i) {{
       let optionsHtml = '';
-      for (const [letter, text] of Object.entries(q.opcoes)) {{
+      for (const [letter, text] of Object.entries(q.alternativas || q.opcoes || {{}})) {{
         optionsHtml += `
           <button class="opt-btn" id="opt-${{i}}-${{letter}}" onclick="answerQuestion(${{i}}, '${{letter}}')">
             <span class="opt-letter">${{letter}}</span>
