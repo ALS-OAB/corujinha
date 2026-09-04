@@ -4,7 +4,7 @@
     "enunciado": "Pedro, advogado, é investigado criminalmente, em conjunto com\nAntônio, seu ex-cliente, e Matheus, juiz da comarca, em razão de sua\nsuposta participação em atos fraudulentos que importaram o\npagamento de benefícios previdenciários indevidos.\nNo âmbito das investigações, a autoridade judiciária competente\ndetermina medida cautelar de busca e apreensão que importa\nviolação do local de trabalho de Pedro. Posteriormente, Pedro é\nconsultado pelo órgão encarregado da investigação criminal acerca\nde seu interesse na celebração de acordo de colaboração premiada.\nSobre essas medidas, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É válida a medida de busca e apreensão executada no local de\ntrabalho de Pedro se fundada exclusivamente em declarações de\noutro colaborador, sem confirmação por outros meios de prova.",
-      "B": "Em hipótese excepcional, podem ser usados na investigação\nDOC_Documentos, mídias e objetos pertencentes a outros clientes de\nPedro.",
+      "B": "Em hipótese excepcional, podem ser usados na investigação\ndocumentos, mídias e objetos pertencentes a outros clientes de\nPedro.",
       "C": "Se Pedro efetuar colaboração premiada contra Antônio, tal ato\nimportará em processo disciplinar, que poderá culminar com a\naplicação da sanção de exclusão.",
       "D": "Se Pedro efetuar colaboração premiada contra Matheus, não\nestará sujeito às penas relativas ao crime de violação do segredo\nprofissional."
     },
@@ -31,7 +31,7 @@
       "A": "Não poderá ser considerada advocacia pro bono a atuação gratuita de Luís como advogado das pessoas naturais, hipossuficientes econômicas, beneficiárias da instituição social.",
       "B": "É ilícito que Luís preste gratuitamente tais serviços jurídicos, se o objetivo é valer-se de sua atuação como instrumento de publicidade da sua atividade profissional.",
       "C": "A atuação gratuita de Luís, ainda que não seja eventual, na defesa em Juízo da mencionada instituição social, pode ser considerada advocacia pro bono.",
-      "D": "É admitida a prestação por Luís, sob a forma de advocacia pro bono voluntária, de serviços jurídicos para uma instituição social cobrando preços simbólicos, haja vista a ausência de fins econômicos.\n\n#"
+      "D": "É admitida a prestação por Luís, sob a forma de advocacia pro bono voluntária, de serviços jurídicos para uma instituição social cobrando preços simbólicos, haja vista a ausência de fins econômicos."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -56,7 +56,7 @@
       "A": "Durante a gravidez, ela terá direito a uma vaga garantida nas garagens dos fóruns de todos os tribunais.",
       "B": "Durante a gravidez ela terá preferência na realização das audiências a serem realizadas no dia, independentemente de comprovação de sua condição.",
       "C": "Após dar à luz, ela terá direito à suspensão dos prazos processuais por 60 (sessenta) dias, contados a partir da data do parto, se for a única patrona da causa.",
-      "D": "Após dar à luz, ela terá preferência na ordem das sustentações orais, mediante comprovação de sua condição, pelo período de 90 (noventa) dias, contados a partir da data do parto.\n\n#"
+      "D": "Após dar à luz, ela terá preferência na ordem das sustentações orais, mediante comprovação de sua condição, pelo período de 90 (noventa) dias, contados a partir da data do parto."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -81,7 +81,7 @@
       "A": "deve ter motivo justificado, caso seja solicitada pelo profissional.",
       "B": "a aplicação de penalidade de exclusão impossibilita um novo pedido de inscrição.",
       "C": "deve ser promovido, de ofício, pelo conselho competente, caso decorra do exercício de atividade incompatível com a advocacia.",
-      "D": "será restaurado o número cancelado, caso seja feito um novo pedido de inscrição.\n\n#"
+      "D": "será restaurado o número cancelado, caso seja feito um novo pedido de inscrição."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -106,7 +106,7 @@
       "A": "garantir-se-á a Teresa a liberação de 20% (vinte por cent\n\no) dos bens bloqueados de Luiz para o fim de reembolso de gastos com a defesa, vedado o recebimento de honorários.",
       "B": "garantir-se-á a Teresa a liberação de 20% (vinte por cent\n\no) dos bens bloqueados de Roberto para o fim de reembolso de gastos com a defesa e o recebimento de honorários.",
       "C": "Teresa poderá optar pela venda de bens de Luiz em hasta pública para o reembolso de gastos com a defesa.",
-      "D": "Teresa não poderá realizar a adjudicação de bens de Roberto para a satisfação dos honorários devidos.\n\n#"
+      "D": "Teresa não poderá realizar a adjudicação de bens de Roberto para a satisfação dos honorários devidos."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -181,7 +181,7 @@
       "A": "O mandato extinguiu-se pelo decurso do tempo, salvo se previsto prazo diverso no respectivo instrumento.",
       "B": "O mandato extinguiu-se pelo decurso do tempo, sendo vedada a previsão de prazo diverso no respectivo instrumento.",
       "C": "O mandato não se extinguiu pelo decurso do tempo, salvo se foi consignado prazo no respectivo instrumento.",
-      "D": "O mandato não se extinguiu pelo decurso do tempo, sendo vedada a estipulação de prazo no respectivo instrumento.\n\n##"
+      "D": "O mandato não se extinguiu pelo decurso do tempo, sendo vedada a estipulação de prazo no respectivo instrumento."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -231,7 +231,7 @@
       "A": "A medida cautelar decretada é inválida, uma vez que o Estatuto da Advocacia assegura a inviolabilidade absoluta do escritório ou local de trabalho do advogado, e, portanto, as informações encontradas sobre os clientes de Cláudio não podem ser utilizadas.",
       "B": "A medida cautelar decretada é válida, porque não foi cumprida no escritório de Cláudio, mas na sua residência, porém as informações encontradas sobre os clientes de Cláudio estão protegidas de modo insuperável pelo Estatuto da Advocacia e, portanto, não podem ser utilizadas.",
       "C": "A medida cautelar decretada é inválida, tendo em vista a inviolabilidade do escritório ou local de trabalho do advogado, mas as informações encontradas sobre os clientes de Cláudio podem ser utilizadas, caso esses clientes também figurem formalmente como investigados.",
-      "D": "A medida cautelar decretada é válida, e as informações encontradas sobre os clientes de Cláudio poderão ser utilizadas se esses clientes forem formalmente investigados como partícipes ou coautores pela prática do mesmo crime que deu causa à decretação da medida.\n\n#"
+      "D": "A medida cautelar decretada é válida, e as informações encontradas sobre os clientes de Cláudio poderão ser utilizadas se esses clientes forem formalmente investigados como partícipes ou coautores pela prática do mesmo crime que deu causa à decretação da medida."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -256,7 +256,7 @@
       "A": "É impositiva a exclusão de Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, dada a incompatibilidade do cargo de Prefeito Municipal com a advocacia.",
       "B": "O exercício do mandato de Prefeito de Ômega impede apenas que Roberto Silva advogue contra a Fazenda Pública que o remunera, no caso o Município Ômega, não havendo óbice para que continue integrando a sociedade de advogados e atuando em causas diversas.",
       "C": "O exercício do mandato de Prefeito de Ômega é incompatível com a advocacia, mas, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, a qual poderá continuar explorando o nome e a imagem do seu fundador em benefício da sociedade.",
-      "D": "Embora incompatível com a advocacia, o exercício do cargo de Prefeito de Ômega, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados. Contudo, deve o fato ser averbado no registro da sociedade, bem como observada a incompatibilidade temporária.\n\n#"
+      "D": "Embora incompatível com a advocacia, o exercício do cargo de Prefeito de Ômega, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados. Contudo, deve o fato ser averbado no registro da sociedade, bem como observada a incompatibilidade temporária."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -281,7 +281,7 @@
       "A": "A sociedade unipessoal de advocacia de João Pedro poderá ter como sede, filial ou local de trabalho, um espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas na legislação.",
       "B": "João Pedro poderá integrar a sociedade de advogados e, simultaneamente, constituir uma sociedade unipessoal de advocacia, ambas com sede ou filial na mesma área territorial do respectivo Conselho Seccional.",
       "C": "João Pedro poderá escolher livremente a denominação da sociedade unipessoal de advocacia que vier a constituir, desde que complemente com a expressão “Sociedade Individual de Advocacia”.",
-      "D": "A sociedade unipessoal de advocacia de João Pedro adquirirá personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Federal da OAB.\n\n##"
+      "D": "A sociedade unipessoal de advocacia de João Pedro adquirirá personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Federal da OAB."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -306,7 +306,7 @@
       "A": "Dênis tem o direito de renunciar aos honorários advocatícios convencionados e sucumbenciais, desde que tenha feito isso expressamente no acordo com o Banco Alfa, e isso prejudica o direito de Gomes de receber qualquer valor.",
       "B": "O acordo firmado por Dênis com o Banco Alfa retira o direito de Gomes aos honorários convencionados, mas Gomes ainda pode pleitear apenas os honorários sucumbenciais, desde que haja condenação judicial.",
       "C": "Gomes mantém o direito aos honorários convencionados e sucumbenciais, independentemente do acordo realizado por Dênis com o Banco Alfa, uma vez que o acordo não prejudica o advogado sem sua aquiescência.",
-      "D": "Gomes somente poderá cobrar os honorários convencionados se houver uma decisão judicial declarando nulo o acordo firmado entre Dênis e o Banco Alfa.\n\n#"
+      "D": "Gomes somente poderá cobrar os honorários convencionados se houver uma decisão judicial declarando nulo o acordo firmado entre Dênis e o Banco Alfa."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -331,7 +331,7 @@
       "A": "Tarcísio poderá exercer a advocacia apenas em causa própria, conforme prevê o Estatuto da OAB, mas estará impedido de advogar contra a empresa pública estadual de fornecimento de água.",
       "B": "Tarcísio poderá advogar livremente, inclusive contra a empresa pública estadual de fornecimento de água, uma vez que o exercício da atividade notarial não gera impedimento para o exercício da advocacia.",
       "C": "Tarcísio está em situação de incompatibilidade total com o exercício da advocacia, sendo vedada a atuação em qualquer causa, inclusive em causa própria, em razão de seu cargo como titular de serventia notarial e registral.",
-      "D": "Tarcísio poderá continuar exercendo a advocacia, desde que em causas particulares que não envolvam empresas públicas ou concessionárias de serviço público, estando livre de impedimentos em ações de interesse pessoal.\n\n#"
+      "D": "Tarcísio poderá continuar exercendo a advocacia, desde que em causas particulares que não envolvam empresas públicas ou concessionárias de serviço público, estando livre de impedimentos em ações de interesse pessoal."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -356,7 +356,7 @@
       "A": "João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, ainda que este expressamente o autorize ou solicite o depoimento do ex-advogado.",
       "B": "João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, exceto se este expressamente o autorizar, ou no caso de solicitação do próprio ex-constituinte.",
       "C": "João poderá ser obrigado a depor sobre fatos que constituam sigilo profissional caso seu depoimento seja considerado imprescindível para a instrução em processos criminais que apurem a prática de crimes dolosos contra a vida.",
-      "D": "Considerando que a investigação se iniciou após a extinção da relação profissional existente entre João e Pedro, não há qualquer prerrogativa em favor de João que o escuse da obrigação de depor como testemunha no curso de processo judicial sobre fato relacionado com pessoa de quem já foi advogado.\n\n#"
+      "D": "Considerando que a investigação se iniciou após a extinção da relação profissional existente entre João e Pedro, não há qualquer prerrogativa em favor de João que o escuse da obrigação de depor como testemunha no curso de processo judicial sobre fato relacionado com pessoa de quem já foi advogado."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -381,7 +381,7 @@
       "A": "Paloma, por ser advogada gestante, tem o direito de não ser submetida a detectores de metais, mas o estacionamento exclusivo só é garantido em Tribunais e Fóruns Federais, não nos Fóruns Estaduais.",
       "B": "Os direitos de Paloma, como o de não ser submetida aos detectores de metais e à reserva de vagas, são aplicáveis apenas em Tribunais Superiores, e não se estendem a Fóruns de Comarcas Estaduais.",
       "C": "Paloma, por ser advogada gestante, tem o direito de entrar em Fóruns e Tribunais sem ser submetida a detectores de metais e tem direito à reserva de vagas nas garagens dos Fóruns dos Tribunais.",
-      "D": "Paloma tem o direito de entrada no Fórum sem ser submetida a detectores de metais, mas o direito à reserva de vagas em garagens para gestantes é uma mera liberalidade do Tribunal e não é garantido por lei.\n\n#"
+      "D": "Paloma tem o direito de entrada no Fórum sem ser submetida a detectores de metais, mas o direito à reserva de vagas em garagens para gestantes é uma mera liberalidade do Tribunal e não é garantido por lei."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -406,7 +406,7 @@
       "A": "Abelardo poderá requerer ao Juiz Criminal o desbloqueio de até 20% dos bens de Everardo para o pagamento de seus honorários e dos demais custos com a defesa.",
       "B": "Abelardo poderá, diante do bloqueio, participar dos bens particulares de Everardo, de forma excepcional, considerada a impossibilidade de pagamento por outro meio, ainda que tal forma de pagamento não tenha sido pactuada.",
       "C": "A cláusula de honorários de êxito ou quota litis não é vedada, mas deve necessariamente ser expressa em pecúnia, de modo que, prevendo-se a entrega de uma joia, constata-se a nulidade que determina que Abelardo só fará jus aos honorários de sucumbência, se houver.",
-      "D": "A cláusula de honorários de êxito ou quota litis é vedada, de sorte que será necessário proceder ao arbitramento dos honorários de Abelardo, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto no \n\n**Art. 85**\n do Código de Processo Civil.\n\n#"
+      "D": "A cláusula de honorários de êxito ou quota litis é vedada, de sorte que será necessário proceder ao arbitramento dos honorários de Abelardo, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto no \n\n**Art. 85**\n do Código de Processo Civil."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",

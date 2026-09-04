@@ -28,10 +28,10 @@
     "num": 2,
     "enunciado": "A medida cautelar de busca e apreensão a ser cumprida no escritório do advogado José foi regularmente deferida, por Juízo competente. Considerou o magistrado que havia nos autos indícios de autoria e materialidade da prática de crime por José, juntamente com um cliente seu, de nome Oswaldo.\n\nQuanto à situação hipotética narrada, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "É dever do representante da OAB presente ao ato, durante o cumprimento do mandado de busca e apreensão, impedir que DOC_Documentos referentes a outros processos em face de Oswaldo, não relacionados ao objeto da investigação que ensejou a cautelar, sejam retirados do escritório, exceto se o volume ou natureza dos objetos impedirem o resguardo do sigilo através da cadeia de custódia.",
-      "B": "A análise dos DOC_Documentos apreendidos deve ser feita mediante comunicação prévia ao Conselho Federal da OAB, com antecedência mínima e impreterível de 48 horas.",
+      "A": "É dever do representante da OAB presente ao ato, durante o cumprimento do mandado de busca e apreensão, impedir que documentos referentes a outros processos em face de Oswaldo, não relacionados ao objeto da investigação que ensejou a cautelar, sejam retirados do escritório, exceto se o volume ou natureza dos objetos impedirem o resguardo do sigilo através da cadeia de custódia.",
+      "B": "A análise dos documentos apreendidos deve ser feita mediante comunicação prévia ao Conselho Federal da OAB, com antecedência mínima e impreterível de 48 horas.",
       "C": "Caso seja essencial à sua defesa no processo criminal, é admitido que José efetue colaboração premiada em face de Oswaldo, desde que haja confirmação das imputações por outros meios de prova.",
-      "D": "É direito de José estar presente na ocasião designada para análise do conteúdo dos DOC_Documentos apreendidos, quando do cumprimento do mandado de busca e apreensão.\n\n#"
+      "D": "É direito de José estar presente na ocasião designada para análise do conteúdo dos documentos apreendidos, quando do cumprimento do mandado de busca e apreensão."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -81,7 +81,7 @@
       "A": "Monique tem direito à presença de representante da OAB para lavratura do auto de prisão em flagrante, visto que se trata de suposto crime por motivo ligado ao exercício da advocacia, sob pena de nulidade.",
       "B": "não há qualquer direito ou prerrogativa conferida pela legislação no caso em tela, devendo Monique receber tratamento idêntico ao dado a outros indivíduos não advogados, em razão do princípio da igualdade.",
       "C": "a presença de representante da OAB no momento da lavratura do auto de prisão em flagrante será devida ainda que não se trate de motivo ligado ao exercício da advocacia, visto que se cuida de direito conferido ao advogado em todo e qualquer crime por ele cometido.",
-      "D": "o representante da OAB para acompanhar a lavratura do auto de prisão em flagrante, pode ser substituído por representante da Defensoria Pública, visto que ambos podem figurar como defensores.\n\n##"
+      "D": "o representante da OAB para acompanhar a lavratura do auto de prisão em flagrante, pode ser substituído por representante da Defensoria Pública, visto que ambos podem figurar como defensores."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -131,7 +131,7 @@
       "A": "Não há como reconhecer as atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários, pois a atuação do advogado, salvo em situações urgentes, exige a prova do mandato.",
       "B": "A outorga de mandato para as atividades de consultoria jurídica é prescindível, porém a falta de formalização dos serviços prestados, por meio de contrato de honorários, torna o período anterior insuscetível de reconhecimento.",
       "C": "As atividades prestadas por João Carlos no período podem ser reconhecidas, uma vez que a consultoria jurídica independe de outorga de mandato ou formalização por contrato de honorários, sendo desinfluente o modo pelo qual foram prestados os serviços.",
-      "D": "O não reconhecimento das atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários decorre do fato de que a atuação se deu de forma verbal, de tal modo que, se a atuação tivesse se dado por escrito, as atividades prestadas poderiam ser reconhecidas.\n\n#"
+      "D": "O não reconhecimento das atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários decorre do fato de que a atuação se deu de forma verbal, de tal modo que, se a atuação tivesse se dado por escrito, as atividades prestadas poderiam ser reconhecidas."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -156,7 +156,7 @@
       "A": "A impetração de habeas corpus é atividade privativa de advogado regularmente inscrito na OAB, não podendo ser realizada por um leigo, ainda que em defesa de direitos fundamentais.",
       "B": "Afonso poderá redigir e impetrar o habeas corpus em favor de Rodrigo, pois a impetração desse remédio constitucional não está incluída entre as atividades privativas da advocacia.",
       "C": "Afonso somente poderia impetrar o habeas corpus se comprovasse que não havia advogado disponível para atuar no caso de Rodrigo.",
-      "D": "A impetração de habeas corpus é vedada para leigos quando se trata de crimes graves, como roubo, exigindo obrigatoriamente a atuação de advogado.\n\n##"
+      "D": "A impetração de habeas corpus é vedada para leigos quando se trata de crimes graves, como roubo, exigindo obrigatoriamente a atuação de advogado."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -181,7 +181,7 @@
       "A": "Por não ter agido de forma dolosa, Antônio não poderá sofrer qualquer sanção disciplinar, uma vez que o advogado não é responsável pelos atos praticados com culpa.",
       "B": "Em razão da gravidade da situação, após o devido processo disciplinar, Antônio poderá ser apenado com a suspensão do exercício da advocacia por período que poderá variar de 30 dias a 12 meses.",
       "C": "A Antônio poderá ser aplicada a pena de censura, a qual pode ser convertida em advertência, em ofício reservado, sem registro nos seus assentamentos, quando estiver presente circunstância atenuante.",
-      "D": "Caso se trate de situação reincidente, Antônio poderá ser apenado com a sanção de exclusão, devendo ser cancelada sua inscrição na Ordem dos Advogados do Brasil.\n\n##"
+      "D": "Caso se trate de situação reincidente, Antônio poderá ser apenado com a sanção de exclusão, devendo ser cancelada sua inscrição na Ordem dos Advogados do Brasil."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -201,12 +201,12 @@
   },
   {
     "num": 6,
-    "enunciado": "O advogado Ivan precisava embarcar em um voo doméstico de Recife para Curitiba, a fim de participar do Congresso Brasileiro de Direito de Família. Ao chegar ao balcão de check-in, percebeu que havia esquecido todos os seus DOC_Documentos de identificação em seu escritório, com exceção da carteira da Ordem dos Advogados do Brasil (OAB), na qual consta sua foto.\n\nA responsável pelo atendimento da companhia aérea informou que não aceitaria a carteira da OAB como documento de identidade e, por isso, Ivan estaria impedido de embarcar. Ivan argumentou que o documento deveria ser aceito como prova de identidade civil, uma vez que é o único documento de identidade profissional obrigatório para o exercício da advocacia.\n\nSobre a hipótese, com base no Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
+    "enunciado": "O advogado Ivan precisava embarcar em um voo doméstico de Recife para Curitiba, a fim de participar do Congresso Brasileiro de Direito de Família. Ao chegar ao balcão de check-in, percebeu que havia esquecido todos os seus documentos de identificação em seu escritório, com exceção da carteira da Ordem dos Advogados do Brasil (OAB), na qual consta sua foto.\n\nA responsável pelo atendimento da companhia aérea informou que não aceitaria a carteira da OAB como documento de identidade e, por isso, Ivan estaria impedido de embarcar. Ivan argumentou que o documento deveria ser aceito como prova de identidade civil, uma vez que é o único documento de identidade profissional obrigatório para o exercício da advocacia.\n\nSobre a hipótese, com base no Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Ivan não poderá embarcar, pois a carteira da OAB não é considerada documento de identidade civil válido para viagens nacionais em aviões.",
       "B": "Ivan poderá embarcar, pois a carteira da OAB constitui prova de identidade civil para todos os fins legais, inclusive para viagens nacionais em aviões.",
       "C": "Ivan somente poderá embarcar se apresentar outro documento de identificação civil junto com a carteira da OAB, como medida de segurança adicional.",
-      "D": "Ivan não poderá embarcar, pois a carteira da OAB só é válida como documento de identificação quando utilizada em exercício da atividade profissional em fóruns e tribunais.\n\n#"
+      "D": "Ivan não poderá embarcar, pois a carteira da OAB só é válida como documento de identificação quando utilizada em exercício da atividade profissional em fóruns e tribunais."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -231,7 +231,7 @@
       "A": "Carlos somente terá acesso aos autos da investigação que culminou na prisão de João se apresentar procuração para representá-lo. Nesse caso, deve lhe ser franqueado amplo acesso aos elementos de prova colhidos pela autoridade policial, não sendo possível a imposição de qualquer limitação.",
       "B": "Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Ademais, deve lhe ser franqueado amplo acesso aos elementos de prova colhidos pela autoridade policial, não sendo possível a imposição de qualquer limitação.",
       "C": "Carlos somente terá acesso aos autos da investigação que culminou na prisão de João se apresentar procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, desde que relacionados a diligências em andamento e ainda não documentados nos autos, desde que haja comprovado risco de comprometimento da eficiência, da eficácia ou da finalidade da investigação.",
-      "D": "Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, ainda que relacionados a diligências já encerradas e devidamente documentadas nos autos, desde que haja comprovado risco de comprometimento da eficiência, da eficácia ou da finalidade da investigação.\n\n#"
+      "D": "Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, ainda que relacionados a diligências já encerradas e devidamente documentadas nos autos, desde que haja comprovado risco de comprometimento da eficiência, da eficácia ou da finalidade da investigação."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -256,7 +256,7 @@
       "A": "O advogado pode colaborar contra seu cliente se a colaboração resultar apenas em redução de pena, sendo vedada a extinção total da punibilidade em razão de delação premiada.",
       "B": "O advogado não pode celebrar colaboração premiada contra o cliente atual, mas poderá fazê-lo em relação a um ex-cliente, desde que não mais exista vínculo profissional formal entre ambos.",
       "C": "O advogado poderá firmar colaboração premiada em face de seu cliente, desde que o acordo seja autorizado judicialmente, hipótese em que ficará isento de punição administrativa perante o Tribunal de Ética e Disciplina.",
-      "D": "O advogado não pode efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância dessa regra poderá acarretar processo disciplinar com aplicação de uma sanção de exclusão dos quadros da OAB, sem prejuízo da responsabilização penal.\n\n#"
+      "D": "O advogado não pode efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância dessa regra poderá acarretar processo disciplinar com aplicação de uma sanção de exclusão dos quadros da OAB, sem prejuízo da responsabilização penal."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",

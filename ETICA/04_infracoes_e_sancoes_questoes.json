@@ -31,7 +31,7 @@
       "A": "O requerimento de licenciamento, independentemente de motivação, formulado por Alex.",
       "B": "O fato de Alex passar a sofrer de doença física incurável.",
       "C": "O exercício por Alex, de forma definitiva, de atividade incompatível com a advocacia.",
-      "D": "O fato de Alex passar a sofrer de doença mental curável.\n\n#"
+      "D": "O fato de Alex passar a sofrer de doença mental curável."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -51,7 +51,7 @@
   },
   {
     "num": 3,
-    "enunciado": "O empresário João Pedro, movido pelo sentimento de vingança, contrata o advogado Beraldo para propor ação de cobrança contra seu ex-sócio Marcos, apresentando frágeis DOC_Documentos que comprovariam uma suposta dívida.\n\nA ação foi proposta e, concedida medida cautelar pelo juiz da causa, gerou diversos danos a Marcos, a partir da indisponibilidade de seus bens e do bloqueio de todos os seus ativos bancários initio litis. Ao final, porém, o pedido foi julgado totalmente improcedente, sendo expressamente reconhecida a lide temerária.\n\nAcerca da responsabilidade do advogado nessa hipotética situação, assinale a afirmativa correta.",
+    "enunciado": "O empresário João Pedro, movido pelo sentimento de vingança, contrata o advogado Beraldo para propor ação de cobrança contra seu ex-sócio Marcos, apresentando frágeis documentos que comprovariam uma suposta dívida.\n\nA ação foi proposta e, concedida medida cautelar pelo juiz da causa, gerou diversos danos a Marcos, a partir da indisponibilidade de seus bens e do bloqueio de todos os seus ativos bancários initio litis. Ao final, porém, o pedido foi julgado totalmente improcedente, sendo expressamente reconhecida a lide temerária.\n\nAcerca da responsabilidade do advogado nessa hipotética situação, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Beraldo poderá ser responsabilizado subsidiariamente pelos prejuízos causados, caso demonstrada culpa ou dolo no exercício da profissão, o que deverá ser apurado nos próprios autos.",
       "B": "Beraldo e João Pedro poderão ser responsabilizados solidariamente pelos prejuízos causados, desde que demonstrada a coligação entre ambos para lesar Marcos, o que deverá ser apurado em ação própria.",
@@ -106,7 +106,7 @@
       "A": "A responsabilidade de Antônio Carlos e Celina será solidária, independentemente do intuito de lesar João, parte contrária.",
       "B": "Não há responsabilidade solidária entre Celina e Antônio Carlos se comprovado que não estavam coligados nos seus intuitos.",
       "C": "Celina poderá ser responsabilizada se comprovada a violação do dever de cuidado, ao constar como parte autora no processo, ainda que não esteja coligada com seu advogado.",
-      "D": "Caso comprovado que Celina não sabia do conteúdo temerário da lide, Antônio Carlos não poderá ser civilmente responsável de forma isolada, porque a responsabilização do advogado exige participação dolosa de Celina.\n\n#"
+      "D": "Caso comprovado que Celina não sabia do conteúdo temerário da lide, Antônio Carlos não poderá ser civilmente responsável de forma isolada, porque a responsabilização do advogado exige participação dolosa de Celina."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -131,7 +131,7 @@
       "A": "José Fabiano somente poderá participar da eleição caso não haja outros candidatos dispostos a concorrer para o cargo, hipótese na qual as condições de elegibilidade são flexibilizadas para que a posição não fique vaga.",
       "B": "José Fabiano não poderá participar da eleição corrente, porque ainda não completou o prazo de três anos de efetivo exercício profissional da advocacia e por ter sido apenado com sanção disciplinar, sem que tenha sucedido reabilitação.",
       "C": "José Fabiano poderá participar da eleição e concorrer ao cargo de Conselheiro Seccional da OAB, porque exerce a profissão de advogado há mais de um ano e foi condenado por infração disciplinar leve, para a qual está prevista apenas a pena de censura.",
-      "D": "José Fabiano não poderá participar da eleição corrente e de futuras, porque, uma vez apenado com sanção disciplinar, o advogado não mais poderá recuperar sua condição de elegibilidade, estando impedido, indefinidamente, de se candidatar a cargos na OAB.\n\n#"
+      "D": "José Fabiano não poderá participar da eleição corrente e de futuras, porque, uma vez apenado com sanção disciplinar, o advogado não mais poderá recuperar sua condição de elegibilidade, estando impedido, indefinidamente, de se candidatar a cargos na OAB."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -156,7 +156,7 @@
       "A": "ilegítima, uma vez que o documento emitido pela OAB constitui prova de identidade civil para todos os fins legais.",
       "B": "correta, pois, à míngua de previsão legal, não poderia o funcionário do Detran admitir a carteira da OAB como documento de identificação civil.",
       "C": "inválida, pois, embora não haja expressa previsão legal, a carteira da OAB tem sido admitida como documento válido de identificação civil pela prática consuetudinária.",
-      "D": "inadequada, porém não ilegal, uma vez que os DOC_Documentos de identidade profissional do advogado estão previstos somente no Regulamento Geral da Advocacia, não sendo exigível que o funcionário do Detran conheça as normas internas da OAB.\n\n#"
+      "D": "inadequada, porém não ilegal, uma vez que os documentos de identidade profissional do advogado estão previstos somente no Regulamento Geral da Advocacia, não sendo exigível que o funcionário do Detran conheça as normas internas da OAB."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -181,7 +181,7 @@
       "A": "O procedimento adotado pelo relator foi correto, porque a legislação prevê que a defesa oral, por ser mais ampla e contundente, substitui a etapa de defesa prévia e a apresentação de razões finais.",
       "B": "Nos casos de parecer preliminar do relator recomendando a aplicação de pena de censura, o Presidente do Conselho Seccional pode, desde logo, diante da baixa gravidade da pena aplicada, homologar o parecer, aplicando essa sanção.",
       "C": "A condução do processo disciplinar pelo relator foi ilegal, porque a gravidade da infração ou da sanção aplicada não autorizam que sejam reduzidas as oportunidades de defesa do representado ou que se atropelem etapas do processo disciplinar.",
-      "D": "Não houve violação da ampla defesa do advogado, porque o reconhecimento de nulidades processuais está sujeito à constatação de efetivo prejuízo e, como no caso foi aplicada apenas pena de censura, não ocorreu dano suficiente a ponto de que se reconhecesse a ilegalidade do procedimento.\n\n##"
+      "D": "Não houve violação da ampla defesa do advogado, porque o reconhecimento de nulidades processuais está sujeito à constatação de efetivo prejuízo e, como no caso foi aplicada apenas pena de censura, não ocorreu dano suficiente a ponto de que se reconhecesse a ilegalidade do procedimento."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -206,7 +206,7 @@
       "A": "A nova atividade exercida por Roberto caracteriza incompatibilidade para o exercício da advocacia, mesmo em causa própria.",
       "B": "Durante o período da investidura, Roberto estará exclusivamente legitimado para o exercício da advocacia vinculada ao cargo de diretor jurídico.",
       "C": "Roberto, durante o período da investidura, somente não poderá atuar como advogado autônomo contra a Fazenda Pública à qual está vinculada sua entidade empregadora.",
-      "D": "Uma vez que a atuação de Roberto é na área criminal, sem relação direta com o mercado financeiro, Roberto poderá continuar exercendo normalmente a advocacia autônoma.\n\n#"
+      "D": "Uma vez que a atuação de Roberto é na área criminal, sem relação direta com o mercado financeiro, Roberto poderá continuar exercendo normalmente a advocacia autônoma."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -231,7 +231,7 @@
       "A": "O procedimento adotado foi regular, pois diante da gravidade dos fatos e da ampla repercussão, o Tribunal de Ética pode suspender preventivamente o advogado e prorrogar o prazo do processo disciplinar para até 180 dias.",
       "B": "O procedimento adotado foi válido apenas quanto à suspensão, pois o Estatuto admite a suspensão preventiva sem qualquer necessidade de notificação ou sessão de oitiva, desde que haja repercussão negativa à imagem da OAB.",
       "C": "O procedimento foi irregular, porque a suspensão preventiva do advogado somente é válida se o representado for previamente notificado ou, depois de notificado, não comparecer, e o prazo máximo do processo, na hipótese, é de 90 dias.",
-      "D": "O procedimento adotado foi regular quanto ao prazo máximo de duração do processo disciplinar, mas irregular quanto à suspensão preventiva, pois, embora seja cabível, a oitiva do advogado deve ocorrer antes da suspensão, e não posteriormente.\n\n#"
+      "D": "O procedimento adotado foi regular quanto ao prazo máximo de duração do processo disciplinar, mas irregular quanto à suspensão preventiva, pois, embora seja cabível, a oitiva do advogado deve ocorrer antes da suspensão, e não posteriormente."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -256,7 +256,7 @@
       "A": "Vaga reservada na garagem do Fórum.",
       "B": "Suspensão de prazos processuais, desde que haja notificação por escrito ao cliente.",
       "C": "Entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X.",
-      "D": "Acesso a creche, onde houver, ou a local adequado para o atendimento das necessidades do bebê.\n\n#"
+      "D": "Acesso a creche, onde houver, ou a local adequado para o atendimento das necessidades do bebê."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -281,7 +281,7 @@
       "A": "Alfredo não pode participar de estágio de advocacia, pois o estágio só é permitido para estudantes de Direito que ainda estejam cursando os últimos anos do curso jurídico.",
       "B": "Alfredo pode se inscrever no quadro de estagiários da OAB, mas somente se concluir o estágio profissional em uma instituição de ensino superior, e não em escritório credenciado pelo Conselho Seccional da OAB.",
       "C": "Alfredo pode participar do estágio profissional de advocacia e inscrever-se como estagiário da OAB, mesmo após a conclusão do curso, desde que o estágio seja realizado em escritório credenciado pela OAB.",
-      "D": "Alfredo pode participar do estágio profissional, mas não poderá inscrever-se no quadro de estagiários da OAB, pois já concluiu a graduação em Direito e apenas alunos ainda cursando o ensino jurídico podem obter essa inscrição.\n\n#"
+      "D": "Alfredo pode participar do estágio profissional, mas não poderá inscrever-se no quadro de estagiários da OAB, pois já concluiu a graduação em Direito e apenas alunos ainda cursando o ensino jurídico podem obter essa inscrição."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -306,7 +306,7 @@
       "A": "Eduardo e Diogo não podem representar, em juízo, clientes com interesses opostos, por serem sócios da mesma sociedade de advogados.",
       "B": "Eduardo e Diogo podem representar Afonso e Dalila em juízo, desde que firmem compromisso por escrito de que não haverá conflito de interesse entre os dois advogados.",
       "C": "Eduardo e Diogo podem continuar com as respectivas representações de Afonso e Dalila, desde que informem previamente ao Juiz que ambos fazem parte da mesma sociedade.",
-      "D": "Eduardo e Diogo podem continuar com as representações, desde que cada um atue de forma independente dentro da sociedade de advogados, contando com corpo auxiliar próprio.\n\n#"
+      "D": "Eduardo e Diogo podem continuar com as representações, desde que cada um atue de forma independente dentro da sociedade de advogados, contando com corpo auxiliar próprio."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -331,7 +331,7 @@
       "A": "É possível a divulgação conjunta, desde que respeitados o decoro e a dignidade da advocacia, cabendo ao Tribunal de Ética e Disciplina da OAB avaliar a adequação da publicidade.",
       "B": "É permitida a divulgação conjunta apenas quando a outra atividade também for regulamentada por entidade de classe, hipótese em que a OAB poderá celebrar o convênio para a publicidade cruzada.",
       "C": "É vedada a divulgação conjunta de advocacia com outra atividade, ainda que exercida pela mesma pessoa e que haja afinidade entre os ramos, como ocorre entre a advocacia imobiliária e a construção civil.",
-      "D": "Em regra, não é possível divulgar a advocacia em conjunto com outra atividade, mas nesse caso seria permitido, pois as atividades são exercidas por uma mesma pessoa e possuem afinidade temática, inexistindo conflito ético.\n\n#"
+      "D": "Em regra, não é possível divulgar a advocacia em conjunto com outra atividade, mas nesse caso seria permitido, pois as atividades são exercidas por uma mesma pessoa e possuem afinidade temática, inexistindo conflito ético."
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",

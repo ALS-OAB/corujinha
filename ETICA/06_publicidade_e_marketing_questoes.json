@@ -31,7 +31,7 @@
       "A": "Cabe ao Tribunal de Ética e Disciplina do Conselho Seccional perante o qual a infração tenha ocorrido, suspendê-lo preventivamente.",
       "B": "A suspensão preventiva pressupõe a demonstração de que o fato tenha gerado repercussão prejudicial à dignidade da advocacia.",
       "C": "Antes de aplicada a suspensão preventiva, o acusado deve ser ouvido em sessão especial, salvo se não for possível notificá-lo para comparecer.",
-      "D": "Caso aplicada a suspensão preventiva, o processo disciplinar deve ser concluído no prazo máximo de sessenta dias.\n\n#"
+      "D": "Caso aplicada a suspensão preventiva, o processo disciplinar deve ser concluído no prazo máximo de sessenta dias."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
@@ -56,7 +56,7 @@
       "A": "Diante da constatação de que há duas advogadas constituídas pela parte, e à míngua de previsão legal, a condição de lactante de Mariângela não é suficiente para o deferimento do pedido de preferência.",
       "B": "Conquanto inexista previsão legal para o pedido formulado por Mariângela, o juiz deveria ter deferido o pleito com base na práxis judiciária e no princípio da razoabilidade.",
       "C": "Apenas se Mariângela comprovasse ser a única patrona da causa, haveria previsão legal para que o pedido de preferência fosse atendido.",
-      "D": "Mariângela tem o direito de preferência assegurado em lei, independentemente de haver outra advogada constituída nos autos.\n\n##"
+      "D": "Mariângela tem o direito de preferência assegurado em lei, independentemente de haver outra advogada constituída nos autos."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -101,12 +101,12 @@
   },
   {
     "num": 4,
-    "enunciado": "O Presidente do Conselho Seccional da Ordem dos Advogados do Brasil do Estado Alfa recebeu representação devidamente identificada, contendo narrativa fática indicativa da prática de infração disciplinar pelo advogado Paulo. O autor da representação apresentou DOC_Documentos, rol de testemunhas e indicou a produção de provas. Ato contínuo, o Presidente imediatamente designou relator para a competente instrução do processo disciplinar.\n\nConsiderando a legislação que rege o processo disciplinar do advogado, assinale a afirmativa correta.",
+    "enunciado": "O Presidente do Conselho Seccional da Ordem dos Advogados do Brasil do Estado Alfa recebeu representação devidamente identificada, contendo narrativa fática indicativa da prática de infração disciplinar pelo advogado Paulo. O autor da representação apresentou documentos, rol de testemunhas e indicou a produção de provas. Ato contínuo, o Presidente imediatamente designou relator para a competente instrução do processo disciplinar.\n\nConsiderando a legislação que rege o processo disciplinar do advogado, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Se a infração ético-disciplinar apontada na representação for punível com a sanção de censura, será admissível a celebração de termo de ajustamento de conduta, desde que o fato apurado não tenha gerado repercussão negativa à advocacia.",
       "B": "A autoridade competente que proferir o despacho declaratório da instauração do processo disciplinar deverá, no mesmo ato, promover a suspensão preventiva de Paulo pelo prazo de até 90 (noventa) dias.",
       "C": "Na hipótese de arquivamento liminar da representação pelo Presidente do Conselho Seccional, caberá recurso ao Conselho Federal da OAB.",
-      "D": "A designação imediata de relator pelo Presidente do Conselho Seccional, sem a prévia oitiva de Paulo, viola o princípio da ampla defesa.\n\n#"
+      "D": "A designação imediata de relator pelo Presidente do Conselho Seccional, sem a prévia oitiva de Paulo, viola o princípio da ampla defesa."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -131,7 +131,7 @@
       "A": "Os atos praticados por André, após a sua suspensão da OAB, são nulos, pois ele está impedido de exercer a advocacia enquanto durar a suspensão.",
       "B": "Os atos privativos da advocacia praticados por Helena, que não possui inscrição na OAB, são válidos, desde que seus clientes a autorizem expressamente, ratificando os atos por ela praticados.",
       "C": "Os atos praticados por Helena são válidos, desde que restritos à consultoria extrajudicial e relacionados à administração pública, uma vez que ela não representa clientes em processos judiciais.",
-      "D": "Tanto os atos praticados por Helena quanto os atos praticados por André são anuláveis, porém sujeitos à convalidação, pois a atuação em audiências e a prática de consultoria jurídica, embora preferencialmente exercidas por advogados, podem, excepcionalmente, ser exercidas por pessoa com conhecimento jurídico.\n\n#"
+      "D": "Tanto os atos praticados por Helena quanto os atos praticados por André são anuláveis, porém sujeitos à convalidação, pois a atuação em audiências e a prática de consultoria jurídica, embora preferencialmente exercidas por advogados, podem, excepcionalmente, ser exercidas por pessoa com conhecimento jurídico."
     },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
@@ -156,7 +156,7 @@
       "A": "Pedro poderá integrar ambas as sociedades, desde que atue em processos distintos e jamais represente partes com interesses opostos.",
       "B": "Pedro poderá aceitar o convite de Abraão apenas se encerrar formalmente a Sociedade Unipessoal de Advocacia que já possui no Estado Alfa.",
       "C": "Pedro poderá participar das duas sociedades se firmar declaração formal de que manterá independência profissional e não haverá conflito de interesses.",
-      "D": "Pedro poderá manter a sua sociedade unipessoal e, ao mesmo tempo, integrar a sociedade de Abraão desde que a nova sociedade registre filial em outra área territorial, ainda que continue atuando no Estado Alfa.\n\n#"
+      "D": "Pedro poderá manter a sua sociedade unipessoal e, ao mesmo tempo, integrar a sociedade de Abraão desde que a nova sociedade registre filial em outra área territorial, ainda que continue atuando no Estado Alfa."
     },
     "gabarito": "B",
     "disciplina": "Ética Profissional",

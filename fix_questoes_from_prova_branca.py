@@ -9,26 +9,22 @@ Uso:
     python3 fix_questoes_from_prova_branca.py ETICA        # só Ética
     python3 fix_questoes_from_prova_branca.py ETICA CPC    # múltiplas
 
-Suporta 3 formatos de alternativas encontrados nos MDs:
-    A) texto          (ex: exame 37)
-    - A) texto        (ex: exames 39, 40, 42)
-    - (A) texto       (ex: exames 38, 41, 43–46)
-
-Padrões de lixo removidos (rodapés/cabeçalhos do PDF):
-    - Números de página isolados (ex: "3", "17")
-    - "XXXVII EXAME DE ORDEM UN"
-    - "PROVA APLICADA"
-    - "NIFICADO – TIPO 1 – BRANCA"
-    - "A EM 26/2/2023"
-    - "QUESTIONÁRIO DE PERCEPÇÃO"
+Suporta:
+  - Separadores de questão com 1 a 6 # (#{1,6} N)
+  - 3 formatos de alternativas: A) / - A) / - (A)
+  - Limpeza de lixo de rodapé/cabeçalho de página
+  - Correção de DOC_Documentos → documentos (artefato da conversão PDF→MD)
 """
 import re, json, glob, os, sys
 
 BASE_PROVA   = '/home/sfy/Jurimetria_OAB/QST_Questoes'
 BASE_CORPUS  = '/home/sfy/Corujinha'
 
-# Padrões de lixo de rodapé/cabeçalho — específicos o suficiente
-# para não derrubar conteúdo legítimo (ex: "Exame de Ordem" dentro de uma alternativa)
+# Separador de questão: mínimo 4 # seguido de número isolado
+# Seções de página usam 1-3 #; questões usam ####, ##### ou ######
+QUESTAO_SEP = re.compile(r'#{4,6}\s+(\d+)\s*\n')
+
+# Padrões de lixo de rodapé/cabeçalho
 LIXO = [
     re.compile(r'^\d+$'),                               # número de página isolado
     re.compile(r'^[IVXLCDM]+\s+EXAME DE ORDEM', re.I), # 'XXXVII EXAME DE ORDEM UN'
@@ -36,7 +32,7 @@ LIXO = [
     re.compile(r'NIFICADO\s*[–\-]\s*TIPO', re.I),       # 'UNIFICADO – TIPO 1 – BRANCA'
     re.compile(r'^A EM \d{1,2}/\d{1,2}/\d{4}$'),       # 'A EM 26/2/2023'
     re.compile(r'QUESTIONÁRIO DE PERCEPÇÃO', re.I),
-    re.compile(r'^#{1,3} '),                            # cabeçalho markdown residual
+    re.compile(r'^#{1,6}\s*$'),                         # linha só com # (residual)
 ]
 
 ALT_PATTERN = re.compile(
@@ -46,11 +42,6 @@ ALT_PATTERN = re.compile(
     re.DOTALL
 )
 FIRST_ALT = re.compile(r'\n(?:- \([ABCD]\)|(?:- )?[ABCD]\))')
-
-
-def clean_lixo(texto):
-    linhas = texto.split('\n')
-    return '\n'.join(l for l in linhas if not any(p.search(l.strip()) for p in LIXO if l.strip()))
 
 
 def parse_questao(num, texto):
@@ -69,10 +60,19 @@ def parse_questao(num, texto):
     return {'num': num, 'enunciado': enunciado, 'alternativas': alternativas}
 
 
+def clean_lixo(texto):
+    """Remove rodapés/cabeçalhos de página e artefatos de conversão PDF→MD."""
+    # Corrigir DOC_Documentos → documentos (artefato do conversor PDF→MD)
+    texto = texto.replace('DOC_Documentos', 'documentos')
+    linhas = texto.split('\n')
+    return '\n'.join(l for l in linhas if not any(p.search(l.strip()) for p in LIXO if l.strip()))
+
+
 def parse_md_questoes(caminho_md):
-    """Extrai questões 1-80 do MD da prova branca (para antes do questionário de percepção)."""
+    """Extrai questões 1-80 do MD da prova branca (para antes do questionário de percepção).
+    Suporta separadores com 1 a 6 # (#{1,6} N) conforme o conversor usado em cada exame."""
     content = open(caminho_md).read()
-    parts = re.split(r'#### (\d+)', content)
+    parts = QUESTAO_SEP.split(content)
     questoes = {}
     ultimo_num = 0
     for i in range(1, len(parts), 2):
