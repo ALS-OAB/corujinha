@@ -1,12 +1,12 @@
 [
   {
     "num": 63,
-    "enunciado": "Bernardo é servidor público e foi condenado porque, durante procedimento administrativo, prestou informações falsas ao interessado, com o intuito de prejudicá-lo. Recebeu condenação de um ano e dois meses pela prática de tal conduta, tipificada no Art. 29 da Lei de Abuso de Autoridade (Lei nº 13.869/2019). Sobre o caso narrado, assinale a afirmativa correta.",
+    "enunciado": "Bernardo é servidor público e foi condenado porque, durante\nprocedimento administrativo, prestou informações falsas ao\ninteressado, com o intuito de prejudicá-lo. Recebeu condenação de\num ano e dois meses pela prática de tal conduta, tipificada no Art. 29\nda Lei de Abuso de Autoridade (Lei nº 13.869/2019).\nSobre o caso narrado, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Em razão da quantidade de pena aplicada, é efeito automático da condenação a perda do cargo público ocupado por Bernardo.",
-      "B": "A pena de Bernardo pode ser substituída por restritivas de direitos, consistente na inaptidão para o exercício de cargo ou emprego público pelo prazo de 1 a 5 anos.",
-      "C": "A imposição do dever de indenizar a vítima depende de reincidência específica em crimes de abuso de autoridade.",
-      "D": "Bernardo pode sofrer suspensão do exercício do cargo, por 1 a 6 meses, com a perda de vencimentos e vantagens, como medida alternativa à pena de prisão. 18 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "Em razão da quantidade de pena aplicada, é efeito automático da\ncondenação a perda do cargo público ocupado por Bernardo.",
+      "B": "A pena de Bernardo pode ser substituída por restritivas de\ndireitos, consistente na inaptidão para o exercício de cargo ou\nemprego público pelo prazo de 1 a 5 anos.",
+      "C": "A imposição do dever de indenizar a vítima depende de\nreincidência específica em crimes de abuso de autoridade.",
+      "D": "Bernardo pode sofrer suspensão do exercício do cargo, por 1 a 6\nmeses, com a perda de vencimentos e vantagens, como medida\nalternativa à pena de prisão."
     },
     "gabarito": "D",
     "disciplina": "Processo Penal",
@@ -20,7 +20,7 @@
   },
   {
     "num": 66,
-    "enunciado": "Margot adquiriu de Cesar, de boa-fé e a título oneroso, um imóvel, mas não levou o instrumento ao Registro de Imóveis competente. Por isso, quando Cesar foi acusado de prática de crimes em uma ação penal, vindo a sofrer sequestro de todos os seus bens imóveis, foi incluído na ordem de sequestro o imóvel adquirido por Margot. Nessa situação hipotética, como advogado de Margot, assinale a opção que, de acordo com as disposições do Código de Processo Penal, melhor defenda os interesses da sua assistida.",
+    "enunciado": "Margot adquiriu de Cesar, de boa-fé e a título oneroso, um imóvel, mas não levou o instrumento ao Registro de Imóveis competente. Por isso, quando Cesar foi acusado de prática de crimes em uma ação penal, vindo a sofrer sequestro de todos os seus bens imóveis, foi incluído na ordem de sequestro o imóvel adquirido por Margot.\n\nNessa situação hipotética, como advogado de Margot, assinale a opção que, de acordo com as disposições do Código de Processo Penal, melhor defenda os interesses da sua assistida.",
     "alternativas": {
       "A": "Por não ser parte no processo penal, Margot não pode opor embargos ao sequestro, devendo efetuar pedido de reconsideração.",
       "B": "Margot pode opor embargos ao sequestro, alegando que a aquisição ocorreu a título oneroso e de boa-fé.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 68,
-    "enunciado": "Arthur, Bruno, Fernanda e Camille foram acusados de furto simples praticado em 2020. Arthur foi definitivamente condenado, Bruno foi condenado, porém, recorreu e ainda não houve decisão definitiva. Fernanda aceitou suspensão condicional do processo, já cumprida, e Camille foi absolvida, tendo havido recurso do Ministério Público, ainda não julgado. Em julho de 2023, sobreveio acusação de uso de documento particular falso contra os quatro. Considerando preenchidos os demais requisitos, e considerando apenas os antecedentes criminais mencionados, assinale a opção que indica os que podem celebrar Acordo de Não Persecução Penal.",
+    "enunciado": "Arthur, Bruno, Fernanda e Camille foram acusados de furto simples praticado em 2020.\n\nArthur foi definitivamente condenado, Bruno foi condenado, porém, recorreu e ainda não houve decisão definitiva. Fernanda aceitou suspensão condicional do processo, já cumprida, e Camille foi absolvida, tendo havido recurso do Ministério Público, ainda não julgado.\n\nEm julho de 2023, sobreveio acusação de uso de documento particular falso contra os quatro. Considerando preenchidos os demais requisitos, e considerando apenas os antecedentes criminais mencionados, assinale a opção que indica os que podem celebrar Acordo de Não Persecução Penal.",
     "alternativas": {
       "A": "Arthur e Bruno.",
       "B": "Arthur e Fernanda.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 64,
-    "enunciado": "A República Federativa Alfa reconhece o Poder Judiciário como um dos poderes independentes da República. Em Alfa há um órgão de acusação independente e diferente do Judiciário, responsável por formular acusações criminais, tendo a iniciativa probatória. Em Alfa, um acusado seria um sujeito de direitos no âmbito do processo penal, e os princípios democráticos do processo penal, tais como o princípio do Juiz Natural e da presunção de inocência, são reconhecidos. A partir dos dados fornecidos, o país Alfa adota o sistema processual com traços mais marcantes do sistema",
+    "enunciado": "A República Federativa Alfa reconhece o Poder Judiciário como um dos poderes independentes da República. Em Alfa há um órgão de acusação independente e diferente do Judiciário, responsável por formular acusações criminais, tendo a iniciativa probatória.\n\nEm Alfa, um acusado seria um sujeito de direitos no âmbito do processo penal, e os princípios democráticos do processo penal, tais como o princípio do Juiz Natural e da presunção de inocência, são reconhecidos.\n\nA partir dos dados fornecidos, o país Alfa adota o sistema processual com traços mais marcantes do sistema",
     "alternativas": {
       "A": "acusatório.",
       "B": "inquisitivo.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 67,
-    "enunciado": "Policiais ingressaram no imóvel pertencente a Paulo, às 4 horas da manhã, em regular perseguição iniciada logo após a prática de um homicídio, a fim de prender Júnior (filho de Paul o) em flagrante delito. Ao ingressar no imóvel, os policiais capturaram Júnior e, em busca pessoal, localizaram o telefone celular do custodiado no bolso da calça. Além de prender Júnior em flagrante, a autoridade policial determinou o encaminhamento do telefone apreendido à perícia técnica, a fim de descobrir seu conteúdo. O laudo pericial indicou que nele havia conversas que confirmavam a pertinência de Júnior em associação criminosa. Assim, foi instaurado inquérito policial contra Júnior, para apurar o delito de associação criminosa. Nesse caso, assinale a opção que indica corretamente, a alegação que você, ",
+    "enunciado": "Policiais ingressaram no imóvel pertencente a Paulo, às 4 horas da manhã, em regular perseguição iniciada logo após a prática de um homicídio, a fim de prender Júnior (filho de Paul\n\no) em flagrante delito. Ao ingressar no imóvel, os policiais capturaram Júnior e, em busca pessoal, localizaram o telefone celular do custodiado no bolso da calça. Além de prender Júnior em flagrante, a autoridade policial determinou o encaminhamento do telefone apreendido à perícia técnica, a fim de descobrir seu conteúdo. O laudo pericial indicou que nele havia conversas que confirmavam a pertinência de Júnior em associação criminosa. Assim, foi instaurado inquérito policial contra Júnior, para apurar o delito de associação criminosa. Nesse caso, assinale a opção que indica corretamente, a alegação que você, como advogado(a) de Júnior, deve apresentar.",
     "alternativas": {
       "A": "A prisão em flagrante foi válida, porém esta não autoriza a apreensão do aparelho telefônico do flagranteado, o qual somente poderia ser apreendido por ordem judicial prévia e expressa.",
       "B": "O ingresso em domicílio para prisão em flagrante não pode ocorrer no período noturno, havendo nulidade de todos os atos subsequentes ao ingresso dos policiais no domicílio de Paulo, invalidando, inclusive, a prisão em flagrante.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 63,
-    "enunciado": "No dia 10 de agosto de 2023, foi publicada a decisão de rejeição da queixa-crime relativa ao crime de injúria (pena: um a seis meses de detençã o) , que teria sido praticado por Maria Aparecida contra Augusto. Augusto, inconformado com a sentença, procurou você, como advogado(a) , para se insurgir contra a decisão de rejeição de exordial acusatória. Assinale a opção que indica, corretamente, o recurso cabível para o caso.",
+    "enunciado": "No dia 10 de agosto de 2023, foi publicada a decisão de rejeição da queixa-crime relativa ao crime de injúria (pena: um a seis meses de detençã\n\no) , que teria sido praticado por Maria Aparecida contra Augusto.\n\nAugusto, inconformado com a sentença, procurou você, como advogado(a) , para se insurgir contra a decisão de rejeição de exordial acusatória.\n\nAssinale a opção que indica, corretamente, o recurso cabível para o caso.",
     "alternativas": {
       "A": "Agravo.",
       "B": "Apelação.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 67,
-    "enunciado": "Caim, desejando matar Abel, lhe ofereceu um pastel de camarão durante uma festa, sabendo que esse alimento lhe causaria severa alergia. Abel consumiu o pastel oferecido por Caim, além de diversos outros salgados e, em sequência, teve uma violenta crise alérgica, vindo a falecer. Acionada a polícia, os investigadores recolheram, em um mesmo invólucro, todos os alimentos da festa, os quais foram submetidos à perícia, que concluiu que “todos os alimentos periciados contêm traços de camarão em quantidade suficiente para causar a morte da vítima, da forma como ocorreu, não se podendo precisar se a contaminação de tais alimentos ocorreu durante o preparo, na cozinha, ou durante o recolhimento pela Polícia.” A necropsia revelou que o consumo de substância alergênica causou a morte de Abel. Sabe-s",
+    "enunciado": "Caim, desejando matar Abel, lhe ofereceu um pastel de camarão durante uma festa, sabendo que esse alimento lhe causaria severa alergia. Abel consumiu o pastel oferecido por Caim, além de diversos outros salgados e, em sequência, teve uma violenta crise alérgica, vindo a falecer.\n\nAcionada a polícia, os investigadores recolheram, em um mesmo invólucro, todos os alimentos da festa, os quais foram submetidos à perícia, que concluiu que “todos os alimentos periciados contêm traços de camarão em quantidade suficiente para causar a morte da vítima, da forma como ocorreu, não se podendo precisar se a contaminação de tais alimentos ocorreu durante o preparo, na cozinha, ou durante o recolhimento pela Polícia.”\n\nA necropsia revelou que o consumo de substância alergênica causou a morte de Abel. Sabe-se, ainda, que não é mais possível repetir a colheita de vestígios e a perícia dos alimentos. Assim, Caim foi denunciado pelo homicídio doloso de Abel.\n\nComo advogado de Caim, é correto afirmar que a quebra da cadeia de custódia enseja",
     "alternativas": {
       "A": "a ausência de fiabilidade do laudo de necrópsia.",
       "B": "a ausência de prova fiável do nexo de causalidade.",

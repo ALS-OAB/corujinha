@@ -1,7 +1,7 @@
 [
   {
     "num": 79,
-    "enunciado": "Foi proferida uma sentença normativa em dissídio coletivo envolvendo os sindicatos de determinada categoria. Na decisão transitada em julgado foi determinada a entrega mensal de ticket refeição e ticket alimentação no valor de R$ 150,00 cada. Ocorre que uma das sociedades empresárias vinculadas ao sindicato da categoria econômica não está cumprindo a sentença normativa, que se encontra em vigor. De acordo com a CLT, para que a cláusula normativa seja observada, o sindicato deve se valer de uma ação",
+    "enunciado": "Foi proferida uma sentença normativa em dissídio coletivo\nenvolvendo os sindicatos de determinada categoria. Na decisão\ntransitada em julgado foi determinada a entrega mensal de ticket\nrefeição e ticket alimentação no valor de R$ 150,00 cada. Ocorre que\numa das sociedades empresárias vinculadas ao sindicato da categoria\neconômica não está cumprindo a sentença normativa, que se\nencontra em vigor.\nDe acordo com a CLT, para que a cláusula normativa seja observada,\no sindicato deve se valer de uma ação",
     "alternativas": {
       "A": "monitória.",
       "B": "de execução de título extrajudicial.",
@@ -21,7 +21,7 @@
   },
   {
     "num": 77,
-    "enunciado": "O Município de Sete Lagoas/MG foi condenado de forma subsidiária numa reclamação trabalhista envolvendo terceirização. Sendo infrutífera a execução contra o prestador dos serviços, a execução foi direcionada em desfavor do Município, que pretende ajuizar embargos à execução questionando os cálculos. Sobre o caso, de acordo com a Lei de Regência, assinale a afirmativa correta.",
+    "enunciado": "O Município de Sete Lagoas/MG foi condenado de forma subsidiária numa reclamação trabalhista envolvendo terceirização. Sendo infrutífera a execução contra o prestador dos serviços, a execução foi direcionada em desfavor do Município, que pretende ajuizar embargos à execução questionando os cálculos.\n\nSobre o caso, de acordo com a Lei de Regência, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Será obrigatório garantir o juízo, porque não há privilégios na Justiça do Trabalho.",
       "B": "É desnecessária a garantia do juízo diante da natureza jurídica do executado.",
@@ -40,7 +40,7 @@
   },
   {
     "num": 77,
-    "enunciado": "Tereza ajuizou reclamação trabalhista contra o seu exempregador, que foi julgada totalmente procedente, com a concessão de 10% de honorários advocatícios sucumbenciais. Transitado em julgado sem interposição de recurso, o juiz determinou que o calculista da Vara calculasse o valor da dívida. As partes verificaram as contas elaboradas, sem haver discordância. Ocorre que, dez dias depois, sem que o executado ainda tivesse sido citado para pagar a dívida, você, como advogado(a) de Tereza, revisitou os cálculos de liquidação da Contadoria e notou que, por falha involuntária, os honorários advocatícios sucumbenciais não haviam sido incluídos na conta, e que o prazo para impugnação da sentença de liquidação já havia transcorrido. Sobre os honorários advocatícios, considerando os fatos narrados e",
+    "enunciado": "Tereza ajuizou reclamação trabalhista contra o seu exempregador, que foi julgada totalmente procedente, com a concessão de 10% de honorários advocatícios sucumbenciais.\n\nTransitado em julgado sem interposição de recurso, o juiz determinou que o calculista da Vara calculasse o valor da dívida. As partes verificaram as contas elaboradas, sem haver discordância. Ocorre que, dez dias depois, sem que o executado ainda tivesse sido citado para pagar a dívida, você, como advogado(a) de Tereza, revisitou os cálculos de liquidação da Contadoria e notou que, por falha involuntária, os honorários advocatícios sucumbenciais não haviam sido incluídos na conta, e que o prazo para impugnação da sentença de liquidação já havia transcorrido.\n\nSobre os honorários advocatícios, considerando os fatos narrados e o que dispõe a CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O advogado de Tereza perdeu o direito aos honorários.",
       "B": "O causídico ainda poderá perseguir os honorários, mas deverá fazê-lo em ação própria.",
@@ -59,12 +59,12 @@
   },
   {
     "num": 80,
-    "enunciado": "As irmãs Alessandra, Antônia, Alba e Aline foram dispensadas de seus empregos em 2024, e cada qual contratou uma advogada de sua confiança para ajuizar reclamação trabalhista visando postular horas extras. Alessandra tem 58 anos de idade; Antônia, 65 anos de idade; Alba, 50 anos de idade; e Aline, 61 anos de idade. Considerando a norma de regência, assinale a opção que indica o(s) processo(s) que terá(ão) prioridade na tramitação.",
+    "enunciado": "As irmãs Alessandra, Antônia, Alba e Aline foram dispensadas de seus empregos em 2024, e cada qual contratou uma advogada de sua confiança para ajuizar reclamação trabalhista visando postular horas extras.\n\nAlessandra tem 58 anos de idade; Antônia, 65 anos de idade; Alba, 50 anos de idade; e Aline, 61 anos de idade. Considerando a norma de regência, assinale a opção que indica o(s) processo(s) que terá(ão) prioridade na tramitação.",
     "alternativas": {
       "A": "O de Antônia, somente.",
       "B": "Os de Antônia e Aline, somente.",
       "C": "Os de Alessandra e Aline, somente.",
-      "D": "Os das quatro irmãs, em condições iguais. #### Questionário de percepção sobre a prova Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas nos espaços próprios (canto inferior direit o) da"
+      "D": "Os das quatro irmãs, em condições iguais.\n\n\nEste questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas nos espaços próprios (canto inferior direit\n\no) da sua folha de respostas. A OAB e a FGV agradecem sua colaboração."
     },
     "gabarito": "B",
     "disciplina": "Processo do Trabalho",
@@ -78,7 +78,7 @@
   },
   {
     "num": 78,
-    "enunciado": "No bojo de uma execução que tramita perante a 100ª Vara do Trabalho de Porto Velho/RO, o Juiz, após conceder vista ao executado, homologou o cálculo apresentado pelo exequente e fixou a dívida em R$ 20.000,00. O executado pretende se valer do parcelamento da dívida na forma do CPC, subsidiariamente aplicado ao Processo do Trabalho. Considerando esses fatos e de acordo com a legislação em vigor, sabendo-se que não há oposição do credor, assinale a afirmativa correta.",
+    "enunciado": "No bojo de uma execução que tramita perante a 100ª Vara do Trabalho de Porto Velho/RO, o Juiz, após conceder vista ao executado, homologou o cálculo apresentado pelo exequente e fixou a dívida em R$ 20.000,00. O executado pretende se valer do parcelamento da dívida na forma do CPC, subsidiariamente aplicado ao Processo do Trabalho.\n\nConsiderando esses fatos e de acordo com a legislação em vigor, sabendo-se que não há oposição do credor, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O executado poderá honrar a dívida em 5 parcelas iguais e sucessivas e, após garantido o Juízo, apresentar embargos à execução.",
       "B": "O executado depositará 30% da execução acrescido de custas e honorários advocatícios, e o restante, em até seis parcelas mensais, acrescidas de correção monetária e de juros de 1% ao mês.",
@@ -97,7 +97,7 @@
   },
   {
     "num": 77,
-    "enunciado": "Em determinada reclamação trabalhista que tramita perante a 60ª Vara do Trabalho de Maringá, PR, o autor requereu o pagamento do vale-transporte, que jamais fora pago, e as diferenças do FGTS, afirmando que, em parte do contrato, ele não foi depositado pelo ex-empregador na conta vinculada. Em defesa, a sociedade empresária sustentou que o empregado não necessitava de vale-transporte, porque ele residia próximo à sede da sociedade empresária em que exercia as suas atividades, deslocando-se a pé para ir ao serviço e voltar, e que recolheu de forma escorreita o FGTS. Sobre o ônus da prova, considerando os fatos narrados e o entendimento consolidado do Tribunal Superior do Trabalho (TST), assinale a afirmativa correta.",
+    "enunciado": "Em determinada reclamação trabalhista que tramita perante a 60ª Vara do Trabalho de Maringá, PR, o autor requereu o pagamento do vale-transporte, que jamais fora pago, e as diferenças do FGTS, afirmando que, em parte do contrato, ele não foi depositado pelo ex-empregador na conta vinculada.\n\nEm defesa, a sociedade empresária sustentou que o empregado não necessitava de vale-transporte, porque ele residia próximo à sede da sociedade empresária em que exercia as suas atividades, deslocando-se a pé para ir ao serviço e voltar, e que recolheu de forma escorreita o FGTS.\n\nSobre o ônus da prova, considerando os fatos narrados e o entendimento consolidado do Tribunal Superior do Trabalho (TST), assinale a afirmativa correta.",
     "alternativas": {
       "A": "Tanto em relação ao vale-transporte quanto ao FGTS, o ônus da prova caberá ao empregado.",
       "B": "Em relação ao vale-transporte caberá à sociedade empresária; quanto ao FGTS, ao trabalhador.",

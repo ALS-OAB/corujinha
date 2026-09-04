@@ -1,12 +1,12 @@
 [
   {
     "num": 45,
-    "enunciado": "Mota solicitou orçamento para a instalação de persianas na sua casa e, ao receber o documento, leu que a compra das persianas escolhidas somente poderia ser realizada com a compra dos tapetes da mesma coleção. Além disso, juntamente com o orçamento, Mota recebeu proposta para aquisição de seguro residencial. O consumidor ficou em dúvida a respeito da conduta da loja de decoração e procurou você, como advogado(a), para receber orientação jurídica. A esse respeito, você informou, corretamente, ao cliente que se trata de",
+    "enunciado": "Mota solicitou orçamento para a instalação de persianas na sua casa\ne, ao receber o documento, leu que a compra das persianas\nescolhidas somente poderia ser realizada com a compra dos tapetes\nda mesma coleção. Além disso, juntamente com o orçamento, Mota\nrecebeu proposta para aquisição de seguro residencial.\nO consumidor ficou em dúvida a respeito da conduta da loja de\ndecoração e procurou você, como advogado(a), para receber\norientação jurídica.\nA esse respeito, você informou, corretamente, ao cliente que se trata\nde",
     "alternativas": {
-      "A": "prática abusiva em relação às persianas e ao tapete, por condicionar o fornecimento de um produto à aquisição do outro; igualmente abusiva a prática de enviar oferta de serviço mediante proposta do seguro residencial ao consumidor, sem prévia solicitação.",
-      "B": "prática lícita em relação às persianas e ao tapete, uma vez que se trata de produtos da mesma coleção; o seguro residencial foi meramente sugerido, não importando em venda casada.",
-      "C": "prática abusiva em relação às persianas e ao tapete, por condicionar o fornecimento de um produto à aquisição do outro; o seguro residencial foi oferecido sem condicionamento, sendo lícita a prática.",
-      "D": "prática lícita em relação às persianas e ao tapete, uma vez que são produtos da mesma coleção; a proposta do seguro residencial foi enviada ao consumidor sem solicitação prévia, o que torna a prática abusiva."
+      "A": "prática abusiva em relação às persianas e ao tapete, por\ncondicionar o fornecimento de um produto à aquisição do outro;\nigualmente abusiva a prática de enviar oferta de serviço\nmediante proposta do seguro residencial ao consumidor, sem\nprévia solicitação.",
+      "B": "prática lícita em relação às persianas e ao tapete, uma vez que se\ntrata de produtos da mesma coleção; o seguro residencial foi\nmeramente sugerido, não importando em venda casada.",
+      "C": "prática abusiva em relação às persianas e ao tapete, por\ncondicionar o fornecimento de um produto à aquisição do outro;\no seguro residencial foi oferecido sem condicionamento, sendo\nlícita a prática.",
+      "D": "prática lícita em relação às persianas e ao tapete, uma vez que\nsão produtos da mesma coleção; a proposta do seguro\nresidencial foi enviada ao consumidor sem solicitação prévia, o\nque torna a prática abusiva."
     },
     "gabarito": "C",
     "disciplina": "Direito Empresarial",
@@ -20,11 +20,11 @@
   },
   {
     "num": 47,
-    "enunciado": "Pedreira Anitápolis Ltda. está passando por sérias dificuldades de fluxo de caixa a curto e médio prazo e não está conseguindo crédito no mercado financeiro para honrar seus compromissos urgentes, em especial com credores trabalhistas e por acidentes de trabalho. A sociedade empresária pretende elaborar um plano de recuperação extrajudicial para apresentar a seus credores e negociar com eles sua aprovação. A respeito desse assunto, à luz das disposições do Código de Defesa do Consumidor sobre banco de dados e cadastro de consumidores, assinale a afirmativa correta.",
+    "enunciado": "Pedreira Anitápolis Ltda. está passando por sérias dificuldades de fluxo de caixa a curto e médio prazo e não está conseguindo crédito no mercado financeiro para honrar seus compromissos urgentes, em especial com credores trabalhistas e por acidentes de trabalho. A sociedade empresária pretende elaborar um plano de recuperação extrajudicial para apresentar a seus credores e negociar com eles sua aprovação.\n\nA respeito desse assunto, à luz das disposições do Código de Defesa do Consumidor sobre banco de dados e cadastro de consumidores, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Os créditos de natureza trabalhista e por acidentes de trabalho podem ser incluídos no plano de recuperação extrajudicial, mas, para a homologação, é necessária prévia negociação coletiva com o sindicato da respectiva categoria funcional.",
       "B": "Os créditos de natureza trabalhista e por acidentes de trabalho, à semelhança do que ocorre com os créditos de natureza tributária, não podem ser incluídos no plano de recuperação extrajudicial, por não se sujeitarem aos efeitos da recuperação extrajudicial.",
-      "C": "Os créditos decorrentes de acidentes de trabalho, no limite máximo de 150 (cento e cinquent a) salários mínimos por empregado, podem ser incluídos no plano de recuperação extrajudicial, mas os créditos de natureza trabalhista não se sujeitam aos efeitos da recuperação extrajudicial.",
+      "C": "Os créditos decorrentes de acidentes de trabalho, no limite máximo de 150 (cento e cinquent\n\na) salários mínimos por empregado, podem ser incluídos no plano de recuperação extrajudicial, mas os créditos de natureza trabalhista não se sujeitam aos efeitos da recuperação extrajudicial.",
       "D": "Os créditos de natureza trabalhista podem ser incluídos no plano de recuperação extrajudicial, mediante negociação coletiva prévia com o sindicato da respectiva categoria funcional, mas os créditos decorrentes de acidentes de trabalho não se sujeitam aos efeitos da recuperação extrajudicial."
     },
     "gabarito": "A",
@@ -58,7 +58,7 @@
   },
   {
     "num": 47,
-    "enunciado": "Bento de Abreu e Bernardino de Campos são os únicos sócios e fundadores da sociedade empresária Abreu & Campos Ltda. Os sócios deliberaram a transformação da sociedade de limitada para companhia e lhe pediram orientação sobre o nome empresarial. Considerando algumas das regras para a formação do nome empresarial do tipo que a sociedade adotará, assinale a afirmativa correta.",
+    "enunciado": "Bento de Abreu e Bernardino de Campos são os únicos sócios e fundadores da sociedade empresária Abreu & Campos Ltda. Os sócios deliberaram a transformação da sociedade de limitada para companhia e lhe pediram orientação sobre o nome empresarial.\n\nConsiderando algumas das regras para a formação do nome empresarial do tipo que a sociedade adotará, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A companhia adotará denominação, na qual poderá constar o(s) nome(s) do(s) fundador(es) , sendo facultada a designação do objeto social.",
       "B": "A companhia adotará firma, sendo formada por nome de fantasia a partir da escolha dos sócios, seguido obrigatoriamente pela designação do objeto social.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 48,
-    "enunciado": "Pedro e Vitória são casados desde 2005 no regime de comunhão parcial de bens e pretendem constituir sociedade simples com seus filhos Carlos e Conceição. De acordo com as regras do Código Civil para a participação de pessoas casadas em sociedade, assinale a afirmativa correta.",
+    "enunciado": "Pedro e Vitória são casados desde 2005 no regime de comunhão parcial de bens e pretendem constituir sociedade simples com seus filhos Carlos e Conceição.\n\nDe acordo com as regras do Código Civil para a participação de pessoas casadas em sociedade, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É possível a constituição de sociedade simples simultaneamente entre os cônjuges e seus filhos, tendo em vista não ser a sociedade empresária.",
       "B": "É defeso a constituição de sociedade simples simultaneamente entre os cônjuges e seus filhos, qualquer que seja o regime de bens do casamento.",

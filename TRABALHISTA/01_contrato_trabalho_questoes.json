@@ -1,10 +1,10 @@
 [
   {
     "num": 68,
-    "enunciado": "Antônio Silva foi denunciado pelo Ministério Público do Estado do Rio de Janeiro pelo crime de tráfico de drogas. Essa denúncia foi rejeitada pelo juízo da 50ª Vara Criminal da Comarca do Rio de Janeiro, por falta de prova mínima da autoria e materialidade (justa causa). O órgão ministerial então interpôs recurso em sentido estrito dessa decisão, já arrazoado. Para evitar a caracterização de uma nulidade processual, é correto afirmar que o juízo deve, em seguida,",
+    "enunciado": "Antônio Silva foi denunciado pelo Ministério Público do Estado do Rio\nde Janeiro pelo crime de tráfico de drogas. Essa denúncia foi\nrejeitada pelo juízo da 50ª Vara Criminal da Comarca do Rio de\nJaneiro, por falta de prova mínima da autoria e materialidade (justa\ncausa). O órgão ministerial então interpôs recurso em sentido estrito\ndessa decisão, já arrazoado.\nPara evitar a caracterização de uma nulidade processual, é correto\nafirmar que o juízo deve, em seguida,",
     "alternativas": {
-      "A": "nomear defensor público para apresentar contrarrazões recursais em favor de Antônio.",
-      "B": "nomear defensor dativo para apresentar contrarrazões recursais em favor de Antônio.",
+      "A": "nomear defensor público para apresentar contrarrazões recursais\nem favor de Antônio.",
+      "B": "nomear defensor dativo para apresentar contrarrazões recursais\nem favor de Antônio.",
       "C": "notificar Antônio para apresentar contrarrazões recursais.",
       "D": "remeter os autos ao Tribunal competente."
     },
@@ -20,7 +20,7 @@
   },
   {
     "num": 73,
-    "enunciado": "Anne é diretora não-empregada de uma grande multinacional. Ela tem contraprestação pecuniária elevada e algumas vantagens pelo cargo que ocupa como, por exemplo, veículo com motorista e o aluguel de uma espaçosa residência. Na útima assembleia, no entanto, Anne levou a debate sua pretensão de receber mensalmente FGTS em conta vinculada. Sobre a pretensão de Anne, de acordo com a lei de regência, assinale a afirmativa correta.",
+    "enunciado": "Anne é diretora não-empregada de uma grande multinacional. Ela tem contraprestação pecuniária elevada e algumas vantagens pelo cargo que ocupa como, por exemplo, veículo com motorista e o aluguel de uma espaçosa residência. Na útima assembleia, no entanto, Anne levou a debate sua pretensão de receber mensalmente FGTS em conta vinculada.\n\nSobre a pretensão de Anne, de acordo com a lei de regência, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A pretensão é inviável, porque Anne não tem o contrato regido pela CLT e, assim, não pode ter FGTS.",
       "B": "Se a sociedade empresária desejar, poderá equiparar, para fins de FGTS, o diretor não-empregado aos demais trabalhadores.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 71,
-    "enunciado": "Os sindicatos de classe de uma determinada categoria elaboraram uma convenção coletiva normatizando o pagamento do adicional de penosidade. A norma previa vigência de 2 (dois) anos, com término em outubro de 2023. Considerando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.",
+    "enunciado": "Os sindicatos de classe de uma determinada categoria elaboraram uma convenção coletiva normatizando o pagamento do adicional de penosidade. A norma previa vigência de 2 (dois) anos, com término em outubro de 2023.\n\nConsiderando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Mesmo com a vigência encerrada, os trabalhadores que recebiam o adicional possuem direito adquirido, e o pagamento deve prosseguir.",
       "B": "Ao término da vigência da norma coletiva, caso ela não seja renovada, os trabalhadores perderão o direito ao adicional.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 74,
-    "enunciado": "Paulo trabalha desde 2022 na sociedade empresária Auditorias Fidedignas Ltda. como auditor. A empresa possui plano permanente de capacitação e, por isso, Paulo viaja com frequência para realizar cursos de auditoria em todo o país e se manter sempre atualizado. Em uma dessas viagens, Paulo estava no hotel tomando banho e abruptamente, sem motivo aparente, o vidro temperado do banheiro estourou, quebrando-se em vários pedaços, sendo que alguns deles atingiram e cortaram Paulo. Em virtude disso, o empregado precisou se afastar do serviço por 12 dias, findos os quais retornou ao trabalho e reassumiu suas atividades normais. Diante da situação apresentada e da legislação em vigor, assinale a afirmativa correta.",
+    "enunciado": "Paulo trabalha desde 2022 na sociedade empresária Auditorias Fidedignas Ltda. como auditor. A empresa possui plano permanente de capacitação e, por isso, Paulo viaja com frequência para realizar cursos de auditoria em todo o país e se manter sempre atualizado. Em uma dessas viagens, Paulo estava no hotel tomando banho e abruptamente, sem motivo aparente, o vidro temperado do banheiro estourou, quebrando-se em vários pedaços, sendo que alguns deles atingiram e cortaram Paulo. Em virtude disso, o empregado precisou se afastar do serviço por 12 dias, findos os quais retornou ao trabalho e reassumiu suas atividades normais.\n\nDiante da situação apresentada e da legislação em vigor, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Uma vez que Paulo não estava trabalhando, o evento não é acidente do trabalho, daí porque ele não terá a garantia no emprego por 12 meses.",
       "B": "O evento pode ser considerado acidente do trabalho e, por isso, o empregado terá estabilidade no emprego por 12 meses a partir do retorno.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 72,
-    "enunciado": "Sérgio foi contratado, em 2022, por uma indústria mecânica para receber um salário mensal de R$ 3.000 (três mil reai s) . Ele pediu para não ter a CTPS assinada, porque estava recebendo o segurodesemprego do emprego anterior. Também não queria ter contracheque formal para que a ex-esposa não soubesse do novo emprego, uma vez que estava devendo a pensão alimentícia e não queria que houvesse desconto judicial. A sociedade empresária cedeu aos seus argumentos e não assinou sua carteira profissional. Sobre a decisão da sociedade empresária, considerando o que dispõe a CLT, assinale a afirmativa correta.",
+    "enunciado": "Sérgio foi contratado, em 2022, por uma indústria mecânica para receber um salário mensal de R$ 3.000 (três mil reai\n\ns) . Ele pediu para não ter a CTPS assinada, porque estava recebendo o segurodesemprego do emprego anterior.\n\nTambém não queria ter contracheque formal para que a ex-esposa não soubesse do novo emprego, uma vez que estava devendo a pensão alimentícia e não queria que houvesse desconto judicial. A sociedade empresária cedeu aos seus argumentos e não assinou sua carteira profissional.\n\nSobre a decisão da sociedade empresária, considerando o que dispõe a CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Ela não precisa assinar a CTPS, desde que isso esteja previsto em norma coletiva.",
       "B": "Ela agiu incorretamente, porque deveria anotar o contrato de trabalho na CTPS no prazo de cinco dias úteis.",
@@ -96,12 +96,12 @@
   },
   {
     "num": 72,
-    "enunciado": "Em outubro de 2023, a sociedade empresária Plantas Ornamentais Ltda. dispensou o empregado Josimar, sem justa causa, após dois anos de contrato de trabalho. A sociedade calculou as verbas resilitórias e depositou-as na conta do trabalhador em cinco dias e, no mesmo dia, fez o recolhimento da indenização de 40% sobre o FGTS. Ocorre que, por equívoco do setor de Recursos Humanos da sociedade empresária, as guias para o saque do FGTS e os formulários para o requerimento do seguro-desemprego somente foram entregues 60 dias após o término do aviso prévio. Sobre a hipótese, considerando os termos da CLT, assinale a afirmativa correta.",
+    "enunciado": "Em outubro de 2023, a sociedade empresária Plantas Ornamentais Ltda. dispensou o empregado Josimar, sem justa causa, após dois anos de contrato de trabalho. A sociedade calculou as verbas resilitórias e depositou-as na conta do trabalhador em cinco dias e, no mesmo dia, fez o recolhimento da indenização de 40% sobre o FGTS.\n\nOcorre que, por equívoco do setor de Recursos Humanos da sociedade empresária, as guias para o saque do FGTS e os formulários para o requerimento do seguro-desemprego somente foram entregues 60 dias após o término do aviso prévio.\n\nSobre a hipótese, considerando os termos da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Não se cogitará qualquer multa ou penalidade pela ausência de prejuízo, já que as verbas foram depositadas na conta de Josimar no prazo legal.",
-      "B": "A sociedade empresária pagará uma multa de 50% do valor das verbas resilitórias, em razão do atraso na entrega dos DOC_Documentos do FGTS e do seguro-desemprego.",
+      "B": "A sociedade empresária pagará uma multa de 50% do valor das verbas resilitórias, em razão do atraso na entrega dos documentos do FGTS e do seguro-desemprego.",
       "C": "A situação gerou enorme prejuízo ao trabalhador, daí porque as verbas referentes à saída deverão ser pagas em dobro como forma de punição da sociedade empresária.",
-      "D": "A sociedade empresária pagará multa pelo atraso na entrega dos DOC_Documentos do FGTS e do seguro-desemprego em favor do trabalhador, no valor equivalente ao seu salário."
+      "D": "A sociedade empresária pagará multa pelo atraso na entrega dos documentos do FGTS e do seguro-desemprego em favor do trabalhador, no valor equivalente ao seu salário."
     },
     "gabarito": "D",
     "disciplina": "Direito do Trabalho",
@@ -115,7 +115,7 @@
   },
   {
     "num": 75,
-    "enunciado": "Jonas trabalhava em uma sociedade empresária desde 2021. Com a nova chefia, que assumiu em janeiro de 2025, Jonas passou a ser explícita e sistematicamente discriminado pelo chefe em razão de sua orientação sexual, já que mantinha uma relação homoafetiva que era de conhecimento geral. Jonas foi dispensado, sem justa causa, em março de 2025. Em razão disso, Jonas o(a) procurou, na condição de advogado(a) , para conhecer dos seus direitos. Assinale a opção que, considerando os fatos narrados e a norma de regência, apresenta, corretamente, sua orientação jurídica para o caso.",
+    "enunciado": "Jonas trabalhava em uma sociedade empresária desde 2021. Com a nova chefia, que assumiu em janeiro de 2025, Jonas passou a ser explícita e sistematicamente discriminado pelo chefe em razão de sua orientação sexual, já que mantinha uma relação homoafetiva que era de conhecimento geral. Jonas foi dispensado, sem justa causa, em março de 2025.\n\nEm razão disso, Jonas o(a) procurou, na condição de advogado(a) , para conhecer dos seus direitos.\n\nAssinale a opção que, considerando os fatos narrados e a norma de regência, apresenta, corretamente, sua orientação jurídica para o caso.",
     "alternativas": {
       "A": "Nada há a fazer, porque é direito do empregador efetuar a dispensa sem justa causa.",
       "B": "O direito que assiste a Jonas é ser reintegrado, com ressarcimento integral de todo o período de afastamento.",

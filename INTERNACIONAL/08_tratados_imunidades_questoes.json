@@ -1,7 +1,7 @@
 [
   {
     "num": 22,
-    "enunciado": "A Fundação de Juristas Moçambique–Brasil, associação privada de fim de interesse coletivo, constituiu-se na década de 1990, na cidade de Maputo, capital de Moçambique, e pretende abrir filial no Brasil. Você, advogado(a) especializado em Direito Internacional, é procurado pela Fundação para avaliar a pretensão do caso em tela. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "enunciado": "A Fundação de Juristas Moçambique–Brasil, associação privada de fim de interesse coletivo, constituiu-se na década de 1990, na cidade de Maputo, capital de Moçambique, e pretende abrir filial no Brasil. Você, advogado(a) especializado em Direito Internacional, é procurado pela Fundação para avaliar a pretensão do caso em tela.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A Fundação não poderá ter filial no Brasil, salvo se houver prévia decisão da justiça brasileira autorizativa.",
       "B": "A Fundação não poderá ter filial no Brasil, antes da aprovação dos atos constitutivos pelo governo brasileiro, ficando a filial sujeita à lei brasileira.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 22,
-    "enunciado": "A Convenção de Viena sobre os Direitos dos Tratados de 1969 estabelece regras gerais para os tratados internacionais em relação a diversos aspectos, como entrada em vigor, aplicação e interpretação. Quanto à interpretação dos tratados, estes devem ser interpretados de boa-fé levando em consideração o contexto, o objetivo e a finalidade. A esse respeito, assinale a afirmativa correta.",
+    "enunciado": "A Convenção de Viena sobre os Direitos dos Tratados de 1969 estabelece regras gerais para os tratados internacionais em relação a diversos aspectos, como entrada em vigor, aplicação e interpretação. Quanto à interpretação dos tratados, estes devem ser interpretados de boa-fé levando em consideração o contexto, o objetivo e a finalidade.\n\nA esse respeito, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Para os fins de interpretação de um tratado, o contexto compreenderá, além do texto, seu preâmbulo e anexos.",
       "B": "Toda vez que um tratado for autenticado em duas ou mais línguas, sem exceção, seu texto tem validade em cada uma delas.",

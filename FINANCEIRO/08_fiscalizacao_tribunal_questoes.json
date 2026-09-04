@@ -1,11 +1,11 @@
 [
   {
     "num": 24,
-    "enunciado": "O Presidente da República deve enviar, todo ano, o Projeto da Lei de Diretrizes Orçamentárias (PLDO) da União ao Congresso Nacional para ser apreciado e votado. Como projeto de lei orçamentária que é, possui especificidades em seu regime de tramitação. A CRFB/88 estabelece que o PLDO, ao chegar ao Poder Legislativo, deve ser encaminhado ao(à)",
+    "enunciado": "O Presidente da República deve enviar, todo ano, o Projeto da Lei de Diretrizes Orçamentárias (PLDO) da União ao Congresso Nacional para ser apreciado e votado. Como projeto de lei orçamentária que é, possui especificidades em seu regime de tramitação.\n\nA CRFB/88 estabelece que o PLDO, ao chegar ao Poder Legislativo, deve ser encaminhado ao(à)",
     "alternativas": {
       "A": "Plenário do Congresso Nacional, para apreciação e votação única do PLDO em sessão conjunta de ambas as casas.",
       "B": "Plenário da Câmara dos Deputados, para apreciação e votação em turno único, e posterior remessa ao Plenário do Senado Federal para votação do PLDO.",
-      "C": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização – CMO, para examinar e emitir parecer sobre o PLDO.",
+      "C": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização\n\n– CMO, para examinar e emitir parecer sobre o PLDO.",
       "D": "Comissão de Constituição e Justiça e de Cidadania – CCJ, para examinar e emitir parecer sobre o PLDO."
     },
     "gabarito": "C",
@@ -20,7 +20,7 @@
   },
   {
     "num": 24,
-    "enunciado": "O Estado Alfa, ao final do segundo bimestre de um determinado exercício financeiro, percebeu que a realização da receita poderia não comportar o cumprimento das metas de resultado primário estabelecidas no Anexo de Metas Fiscais. Em razão disso, o Poder Executivo teve de realizar, nos trinta dias subsequentes, limitação de empenho e movimentação financeira. Diante desse cenário, assinale a opção que apresenta, corretamente, a despesa que poderia ser objeto de tal limitação de empenho.",
+    "enunciado": "O Estado Alfa, ao final do segundo bimestre de um determinado exercício financeiro, percebeu que a realização da receita poderia não comportar o cumprimento das metas de resultado primário estabelecidas no Anexo de Metas Fiscais.\n\nEm razão disso, o Poder Executivo teve de realizar, nos trinta dias subsequentes, limitação de empenho e movimentação financeira. Diante desse cenário, assinale a opção que apresenta, corretamente, a despesa que poderia ser objeto de tal limitação de empenho.",
     "alternativas": {
       "A": "A despesa que constitua obrigação legal do ente estadual.",
       "B": "A despesa com o pagamento do serviço da dívida estadual.",

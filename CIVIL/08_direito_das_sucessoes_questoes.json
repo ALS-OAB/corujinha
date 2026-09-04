@@ -1,12 +1,12 @@
 [
   {
     "num": 38,
-    "enunciado": "Maria Cristina era casada com Roberto, falecido no início de 2022, sem deixar testamento, sob o regime de separação convencional de bens. O casal sempre viveu em um imóvel de propriedade de Roberto com seus dois filhos, Alcino e Valério, que não moram mais com os pais. Roberto deixou, além do referido imóvel residencial, alguns investimentos e outro imóvel, de natureza comercial. Sobre o direito real de habitação do cônjuge sobrevivente, assinale a afirmativa correta.",
+    "enunciado": "Maria Cristina era casada com Roberto, falecido no início de 2022, sem deixar testamento, sob o regime de separação convencional de bens. O casal sempre viveu em um imóvel de propriedade de Roberto com seus dois filhos, Alcino e Valério, que não moram mais com os pais. Roberto deixou, além do referido imóvel residencial, alguns investimentos e outro imóvel, de natureza comercial.\n\nSobre o direito real de habitação do cônjuge sobrevivente, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Maria Cristina é titular do direito real de habitação, sem prejuízo de sua participação na herança de Roberto.",
       "B": "Maria Cristina não é titular do direito real de habitação, uma vez que existe mais de um imóvel a inventariar dentre os bens que compõem a herança de Roberto.",
       "C": "Maria Cristina receberá seu quinhão da herança, mas só tem o direito de permanecer morando no imóvel em que vivia com Roberto, caso Alcino e Valério autorizem.",
-      "D": "Maria não é titular do direito real de habitação, pois esse não se aplica aos casamentos sob a vigência do regime de separação convencional de bens."
+      "D": "Maria não é titular do direito real de habitação, pois esse não se aplica aos casamentos sob a vigência do regime de\n\nseparação convencional de bens."
     },
     "gabarito": "A",
     "disciplina": "Direito Civil",
@@ -32,7 +32,7 @@
   },
   {
     "num": 41,
-    "enunciado": "Os irmãos Eduardo e Letícia herdaram um apartamento de sua mãe. Concluído o inventário, decidiram vender o apartamento ao casal Pedro e Mariana. Para tanto, as partes celebraram contrato de compra e venda. Pedro e Mariana se obrigaram, solidariamente, a pagar o preço pactuado (R$ 600.000,00) no prazo de trinta dias. Não foi avençada cláusula de solidariedade ativa. Alcançado o prazo contratual, Pedro e Mariana não pagaram o preço. Tendo em vista a situação hipotética apresentada, assinale a afirmativa correta.",
+    "enunciado": "Os irmãos Eduardo e Letícia herdaram um apartamento de sua mãe. Concluído o inventário, decidiram vender o apartamento ao casal Pedro e Mariana. Para tanto, as partes celebraram contrato de compra e venda. Pedro e Mariana se obrigaram, solidariamente, a pagar o preço pactuado (R$ 600.000,00) no prazo de trinta dias. Não foi avençada cláusula de solidariedade ativa. Alcançado o prazo contratual, Pedro e Mariana não pagaram o preço.\n\nTendo em vista a situação hipotética apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Eduardo, sozinho, tem direito de cobrar a integralidade do preço pactuado, R$ 600.000,00, de Mariana, sozinha.",
       "B": "Letícia, sozinha, tem direito de cobrar apenas a metade do preço pactuado, R$ 300.000,00, de Pedro, sozinho.",
@@ -63,7 +63,7 @@
   },
   {
     "num": 39,
-    "enunciado": "João, viúvo, é pai da Marcela e Tatiana, capazes, que não possuem filhos. Por ocasião da morte de João, ambas as filhas são chamadas a aceitar a herança, no valor de R$ 200.000,00. Por ser devedora do Banco XYZ, no valor de R$ 50.000,00, Marcela, com receio da instituição financeira a privar da herança, decide renunciar seu quinhão, o que faz por meio de escritura pública. Tatiana, por sua vez, manifesta sua aceitação. Acerca desta situação, assinale a afirmativa correta.",
+    "enunciado": "João, viúvo, é pai da Marcela e Tatiana, capazes, que não possuem filhos.\n\nPor ocasião da morte de João, ambas as filhas são chamadas a aceitar a herança, no valor de R$ 200.000,00. Por ser devedora do Banco XYZ, no valor de R$ 50.000,00, Marcela, com receio da instituição financeira a privar da herança, decide renunciar seu quinhão, o que faz por meio de escritura pública. Tatiana, por sua vez, manifesta sua aceitação.\n\nAcerca desta situação, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Ante a existência de credor, a renúncia de Marcela é inválida.",
       "B": "O Banco XYZ poderá aceitar a totalidade do quinhão deixado para Marcela.",
@@ -94,7 +94,7 @@
   },
   {
     "num": 40,
-    "enunciado": "Do testamento deixado por Natália constou a seguinte cláusula acerca da parte disponível: “lego o apartamento X para meus filhos Henrique e Carolina, os quais serão individualmente substituídos, se não puderem aceitar, pelo meu filho Carlos.” Após o registro, abertura e determinação de seu cumprimento, Henrique renunciou à sucessão testamentária, satisfazendo-se com a legítima. Você, como advogado(a) , foi consultado(a) acerca da transmissão causa mortis do apartamento X. Assinale a opção que apresenta, corretamente, sua orientação.",
+    "enunciado": "Do testamento deixado por Natália constou a seguinte cláusula acerca da parte disponível: “lego o apartamento X para meus filhos Henrique e Carolina, os quais serão individualmente substituídos, se não puderem aceitar, pelo meu filho Carlos.”\n\nApós o registro, abertura e determinação de seu cumprimento, Henrique renunciou à sucessão testamentária, satisfazendo-se com a legítima. Você, como advogado(a) , foi consultado(a) acerca da transmissão causa mortis do apartamento X.\n\nAssinale a opção que apresenta, corretamente, sua orientação.",
     "alternativas": {
       "A": "Caberá à Carolina e a Carlos, por força da substituição prevista.",
       "B": "Ficará integralmente com Carolina, por conta do direito de acrescer.",
@@ -125,7 +125,7 @@
   },
   {
     "num": 38,
-    "enunciado": "Mateus e Pedro adquiriram um veículo de Joana, figurando ambos como devedores solidários. Foi pactuado que o pagamento seria feito no prazo de 30 dias, contado da data da celebração do contrato. Ocorre que, dez dias após o acordo, Mateus faleceu, deixando dois herdeiros. Sobre as obrigações de cada um dos herdeiros de Mateus, assinale a afirmativa correta.",
+    "enunciado": "Mateus e Pedro adquiriram um veículo de Joana, figurando ambos como devedores solidários. Foi pactuado que o pagamento seria feito no prazo de 30 dias, contado da data da celebração do contrato. Ocorre que, dez dias após o acordo, Mateus faleceu, deixando dois herdeiros.\n\nSobre as obrigações de cada um dos herdeiros de Mateus, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Estão obrigados a pagar a dívida como um todo, se a obrigação for divisível, com direito de ação regressiva contra Pedro.",
       "B": "Estão desobrigados de qualquer pagamento, pois a responsabilidade pelo pagamento não é transmitida aos herdeiros.",
@@ -156,7 +156,7 @@
   },
   {
     "num": 40,
-    "enunciado": "Gustavo, viúvo, é pai de Heitor e Gabriela. Gustavo tem uma relação harmoniosa com sua filha e extremamente conturbada com o filho. Por essa razão, Gustavo doou para sua filha uma casa que, ao tempo da liberalidade, correspondia a uma pequena fração de seu patrimônio. No contrato de doação, inexistiu qualquer cláusula especial. Dois anos após o referido contrato, Gustavo elaborou seu testamento, dispensando Gabriela de colacionar o bem. Com a morte de Gustavo e a abertura de seu testamento, Heitor está questionando a validade do contrato de doação e da dispensa de colação. Sobre a situação apresentada, assinale a afirmativa correta.",
+    "enunciado": "Gustavo, viúvo, é pai de Heitor e Gabriela. Gustavo tem uma relação harmoniosa com sua filha e extremamente conturbada com o filho. Por essa razão, Gustavo doou para sua filha uma casa que, ao tempo da liberalidade, correspondia a uma pequena fração de seu patrimônio. No contrato de doação, inexistiu qualquer cláusula especial.\n\nDois anos após o referido contrato, Gustavo elaborou seu testamento, dispensando Gabriela de colacionar o bem.\n\nCom a morte de Gustavo e a abertura de seu testamento, Heitor está questionando a validade do contrato de doação e da dispensa de colação.\n\nSobre a situação apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O contrato de doação é válido, e Gabriela está dispensada de colacionar o bem por força do testamento.",
       "B": "O contrato de doação é válido, mas a dispensa de colação é nula. Essa dispensa só pode ocorrer no próprio contrato de doação.",
@@ -187,7 +187,7 @@
   },
   {
     "num": 39,
-    "enunciado": "Após uma intensa discussão motivada por questões financeiras, Lucas desferiu golpes fatais em seus pais, resultando na morte de ambos, que deixaram uma herança significativa. Mateus, seu irmão mais novo, ainda menor de idade, está sob a tutela de seu tio Ricardo, que se recusa a promover a exclusão de Lucas da sucessão por indignidade. Considerando que Mateus, por ser menor, não tem capacidade legal para agir diretamente, surgem dúvidas sobre quem tem legitimidade para requerer judicialmente a exclusão de Lucas da herança e quais são os procedimentos adequados para isso. Diante da situação hipotética narrada e com base na legislação vigente, assinale a afirmativa correta.",
+    "enunciado": "Após uma intensa discussão motivada por questões financeiras, Lucas desferiu golpes fatais em seus pais, resultando na morte de ambos, que deixaram uma herança significativa.\n\nMateus, seu irmão mais novo, ainda menor de idade, está sob a tutela de seu tio Ricardo, que se recusa a promover a exclusão de Lucas da sucessão por indignidade. Considerando que Mateus, por ser menor, não tem capacidade legal para agir diretamente, surgem dúvidas sobre quem tem legitimidade para requerer judicialmente a exclusão de Lucas da herança e quais são os procedimentos adequados para isso.\n\nDiante da situação hipotética narrada e com base na legislação vigente, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Apenas Mateus, ao atingir a maioridade, terá o direito de pedir judicialmente a exclusão de Lucas da sucessão, pois ele é o herdeiro direto prejudicado.",
       "B": "O Ministério Público tem legitimidade para requerer a exclusão de Lucas por indignidade, protegendo os direitos de Mateus, menor e incapaz de agir por conta própria.",

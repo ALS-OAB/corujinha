@@ -559,7 +559,7 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:4px;"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
         Resumo Aula
       </button>
-      <span class="progress-pill" id="progress-text">0 / 0</span>
+      <span class="progress-pill" id="progress-text">0 / 1</span>
     </div>
   </header>
 
@@ -573,12 +573,12 @@
         </div>
         <h1 class="hero-title">Defesa em Juízo e Ações Coletivas</h1>
         <p class="hero-subtitle">
-          Estudo intensivo de Direito Constitucional. 0 questões estruturadas com raciocínio lógico, síntese e fundamentação da Lei nº 8.078/1990 (Código de Defesa do Consumidor).
+          Estudo intensivo de Direito Constitucional. 1 questões estruturadas com raciocínio lógico, síntese e fundamentação da Lei nº 8.078/1990 (Código de Defesa do Consumidor).
         </p>
         
         <div class="hero-stats">
           <div class="stat-card">
-            <div class="stat-val">0</div>
+            <div class="stat-val">1</div>
             <div class="stat-lbl">Questões Didáticas</div>
           </div>
           <div class="stat-card">
@@ -596,7 +596,7 @@
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px;"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
             Dashboard
           </a>
-          <button class="btn-hero" style="flex: 2; width: auto; margin-top: 0;" onclick="startQuiz()">Iniciar Simulado (0 Questões)</button>
+          <button class="btn-hero" style="flex: 2; width: auto; margin-top: 0;" onclick="startQuiz()">Iniciar Simulado (1 Questões)</button>
         </div>
       </div>
     </div>
@@ -633,7 +633,7 @@
             <div style="font-size: 11px; font-weight: 600; color: #991b1b;">Erros</div>
           </div>
           <div style="background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 12px; padding: 12px;">
-            <div style="font-size: 18px; font-weight: 700; color: var(--primary);" id="res-total">0</div>
+            <div style="font-size: 18px; font-weight: 700; color: var(--primary);" id="res-total">1</div>
             <div style="font-size: 11px; font-weight: 600; color: var(--text-muted);">Total</div>
           </div>
         </div>
@@ -677,7 +677,7 @@
   </div>
 
   <script>
-    const questionsData = [];
+    const questionsData = [{"num": 1, "id": 1, "exame": "Exame OAB", "tema": "Questão Didática Modelo - Defesa em Juízo e Ações Coletivas", "enunciado": "<p>Aguardando extração das questões históricas dos últimos exames de Ordem para esta matéria.</p>", "opcoes": {"A": "Opção A (Aguardando povoamento)", "B": "Opção B (Aguardando povoamento)", "C": "Opção C (Aguardando povoamento)", "D": "Opção D (Aguardando povoamento)"}, "gabarito": "A", "core": true, "sintese": "<p>Síntese Didática Modelo</p>", "logica_conceito": "<p>Lógica do Conceito Modelo</p>", "fundamentacao": "<p>Lei nº 14.133/2021 (Nova Lei de Licitações) e legislação administrativa</p>", "dica": "<p>Dica Didática Modelo</p>", "aula_comentario": "<p>Comentário da Aula</p>", "analise": "<p>Análise detalhada das alternativas.</p>"}];
     
     let currentIndex = 0;
     let score = 0;
@@ -701,7 +701,7 @@
 
     function buildQuestionSlide(q, i) {
       let optionsHtml = '';
-      for (const [letter, text] of Object.entries(q.opcoes)) {
+      for (const [letter, text] of Object.entries(q.alternativas || q.opcoes || {})) {
         optionsHtml += `
           <button class="opt-btn" id="opt-${i}-${letter}" onclick="answerQuestion(${i}, '${letter}')">
             <span class="opt-letter">${letter}</span>
@@ -720,7 +720,7 @@
                 <div class="q-meta" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="q-num">Q${i + 1} / ${questionsData.length}</span>
                   ${q.exame ? `<span class="q-exame-badge" style="background:#ecfdf5; color:#047857; border:1px solid #a7f3d0; font-weight:700; border-radius:6px; padding:3px 8px; font-size:11px; letter-spacing:-0.2px; display:inline-flex; align-items:center;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>${q.exame}</span>` : ''}
-                  <span class="q-topic">${q.tema}</span>
+                  <span class="q-topic">${q.tema || q.modulo_nome || ""}</span>
                 </div>
                 <div class="timer-badge" id="timer-badge-${i}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>

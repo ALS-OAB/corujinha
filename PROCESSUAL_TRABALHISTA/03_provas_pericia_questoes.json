@@ -1,7 +1,7 @@
 [
   {
     "num": 76,
-    "enunciado": "Pedro, Luzia e Rogério são empregados da sociedade empresária ABC e ajuizaram reclamação trabalhista individual contra ela. Pedro tem 55 anos de idade e postula na sua ação horas extras; Luzia tem 42 anos de idade e em sua ação requer o pagamento de 2 períodos de férias vencidas; Rogério tem 34 anos de idade e, na sua demanda, postula o pagamento dos salários retidos dos últimos 2 meses de trabalho. Em razão do alto salário que os três empregados recebiam, todas as ações tramitam pelo rito ordinário. A respeito dessas reclamações trabalhistas, assinale a opção que indica, de acordo com a CLT, a(as) que terá(ão) preferência na tramitação processual.",
+    "enunciado": "Pedro, Luzia e Rogério são empregados da sociedade empresária ABC\ne ajuizaram reclamação trabalhista individual contra ela. Pedro tem\n55 anos de idade e postula na sua ação horas extras; Luzia tem 42\nanos de idade e em sua ação requer o pagamento de 2 períodos de\nférias vencidas; Rogério tem 34 anos de idade e, na sua demanda,\npostula o pagamento dos salários retidos dos últimos 2 meses de\ntrabalho.\nEm razão do alto salário que os três empregados recebiam, todas as\nações tramitam pelo rito ordinário.\nA respeito dessas reclamações trabalhistas, assinale a opção que\nindica, de acordo com a CLT, a(as) que terá(ão) preferência na\ntramitação processual.",
     "alternativas": {
       "A": "A de Rogério.",
       "B": "A de Luzia.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 79,
-    "enunciado": "Depois de fracassar a tentativa pacífica de negociação para realizar uma convenção coletiva de âmbito municipal, o sindicato dos - empregados ajuizou dissídio coletivo que, depois de regularmente processado nos moldes da Lei, recebeu sua sentença normativa. Ocorre que o sindicato dos empregadores não concorda com algumas das cláusulas fixadas, e pretende recorrer da decisão. Diante da situação retratada e dos termos da CLT, assinale a afirmativa correta.",
+    "enunciado": "Depois de fracassar a tentativa pacífica de negociação para realizar uma convenção coletiva de âmbito municipal, o sindicato dos\n\n- empregados ajuizou dissídio coletivo que, depois de regularmente processado nos moldes da Lei, recebeu sua sentença normativa. Ocorre que o sindicato dos empregadores não concorda com algumas das cláusulas fixadas, e pretende recorrer da decisão. Diante da situação retratada e dos termos da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Caberá recurso ordinário para o TST.",
       "B": "Por se tratar de sentença normativa, é irrecorrível.",
@@ -40,7 +40,7 @@
   },
   {
     "num": 79,
-    "enunciado": "Você é advogado de um trabalhador em sede de reclamação trabalhista. Em que pese o direito de seu cliente ser constitucionalmente assegurado, pois se trata de férias não gozadas um ano após o período aquisitivo, que tampouco foram indenizadas, a sentença de primeiro grau considerou o pedido improcedente. Do mesmo modo o recurso pertinente contra essa decisão também teve o provimento negado. Diante disso, considerando a decisão contrária ao dispositivo constitucional, você interpôs o recurso cabível, que não foi admitido sob a alegação de que não preenchia os pressupostos para tanto. Diante disso, assinale a afirmativa que apresenta, corretamente, a medida a ser adotada no interesse do seu cliente, sendo certo que as decisões não contêm nenhum vício de dúvida, omissão, obscuridade ou contra",
+    "enunciado": "Você é advogado de um trabalhador em sede de reclamação trabalhista. Em que pese o direito de seu cliente ser constitucionalmente assegurado, pois se trata de férias não gozadas um ano após o período aquisitivo, que tampouco foram indenizadas, a sentença de primeiro grau considerou o pedido improcedente. Do mesmo modo o recurso pertinente contra essa decisão também teve o provimento negado.\n\nDiante disso, considerando a decisão contrária ao dispositivo constitucional, você interpôs o recurso cabível, que não foi admitido sob a alegação de que não preenchia os pressupostos para tanto.\n\nDiante disso, assinale a afirmativa que apresenta, corretamente, a medida a ser adotada no interesse do seu cliente, sendo certo que as decisões não contêm nenhum vício de dúvida, omissão, obscuridade ou contradição.",
     "alternativas": {
       "A": "Recurso de Revista.",
       "B": "Agravo de Instrumento.",
@@ -59,7 +59,7 @@
   },
   {
     "num": 77,
-    "enunciado": "Em uma reclamação trabalhista requerendo a responsabilidade civil do empregador em razão de uma alegada doença profissional, o Juiz deferiu a realização de perícia, sendo que ambas as partes quesitaram e indicaram assistentes técnicos. No laudo, foi detectado que realmente houve a doença ocupacional. Com base nele, o Juiz julgou procedente o pedido. Sobre os honorários do perito e dos assistentes, considerando o entendimento consolidado do TST, assinale a afirmativa correta.",
+    "enunciado": "Em uma reclamação trabalhista requerendo a responsabilidade civil do empregador em razão de uma alegada doença profissional, o Juiz deferiu a realização de perícia, sendo que ambas as partes quesitaram e indicaram assistentes técnicos. No laudo, foi detectado que realmente houve a doença ocupacional. Com base nele, o Juiz julgou procedente o pedido.\n\nSobre os honorários do perito e dos assistentes, considerando o entendimento consolidado do TST, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A empresa deverá arcar com os honorários do perito e do assistente técnico do autor.",
       "B": "A Justiça arcará com os honorários do perito, e cada parte será responsável pelos honorários do seu assistente técnico.",
@@ -78,12 +78,12 @@
   },
   {
     "num": 80,
-    "enunciado": "Em execução que tramita perante a 120ª Vara do Trabalho de Salvador, o executado é um ente público condenado de forma subsidiária em virtude de uma terceirização na qual foi comprovado que não houve fiscalização adequada. Contudo, o valor homologado pelo Juízo não obteve a concordância do executado, que entende estar majorado em relação à coisa julgada formada. Considerando a dinâmica da execução prevista na norma de regência, assinale a afirmativa correta.",
+    "enunciado": "Em execução que tramita perante a 120ª Vara do Trabalho de Salvador, o executado é um ente público condenado de forma subsidiária em virtude de uma terceirização na qual foi comprovado que não houve fiscalização adequada. Contudo, o valor homologado pelo Juízo não obteve a concordância do executado, que entende estar majorado em relação à coisa julgada formada.\n\nConsiderando a dinâmica da execução prevista na norma de regência, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É desnecessária a garantia do Juízo e o ente público terá 30 (trinta) dias para embargar.",
       "B": "Caberá ao ente público garantir o Juízo e ajuizar embargos à execução no prazo de oito dias.",
       "C": "É desnecessária a garantia do Juízo e o ente público terá oito dias para embargar.",
-      "D": "Caberá ao ente público garantir o Juízo e ajuizar embargos à execução no prazo de 16 dias. ### Questionário de percepção sobre a prova Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas n"
+      "D": "Caberá ao ente público garantir o Juízo e ajuizar embargos à execução no prazo de 16 dias.\n\n\nEste questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas nos espaços próprios (canto inferior direit\n\no) da sua folha de respostas. A OAB e a FGV agradecem sua colaboração."
     },
     "gabarito": "A",
     "disciplina": "Processo do Trabalho",
@@ -97,7 +97,7 @@
   },
   {
     "num": 79,
-    "enunciado": "Um sindicato de classe dos empregados ajuizou, perante o Tribunal Regional do Trabalho competente, dissídio coletivo de natureza econômica com alcance municipal. Após ser devidamente contestado, o processo foi extinto sem a resolução do mérito, não havendo margem para a oposição de embargos de declaração. Considerando esses fatos e que você é o(a) advogado(a) do sindicato autor, assinale a opção que indica o recurso cabível e o respectivo prazo.",
+    "enunciado": "Um sindicato de classe dos empregados ajuizou, perante o Tribunal Regional do Trabalho competente, dissídio coletivo de natureza econômica com alcance municipal. Após ser devidamente contestado, o processo foi extinto sem a resolução do mérito, não havendo margem para a oposição de embargos de declaração.\n\nConsiderando esses fatos e que você é o(a) advogado(a) do sindicato autor, assinale a opção que indica o recurso cabível e o respectivo prazo.",
     "alternativas": {
       "A": "Recurso ordinário, no prazo de 8 dias.",
       "B": "Recurso de revista, no prazo de 8 dias.",

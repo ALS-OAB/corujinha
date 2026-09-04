@@ -1,12 +1,12 @@
 [
   {
     "num": 65,
-    "enunciado": "Leonardo praticou um crime que, objetivamente, admitia o acordo de não persecução penal (ANPP). Concluída a investigação criminal, e estando presente a justa causa, o Promotor de Justiça se recusou a fazer a proposta de ANPP, por entender que estava demonstrado que a conduta de Leonardo era habitual. Diante da recusa do Promotor de Justiça em propor o ANPP, o Juiz da Comarca de Cascais, acolhendo o requerimento do advogado de Leonardo, remeteu o investigatório ao Ministério Público para se manifestar sobre o tema. O MP apresentou ao Juiz da Vara Criminal da Comarca de Cascais uma proposta de ANPP para ser homologada. O juiz considerou insuficiente a condição de Leonardo pagar como prestação pecuniária a quantia correspondente a 02 (dois) salários- mínimos a uma entidade pública, a ser indi",
+    "enunciado": "Leonardo praticou um crime que, objetivamente, admitia o acordo de\nnão persecução penal (ANPP). Concluída a investigação criminal, e\nestando presente a justa causa, o Promotor de Justiça se recusou a\nfazer a proposta de ANPP, por entender que estava demonstrado que\na conduta de Leonardo era habitual.\nDiante da recusa do Promotor de Justiça em propor o ANPP, o Juiz da\nComarca de Cascais, acolhendo o requerimento do advogado de\nLeonardo, remeteu o investigatório ao Ministério Público para se\nmanifestar sobre o tema.\nO MP apresentou ao Juiz da Vara Criminal da Comarca de Cascais\numa proposta de ANPP para ser homologada.\nO juiz considerou insuficiente a condição de Leonardo pagar como\nprestação pecuniária a quantia correspondente a 02 (dois) salários-\nmínimos a uma entidade pública, a ser indicada pelo juízo da\nexecução, devolvendo os autos ao MP para reformular a proposta\nnesta parte.\nO MP manteve a proposta nos termos acordados com Leonardo,\nrazão pela qual o Juiz da Vara Criminal de Cascais recusou-se a\nhomologá-la.\nSobre a decisão de não homologação da proposta de ANPP, assinale a\nopção que indica qual o recurso cabível e quem poderá interpô-lo.",
     "alternativas": {
-      "A": "Recurso de agravo previsto na Lei de Execução Penal, haja vista que a prestação pecuniária era destinada a uma entidade pública a ser indicada pelo juízo da execução. O legitimado para interpor esse recurso é Leonardo, haja vista que contra o mesmo seria cobrada a prestação pecuniária junto ao juízo da execução.",
-      "B": "Recurso em sentido estrito, considerando se tratar de um ato judicial de natureza declaratória. Estavam legitimados a recorrer o Ministério Público e Leonardo, por terem, ambos, interesse recursal.",
-      "C": "Recurso de apelação (residual), por se tratar de uma decisão definitiva. Somente estava legitimado a recorrer o Ministério Público, por ser o autor da proposta, ainda que a ela tenha aderido Leonardo.",
-      "D": "Recurso de apelação (residual), por se tratar de uma decisão com força de definitiva, e dela poderia recorrer o Promotor de Justiça com atribuição e Leonardo, por terem, ambos, interesse recursal. 19 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "Recurso de agravo previsto na Lei de Execução Penal, haja vista\nque a prestação pecuniária era destinada a uma entidade pública\na ser indicada pelo juízo da execução. O legitimado para interpor\nesse recurso é Leonardo, haja vista que contra o mesmo seria\ncobrada a prestação pecuniária junto ao juízo da execução.",
+      "B": "Recurso em sentido estrito, considerando se tratar de um ato\njudicial de natureza declaratória. Estavam legitimados a recorrer\no Ministério Público e Leonardo, por terem, ambos, interesse\nrecursal.",
+      "C": "Recurso de apelação (residual), por se tratar de uma decisão\ndefinitiva. Somente estava legitimado a recorrer o Ministério\nPúblico, por ser o autor da proposta, ainda que a ela tenha\naderido Leonardo.",
+      "D": "Recurso de apelação (residual), por se tratar de uma decisão com\nforça de definitiva, e dela poderia recorrer o Promotor de Justiça\ncom atribuição e Leonardo, por terem, ambos, interesse recursal."
     },
     "gabarito": "B",
     "disciplina": "Processo Penal",
@@ -20,7 +20,7 @@
   },
   {
     "num": 68,
-    "enunciado": "Flávia foi acompanhada por você, na qualidade de advogado(a) , à presença da Autoridade Policial, para noticiar a prática dos crimes de apropriação indébita e fraude processual supostamente praticados por seu ex-marido, descrevendo a prática do crime, fornecendo os dados qualificativos completos do suposto autor do fato, apresentando rol de testemunhas e anexando documentação pertinente à materialidade delitiva e de indícios de autoria. O Delegado de Polícia Civil, após cinco dias da confecção do registro da ocorrência, sem que tenha sido praticado nenhum ato para a verificação da procedência das informações, despachou nos autos do Inquérito Policial pelo indeferimento da instauração do Inquérito Policial e determinou a suspensão do procedimento. Nesse caso, você deve",
+    "enunciado": "Flávia foi acompanhada por você, na qualidade de advogado(a) , à presença da Autoridade Policial, para noticiar a prática dos crimes de apropriação indébita e fraude processual supostamente praticados por seu ex-marido, descrevendo a prática do crime, fornecendo os dados qualificativos completos do suposto autor do fato, apresentando rol de testemunhas e anexando documentação pertinente à materialidade delitiva e de indícios de autoria.\n\nO Delegado de Polícia Civil, após cinco dias da confecção do registro da ocorrência, sem que tenha sido praticado nenhum ato para a verificação da procedência das informações, despachou nos autos do Inquérito Policial pelo indeferimento da instauração do Inquérito Policial e determinou a suspensão do procedimento.\n\nNesse caso, você deve",
     "alternativas": {
       "A": "requerer a remessa dos autos ao Ministério Público para que se manifeste, uma vez que o Delegado de Polícia não possui poderes para arquivar o procedimento.",
       "B": "requerer a remessa dos autos ao Juízo para que se manifeste, uma vez que o Delegado de Polícia não possui poderes para arquivar o procedimento.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 64,
-    "enunciado": "Vanessa, primária e sem antecedentes, grávida de seis meses, foi presa em flagrante no aeroporto no momento em que embarcava com destino à Espanha de posse de 10kg de substância entorpecente (cocaína) . Vanessa foi autuada pela prática do crime de tráfico internacional de drogas ( **Art. 33** , caput, c/c. **Art. 40** , inciso I, ambos da Lei nº 11.343/06). Sobre a possibilidade de prisão domiciliar em favor de Vanessa, assinale a afirmativa correta.",
+    "enunciado": "Vanessa, primária e sem antecedentes, grávida de seis meses, foi presa em flagrante no aeroporto no momento em que embarcava com destino à Espanha de posse de 10kg de substância entorpecente (cocaína) . Vanessa foi autuada pela prática do crime de tráfico internacional de drogas (\n\n**Art. 33**\n, caput, c/c. \n\n**Art. 40**\n, inciso I, ambos da Lei nº 11.343/06).\n\nSobre a possibilidade de prisão domiciliar em favor de Vanessa, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A quantidade de drogas apreendida e a transnacionalidade do delito obstam a concessão de prisão domiciliar.",
       "B": "O pedido de prisão domiciliar é injustificável, tendo em vista que Vanessa ainda está no sexto mês de gestação.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 66,
-    "enunciado": "Francisco e seu filho Alfredo depredaram o carro de Terezinha, o que motivou o ajuizamento de queixa-crime em face de Francisco e Alfredo, dentro do prazo decadencial, pelo crime de dano qualificado por motivo egoístico, disposto no **Art. 163** , inciso IV, do CP. No curso da ação penal, Francisco e Terezinha começaram a ter um relacionamento amoroso. Terezinha perdoou expressamente Francisco nos autos da queixa-crime. Intimado, Francisco aceitou o perdão da ofendida, o Juízo declarou a extinção da punibilidade em face de Francisco, mas, determinou o seguimento da ação penal em relação a Alfredo. Diante do caso narrado, assinale a opção que apresenta, corretamente, os princípios que você, como advogado(a) de Alfredo, deve alegar no interesse de seu cliente.",
+    "enunciado": "Francisco e seu filho Alfredo depredaram o carro de Terezinha, o que motivou o ajuizamento de queixa-crime em face de Francisco e Alfredo, dentro do prazo decadencial, pelo crime de dano qualificado por motivo egoístico, disposto no \n\n**Art. 163**\n, inciso IV, do CP.\n\nNo curso da ação penal, Francisco e Terezinha começaram a ter um relacionamento amoroso. Terezinha perdoou expressamente Francisco nos autos da queixa-crime. Intimado, Francisco aceitou o perdão da ofendida, o Juízo declarou a extinção da punibilidade em face de Francisco, mas, determinou o seguimento da ação penal em relação a Alfredo.\n\nDiante do caso narrado, assinale a opção que apresenta, corretamente, os princípios que você, como advogado(a) de Alfredo, deve alegar no interesse de seu cliente.",
     "alternativas": {
       "A": "Da indivisibilidade e da disponibilidade.",
       "B": "Da divisibilidade e da intranscendência das penas.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 63,
-    "enunciado": "Gabriela se dirigiu a uma agência da Caixa Econômica Federal, empresa pública federal, a fim de tentar sacar benefício assistencial pago pela União a pessoas em situação de vulnerabilidade financeira, munida de DOC_Documentos falsos, em nome de terceira pessoa. Gabriela foi presa em flagrante, sendo constatado que ela estava cumprindo pena em regime aberto domiciliar por condenação relativa a outro fato. Em relação à execução penal, assinale a afirmativa que define as consequências do evento narrado.",
+    "enunciado": "Gabriela se dirigiu a uma agência da Caixa Econômica Federal, empresa pública federal, a fim de tentar sacar benefício assistencial pago pela União a pessoas em situação de vulnerabilidade financeira, munida de documentos falsos, em nome de terceira pessoa.\n\nGabriela foi presa em flagrante, sendo constatado que ela estava cumprindo pena em regime aberto domiciliar por condenação relativa a outro fato.\n\nEm relação à execução penal, assinale a afirmativa que define as consequências do evento narrado.",
     "alternativas": {
       "A": "A responsabilização de Gabriela depende de representação da vítima, por se tratar de delito de estelionato.",
       "B": "Ao tomar conhecimento do novo crime, o Juiz da execução pode reconhecer a falta grave e determinar a regressão de regime sem necessidade de contraditório.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 65,
-    "enunciado": "Peterson teve sua prisão temporária decretada pelo prazo de trinta dias, ao ser investigado pela prática do crime de homicídio culposo na direção de veículo automotor, disposto no **Art. 302** da Lei nº 9.503/1997 (Código de Trânsito Brasileir o) , cuja pena cominada é de dois a quatro anos de detenção. A decisão foi fundamentada na necessidade da coleta de provas imprescindíveis durante a investigação policial. Você foi procurado(a) , como advogado(a) , para atuar no melhor interesse de Peterson, no primeiro dia da sua prisão. Assinale a opção que apresenta, corretamente, o pedido cabível tendo em vista os interesses de seu cliente.",
+    "enunciado": "Peterson teve sua prisão temporária decretada pelo prazo de trinta dias, ao ser investigado pela prática do crime de homicídio culposo na direção de veículo automotor, disposto no \n\n**Art. 302**\n da Lei nº 9.503/1997 (Código de Trânsito Brasileir\n\no) , cuja pena cominada é de dois a quatro anos de detenção. A decisão foi fundamentada na necessidade da coleta de provas imprescindíveis durante a investigação policial. Você foi procurado(a) , como advogado(a) , para atuar no melhor interesse de Peterson, no primeiro dia da sua prisão. Assinale a opção que apresenta, corretamente, o pedido cabível tendo em vista os interesses de seu cliente.",
     "alternativas": {
       "A": "A liberdade provisória com arbitramento de fiança, pois a pena máxima do crime não ultrapassa quatro anos.",
       "B": "A liberdade provisória com aplicação de medidas cautelares diversas da prisão, pois não demonstrada a imprescindibilidade da medida.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 63,
-    "enunciado": "Marivaldo foi denunciado por organização criminosa e peculato. A denúncia foi lastreada, exclusivamente, no depoimento de Sérgio, corréu, que celebrou acordo de colaboração premiada com o Ministério Público. Assim, recebida a denúncia, foram citados ambos os réus, sendo que a citação de Marivaldo ocorreu no dia 10/05, e a de Sérgio, no dia 20/05 do corrente ano. De acordo com o caso narrado, na qualidade de advogado(a) de Marivaldo, assinale a opção que apresenta a conduta adequada a ser adotada.",
+    "enunciado": "Marivaldo foi denunciado por organização criminosa e peculato. A denúncia foi lastreada, exclusivamente, no depoimento de Sérgio, corréu, que celebrou acordo de colaboração premiada com o Ministério Público.\n\nAssim, recebida a denúncia, foram citados ambos os réus, sendo que a citação de Marivaldo ocorreu no dia 10/05, e a de Sérgio, no dia 20/05 do corrente ano.\n\nDe acordo com o caso narrado, na qualidade de advogado(a) de Marivaldo, assinale a opção que apresenta a conduta adequada a ser adotada.",
     "alternativas": {
       "A": "O prazo de apresentação da resposta à acusação é de dez dias a contar da citação do último corréu, tratando-se de prazo comum às partes.",
       "B": "O prazo de apresentação da resposta à acusação é de dez dias a contar da citação de Marivaldo, podendo ser encerrado antes do prazo de Sérgio.",

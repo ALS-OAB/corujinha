@@ -1,12 +1,12 @@
 [
   {
     "num": 22,
-    "enunciado": "Lucas, menor de oito anos de idade, é proprietário de um imóvel (recebido por herança de seu avô), o qual foi alugado por seus pais, João e Maria, representando-o. Contudo, o Imposto sobre a Propriedade Territorial Urbana (IPTU) referente a este imóvel não está sendo pago pelo locatário, conforme havia sido pactuado no contrato de locação. Em razão do inadimplemento, foi enviada notificação de lançamento do crédito tributário em nome de Lucas como devedor do tributo, para seu domicílio tributário, a fim de que pagasse o débito. A notificação foi recebida via Correios por seus pais, que residem junto com seu filho. Os pais, por entenderem que esta obrigação era do locatário, recusam-se a pagar. O Fisco Municipal está agora a cobrar judicialmente o valor da dívida de IPTU. Diante desse cenár",
+    "enunciado": "Lucas, menor de oito anos de idade, é proprietário de um imóvel\n(recebido por herança de seu avô), o qual foi alugado por seus pais,\nJoão e Maria, representando-o. Contudo, o Imposto sobre a\nPropriedade Territorial Urbana (IPTU) referente a este imóvel não\nestá sendo pago pelo locatário, conforme havia sido pactuado no\ncontrato de locação.\nEm razão do inadimplemento, foi enviada notificação de lançamento\ndo crédito tributário em nome de Lucas como devedor do tributo,\npara seu domicílio tributário, a fim de que pagasse o débito. A\nnotificação foi recebida via Correios por seus pais, que residem junto\ncom seu filho. Os pais, por entenderem que esta obrigação era do\nlocatário, recusam-se a pagar. O Fisco Municipal está agora a cobrar\njudicialmente o valor da dívida de IPTU.\nDiante desse cenário e à luz do Código Tributário Nacional, assinale a\nafirmativa correta.",
     "alternativas": {
-      "A": "Lucas, embora absolutamente incapaz, pode figurar como contribuinte devedor do IPTU, inclusive podendo constar seu nome na notificação de lançamento do crédito tributário.",
-      "B": "Em razão da menoridade de Lucas, apenas seus pais serão considerados contribuintes deste IPTU.",
-      "C": "Lucas e seus pais são contribuintes do IPTU, mas os bens dos pais devem ser executados antes dos bens de Lucas.",
-      "D": "Lucas é o contribuinte do IPTU, sendo o locatário o responsável tributário pelo pagamento do mesmo."
+      "A": "Lucas, embora absolutamente incapaz, pode figurar como\ncontribuinte devedor do IPTU, inclusive podendo constar seu\nnome na notificação de lançamento do crédito tributário.",
+      "B": "Em razão da menoridade de Lucas, apenas seus pais serão\nconsiderados contribuintes deste IPTU.",
+      "C": "Lucas e seus pais são contribuintes do IPTU, mas os bens dos pais\ndevem ser executados antes dos bens de Lucas.",
+      "D": "Lucas é o contribuinte do IPTU, sendo o locatário o responsável\ntributário pelo pagamento do mesmo."
     },
     "gabarito": "A",
     "disciplina": "Direito Tributário",
@@ -20,7 +20,7 @@
   },
   {
     "num": 29,
-    "enunciado": "O Governador do Estado Alfa, diante da grande quantidade de bicicletas elétricas circulando em seu território, e visando aumentar a arrecadação, oficiou à sua Secretaria da Fazenda para adotar alguma forma de cobrança quanto a tais veículos. Esta, por sua vez, orientou seus fiscais a cobrar o Imposto sobre Propriedade de Veículos Automotores (IPV",
+    "enunciado": "O Governador do Estado Alfa, diante da grande quantidade de bicicletas elétricas circulando em seu território, e visando aumentar a arrecadação, oficiou à sua Secretaria da Fazenda para adotar alguma forma de cobrança quanto a tais veículos. Esta, por sua vez, orientou seus fiscais a cobrar o Imposto sobre Propriedade de Veículos Automotores (IPVA), aplicando a incidência deste imposto, por analogia, às bicicletas elétricas, ainda que não classificadas como veículos automotores propriamente ditos pela legislação de trânsito pertinente.\n\nO sindicato dos lojistas do setor o(a) consulta, como advogado(a) , a respeito desta incidência. Diante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É válida a exigência deste imposto, uma vez que as bicicletas elétricas se enquadram no conceito de veículo automotor por analogia.",
       "B": "Está dentro da competência estadual a tributação sobre a propriedade de bicicletas elétricas.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 27,
-    "enunciado": "João e José decidem constituir uma sociedade empresária, denominada Informática ABC Ltda., especializada na prestação de serviços na área de informática. João integralizou 50% do capital social da sociedade com dinheiro, e José integralizou os seus 50% com um imóvel de sua propriedade localizado no Município Alfa, a ser utilizado como sede da empresa. Dois anos depois do início das atividades da sociedade empresária, José recebe uma notificação da Secretaria de Fazenda do Município Alfa, por falta de pagamento do Imposto sobre a Transmissão de Bens Imóveis (ITBI), devido no ato da integralização do capital social da empresa, por ser ele, segundo a legislação local, o contribuinte deste imposto. Diante desse cenário, assinale a afirmativa correta.",
+    "enunciado": "João e José decidem constituir uma sociedade empresária, denominada Informática ABC Ltda., especializada na prestação de serviços na área de informática. João integralizou 50% do capital social da sociedade com dinheiro, e José integralizou os seus 50% com um imóvel de sua propriedade localizado no Município Alfa, a ser utilizado como sede da empresa.\n\nDois anos depois do início das atividades da sociedade empresária, José recebe uma notificação da Secretaria de Fazenda do Município Alfa, por falta de pagamento do Imposto sobre a Transmissão de Bens Imóveis (ITBI), devido no ato da integralização do capital social da empresa, por ser ele, segundo a legislação local, o contribuinte deste imposto.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "José é responsável solidário pelo recolhimento do ITBI incidente sobre essa transmissão.",
       "B": "As empresas do setor de informática, por expressa disposição de lei complementar nacional, estão isentas do pagamento de ITBI.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 25,
-    "enunciado": "José foi citado, em janeiro de 2022, em uma ação de execução fiscal movida pela Fazenda Nacional para cobrança de Imposto sobre a Renda de Pessoa Física (IRPF), cujo débito tributário foi por ele próprio apurado na sua Declaração de Ajuste Anual entregue à Secretaria da Receita Federal do Brasil, em março de 2017 (referente ao ano base de 2016). Sem nada fazer, em março daquele ano, foi intimado da penhora de sua conta bancária. Três meses após a intimação da penhora, José finalmente encontrou a guia DARF do IRPF integralmente paga dentro do prazo, no exato valor apurado como devido naquela declaração de ajuste anual. José, então, o(a) procura para, como advogado(a) , adotar a medida processual cabível nos autos daquela ação de cobrança considerada indevida. Diante desse cenário, assinale ",
+    "enunciado": "José foi citado, em janeiro de 2022, em uma ação de execução fiscal movida pela Fazenda Nacional para cobrança de Imposto sobre a Renda de Pessoa Física (IRPF), cujo débito tributário foi por ele próprio apurado na sua Declaração de Ajuste Anual entregue à Secretaria da Receita Federal do Brasil, em março de 2017 (referente ao ano base de 2016).\n\nSem nada fazer, em março daquele ano, foi intimado da penhora de sua conta bancária. Três meses após a intimação da penhora, José finalmente encontrou a guia DARF do IRPF integralmente paga dentro do prazo, no exato valor apurado como devido naquela declaração de ajuste anual. José, então, o(a) procura para, como advogado(a) , adotar a medida processual cabível nos autos daquela ação de cobrança considerada indevida.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "José deverá oferecer embargos à execução, oportunidade em que poderá alegar a quitação da dívida tributária.",
       "B": "Por ser matéria de ordem pública, será possível alegar apenas a prescrição daquela ação de execução fiscal, que teria ocorrido em dezembro de 2021.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 28,
-    "enunciado": "Nova lei federal ordinária, pretendendo oferecer uma oportunidade para que os empregadores possam quitar suas dívidas de contribuição previdenciária patronal, criou um programa de parcelamento de dívidas desse tributo em até 90 (noventa) meses. Diante desse cenário, assinale a afirmativa correta.",
+    "enunciado": "Nova lei federal ordinária, pretendendo oferecer uma oportunidade para que os empregadores possam quitar suas dívidas de contribuição previdenciária patronal, criou um programa de parcelamento de dívidas desse tributo em até 90 (noventa) meses.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A nova lei, por não ser complementar, não poderia prever o parcelamento dessas dívidas de contribuições de seguridade social.",
       "B": "O número máximo de meses de tal parcelamento extrapola o permitido pela Constituição Federal/88.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 26,
-    "enunciado": "O Estado Alfa publicou, em 29/12/2024, uma nova lei ordinária, instituindo a incidência de IPVA sobre a propriedade de veículos automotores aéreos e aquáticos, com fato gerador ocorrendo no dia 1º de janeiro de cada ano. A partir do mês de janeiro de 2025, o Fisco Estadual começou a enviar aos contribuintes carnês de pagamento de IPVA incidente sobre tais veículos aéreos e aquáticos, com data de pagamento até o final de fevereiro de 2025. Acerca deste cenário, assinale a afirmativa correta.",
+    "enunciado": "O Estado Alfa publicou, em 29/12/2024, uma nova lei ordinária, instituindo a incidência de IPVA sobre a propriedade de veículos automotores aéreos e aquáticos, com fato gerador ocorrendo no dia 1º de janeiro de cada ano. A partir do mês de janeiro de 2025, o Fisco Estadual começou a enviar aos contribuintes carnês de pagamento de IPVA incidente sobre tais veículos aéreos e aquáticos, com data de pagamento até o final de fevereiro de 2025.\n\nAcerca deste cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A cobrança poderia ser feita a partir de 01/01/2025.",
       "B": "As novas hipóteses de incidência de IPVA são inconstitucionais.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 29,
-    "enunciado": "O Município Alfa, por lei ordinária municipal, criou a Taxa de Fiscalização de Cemitérios, relativa ao custeio das atividades de fiscalização das instalações e atividades das concessionárias de cemitérios em território municipal, tendo tais concessionárias como contribuintes. A lei criadora estabeleceu que a data de pagamento dessa taxa seria fixada em decreto do Prefeito Municipal. O Decreto Municipal XX/2023 fixou a data de pagamento em 15 dias após o recebimento da notificação para pagamento. Diante desse cenário, assinale a afirmativa correta.",
+    "enunciado": "O Município Alfa, por lei ordinária municipal, criou a Taxa de Fiscalização de Cemitérios, relativa ao custeio das atividades de fiscalização das instalações e atividades das concessionárias de cemitérios em território municipal, tendo tais concessionárias como contribuintes.\n\nA lei criadora estabeleceu que a data de pagamento dessa taxa seria fixada em decreto do Prefeito Municipal. O Decreto Municipal XX/2023 fixou a data de pagamento em 15 dias após o recebimento da notificação para pagamento.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Somente lei municipal, e não mero decreto, poderia fixar o prazo de pagamento da referida taxa.",
       "B": "O Decreto Municipal XX/2023 não poderia fixar a data de pagamento dessa taxa em 15 dias, por contrariar o prazo de 30 dias previsto no Código Tributário Nacional (CTN).",

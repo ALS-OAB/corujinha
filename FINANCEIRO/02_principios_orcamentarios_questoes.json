@@ -1,7 +1,7 @@
 [
   {
     "num": 24,
-    "enunciado": "João ganhou uma ação movida em face do Estado Gama, na qual este foi condenado a pagar o equivalente a 30 salários mínimos a título de danos morais pelo uso indevido de sua imagem em uma publicidade institucional do governo estadual. A ação transitou em julgado em 15 de julho de 2022. Seu advogado verifica que não há legislação específica estadual acerca de prazos e limites de valores sobre pagamentos pela Fazenda Pública em caso de condenação judicial. Diante desse cenário, e à luz da Constituição Federal de 1988, João receberá o valor a que tem direito",
+    "enunciado": "João ganhou uma ação movida em face do Estado Gama, na qual este foi condenado a pagar o equivalente a 30 salários mínimos a título de danos morais pelo uso indevido de sua imagem em uma publicidade institucional do governo estadual. A ação transitou em julgado em 15 de julho de 2022.\n\nSeu advogado verifica que não há legislação específica estadual acerca de prazos e limites de valores sobre pagamentos pela Fazenda Pública em caso de condenação judicial.\n\nDiante desse cenário, e à luz da Constituição Federal de 1988, João receberá o valor a que tem direito",
     "alternativas": {
       "A": "por meio de precatório alimentar, que tem prioridade em relação aos demais, dentro do próprio ano do trânsito em julgado.",
       "B": "por meio de Requisição de Pequeno Valor (RPV).",
@@ -39,7 +39,7 @@
   },
   {
     "num": 24,
-    "enunciado": "Em determinado ano, na elaboração do projeto de Lei Orçamentária Anual (LO",
+    "enunciado": "Em determinado ano, na elaboração do projeto de Lei Orçamentária Anual (LOA) da União, o Poder Executivo resolveu inserir as previsões de despesas para os exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em andamento.\n\nSobre esse projeto de LOA, à luz das regras constitucionais de elaboração das leis orçamentárias, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Veiculou indevidamente investimentos plurianuais e aqueles em andamento, os quais somente poderiam constar do Plano Plurianual (PPA).",
       "B": "Inseriu, equivocadamente, os investimentos plurianuais em seu conteúdo, pois deveriam estar previstos na Lei de Diretrizes Orçamentárias (LDO).",

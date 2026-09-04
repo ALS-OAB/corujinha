@@ -1,12 +1,12 @@
 [
   {
     "num": 13,
-    "enunciado": "Em projeto de lei apresentado pelos próprios Vereadores, a Câmara de Vereadores do Município Alfa votou e aprovou a fixação dos subsídios dos referidos AGT_Agentes, daí resultando a Lei municipal nº XX. O padrão remuneratório assim fixado gerou muitos debates em relação à higidez do processo legislativo e à necessidade de serem observados certos parâmetros em sua fixação, sendo sustentada uma necessária correspondência percentual em relação ao subsídio dos Deputados Estaduais. Sobre o caso narrado, com base no texto constitucional, assinale a afirmativa correta.",
+    "enunciado": "Em projeto de lei apresentado pelos próprios Vereadores, a Câmara\nde Vereadores do Município Alfa votou e aprovou a fixação dos\nsubsídios dos referidos AGT_Agentes, daí resultando a Lei municipal nº XX.\nO padrão remuneratório assim fixado gerou muitos debates em\nrelação à higidez do processo legislativo e à necessidade de serem\nobservados certos parâmetros em sua fixação, sendo sustentada uma\nnecessária correspondência percentual em relação ao subsídio dos\nDeputados Estaduais.\nSobre o caso narrado, com base no texto constitucional, assinale a\nafirmativa correta.",
     "alternativas": {
-      "A": "A fixação dos subsídios dos Vereadores é de competência da Câmara Municipal, não podendo ultrapassar determinado percentual do subsídio dos Deputados Estaduais, percentual este que varia conforme a população do Município;",
-      "B": "A referida lei padece de vício de iniciativa, eis que compete privativamente ao Prefeito do Município Alfa dispor sobre os subsídios dos membros dos Poderes Executivo e Legislativo.",
-      "C": "Diante do princípio da separação dos poderes, inexiste vedação para que os subsídios dos integrantes do Poder Legislativo local superem aqueles recebidos pelo Deputados Estaduais, desde que respeitado o teto constitucional.",
-      "D": "É de competência comum da Câmara Municipal e do Prefeito Municipal a fixação dos subsídios dos Vereadores, os quais não podem ultrapassar o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, excetuadas vantagens pessoais, não tendo vinculação com os Deputados Estaduais."
+      "A": "A fixação dos subsídios dos Vereadores é de competência da\nCâmara Municipal, não podendo ultrapassar determinado\npercentual do subsídio dos Deputados Estaduais, percentual este\nque varia conforme a população do Município;",
+      "B": "A referida lei padece de vício de iniciativa, eis que compete\nprivativamente ao Prefeito do Município Alfa dispor sobre os\nsubsídios dos membros dos Poderes Executivo e Legislativo.",
+      "C": "Diante do princípio da separação dos poderes, inexiste vedação\npara que os subsídios dos integrantes do Poder Legislativo local\nsuperem aqueles recebidos pelo Deputados Estaduais, desde que\nrespeitado o teto constitucional.",
+      "D": "É de competência comum da Câmara Municipal e do Prefeito\nMunicipal a fixação dos subsídios dos Vereadores, os quais não\npodem ultrapassar o subsídio mensal, em espécie, dos Ministros\ndo Supremo Tribunal Federal, excetuadas vantagens pessoais,\nnão tendo vinculação com os Deputados Estaduais."
     },
     "gabarito": "A",
     "disciplina": "Direito Constitucional",
@@ -20,7 +20,7 @@
   },
   {
     "num": 15,
-    "enunciado": "O Procurador-Geral da República, preocupado com o grande número de decisões judiciais divergentes, em âmbito nacional, referentes à possível inconstitucionalidade da Lei Federal nº XX/2021, ajuizou, perante o Supremo Tribunal Federal (STF), uma Ação Declaratória de Constitucionalidade (ADC) visando a elidir a controvérsia judicial. Em março de 2022, no julgamento do mérito, o STF decidiu pela improcedência da ADC referente à Lei Federal - nº XX/2021. No entanto, você, na qualidade de advogado(a) de uma determinada causa, deparou-se com a seguinte situação: em desfavor do seu cliente, o Tribunal Regional Federal (TRF) competente, mantendo decisão proferida pelo Juiz Federal responsável pelo caso, deu aplicação à Lei Federal nº XX/21 que já fora objeto de ADC, apreciada pelo STF em março de ",
+    "enunciado": "O Procurador-Geral da República, preocupado com o grande número de decisões judiciais divergentes, em âmbito nacional, referentes à possível inconstitucionalidade da Lei Federal nº XX/2021, ajuizou, perante o Supremo Tribunal Federal (STF), uma Ação Declaratória de Constitucionalidade (ADC) visando a elidir a controvérsia judicial. Em março de 2022, no julgamento do mérito, o STF decidiu pela improcedência da ADC referente à Lei Federal\n\n- nº XX/2021. No entanto, você, na qualidade de advogado(a) de uma determinada causa, deparou-se com a seguinte situação: em desfavor do seu cliente, o Tribunal Regional Federal (TRF) competente, mantendo decisão proferida pelo Juiz Federal responsável pelo caso, deu aplicação à Lei Federal nº XX/21 que já fora objeto de ADC, apreciada pelo STF em março de 2022. Diante de tal contexto, assinale a opção que apresenta a medida judicial a ser utilizada para preservar, de forma eficiente e célere,\n- o interesse do seu cliente na causa.",
     "alternativas": {
       "A": "Formular representação ao Procurador-Geral da República, para que seja deflagrado um novo processo objetivo perante o STF para retirar a Lei Federal nº XX/21 do mundo jurídico.",
       "B": "Interpor recurso especial perante o STF, com fundamento em violação de dispositivo constitucional.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 11,
-    "enunciado": "O Supremo Tribunal Federal (STF), por dois terços de seus membros, aprovou de ofício, no último mês, a Súmula Vinculante XXX, que versa sobre matéria tributária. O deputado federal João da Silva mostrou-se preocupado com a referida Súmula, pois tramita no Congresso Nacional projeto de lei complementar cujo teor conflita fortemente com o da Súmula Vinculante XXX. Por desconhecer as consequências que a referida Súmula acarretará ao processo legislativo em andamento, João busca auxílio de sua assessoria jurídica. Sobre as consequências da Súmula Vinculante aprovada pelo STF, assinale a opção que apresenta, corretamente, a orientação recebida.",
+    "enunciado": "O Supremo Tribunal Federal (STF), por dois terços de seus membros, aprovou de ofício, no último mês, a Súmula Vinculante XXX, que versa sobre matéria tributária.\n\nO deputado federal João da Silva mostrou-se preocupado com a referida Súmula, pois tramita no Congresso Nacional projeto de lei complementar cujo teor conflita fortemente com o da Súmula Vinculante XXX.\n\nPor desconhecer as consequências que a referida Súmula acarretará ao processo legislativo em andamento, João busca auxílio de sua assessoria jurídica.\n\nSobre as consequências da Súmula Vinculante aprovada pelo STF, assinale a opção que apresenta, corretamente, a orientação recebida.",
     "alternativas": {
       "A": "Ela vincula unicamente os órgãos do Poder Judiciário, não atingindo os demais poderes, em respeito à separação de poderes.",
       "B": "Ela não alcança o poder legiferante do Congresso Nacional, que segue mantendo intacta sua função originária de criação do Direito.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 14,
-    "enunciado": "Ao exercer o direito de petição, determinada pessoa jurídica estabelecida no território brasileiro precisou realizar o pagamento de taxa, para que o órgão administrativo competente analisasse a tese de que o agente público praticara uma ilegalidade em seu desfavor, o que lhe acarretou um ônus financeiro indevido. Tal pagamento foi cobrado com base no que dispõe a Lei Federal nº Y, recentemente publicada, que dispõe sobre essa exigência. Diante de tal contexto, assinale a opção que se harmoniza com o sistema constitucional brasileiro.",
+    "enunciado": "Ao exercer o direito de petição, determinada pessoa jurídica estabelecida no território brasileiro precisou realizar o pagamento de taxa, para que o órgão administrativo competente analisasse a tese de que o agente público praticara uma ilegalidade em seu desfavor, o que lhe acarretou um ônus financeiro indevido. Tal pagamento foi cobrado com base no que dispõe a Lei Federal nº Y, recentemente publicada, que dispõe sobre essa exigência.\n\nDiante de tal contexto, assinale a opção que se harmoniza com o sistema constitucional brasileiro.",
     "alternativas": {
       "A": "O referido pagamento é devido pela pessoa jurídica estabelecida no Brasil, na medida em que somente pessoas naturais, nacionais ou estrangeiras, podem exercer o direito de petição independentemente do pagamento de taxas.",
       "B": "Ao exigir o referido pagamento como requisito para a apreciação da ilegalidade noticiada, a Lei Federal nº Y é inconstitucional por afrontar o exercício do direito de petição.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 16,
-    "enunciado": "Renato Carlos, renomado pianista, foi convidado para se apresentar em um grande evento musical internacional sediado no Brasil. Ao tentar se inscrever no evento, foi informado de que era obrigatório estar inscrito em uma ordem dos músicos para poder se apresentar publicamente no país. Surpreendido com a informação, procurou você, como advogado(a) , e solicitou que fosse analisada a compatibilidade da exigência com o sistema jurídico-constitucional brasileiro. Em relação à exigência, assinale a opção que indica, corretamente, a orientação dada.",
+    "enunciado": "Renato Carlos, renomado pianista, foi convidado para se apresentar em um grande evento musical internacional sediado no Brasil. Ao tentar se inscrever no evento, foi informado de que era obrigatório estar inscrito em uma ordem dos músicos para poder se apresentar publicamente no país.\n\nSurpreendido com a informação, procurou você, como advogado(a) , e solicitou que fosse analisada a compatibilidade da exigência com o sistema jurídico-constitucional brasileiro.\n\nEm relação à exigência, assinale a opção que indica, corretamente, a orientação dada.",
     "alternativas": {
       "A": "É válida, pois se harmoniza com o poder regulamentar das entidades de classe, regra a ser observada no exercício profissional no Brasil.",
       "B": "Viola a ordem constitucional, pois a liberdade profissional é um direito com alto grau de amplitude, sendo vedado ao legislador estabelecer condições para o seu exercício.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 12,
-    "enunciado": "Um consumidor, cliente de instituição financeira constituída sob a forma de sociedade de economia mista federal, teve seu nome negativado indevidamente em um cadastro de devedores. Por essa razão, procurou você, na qualidade de advogado(a) , para saber se seria possível ingressar, de acordo com a Constituição da República, com uma ação de responsabilidade civil em face da referida instituição no âmbito da Justiça Federal. Com base na situação descrita e no sistema jurídico-constitucional brasileiro, assinale a opção que apresenta, corretamente, sua resposta.",
+    "enunciado": "Um consumidor, cliente de instituição financeira constituída sob a forma de sociedade de economia mista federal, teve seu nome negativado indevidamente em um cadastro de devedores. Por essa razão, procurou você, na qualidade de advogado(a) , para saber se seria possível ingressar, de acordo com a Constituição da República, com uma ação de responsabilidade civil em face da referida instituição no âmbito da Justiça Federal.\n\nCom base na situação descrita e no sistema jurídico-constitucional brasileiro, assinale a opção que apresenta, corretamente, sua resposta.",
     "alternativas": {
       "A": "A competência para apreciar a ação de responsabilidade civil a ser proposta é da Justiça Federal, pois a União, indiretamente, figura no polo passivo.",
       "B": "A ação deve ser proposta perante a Justiça Estadual, não perante a Justiça Federal, isto se o referido foro tiver sido definido pela lei que autorizou a criação da instituição financeira.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 14,
-    "enunciado": "Carlos Frederico, Deputado Estadual no Estado Alfa, apresentou projeto de lei que versa sobre tema que, embora considerado de grande relevância, não se enquadra no rol de matérias de competência legislativa expressa de qualquer dos entes federativos (União, Estados, Distrito Federal e Município s) . Por essa razão, alguns dos seus colegas deputados suscitaram a possível incompetência da Assembleia Legislativa de Alfa para legislar sobre o tema. Para esclarecer a dúvida, o Procurador-Geral da Assembleia Legislativa foi chamado a se manifestar. Assinale a opção que apresenta, segundo o sistema jurídicoconstitucional brasileiro, o esclarecimento prestado.",
+    "enunciado": "Carlos Frederico, Deputado Estadual no Estado Alfa, apresentou projeto de lei que versa sobre tema que, embora considerado de grande relevância, não se enquadra no rol de matérias de competência legislativa expressa de qualquer dos entes federativos (União, Estados, Distrito Federal e Município\n\ns) .\n\nPor essa razão, alguns dos seus colegas deputados suscitaram a possível incompetência da Assembleia Legislativa de Alfa para legislar sobre o tema. Para esclarecer a dúvida, o Procurador-Geral da Assembleia Legislativa foi chamado a se manifestar.\n\nAssinale a opção que apresenta, segundo o sistema jurídicoconstitucional brasileiro, o esclarecimento prestado.",
     "alternativas": {
       "A": "A Assembleia Legislativa do Estado Alfa pode legislar sobre a matéria.",
       "B": "O projeto de lei é inconstitucional, porque a competência legislativa sobre a matéria é exclusiva da União.",
@@ -134,7 +134,7 @@
   },
   {
     "num": 16,
-    "enunciado": "Ao final de seu segundo mandato consecutivo, o Prefeito do Município Delta, João Carlos, encaminhou à Câmara de Vereadores um projeto de lei de sua própria iniciativa, propondo a majoração dos subsídios dos próximos Prefeito e Vice-Prefeito para a legislatura seguinte. O projeto foi devidamente aprovado pela maioria dos vereadores de Delta e sancionado por João Carlos, antes do término de seu mandato. Um legitimado à deflagração do controle concentrado de constitucionalidade consultou você, como advogado(a) , em relação à compatibilidade do respectivo diploma normativo com a Constituição da República. Sobre o caso concreto apresentado, assinale a afirmativa correta.",
+    "enunciado": "Ao final de seu segundo mandato consecutivo, o Prefeito do Município Delta, João Carlos, encaminhou à Câmara de Vereadores um projeto de lei de sua própria iniciativa, propondo a majoração dos subsídios dos próximos Prefeito e Vice-Prefeito para a legislatura seguinte.\n\nO projeto foi devidamente aprovado pela maioria dos vereadores de Delta e sancionado por João Carlos, antes do término de seu mandato. Um legitimado à deflagração do controle concentrado de constitucionalidade consultou você, como advogado(a) , em relação à compatibilidade do respectivo diploma normativo com a Constituição da República.\n\nSobre o caso concreto apresentado, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A lei municipal aprovada atende aos pressupostos constitucionais da ordem jurídica brasileira, que exige a forma de lei municipal para a fixação do subsídio do Prefeito.",
       "B": "A lei municipal aprovada atende aos pressupostos da ordem jurídica brasileira, desde que as regras estabelecidas para o tema observem o que dispõe a Lei Orgânica do Município.",

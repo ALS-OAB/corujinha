@@ -1,12 +1,12 @@
 [
   {
     "num": 30,
-    "enunciado": "Após inúmeras tentativas de obter transparência e sanar constantes problemas na prestação de determinado serviço público federal junto à concessionária, Felipe decidiu apresentar manifestação perante a Ouvidoria da Administração Pública, para informar e buscar solução para recorrentes vícios que comprometem a realização adequada da atividade, o que considera violar os princípios da regularidade, continuidade e efetividade. Sobre a hipótese narrada, considerando os direitos dos usuários de serviços públicos, assinale a afirmativa correta.",
+    "enunciado": "Após inúmeras tentativas de obter transparência e sanar constantes\nproblemas na prestação de determinado serviço público federal junto\nà concessionária, Felipe decidiu apresentar manifestação perante a\nOuvidoria da Administração Pública, para informar e buscar solução\npara recorrentes vícios que comprometem a realização adequada da\natividade, o que considera violar os princípios da regularidade,\ncontinuidade e efetividade.\nSobre a hipótese narrada, considerando os direitos dos usuários de\nserviços públicos, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "A Administração não pode exigir a apresentação de motivos determinantes da manifestação de Felipe perante a Ouvidoria.",
-      "B": "Felipe não pode provocar a via administrativa por meio de manifestação, considerando que o serviço público é atividade econômica submetida à livre iniciativa.",
-      "C": "A manifestação de Felipe é inócua, na medida em que a Administração não pode exigir da concessionária o respeito aos princípios que ele considera violados.",
-      "D": "A Administração deve recusar o recebimento da manifestação de Felipe, caso sua identificação não atenda às exigências determinadas pelo órgão, mesmo que estas possam vir a inviabilizar a sua manifestação."
+      "A": "A Administração não pode exigir a apresentação de motivos\ndeterminantes da manifestação de Felipe perante a Ouvidoria.",
+      "B": "Felipe não pode provocar a via administrativa por meio de\nmanifestação, considerando que o serviço público é atividade\neconômica submetida à livre iniciativa.",
+      "C": "A manifestação de Felipe é inócua, na medida em que a\nAdministração não pode exigir da concessionária o respeito aos\nprincípios que ele considera violados.",
+      "D": "A Administração deve recusar o recebimento da manifestação de\nFelipe, caso sua identificação não atenda às exigências\ndeterminadas pelo órgão, mesmo que estas possam vir a\ninviabilizar a sua manifestação."
     },
     "gabarito": "A",
     "disciplina": "Direito Administrativo",
@@ -20,7 +20,7 @@
   },
   {
     "num": 31,
-    "enunciado": "A Secretaria de Fazenda do Estado Alfa acabou de adquirir novos computadores, que substituíram os antigos equipamentos que serviam aos AGT_Agentes públicos lotados no órgão. Sendo assim, os antigos equipamentos, que ainda funcionam, estão sem qualquer utilidade na pasta, razão pela qual o Secretário de Fazenda instaurou processo administrativo, visando à sua alienação. No bojo do citado processo, ficou consignada a existência de interesse público devidamente justificado para a alienação dos equipamentos, assim como já foi realizada sua avaliação. A sociedade empresária Sigma possui interesse em adquirir os computadores e, em consulta a seu advogado, foi informada de que, consoante dispõe a Lei nº 14.133/21, a alienação desses bens da Secretaria de Fazenda do Estado Alfa, em regra,",
+    "enunciado": "A Secretaria de Fazenda do Estado Alfa acabou de adquirir novos computadores, que substituíram os antigos equipamentos que serviam aos AGT_Agentes públicos lotados no órgão. Sendo assim, os antigos equipamentos, que ainda funcionam, estão sem qualquer utilidade na pasta, razão pela qual o Secretário de Fazenda instaurou processo administrativo, visando à sua alienação.\n\nNo bojo do citado processo, ficou consignada a existência de interesse público devidamente justificado para a alienação dos equipamentos, assim como já foi realizada sua avaliação.\n\nA sociedade empresária Sigma possui interesse em adquirir os computadores e, em consulta a seu advogado, foi informada de que, consoante dispõe a Lei nº 14.133/21, a alienação desses bens da Secretaria de Fazenda do Estado Alfa, em regra,",
     "alternativas": {
       "A": "dependerá de licitação na modalidade leilão.",
       "B": "exigirá autorização legislativa e dependerá de licitação na modalidade concorrência.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 34,
-    "enunciado": "Jamile, após aprovação em concurso público, foi investida em cargo efetivo na Secretaria de Administração do Estado Alfa, no qual alcançou a estabilidade. No entanto, o mencionado ente federativo decidiu reformular o seu quadro de pessoal, de modo que, após o devido processo legislativo, fez publicar a Lei XYX que extinguiu a carreira e, consequentemente, o cargo efetivo ocupado por Jamile, e, em razão disso, ato contínuo, promoveu sua exoneração. Diante dessa situação hipotética, à luz das disposições constitucionais acerca dos servidores públicos, assinale a afirmativa correta.",
+    "enunciado": "Jamile, após aprovação em concurso público, foi investida em cargo efetivo na Secretaria de Administração do Estado Alfa, no qual alcançou a estabilidade.\n\nNo entanto, o mencionado ente federativo decidiu reformular o seu quadro de pessoal, de modo que, após o devido processo legislativo, fez publicar a Lei XYX que extinguiu a carreira e, consequentemente, o cargo efetivo ocupado por Jamile, e, em razão disso, ato contínuo, promoveu sua exoneração.\n\nDiante dessa situação hipotética, à luz das disposições constitucionais acerca dos servidores públicos, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Jamile não pode ser afetada pela alteração legislativa em comento, pois possui o direito adquirido de permanecer no cargo para o qual foi aprovada em concurso.",
       "B": "O Estado Alfa deve promover o aproveitamento de Jamile em outro cargo, ainda que com atribuições e remuneração distintas daquele para o qual ela fora aprovada em concurso.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 32,
-    "enunciado": "Em decorrência de uma denúncia anônima, as autoridades competentes da União promoveram investigação e verificaram que Wagner, servidor público federal estável, cometeu infração disciplinar que também é capitulada como crime contra a Administração Pública. Em razão disso, de forma motivada, foi instaurado o respectivo processo administrativo disciplinar que, após exceder o prazo para a sua conclusão, sem prejuízo para a defesa, resultou na sua demissão. Wagner não se conforma com a mencionada penalidade, pois acredita na existência de vícios que fulminam o aludido processo administrativo disciplinar. Ainda, os fatos ocorreram seis anos antes da sua instauração, razão pela qual Wagner procurou você, como advogado(a) . Você apurou que a Administração tomou conhecimento dos fatos três anos ant",
+    "enunciado": "Em decorrência de uma denúncia anônima, as autoridades competentes da União promoveram investigação e verificaram que Wagner, servidor público federal estável, cometeu infração disciplinar que também é capitulada como crime contra a Administração Pública. Em razão disso, de forma motivada, foi instaurado o respectivo processo administrativo disciplinar que, após exceder o prazo para a sua conclusão, sem prejuízo para a defesa, resultou na sua demissão.\n\nWagner não se conforma com a mencionada penalidade, pois acredita na existência de vícios que fulminam o aludido processo administrativo disciplinar. Ainda, os fatos ocorreram seis anos antes da sua instauração, razão pela qual Wagner procurou você, como advogado(a) .\n\nVocê apurou que a Administração tomou conhecimento dos fatos três anos antes da instauração do processo administrativo disciplinar e que o respectivo crime estaria sujeito ao prazo prescricional de oito anos na esfera penal.\n\nSobre a penalidade aplicada, assinale a opção que apresenta a orientação correta.",
     "alternativas": {
       "A": "Os prazos de prescrição da lei penal devem ser aplicados às infrações disciplinares capituladas como crime.",
       "B": "O excesso de prazo para a conclusão do processo administrativo disciplinar, por si só, enseja a nulidade da penalidade, mesmo que não tenha havido prejuízo para a defesa.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 31,
-    "enunciado": "Jaílson pretende adquirir uma propriedade rural, considerada média nos termos da lei, que será a única de sua titularidade, para realizar a plantação de alimentos orgânicos para subsistência, mas tem o receio de investir todas as suas economias em imóvel que seja passível de desapropriação para fins de reforma agrária pela União, mediante indenização em títulos da dívida agrária. Diante disso, Jaílson consultou você, como advogado(a) , acerca dos bens que podem ser objeto dessa intervenção do Estado na propriedade. Assinale a opção que apresenta a informação que você, corretamente, prestou.",
+    "enunciado": "Jaílson pretende adquirir uma propriedade rural, considerada média nos termos da lei, que será a única de sua titularidade, para realizar a plantação de alimentos orgânicos para subsistência, mas tem o receio de investir todas as suas economias em imóvel que seja passível de desapropriação para fins de reforma agrária pela União, mediante indenização em títulos da dívida agrária.\n\nDiante disso, Jaílson consultou você, como advogado(a) , acerca dos bens que podem ser objeto dessa intervenção do Estado na propriedade.\n\nAssinale a opção que apresenta a informação que você, corretamente, prestou.",
     "alternativas": {
       "A": "São insuscetíveis de desapropriação para fins de reforma agrária a pequena e a média propriedade rural, assim definidas em lei, desde que seu proprietário não possua outra.",
       "B": "Qualquer propriedade é passível de desapropriação para fins de reforma agrária, independentemente de seu tamanho ou produtividade.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 34,
-    "enunciado": "Lucas, servidor público estatutário do Município Alfa, procurou Rodrigo, proprietário do estabelecimento comercial XYZ, especializado na manutenção de automóveis, para saber se ele tinha interesse em firmar um contrato administrativo, no valor de R$ 60.000,00 (sessenta mil reai s) , para a prestação de serviços de manutenção de veículos automotores de propriedade do Município. Antes de prosseguir nas tratativas, Rodrigo entrou em contato com você para, na qualidade de advogado(a) , prestar-lhe a adequada consultoria jurídica. Considerando as disposições da Lei nº 14.133/2021 (Lei de Licitações e Contratos Administrativo s) , assinale a afirmativa que apresenta, corretamente, a sua orientação.",
+    "enunciado": "Lucas, servidor público estatutário do Município Alfa, procurou Rodrigo, proprietário do estabelecimento comercial XYZ, especializado na manutenção de automóveis, para saber se ele tinha interesse em firmar um contrato administrativo, no valor de R$ 60.000,00 (sessenta mil reai\n\ns) , para a prestação de serviços de manutenção de veículos automotores de propriedade do Município.\n\nAntes de prosseguir nas tratativas, Rodrigo entrou em contato com você para, na qualidade de advogado(a) , prestar-lhe a adequada consultoria jurídica.\n\nConsiderando as disposições da Lei nº 14.133/2021 (Lei de Licitações e Contratos Administrativo\n\ns) , assinale a afirmativa que apresenta, corretamente, a sua orientação.",
     "alternativas": {
       "A": "Em razão da inexigibilidade da licitação, é admissível a contratação direta entre o Município Alfa e o particular Rodrigo, desde que seja apresentada justificativa de preço.",
       "B": "O Município Alfa deverá realizar o processo licitatório para celebrar o contrato administrativo, vedando-se a contratação direta no cenário narrado, por ausência de previsão legal.",

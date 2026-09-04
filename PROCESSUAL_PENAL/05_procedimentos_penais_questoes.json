@@ -1,12 +1,12 @@
 [
   {
     "num": 66,
-    "enunciado": "Sérgio propôs uma ação penal privada contra Ana e Letícia por crime de dano (impossibilidade de qualquer medida penal consensual), isto porque as quereladas, dolosamente, quebraram o para-brisa traseiro do seu carro. Finda a instrução criminal restaram comprovadas autoria e materialidade, até mesmo porque, além da prova testemunhal confirmar a imputação contida na queixa-crime, as acusadas confessaram o delito. Em alegações finais orais, Dr. Lúcio, advogado constituído por Sérgio, sem se referir à inicial acusatória, finalizou a sua sustentação apenas pedindo que “fosse feita a melhor justiça.” Você, como advogado(a) das quereladas, alegaria como prejudicial de mérito a extinção da punibilidade",
+    "enunciado": "Sérgio propôs uma ação penal privada contra Ana e Letícia por crime\nde dano (impossibilidade de qualquer medida penal consensual), isto\nporque as quereladas, dolosamente, quebraram o para-brisa traseiro\ndo seu carro.\nFinda a instrução criminal restaram comprovadas autoria e\nmaterialidade, até mesmo porque, além da prova testemunhal\nconfirmar a imputação contida na queixa-crime, as acusadas\nconfessaram o delito.\nEm alegações finais orais, Dr. Lúcio, advogado constituído por Sérgio,\nsem se referir à inicial acusatória, finalizou a sua sustentação apenas\npedindo que “fosse feita a melhor justiça.”\nVocê, como advogado(a) das quereladas, alegaria como prejudicial de\nmérito a extinção da punibilidade",
     "alternativas": {
-      "A": "pelo perdão de Sérgio, pois não se manifestou em alegações finais juntamente com o seu patrono para pedir a condenação.",
-      "B": "pela renúncia do querelante, haja vista que o seu advogado não ratificou em alegações finais os termos da acusação articulada na queixa-crime.",
-      "C": "pela perempção, porque o advogado constituído por Sérgio, somente pediu em alegações finais que “fosse feita a melhor justiça”, deixando de ratificar a pretensão de que as quereladas fossem condenadas, sequer tendo renovado o pedido de condenação apresentado na queixa-crime.",
-      "D": "pela retratação do querelante, pois não se manifestou em alegações finais juntamente com o seu patrono para pedir a condenação das quereladas, ou mesmo ratificar o pedido de condenação apresentado na queixa-crime."
+      "A": "pelo perdão de Sérgio, pois não se manifestou em alegações\nfinais juntamente com o seu patrono para pedir a condenação.",
+      "B": "pela renúncia do querelante, haja vista que o seu advogado não\nratificou em alegações finais os termos da acusação articulada na\nqueixa-crime.",
+      "C": "pela perempção, porque o advogado constituído por Sérgio,\nsomente pediu em alegações finais que “fosse feita a melhor\njustiça”, deixando de ratificar a pretensão de que as quereladas\nfossem condenadas, sequer tendo renovado o pedido de\ncondenação apresentado na queixa-crime.",
+      "D": "pela retratação do querelante, pois não se manifestou em\nalegações finais juntamente com o seu patrono para pedir a\ncondenação das quereladas, ou mesmo ratificar o pedido de\ncondenação apresentado na queixa-crime."
     },
     "gabarito": "C",
     "disciplina": "Processo Penal",
@@ -20,7 +20,7 @@
   },
   {
     "num": 63,
-    "enunciado": "Adamastor, Juiz Federal em exercício na Seção Judiciária do Rio de Janeiro, vinculada ao Tribunal Regional Federal da Segunda Região, ajuizou queixa-crime contra o advogado Bráulio, que foi distribuída à 20ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro. Nessa queixa-crime, Adamastor imputou a prática do crime de calúnia a Bráulio, pois este teria dito em uma entrevista, dada na cidade de Porto Alegre/RS, que Adamastor recebeu vantagem econômica indevida para beneficiar determinada parte em sentença que prolatou. Após a citação pessoal de Bráulio, este ofereceu resposta à acusação opondo exceção da verdade. Assinale a opção que indica o órgão jurisdicional competente para o qual deve ser direcionado essa exceção processual.",
+    "enunciado": "Adamastor, Juiz Federal em exercício na Seção Judiciária do Rio de Janeiro, vinculada ao Tribunal Regional Federal da Segunda Região, ajuizou queixa-crime contra o advogado Bráulio, que foi distribuída à 20ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro.\n\nNessa queixa-crime, Adamastor imputou a prática do crime de calúnia a Bráulio, pois este teria dito em uma entrevista, dada na cidade de Porto Alegre/RS, que Adamastor recebeu vantagem econômica indevida para beneficiar determinada parte em sentença que prolatou. Após a citação pessoal de Bráulio, este ofereceu resposta à acusação opondo exceção da verdade.\n\nAssinale a opção que indica o órgão jurisdicional competente para o qual deve ser direcionado essa exceção processual.",
     "alternativas": {
       "A": "20ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro.",
       "B": "Tribunal Regional Federal da 4ª Região, com sede em Porto Alegre/RS.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 65,
-    "enunciado": "Juliano foi definitivamente condenado à pena de 8 (oito) anos de reclusão, em regime inicial fechado. Após 2 (dois) anos de cumprimento da pena, foi detectado que Juliano passou a ter uma doença mental grave, tornando-o inteiramente incapaz de compreender o caráter ilícito dos fatos pelos quais havia sido condenado. Neste caso, como advogado(a) de Juliano, você deverá",
+    "enunciado": "Juliano foi definitivamente condenado à pena de 8 (oito) anos de reclusão, em regime inicial fechado. Após 2 (dois) anos de cumprimento da pena, foi detectado que Juliano passou a ter uma doença mental grave, tornando-o inteiramente incapaz de compreender o caráter ilícito dos fatos pelos quais havia sido condenado.\n\nNeste caso, como advogado(a) de Juliano, você deverá",
     "alternativas": {
       "A": "postular ao Juiz da Execução Penal a conversão da pena em medida de segurança.",
       "B": "ajuizar uma ação de revisão criminal, postulando a substituição da pena privativa de liberdade por medida de segurança.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 67,
-    "enunciado": "Ricardo é policial civil e disparou seis vezes, com intenção de matar, contra Marilene, sua ex-amante, que veio a óbito. Diversos transeuntes testemunharam os fatos, inclusive o delegado de polícia que trabalha com Ricardo, que estava de plantão no momento e imediatamente realizou a prisão em flagrante do acusado e apreendeu sua pistola, lavrando o auto de prisão em flagrante pela prática do crime de feminicídio. Diante do caso narrado, sobre a lavratura do flagrante assinale a opção correta.",
+    "enunciado": "Ricardo é policial civil e disparou seis vezes, com intenção de matar, contra Marilene, sua ex-amante, que veio a óbito. Diversos transeuntes testemunharam os fatos, inclusive o delegado de polícia que trabalha com Ricardo, que estava de plantão no momento e imediatamente realizou a prisão em flagrante do acusado e apreendeu sua pistola, lavrando o auto de prisão em flagrante pela prática do crime de feminicídio.\n\nDiante do caso narrado, sobre a lavratura do flagrante assinale a opção correta.",
     "alternativas": {
       "A": "É o caso de flagrante impróprio e facultativo e o delegado pode prender Ricardo, ou, por critério de conveniência e oportunidade, postergar o flagrante.",
       "B": "É o caso de flagrante presumido, pois Ricardo estava com a arma na mão.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 64,
-    "enunciado": "Marcos foi denunciado como incurso nas penas do delito de furto simples, que consiste em um a quatro anos de reclusão. Ao apresentar resposta à acusação, a defesa se resguardou o direito de se manifestar sobre o mérito em momento oportuno. Entretanto, antes da audiência de instrução e do julgamento, você foi nomeado(a) , em substituição ao advogado anterior, e percebeu que, à época da citação, já havia sido concluída a prescrição da pretensão punitiva. Assinale a opção que apresenta, corretamente, sua conduta para o caso.",
+    "enunciado": "Marcos foi denunciado como incurso nas penas do delito de furto simples, que consiste em um a quatro anos de reclusão.\n\nAo apresentar resposta à acusação, a defesa se resguardou o direito de se manifestar sobre o mérito em momento oportuno. Entretanto, antes da audiência de instrução e do julgamento, você foi nomeado(a) , em substituição ao advogado anterior, e percebeu que, à época da citação, já havia sido concluída a prescrição da pretensão punitiva.\n\nAssinale a opção que apresenta, corretamente, sua conduta para o caso.",
     "alternativas": {
       "A": "Somente pela via do habeas corpus perante o Tribunal será possível alegar, pela primeira vez, a tese de extinção da punibilidade.",
       "B": "Não há que se falar em preclusão, porque o requerimento de extinção da punibilidade pode ser formulado a qualquer tempo.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 67,
-    "enunciado": "Foi oferecida denúncia em face de Samuel, pelo delito de furto, que foi distribuída ao Juízo competente, tendo havido regular instrução processual. Os autos foram conclusos para sentença, porém, o Juiz titular, que presidiu a instrução, afastou-se por dois dias para participar de um curso oficial. Por isso, a Corregedoria do Tribunal designou Juiz substituto para atuar naquele Juízo. O Magistrado substituto prolatou a sentença, condenando Samuel, com base na prova oral colhida, ainda que nenhuma urgência houvesse nesse processo. Com base nas informações do enunciado, assinale a opção que indica a alegação que você, como advogado(a) de Samuel, deve apresentar.",
+    "enunciado": "Foi oferecida denúncia em face de Samuel, pelo delito de furto, que foi distribuída ao Juízo competente, tendo havido regular instrução processual. Os autos foram conclusos para sentença, porém, o Juiz titular, que presidiu a instrução, afastou-se por dois dias para participar de um curso oficial.\n\nPor isso, a Corregedoria do Tribunal designou Juiz substituto para atuar naquele Juízo. O Magistrado substituto prolatou a sentença, condenando Samuel, com base na prova oral colhida, ainda que nenhuma urgência houvesse nesse processo.\n\nCom base nas informações do enunciado, assinale a opção que indica a alegação que você, como advogado(a) de Samuel, deve apresentar.",
     "alternativas": {
       "A": "Violação ao princípio da identidade física do Juiz, causa de nulidade relativa da sentença.",
       "B": "Suspeição do Magistrado que prolatou a sentença, como preliminar de mérito na apelação.",

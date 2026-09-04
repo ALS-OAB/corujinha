@@ -1,7 +1,7 @@
 [
   {
     "num": 22,
-    "enunciado": "Um jato privado, de propriedade de empresa inglesa, causou um acidente ao colidir com uma aeronave comercial brasileira em território nacional, provocando várias mortes, entre passageiros e tripulantes. A família de uma das vítimas brasileiras propõe uma ação contra a empresa inglesa no Brasil, formulando pedido de reparação por danos materiais e morais. A empresa ré alega que a competência para julgar o caso é da justiça inglesa. Sobre a hipótese apresentada, segundo o direito brasileiro, assinale a afirmativa correta.",
+    "enunciado": "Um jato privado, de propriedade de empresa inglesa, causou um acidente ao colidir com uma aeronave comercial brasileira em território nacional, provocando várias mortes, entre passageiros e tripulantes. A família de uma das vítimas brasileiras propõe uma ação contra a empresa inglesa no Brasil, formulando pedido de reparação por danos materiais e morais. A empresa ré alega que a competência para julgar o caso é da justiça inglesa.\n\nSobre a hipótese apresentada, segundo o direito brasileiro, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O acidente ocorreu no Brasil e, assim, a justiça brasileira é competente para julgá-lo.",
       "B": "A ré é uma empresa estrangeira que não opera no Brasil, o que impede a justiça brasileira de julgar o caso.",
@@ -20,12 +20,12 @@
   },
   {
     "num": 22,
-    "enunciado": "A cooperação jurídica internacional é uma modalidade formal de solicitar a outro país uma medida judicial, investigativa ou administrativa para um caso concreto. Esforçando-se para facilitar a cooperação jurídica nos casos de litígios e disputas internacionais, o Brasil aderiu à Convenção da Haia sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial (Convenção da Haia sobre Prova s) , promulgada pelo Decreto nº 9.039, de 27 de abril de 2017. Sobre a obtenção de provas no exterior, assinale a afirmativa correta.",
+    "enunciado": "A cooperação jurídica internacional é uma modalidade formal de solicitar a outro país uma medida judicial, investigativa ou administrativa para um caso concreto. Esforçando-se para facilitar a cooperação jurídica nos casos de litígios e disputas internacionais, o Brasil aderiu à Convenção da Haia sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial (Convenção da Haia sobre Prova\n\ns) , promulgada pelo Decreto nº 9.039, de 27 de abril de 2017.\n\nSobre a obtenção de provas no exterior, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A tramitação do pedido de cooperação jurídica internacional para a obtenção de prova no exterior apenas poderá ser feita com base em acordo internacional vigente entre o Brasil e o Estado Requerido.",
       "B": "A Convenção da Haia sobre a Obtenção de Provas no Estrangeiro em matéria civil e comercial prevê que a autoridade judicial deve aplicar integralmente a legislação do Estado Requerente no que diz respeito às formalidades a serem seguidas na obtenção da prova.",
       "C": "O cumprimento da Carta Rogatória em que se requer à autoridade competente de um Estado Contratante a obtenção de provas só poderá ser recusado quando, no Estado Requerido, o cumprimento não estiver no âmbito das atribuições do Poder Judiciário ou quando o Estado Requerido considerá-lo prejudicial à sua soberania ou segurança.",
-      "D": "Cada Estado Contratante designará uma Autoridade Central para receber as Cartas Rogatórias procedentes de autoridade judiciária de outro Estado Contratante e de transmiti-las à autoridade competente para cumprimento. A organização dessa Autoridade Central deve ser a mesma em todos os Estados signatários da Convenção da Haia sobre Provas, sem a possibilidade de cada um legislar sobre essa organizaç"
+      "D": "Cada Estado Contratante designará uma Autoridade Central para receber as Cartas Rogatórias procedentes de autoridade judiciária de outro Estado Contratante e de transmiti-las à autoridade competente para cumprimento. A organização dessa Autoridade Central deve ser a mesma em todos os Estados signatários da Convenção da Haia sobre Provas, sem a possibilidade de cada um legislar sobre essa organização."
     },
     "gabarito": "C",
     "disciplina": "Direito Internacional",

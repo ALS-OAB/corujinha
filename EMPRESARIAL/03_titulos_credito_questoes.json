@@ -1,12 +1,12 @@
 [
   {
     "num": 46,
-    "enunciado": "Lauro e Moysés constituem, por contrato escrito, uma sociedade para prestação de serviços de informática, mas não levam o contrato a arquivamento na Junta Comercial e iniciam a atividade econômica em comum. Lauro, em seu nome, mas agindo no interesse dele e de Moysés, celebra contrato com Agnes para instalação e manutenção de rede sem fio. Agnes desconhecia a existência da sociedade. Inadimplido o contrato, Agnes tomou conhecimento da existência de sociedade por confissão de Lauro na ação de cobrança que ela intentou em face dele. Com base nessas informações, Agnes poderá ter seu crédito satisfeito com o produto da alienação judicial dos",
+    "enunciado": "Lauro e Moysés constituem, por contrato escrito, uma sociedade\npara prestação de serviços de informática, mas não levam o contrato\na arquivamento na Junta Comercial e iniciam a atividade econômica\nem comum.\nLauro, em seu nome, mas agindo no interesse dele e de Moysés,\ncelebra contrato com Agnes para instalação e manutenção de rede\nsem fio. Agnes desconhecia a existência da sociedade. Inadimplido o\ncontrato, Agnes tomou conhecimento da existência de sociedade por\nconfissão de Lauro na ação de cobrança que ela intentou em face\ndele.\nCom base nessas informações, Agnes poderá ter seu crédito satisfeito\ncom o produto da alienação judicial dos",
     "alternativas": {
-      "A": "bens sociais de titularidade comum dos sócios Lauro e Moysés e de seus bens particulares, devendo exaurir primeiro os bens sociais para, posteriormente e se necessário, atingir os bens dos sócios, sendo que Lauro está excluído do benefício de ordem por ter contratado no interesse da sociedade.",
-      "B": "bens particulares de Lauro, por desconhecer a existência da sociedade, sem possibilidade de excussão dos bens sociais ou os de Moysés, por esse não ter contratado no interesse da sociedade.",
-      "C": "bens sociais de titularidade comum dos sócios Lauro e Moysés e dos bens particulares de Lauro, mas não há possibilidade de atingir os bens particulares de Moysés, já que este não contratou no interesse da sociedade.",
-      "D": "bens sociais de titularidade comum dos sócios Lauro e Moysés, considerando a existência de autonomia patrimonial da sociedade, sem possibilidade de excussão dos bens particulares dos sócios Lauro e Moysés. 14 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "bens sociais de titularidade comum dos sócios Lauro e Moysés e\nde seus bens particulares, devendo exaurir primeiro os bens\nsociais para, posteriormente e se necessário, atingir os bens dos\nsócios, sendo que Lauro está excluído do benefício de ordem por\nter contratado no interesse da sociedade.",
+      "B": "bens particulares de Lauro, por desconhecer a existência da\nsociedade, sem possibilidade de excussão dos bens sociais ou os\nde Moysés, por esse não ter contratado no interesse da\nsociedade.",
+      "C": "bens sociais de titularidade comum dos sócios Lauro e Moysés e\ndos bens particulares de Lauro, mas não há possibilidade de\natingir os bens particulares de Moysés, já que este não contratou\nno interesse da sociedade.",
+      "D": "bens sociais de titularidade comum dos sócios Lauro e Moysés,\nconsiderando a existência de autonomia patrimonial da\nsociedade, sem possibilidade de excussão dos bens particulares\ndos sócios Lauro e Moysés."
     },
     "gabarito": "A",
     "disciplina": "Direito Empresarial",
@@ -20,7 +20,7 @@
   },
   {
     "num": 48,
-    "enunciado": "O empresário individual Valério Pavão deseja alterar a forma de exercício da sociedade empresária, passando a admitir como sócios Jerônimo e Atílio, e mantendo a mesma atividade e localização de seu estabelecimento. Sobre a mudança pretendida, assinale a opção que apresenta as ações que Valério Pavão deverá executar.",
+    "enunciado": "O empresário individual Valério Pavão deseja alterar a forma de exercício da sociedade empresária, passando a admitir como sócios Jerônimo e Atílio, e mantendo a mesma atividade e localização de seu estabelecimento.\n\nSobre a mudança pretendida, assinale a opção que apresenta as ações que Valério Pavão deverá executar.",
     "alternativas": {
       "A": "Dissolver sua empresa individual e, após o encerramento da liquidação, constituir uma sociedade com os sócios Jerônimo e Atílio.",
       "B": "Solicitar ao Registro Público de Empresas Mercantis a transformação de seu registro de empresário para registro de sociedade empresária.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 48,
-    "enunciado": "O contrato de constituição de uma sociedade empresária foi assinado pelos sócios no dia 17 de abril de 2023, iniciando-se nessa data a atividade social. O sócio Ubajara Horizonte, administrador nomeado no contrato, somente apresentou o documento para arquivamento na Junta Comercial no dia 22 de maio de 2023, sendo deferido dois dias depois. Considerados esses dados, assinale a afirmativa correta.",
+    "enunciado": "O contrato de constituição de uma sociedade empresária foi assinado pelos sócios no dia 17 de abril de 2023, iniciando-se nessa data a atividade social. O sócio Ubajara Horizonte, administrador nomeado no contrato, somente apresentou o documento para arquivamento na Junta Comercial no dia 22 de maio de 2023, sendo deferido dois dias depois.\n\nConsiderados esses dados, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Em razão de a representação extrajudicial da sociedade empresária caber, por lei, a seu administrador, nenhum dos sócios poderia requerer o arquivamento do contrato antes de 22 de maio de 2023.",
       "B": "A sociedade, em nenhum momento, funcionou irregularmente, pois o prazo para o requerimento do arquivamento só expiraria em 16 de junho de 2023; logo, foi tempestivo na data em que foi feito.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 48,
-    "enunciado": "Lucélia, Marília e Natividade constituíram uma sociedade empresária sem levar o documento escrito de constituição a qualquer registro. Ficou estabelecido verbalmente entre as sócias que os atos sociais seriam praticados por Marília, no interesse comum. Inadimplida uma obrigação social, o credor, ciente da existência da sociedade, demandou a sociedade e todas as sócias, responsabilizando-as solidariamente e sem benefício de ordem pela obrigação assumida por Marília. Considerados tais fatos, assinale a afirmativa correta.",
+    "enunciado": "Lucélia, Marília e Natividade constituíram uma sociedade empresária sem levar o documento escrito de constituição a qualquer registro. Ficou estabelecido verbalmente entre as sócias que os atos sociais seriam praticados por Marília, no interesse comum.\n\nInadimplida uma obrigação social, o credor, ciente da existência da sociedade, demandou a sociedade e todas as sócias, responsabilizando-as solidariamente e sem benefício de ordem pela obrigação assumida por Marília.\n\nConsiderados tais fatos, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O credor não poderia demandar a sociedade em razão da ausência de personalidade jurídica, sendo, contudo, possível exigir de todas as sócias, solidariamente e sem benefício de ordem, a obrigação assumida por Marília.",
       "B": "O credor agiu corretamente ao demandar a sociedade, ainda que diante da ausência de personalidade jurídica; contudo, mesmo havendo solidariedade entre as sócias, Lucélia e Natividade possuem benefício de ordem.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 49,
-    "enunciado": "A sociedade empresária Brasilândia Materiais de Construção contraiu empréstimo junto ao Banco Figueirão S.A. garantido pela alienação fiduciária de seis veículos automotores. O contrato tem prazo de vigência de 36 meses e, após o decurso de 17 meses, a devedora fiduciante deixou de pagar as prestações do empréstimo, sendo a mora comprovada por carta registrada com aviso de recebimento devidamente entregue. Diante da mora no adimplemento das obrigações contratuais, assinale a opção que indica a prerrogativa que o Banco Figueirão tem, na condição de proprietário fiduciário dos veículos automotores.",
+    "enunciado": "A sociedade empresária Brasilândia Materiais de Construção contraiu empréstimo junto ao Banco Figueirão S.A. garantido pela alienação fiduciária de seis veículos automotores.\n\nO contrato tem prazo de vigência de 36 meses e, após o decurso de 17 meses, a devedora fiduciante deixou de pagar as prestações do empréstimo, sendo a mora comprovada por carta registrada com aviso de recebimento devidamente entregue.\n\nDiante da mora no adimplemento das obrigações contratuais, assinale a opção que indica a prerrogativa que o Banco Figueirão tem, na condição de proprietário fiduciário dos veículos automotores.",
     "alternativas": {
       "A": "Poderá vendê-los a terceiros, independentemente de leilão, hasta pública, avaliação prévia ou qualquer outra medida judicial ou extrajudicial, salvo disposição expressa em contrário prevista no contrato.",
       "B": "Deverá ajuizar ação declaratória para positivar a mora da fiduciante e, após a avaliação dos bens e alvará judicial, poderá vendê-los a terceiros, devendo aplicar o preço da venda no pagamento de seu crédito e das despesas decorrentes.",

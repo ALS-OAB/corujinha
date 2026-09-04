@@ -1,7 +1,7 @@
 [
   {
     "num": 21,
-    "enunciado": "Em uma disputa judicial estabelecida no Brasil referente a um contrato de compra e venda internacional de mercadorias, regido por lei estrangeira, uma sociedade empresária a invocou para fundamentar a sua pretensão perante a outra parte. Você, como advogado(a) especializado(a) em Direito Internacional, foi procurado(a) pela sociedade para avaliar a validade de invocar a lei estrangeira no caso em tela. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "enunciado": "Em uma disputa judicial estabelecida no Brasil referente a um contrato de compra e venda internacional de mercadorias, regido por lei estrangeira, uma sociedade empresária a invocou para fundamentar a sua pretensão perante a outra parte. Você, como advogado(a) especializado(a) em Direito Internacional, foi procurado(a) pela sociedade para avaliar a validade de invocar a lei estrangeira no caso em tela.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A alegação de lei estrangeira pelos litigantes viola a ordem pública.",
       "B": "A parte que invocar a lei estrangeira provar-lhe-á o texto e a vigência, se assim o juiz determinar diante do seu desconhecimento daquela.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 21,
-    "enunciado": "Uma artista brasileira, que protagoniza filmes nos Estados Unidos, foi filmada em uma casa de festas no Brasil em estado de embriaguez e o vídeo foi postado por um portal de notícias americano. O vídeo “viralizou” e teve grande repercussão no Brasil. Com receio de prejudicar sua carreira com a exposição negativa de sua imagem, ela decidiu ajuizar uma ação no Brasil contra o portal de notícias, que tem sua sede nos Estados Unidos. Nesse cenário, com base nos limites da jurisdição nacional estabelecidos no Código de Processo Civil, assinale a afirmativa correta.",
+    "enunciado": "Uma artista brasileira, que protagoniza filmes nos Estados Unidos, foi filmada em uma casa de festas no Brasil em estado de embriaguez e o vídeo foi postado por um portal de notícias americano. O vídeo “viralizou” e teve grande repercussão no Brasil.\n\nCom receio de prejudicar sua carreira com a exposição negativa de sua imagem, ela decidiu ajuizar uma ação no Brasil contra o portal de notícias, que tem sua sede nos Estados Unidos.\n\nNesse cenário, com base nos limites da jurisdição nacional estabelecidos no Código de Processo Civil, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A autoridade judiciária brasileira não é competente para julgar a ação, porque o réu é pessoa jurídica estrangeira.",
       "B": "A autoridade judiciária brasileira é competente para julgar a ação, porque a autora tem nacionalidade brasileira.",

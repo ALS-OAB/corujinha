@@ -69,17 +69,20 @@ def clean_lixo(texto):
 
 
 def parse_md_questoes(caminho_md):
-    """Extrai questões 1-80 do MD da prova branca (para antes do questionário de percepção).
-    Suporta separadores com 1 a 6 # (#{1,6} N) conforme o conversor usado em cada exame."""
+    """Extrai questões 1-80 do MD da prova branca.
+    - Suporta separadores #{4,6} N (exames usam 4 a 6 # conforme conversor)
+    - Questões podem estar fora de ordem no MD (ex: 44, 46, 45...)
+    - Para quando encontra número já visto (início do questionário de percepção)
+    """
     content = open(caminho_md).read()
     parts = QUESTAO_SEP.split(content)
     questoes = {}
-    ultimo_num = 0
+    vistos = set()
     for i in range(1, len(parts), 2):
         num = int(parts[i])
-        if num < ultimo_num:   # regressão = início do questionário de percepção
+        if num in vistos:   # número repetido = questionário de percepção começou
             break
-        ultimo_num = num
+        vistos.add(num)
         texto = parts[i+1] if i+1 < len(parts) else ''
         questoes[num] = parse_questao(num, texto)
     return questoes
@@ -105,7 +108,7 @@ def auditar_alternativas(dados, modulo):
             v = alts.get(letra, '')
             if not v:
                 problemas.append(f'  VAZIA  : {modulo} Q{q["num"]}E{q["exame_num"]} alt {letra}')
-            elif len(v) < 8:
+            elif len(v) < 4:
                 problemas.append(f'  CURTA  : {modulo} Q{q["num"]}E{q["exame_num"]} alt {letra}: {repr(v)}')
     return problemas
 

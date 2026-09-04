@@ -1,12 +1,12 @@
 [
   {
     "num": 78,
-    "enunciado": "Natália ajuizou reclamação trabalhista contra o ex-empregador e a ação adotou o rito sumaríssimo. Natália teve procedência parcial do seu pedido, tendo havido recurso do ex-empregador. O TRT local manteve a sentença, mas, na ótica da sociedade empresária, a decisão violou frontalmente uma orientação jurisprudencial (OJ) do TST, daí porque interpôs recurso de revista para tentar revertê-la sob esse fundamento. Diante do fato apresentado e das normas previstas na CLT, assinale a afirmativa correta.",
+    "enunciado": "Natália ajuizou reclamação trabalhista contra o ex-empregador e a\nação adotou o rito sumaríssimo. Natália teve procedência parcial do\nseu pedido, tendo havido recurso do ex-empregador. O TRT local\nmanteve a sentença, mas, na ótica da sociedade empresária, a\ndecisão violou frontalmente uma orientação jurisprudencial (OJ) do\nTST, daí porque interpôs recurso de revista para tentar revertê-la sob\nesse fundamento.\nDiante do fato apresentado e das normas previstas na CLT, assinale a\nafirmativa correta.",
     "alternativas": {
-      "A": "O recurso de revista não será admitido, porque não houve violação de Súmula do TST, de Súmula vinculante do STF e nem violação direta da Constituição Federal.",
-      "B": "O recurso em exame será admitido, porque cabe ao TST manter a autoridade da sua jurisprudência contra decisões que a violem.",
-      "C": "O recurso de revista não será admitido, porque ele só tem cabimento para as causas que tramitam pelo procedimento ordinário, o que não é a hipótese.",
-      "D": "O recurso de revista, no caso apresentado, sempre será admitido se houver alegação de violação às Súmulas e às orientações jurisprudenciais do TST, bem como violação de Lei Federal."
+      "A": "O recurso de revista não será admitido, porque não houve\nviolação de Súmula do TST, de Súmula vinculante do STF e nem\nviolação direta da Constituição Federal.",
+      "B": "O recurso em exame será admitido, porque cabe ao TST manter a\nautoridade da sua jurisprudência contra decisões que a violem.",
+      "C": "O recurso de revista não será admitido, porque ele só tem\ncabimento para as causas que tramitam pelo procedimento\nordinário, o que não é a hipótese.",
+      "D": "O recurso de revista, no caso apresentado, sempre será admitido\nse houver alegação de violação às Súmulas e às orientações\njurisprudenciais do TST, bem como violação de Lei Federal."
     },
     "gabarito": "A",
     "disciplina": "Processo do Trabalho",
@@ -20,7 +20,7 @@
   },
   {
     "num": 76,
-    "enunciado": "De uma sentença trabalhista, que julgou o pedido procedente em parte, somente o reclamante recorreu. No prazo de 8 dias da intimação acerca do recurso, a sociedade empresária apresentou contrarrazões ao recurso ordinário e recurso ordinário adesivo. Do recurso adesivo, o juiz concedeu vista ao reclamante, que se manifestou desistindo do recurso principal. Diante do caso retratado e dos termos da legislação em vigor, assinale a afirmativa correta.",
+    "enunciado": "De uma sentença trabalhista, que julgou o pedido procedente em parte, somente o reclamante recorreu. No prazo de 8 dias da intimação acerca do recurso, a sociedade empresária apresentou contrarrazões ao recurso ordinário e recurso ordinário adesivo.\n\nDo recurso adesivo, o juiz concedeu vista ao reclamante, que se manifestou desistindo do recurso principal. Diante do caso retratado e dos termos da legislação em vigor, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Não existe previsão de recurso adesivo na CLT e, por isso, ele não pode ser interposto na Justiça do Trabalho.",
       "B": "O recurso adesivo pode ser manejado na seara trabalhista, e, com a desistência do recurso principal, o adesivo será admitido e apreciado pelo TRT.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 76,
-    "enunciado": "Pedro é advogado e sua audiência está marcada para as 17 horas, mas ele está preocupado, porque já são 16h30, sua audiência não foi apregoada e ele viu, pela pauta, que ainda há três processos complexos de instrução para serem apreciados pelo magistrado que são anteriores ao seu, sendo certo que o início da pauta de audiências se deu às 14 horas. Considerando os fatos narrados e o que dispõe a CLT, assinale a afirmativa correta.",
+    "enunciado": "Pedro é advogado e sua audiência está marcada para as 17 horas, mas ele está preocupado, porque já são 16h30, sua audiência não foi apregoada e ele viu, pela pauta, que ainda há três processos complexos de instrução para serem apreciados pelo magistrado que são anteriores ao seu, sendo certo que o início da pauta de audiências se deu às 14 horas.\n\nConsiderando os fatos narrados e o que dispõe a CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A audiência de Pedro ocorrerá independentemente do horário em que as anteriores terminarem.",
       "B": "Cada juiz determina o horário de término de suas audiências.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 79,
-    "enunciado": "Em 2024, o Juiz proferiu sentença ilíquida em reclamação trabalhista, na qual você advoga para o autor, que foi julgada procedente. O feito havia sido ajuizado no final do ano de 2022. O Juízo elaborou e tornou líquida a conta, tendo aberto um prazo para as partes se manifestarem. A parte ré silenciou-se e você apresentou sua impugnação, que não foi acolhida pelo Juiz. Ato contínuo, houve decisão homologatória da sentença de liquidação. As partes foram intimadas. A ré garantiu o juízo e apresentou embargos à execução. Você apresentou impugnação de credor e contraminuta aos embargos à execução apresentados pela ré. Diante desta circunstância, assinale a afirmativa correta.",
+    "enunciado": "Em 2024, o Juiz proferiu sentença ilíquida em reclamação trabalhista, na qual você advoga para o autor, que foi julgada procedente. O feito havia sido ajuizado no final do ano de 2022.\n\nO Juízo elaborou e tornou líquida a conta, tendo aberto um prazo para as partes se manifestarem. A parte ré silenciou-se e você apresentou sua impugnação, que não foi acolhida pelo Juiz. Ato contínuo, houve decisão homologatória da sentença de liquidação. As partes foram intimadas. A ré garantiu o juízo e apresentou embargos à execução. Você apresentou impugnação de credor e contraminuta aos embargos à execução apresentados pela ré.\n\nDiante desta circunstância, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Você deverá sustentar em contraminuta aos embargos à execução que a ré apenas poderia questionar a sentença de liquidação por meio dos embargos à penhora.",
       "B": "Tendo em vista que sua impugnação à conta do juízo foi rejeitada, a matéria atinente à sua impugnação de credor deve ser diversa, não podendo ser renovada a discussão da impugnação à conta de liquidação.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 77,
-    "enunciado": "Você é advogado(a) de uma sociedade empresária que figura como ré em quatro ações na Justiça do Trabalho. Uma ação versa sobre a dispensa de um empregado que aderiu a uma greve. Outra, sobre indenização por dano moral, em razão de suposto assédio moral praticado por um superior hierárquico de um empregado. A terceira versa sobre horas extras. E a quarta, versa exclusivamente sobre cobrança de contribuições previdenciárias supostamente não efetuadas pelo empregador ao longo de um contrato de trabalho de um outro empregado. Sobre a competência da Justiça do Trabalho nas quatro ações apresentadas, assinale a afirmativa correta.",
+    "enunciado": "Você é advogado(a) de uma sociedade empresária que figura como ré em quatro ações na Justiça do Trabalho.\n\nUma ação versa sobre a dispensa de um empregado que aderiu a uma greve. Outra, sobre indenização por dano moral, em razão de suposto assédio moral praticado por um superior hierárquico de um empregado. A terceira versa sobre horas extras. E a quarta, versa exclusivamente sobre cobrança de contribuições previdenciárias supostamente não efetuadas pelo empregador ao longo de um contrato de trabalho de um outro empregado.\n\nSobre a competência da Justiça do Trabalho nas quatro ações apresentadas, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A Justiça do Trabalho é competente para todos os pedidos formulados nas ações.",
       "B": "A competência para o pedido de indenização por danos morais é da Justiça Comum.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 76,
-    "enunciado": "Jorge Lucas trabalhou por um ano na sociedade empresária Alfa Beta Gama Ltda. Insatisfeito por trabalhar várias horas extras diárias sem recebê-las, apesar de consignar corretamente a sobrejornada nos controles de ponto, Jorge Lucas pediu demissão. Na rescisão do contrato de trabalho, por um equívoco do Departamento de Pessoal, foi pago um valor equivalente ao aviso prévio. Dias depois, Jorge Lucas ajuizou reclamação trabalhista pleiteando horas extras. A sociedade empresária contratou você, como advogado(a) , para defendê-la. Acerca do que poderá ser alegado sobre o equívoco do pagamento a mais de aviso prévio, à luz do entendimento consolidado na jurisprudência do Tribunal Superior do Trabalho (TST), assinale a afirmativa correta.",
+    "enunciado": "Jorge Lucas trabalhou por um ano na sociedade empresária Alfa Beta Gama Ltda. Insatisfeito por trabalhar várias horas extras diárias sem recebê-las, apesar de consignar corretamente a sobrejornada nos controles de ponto, Jorge Lucas pediu demissão. Na rescisão do contrato de trabalho, por um equívoco do Departamento de Pessoal, foi pago um valor equivalente ao aviso prévio. Dias depois, Jorge Lucas ajuizou reclamação trabalhista pleiteando horas extras. A sociedade empresária contratou você, como advogado(a) , para defendê-la.\n\nAcerca do que poderá ser alegado sobre o equívoco do pagamento a mais de aviso prévio, à luz do entendimento consolidado na jurisprudência do Tribunal Superior do Trabalho (TST), assinale a afirmativa correta.",
     "alternativas": {
       "A": "Tendo sido pago o valor do aviso prévio espontaneamente pela sociedade empresária, está preclusa qualquer argumentação a esse respeito.",
       "B": "Deverá ser alegada a dedução dos valores pagos a título de aviso prévio da condenação ao pagamento dos valores relativos às horas extras.",

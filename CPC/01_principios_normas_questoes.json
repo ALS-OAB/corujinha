@@ -1,12 +1,12 @@
 [
   {
     "num": 49,
-    "enunciado": "A proteção dos direitos relativos à propriedade industrial, por meio da concessão do direito de exclusividade para exploração da criação pelo seu titular, considerado seu interesse social e o desenvolvimento tecnológico e econômico do país, efetua-se mediante concessão de registro",
+    "enunciado": "A proteção dos direitos relativos à propriedade industrial, por meio\nda concessão do direito de exclusividade para exploração da criação\npelo seu titular, considerado seu interesse social e o\ndesenvolvimento tecnológico e econômico do país, efetua-se\nmediante concessão de registro",
     "alternativas": {
       "A": "de marca.",
       "B": "para o nome empresarial.",
       "C": "para o título de estabelecimento.",
-      "D": "de obras literárias, arquitetônicas, artísticas. 4 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+      "D": "de obras literárias, arquitetônicas, artísticas."
     },
     "gabarito": "A",
     "disciplina": "Processo Civil",
@@ -20,7 +20,7 @@
   },
   {
     "num": 52,
-    "enunciado": "Rafael ajuizou ação de despejo em face de Luiz, sob o fundamento de que Luiz não teria pago o aluguel do imóvel de sua propriedade nos últimos meses. Em primeira instância, foi proferida sentença que julgou improcedentes os pedidos formulados na petição inicial. Rafael, então, interpôs apelação, a qual foi desprovida pelo tribunal. Posteriormente, Rafael interpôs recurso extraordinário contra o acórdão, alegando violação a uma série de dispositivos constitucionais. Examinando o recurso extraordinário, a vice-presidência do tribunal negou-lhe seguimento, sob o fundamento de que o Supremo Tribunal Federal já havia reconhecido a inexistência de repercussão geral da questão constitucional discutida no referido recurso. Diante do caso narrado, assinale a opção que indica a medida judicial a ser",
+    "enunciado": "Rafael ajuizou ação de despejo em face de Luiz, sob o fundamento de que Luiz não teria pago o aluguel do imóvel de sua propriedade nos últimos meses. Em primeira instância, foi proferida sentença que julgou improcedentes os pedidos formulados na petição inicial.\n\nRafael, então, interpôs apelação, a qual foi desprovida pelo tribunal. Posteriormente, Rafael interpôs recurso extraordinário contra o acórdão, alegando violação a uma série de dispositivos constitucionais.\n\nExaminando o recurso extraordinário, a vice-presidência do tribunal negou-lhe seguimento, sob o fundamento de que o Supremo Tribunal Federal já havia reconhecido a inexistência de repercussão geral da questão constitucional discutida no referido recurso.\n\nDiante do caso narrado, assinale a opção que indica a medida judicial a ser adotada por Rafael.",
     "alternativas": {
       "A": "interposição de agravo em recurso extraordinário, para que o Supremo Tribunal Federal examine se o recurso extraordinário preenche ou não seus requisitos de admissibilidade.",
       "B": "interposição de recurso extraordinário, para que o Supremo Tribunal Federal reexamine a existência de repercussão geral da questão constitucional discutida no recurso.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 54,
-    "enunciado": "Samuel ajuizou ação de exigir contas contra Maria, requerendo sua citação para que as preste ou ofereça contestação, no prazo de 15 (quinze) dias úteis. Em sua petição inicial, Samuel alegou que, por força de contrato de mandato, teria confiado a administração de recursos próprios a Maria, que, no entanto, não prestou regularmente contas de forma extrajudicial, conforme entre si acordado. Em que pese Maria tenha oferecido contestação à ação, o juiz julgou procedente o pedido, condenando Maria a prestar as contas, no prazo de 15 (quinze) dias úteis. Sobre a situação hipotética descrita, assinale a afirmativa correta.",
+    "enunciado": "Samuel ajuizou ação de exigir contas contra Maria, requerendo sua citação para que as preste ou ofereça contestação, no prazo de 15 (quinze) dias úteis. Em sua petição inicial, Samuel alegou que, por força de contrato de mandato, teria confiado a administração de recursos próprios a Maria, que, no entanto, não prestou regularmente contas de forma extrajudicial, conforme entre si acordado. Em que pese Maria tenha oferecido contestação à ação, o juiz julgou procedente o pedido, condenando Maria a prestar as contas, no prazo de 15 (quinze) dias úteis.\n\nSobre a situação hipotética descrita, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Caso Maria deixe de prestar as contas no prazo assinalado de 15 (quinze) dias úteis, Samuel será intimado a apresentá-las, não podendo o juiz determinar a realização de perícia para sua certificação.",
       "B": "Ainda que Maria deixe de prestar as contas no prazo assinalado de 15 (quinze) dias úteis, lhe será lícito impugnar as contas que venham a ser apresentadas por Samuel.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 56,
-    "enunciado": "Aline recebeu uma proposta de investimento de Gizé Ltda., instituição que atua no mercado financeiro, que lhe garantiria um retorno fixo mensal de 10% ao mês sobre o capital investido. Crendo tratar-se de um ótimo negócio, Aline transferiu R$ 500.000,00 (quinhentos mil reai s) para a conta da Gizé Ltda., que passou a lhe apresentar extratos mensais, apontando um suposto crescimento do capital. Entretanto, alguns meses depois, foi divulgado em um importante veículo de comunicação que a Gizé Ltda. estava sendo investigada pela prática de pirâmide financeira. Muito nervosa, Aline tentou contato telefônico com a instituição, sem sucesso. Depois de inúmeros e-mails, Aline decidiu ir ao estabelecimento onde funcionava a Gizé Ltda., mas encontrou o imóvel abandonado. Constatando tratar-se de um g",
+    "enunciado": "Aline recebeu uma proposta de investimento de Gizé Ltda., instituição que atua no mercado financeiro, que lhe garantiria um retorno fixo mensal de 10% ao mês sobre o capital investido. Crendo tratar-se de um ótimo negócio, Aline transferiu R$ 500.000,00 (quinhentos mil reai\n\ns) para a conta da Gizé Ltda., que passou a lhe apresentar extratos mensais, apontando um suposto crescimento do capital.\n\nEntretanto, alguns meses depois, foi divulgado em um importante veículo de comunicação que a Gizé Ltda. estava sendo investigada pela prática de pirâmide financeira. Muito nervosa, Aline tentou contato telefônico com a instituição, sem sucesso. Depois de inúmeros e-mails, Aline decidiu ir ao estabelecimento onde funcionava a Gizé Ltda., mas encontrou o imóvel abandonado.\n\nConstatando tratar-se de um golpe, Aline, por meio de advogado(a) , decidiu ajuizar pedido de tutela cautelar em caráter antecedente, com o objetivo de efetivar o arresto de R$ 500.000,00 (quinhentos mil reai\n\ns) , antes de formular o pedido principal, de rescisão do contrato, com devolução do valor depositado, cobrança dos rendimentos contratados e indenização pelos danos morais sofridos.\n\nSobre essa modalidade de tutela provisória, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Sendo deferida a tutela cautelar antecedente requerida por Aline, ela deverá ser efetivada no prazo de 60 (sessenta) dias, sob pena de perda da eficácia da tutela cautelar concedida.",
       "B": "Sendo efetivada a tutela cautelar antecedente requerida por Aline, o pedido principal deverá ser formulado no prazo de 15 (quinze) dias, sob pena de perda da eficácia da tutela cautelar concedida.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 53,
-    "enunciado": "Gabriela adquiriu um pacote de viagens com a sociedade empresária VoaMais, mas não conseguiu embarcar pois, na última hora, houve o cancelamento de seu bilhete aéreo. Em consequência, Gabriela ajuizou ação indenizatória por danos morais e materiais em face de VoaMais. Foi proferida sentença de procedência do pedido, com a concessão da tutela provisória na sentença, condenando a ré ao pagamento de R$ 30.000,00 (trinta mil reai s) . Inconformada, a ré interpôs recurso de apelação. Gabriela, então, procurou você, na qualidade de advogado(a) , com o objetivo de receber imediatamente o valor previsto na condenação, independentemente do julgamento da apelação interposta pela ré. Assinale a opção que apresenta, corretamente, sua orientação sobre o tema.",
+    "enunciado": "Gabriela adquiriu um pacote de viagens com a sociedade empresária VoaMais, mas não conseguiu embarcar pois, na última hora, houve o cancelamento de seu bilhete aéreo. Em consequência, Gabriela ajuizou ação indenizatória por danos morais e materiais em face de VoaMais. Foi proferida sentença de procedência do pedido, com a concessão da tutela provisória na sentença, condenando a ré ao pagamento de R$ 30.000,00 (trinta mil reai\n\ns) .\n\nInconformada, a ré interpôs recurso de apelação. Gabriela, então, procurou você, na qualidade de advogado(a) , com o objetivo de receber imediatamente o valor previsto na condenação, independentemente do julgamento da apelação interposta pela ré.\n\nAssinale a opção que apresenta, corretamente, sua orientação sobre o tema.",
     "alternativas": {
       "A": "Ela não poderá iniciar o cumprimento da sentença antes do julgamento da apelação interposta, uma vez que o crédito não é de natureza alimentar, tampouco restou demonstrada situação de necessidade.",
       "B": "Ela poderá iniciar o cumprimento da sentença, na modalidade definitiva, tendo em vista que a tutela provisória foi concedida na sentença.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 55,
-    "enunciado": "Anacleto ajuizou ação de indenização contra a sociedade empresária de telefonia Alô, tendo sido proferida sentença de procedência do pedido, com a condenação da ré ao pagamento de indenização por danos morais e materiais, mas sem especificação dos valores. A sociedade Alô interpôs recurso de apelação, ainda pendente de julgamento, mas Anacleto deseja desde logo obter a definição do montante correspondente aos danos sofridos. Acerca da situação apresentada, assinale a afirmativa correta.",
+    "enunciado": "Anacleto ajuizou ação de indenização contra a sociedade empresária de telefonia Alô, tendo sido proferida sentença de procedência do pedido, com a condenação da ré ao pagamento de indenização por danos morais e materiais, mas sem especificação dos valores.\n\nA sociedade Alô interpôs recurso de apelação, ainda pendente de julgamento, mas Anacleto deseja desde logo obter a definição do montante correspondente aos danos sofridos.\n\nAcerca da situação apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A liquidação da sentença antes do trânsito em julgado só é cabível caso o autor ofereça caução.",
       "B": "É possível a liquidação de sentença mesmo antes do trânsito em julgado, independentemente dos efeitos em que foi recebido o recurso de apelação.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 51,
-    "enunciado": "José ajuizou ação de indenização por danos materiais e morais contra Ana. Na petição inicial, José formulou requerimento de tutela provisória de urgência para que fosse determinado o bloqueio imediato de bens detidos por Ana, até o valor pleiteado por José no processo judicial, como forma de resguardar uma futura indenização para José, se forem julgados procedentes os seus pedidos de danos materiais e morais. Após realizar a admissibilidade da petição inicial, o magistrado concedeu a tutela provisória de urgência em favor de José. Nessa situação hipotética, assinale a opção que indica o recurso a ser interposto por Ana.",
+    "enunciado": "José ajuizou ação de indenização por danos materiais e morais contra Ana.\n\nNa petição inicial, José formulou requerimento de tutela provisória de urgência para que fosse determinado o bloqueio imediato de bens detidos por Ana, até o valor pleiteado por José no processo judicial, como forma de resguardar uma futura indenização para José, se forem julgados procedentes os seus pedidos de danos materiais e morais.\n\nApós realizar a admissibilidade da petição inicial, o magistrado concedeu a tutela provisória de urgência em favor de José. Nessa situação hipotética, assinale a opção que indica o recurso a ser interposto por Ana.",
     "alternativas": {
       "A": "Não cabe recurso imediato contra a decisão que defere a tutela provisória de urgência.",
       "B": "Agravo de instrumento, uma vez que a decisão que defere a tutela provisória de urgência é decisão interlocutória impugnável por tal recurso.",
@@ -134,7 +134,7 @@
   },
   {
     "num": 53,
-    "enunciado": "Paula ajuizou ação indenizatória por atraso de voo contra a companhia aérea Big Ben perante certo Juizado Especial Cível. Em sentença, o Magistrado condenou a companhia aérea ao pagamento de determinada quantia em dinheiro. Interposto recurso inominado pela companhia aérea, a Turma Recursal competente proveu o recurso. No entanto, em sua decisão, cometeu graves erros de aplicação de normas infraconstitucionais federais e normas constitucionais. A decisão colegiada, por outro lado, não incorreu em omissão, contradição, obscuridade ou erro material, e a matéria constitucional está devidamente pré-questionada. Diante desse cenário, assinale a afirmativa correta.",
+    "enunciado": "Paula ajuizou ação indenizatória por atraso de voo contra a companhia aérea Big Ben perante certo Juizado Especial Cível. Em sentença, o Magistrado condenou a companhia aérea ao pagamento de determinada quantia em dinheiro.\n\nInterposto recurso inominado pela companhia aérea, a Turma Recursal competente proveu o recurso. No entanto, em sua decisão, cometeu graves erros de aplicação de normas infraconstitucionais federais e normas constitucionais. A decisão colegiada, por outro lado, não incorreu em omissão, contradição, obscuridade ou erro material, e a matéria constitucional está devidamente pré-questionada.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Não há recurso cabível contra a decisão proferida pela Turma Recursal.",
       "B": "Paula deve opor embargos de declaração a fim de sanar os erros de interpretação de norma cometidos pela Turma Recursal.",

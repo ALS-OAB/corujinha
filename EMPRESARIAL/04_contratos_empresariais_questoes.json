@@ -1,12 +1,12 @@
 [
   {
     "num": 47,
-    "enunciado": "Aral adquiriu bens de consumo de uma sociedade empresária, ficando esta de lhe entregar as mercadorias em até 10 (dez) dias úteis. Entretanto, a entrega não se realizou em razão da decretação de falência da vendedora e o consequente encerramento das atividades com o lacre dos estabelecimentos. O administrador judicial recebeu interpelação de Aral sobre a posição da massa falida quanto a entrega das mercadorias que comprou ou a devolução das parcelas já pagas. O administrador judicial se manifestou no sentido de não entregar a mercadoria ao comprador justificando a ausência de redução do passivo da massa falida e a extinção do contrato. Não há comitê de credores em funcionamento no processo falimentar. Considerando os fatos narrados e as disposições da Lei nº 11.101/2005, assinale a afirmat",
+    "enunciado": "Aral adquiriu bens de consumo de uma sociedade empresária,\nficando esta de lhe entregar as mercadorias em até 10 (dez) dias\núteis. Entretanto, a entrega não se realizou em razão da decretação\nde falência da vendedora e o consequente encerramento das\natividades com o lacre dos estabelecimentos.\nO administrador judicial recebeu interpelação de Aral sobre a posição\nda massa falida quanto a entrega das mercadorias que comprou ou a\ndevolução das parcelas já pagas. O administrador judicial se\nmanifestou no sentido de não entregar a mercadoria ao comprador\njustificando a ausência de redução do passivo da massa falida e a\nextinção do contrato. Não há comitê de credores em funcionamento\nno processo falimentar.\nConsiderando os fatos narrados e as disposições da Lei nº\n11.101/2005, assinale a afirmativa que indica a atitude a ser tomada\npor Aral.",
     "alternativas": {
-      "A": "Pedir ao juiz da falência a indisponibilidade de bens da massa até o valor de seu crédito para fins de futuro pagamento.",
-      "B": "Pedir a restituição em dinheiro das parcelas pagas pela aquisição dos bens.",
-      "C": "Habilitar o crédito relativo ao valor pago na classe dos credores quirografários.",
-      "D": "Ajuizar ação de execução por quantia certa em face da massa falida para recebimento das parcelas pagas."
+      "A": "Pedir ao juiz da falência a indisponibilidade de bens da massa até\no valor de seu crédito para fins de futuro pagamento.",
+      "B": "Pedir a restituição em dinheiro das parcelas pagas pela aquisição\ndos bens.",
+      "C": "Habilitar o crédito relativo ao valor pago na classe dos credores\nquirografários.",
+      "D": "Ajuizar ação de execução por quantia certa em face da massa\nfalida para recebimento das parcelas pagas."
     },
     "gabarito": "C",
     "disciplina": "Direito Empresarial",
@@ -20,7 +20,7 @@
   },
   {
     "num": 49,
-    "enunciado": "Quatro professores, que dão aulas particulares, decidiram constituir uma sociedade simples e chamaram para integrar a sociedade Belfort Pereira, empresário individual, inscrito na Junta Comercial do Estado do Rio de Janeiro, sob a condição dele investir na sociedade como sócio minoritário. Sobre as condições para o enquadramento de uma sociedade simples como microempresa, assinale a afirmativa correta.",
+    "enunciado": "Quatro professores, que dão aulas particulares, decidiram constituir uma sociedade simples e chamaram para integrar a sociedade Belfort Pereira, empresário individual, inscrito na Junta Comercial do Estado do Rio de Janeiro, sob a condição dele investir na sociedade como sócio minoritário.\n\nSobre as condições para o enquadramento de uma sociedade simples como microempresa, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É lícito o enquadramento como microempresa apenas em razão da participação do sócio Belfort Pereira no capital ser minoritária.",
       "B": "O enquadramento como microempresa é exclusivo para as sociedades empresárias, de modo que a sociedade simples está impedida.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 49,
-    "enunciado": "Marialva Castro foi nomeada pelo empresário individual Wenceslau Paiçandu como gerente do seu estabelecimento, intitulado Hortifruti Fazenda Rio Grande. No instrumento de outorga de poderes consta que Marialva Castro não está autorizada a conceder desconto de preços nem receber pagamentos por cartão de crédito. De acordo com o Código Civil, considerando os fatos narrados e a condição de preposto de Marialva Castro, assinale a afirmativa correta.",
+    "enunciado": "Marialva Castro foi nomeada pelo empresário individual Wenceslau Paiçandu como gerente do seu estabelecimento, intitulado Hortifruti Fazenda Rio Grande. No instrumento de outorga de poderes consta que Marialva Castro não está autorizada a conceder desconto de preços nem receber pagamentos por cartão de crédito.\n\nDe acordo com o Código Civil, considerando os fatos narrados e a condição de preposto de Marialva Castro, assinale a afirmativa correta.",
     "alternativas": {
       "A": "As limitações contidas na outorga de poderes pelo empresário ao preposto, para serem opostas a terceiros, dependem do arquivamento e da averbação do instrumento no Registro Público de Empresas Mercantis.",
       "B": "As limitações contidas na outorga de poderes pelo empresário ao preposto, para serem opostas a terceiros, dependem do arquivamento e da averbação do instrumento no Registro de Títulos e Documentos.",
@@ -58,10 +58,10 @@
   },
   {
     "num": 49,
-    "enunciado": "Uma sociedade simples que adotou um dos tipos societários previstos no Código Civil, com sede em Guarapari/ES, foi constituída por prazo determinado, até 31 de dezembro de 2023. Sobre a situação da sociedade empresária a partir de 1º de janeiro de 2024, assinale a afirmativa correta.",
+    "enunciado": "Uma sociedade simples que adotou um dos tipos societários previstos no Código Civil, com sede em Guarapari/ES, foi constituída por prazo determinado, até 31 de dezembro de 2023.\n\nSobre a situação da sociedade empresária a partir de 1º de janeiro de 2024, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Ela continuará em atividade normalmente até que algum sócio ou credor requeira sua dissolução judicial nos 30 (trinta) dias seguintes após o término do prazo de duração.",
-      "B": "Os administradores devem providenciar imediatamente a investidura do liquidante, mantendo os negócios sociais por até 180 dias (cento e oitenta dia s) ; findo esse prazo, a continuidade da atividade implica na responsabilidade ilimitada e solidária deles.",
+      "B": "Os administradores devem providenciar imediatamente a investidura do liquidante, mantendo os negócios sociais por até 180 dias (cento e oitenta dia\n\ns) ; findo esse prazo, a continuidade da atividade implica na responsabilidade ilimitada e solidária deles.",
       "C": "A dissolução judicial da sociedade pode ser requerida por qualquer sócio, devido ao exaurimento do fim social, cabendo ao Juiz a nomeação do liquidante.",
       "D": "A sociedade reputa-se dissolvida em razão do vencimento do prazo de duração, salvo se, sem oposição de sócio, não entrar a sociedade em liquidação, caso em que se prorrogará por tempo indeterminado."
     },
@@ -77,7 +77,7 @@
   },
   {
     "num": 50,
-    "enunciado": "A sociedade empresária Elétrica Passa Sete Ltda., por meio de seu administrador, ajuizou tempestivamente ação renovatória de locação não residencial referente ao imóvel onde está localizada a filial na cidade de Varginha, MG. Na petição inicial, a autora indicou as condições oferecidas para a renovação da locação, especialmente o novo valor do aluguel proposto. Apresentada a contestação, o locador informou que recebeu proposta de terceiro para a nova locação em condições melhores do que aquelas propostas pela locatária na petição inicial, sendo o valor locativo do imóvel 12% maior do que o oferecido pela locatária. Considerados os fatos narrados, assinale a afirmativa correta.",
+    "enunciado": "A sociedade empresária Elétrica Passa Sete Ltda., por meio de seu administrador, ajuizou tempestivamente ação renovatória de locação não residencial referente ao imóvel onde está localizada a filial na cidade de Varginha, MG.\n\nNa petição inicial, a autora indicou as condições oferecidas para a renovação da locação, especialmente o novo valor do aluguel proposto.\n\nApresentada a contestação, o locador informou que recebeu proposta de terceiro para a nova locação em condições melhores do que aquelas propostas pela locatária na petição inicial, sendo o valor locativo do imóvel 12% maior do que o oferecido pela locatária.\n\nConsiderados os fatos narrados, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O locador não pode apresentar na contestação proposta de terceiro para a locação, ainda que em condições melhores, diante do direito potestativo do locatário à renovação compulsória.",
       "B": "A proposta de terceiro pode ser apresentada em documento público ou particular. Caso o documento seja particular e esteja com assinatura autenticada, é dispensável a intervenção de testemunhas.",

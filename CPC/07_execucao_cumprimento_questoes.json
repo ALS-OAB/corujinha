@@ -1,12 +1,12 @@
 [
   {
     "num": 55,
-    "enunciado": "Albieri, com base em prova escrita e sem eficácia de título executivo, afirma ter direito de exigir de Juliana o pagamento de R$ 10.000,00 (dez mil reais). Nesse sentido, Albieri procura você, como advogado(a), para ajuizar Ação Monitória em face de Juliana, exigindo o pagamento de R$ 10.000,00 (dez mil reais). O juiz da causa observou que o direito do autor era evidente e deferiu a expedição de mandado de pagamento, concedendo ao réu prazo de 15 (quinze) dias para o cumprimento. Juliana alega que Albieri pleiteia quantia superior à devida, razão pela qual pretende, por meio de seu advogado, opor embargos à ação monitória. Na qualidade de patrono de Juliana, assinale a opção que apresenta a medida adequada a ser providenciada.",
+    "enunciado": "Albieri, com base em prova escrita e sem eficácia de título executivo,\nafirma ter direito de exigir de Juliana o pagamento de R$ 10.000,00\n(dez mil reais). Nesse sentido, Albieri procura você, como\nadvogado(a), para ajuizar Ação Monitória em face de Juliana,\nexigindo o pagamento de R$ 10.000,00 (dez mil reais).\nO juiz da causa observou que o direito do autor era evidente e\ndeferiu a expedição de mandado de pagamento, concedendo ao réu\nprazo de 15 (quinze) dias para o cumprimento. Juliana alega que\nAlbieri pleiteia quantia superior à devida, razão pela qual pretende,\npor meio de seu advogado, opor embargos à ação monitória.\nNa qualidade de patrono de Juliana, assinale a opção que apresenta a\nmedida adequada a ser providenciada.",
     "alternativas": {
-      "A": "Juliana poderá opor, nos próprios autos, embargos à ação monitória caso garanta o valor em juízo previamente, bem como, quando alegar que Albieri pleiteia quantia superior à devida, deverá declarar de imediato o valor que entende correto, sem necessidade de apresentar o demonstrativo discriminado e atualizado da dívida.",
-      "B": "Se Juliana alegar que Albieri pleiteia quantia superior à devida, não precisa indicar o valor correto da dívida. Além disso, independentemente de prévia segurança do juízo, Juliana pode opor embargos à ação monitória.",
-      "C": "Juliana poderá opor, nos próprios autos, embargos à ação monitória caso garanta o valor em juízo previamente, bem como, quando alegar que Albieri pleiteia quantia superior à devida, não precisa indicar o valor correto da dívida.",
-      "D": "Juliana poderá opor embargos à ação monitória, independentemente de prévia segurança do juízo, bem como, quando alegar que Albieri pleiteia quantia superior à devida, deverá declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado da dívida."
+      "A": "Juliana poderá opor, nos próprios autos, embargos à ação\nmonitória caso garanta o valor em juízo previamente, bem como,\nquando alegar que Albieri pleiteia quantia superior à devida,\ndeverá declarar de imediato o valor que entende correto, sem\nnecessidade de apresentar o demonstrativo discriminado e\natualizado da dívida.",
+      "B": "Se Juliana alegar que Albieri pleiteia quantia superior à devida,\nnão precisa indicar o valor correto da dívida. Além disso,\nindependentemente de prévia segurança do juízo, Juliana pode\nopor embargos à ação monitória.",
+      "C": "Juliana poderá opor, nos próprios autos, embargos à ação\nmonitória caso garanta o valor em juízo previamente, bem como,\nquando alegar que Albieri pleiteia quantia superior à devida, não\nprecisa indicar o valor correto da dívida.",
+      "D": "Juliana poderá opor embargos à ação monitória,\nindependentemente de prévia segurança do juízo, bem como,\nquando alegar que Albieri pleiteia quantia superior à devida,\ndeverá declarar de imediato o valor que entende correto,\napresentando demonstrativo discriminado e atualizado da dívida."
     },
     "gabarito": "D",
     "disciplina": "Processo Civil",
@@ -20,12 +20,12 @@
   },
   {
     "num": 52,
-    "enunciado": "Ademir Leone, servidor público aposentado, atualmente obtém sua maior fonte de renda por meio da compra e venda de ações na bolsa de valores brasileira, tendo em vista a perda do poder econômico de sua aposentadoria. Certo dia, ao tentar comprar ações na bolsa de valores, recebe a notificação de que seu nome havia sido inscrito nos órgãos de proteção ao crédito em razão do inadimplemento das parcelas de um empréstimo firmado com o Banco Prata, e por isso a transação não poderia ser completada, bem como soube que suas ações foram bloqueadas. Incrédulo com tal situação, pois nunca contratou com tal banco, além de temer pelo sustento de sua família, Ademir procurou você, como advogado(a) , para saber da possibilidade de limpar seu nome o quanto antes, ajuizando ação judicial, mas sem precisar",
+    "enunciado": "Ademir Leone, servidor público aposentado, atualmente obtém sua maior fonte de renda por meio da compra e venda de ações na bolsa de valores brasileira, tendo em vista a perda do poder econômico de sua aposentadoria.\n\nCerto dia, ao tentar comprar ações na bolsa de valores, recebe a notificação de que seu nome havia sido inscrito nos órgãos de proteção ao crédito em razão do inadimplemento das parcelas de um empréstimo firmado com o Banco Prata, e por isso a transação não poderia ser completada, bem como soube que suas ações foram bloqueadas.\n\nIncrédulo com tal situação, pois nunca contratou com tal banco, além de temer pelo sustento de sua família, Ademir procurou você, como advogado(a) , para saber da possibilidade de limpar seu nome o quanto antes, ajuizando ação judicial, mas sem precisar esperar o fim do processo.\n\nAssinale a afirmativa que apresenta, corretamente, a orientação que atende à pretensão do seu cliente,",
     "alternativas": {
       "A": "Não existe essa possibilidade no direito brasileiro, o qual pauta-se no contraditório e na ampla defesa, respeitando o devido processo legal, seguindo todas as fases processuais, para que, somente ao final, seja dada uma decisão justa e equânime.",
       "B": "É possível que seja concedida a tutela de urgência, sendo desnecessário a demonstração de elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.",
       "C": "Existe a possibilidade de que seja concedida a tutela de evidência, desde que demonstrado o perigo de dano ou o risco ao resultado útil do processo.",
-      "D": "Há a possibilidade de que seja concedida a tutela de urgência, pois existem elementos que evidenciam a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+      "D": "Há a possibilidade de que seja concedida a tutela de urgência, pois existem elementos que evidenciam a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do\n\nprocesso."
     },
     "gabarito": "D",
     "disciplina": "Processo Civil",
@@ -39,7 +39,7 @@
   },
   {
     "num": 54,
-    "enunciado": "Júlio, advogado ainda inexperiente, preocupado com a possibilidade de perder o prazo para oferecer contestação em favor de Roberta, sua cliente que está viajando, indaga a você se ele deve esperar o retorno de Roberta, que esqueceu de fornecer procuração. Diante desse cenário, assinale a afirmativa que, corretamente, apresenta sua orientação.",
+    "enunciado": "Júlio, advogado ainda inexperiente, preocupado com a possibilidade de perder o prazo para oferecer contestação em favor de Roberta, sua cliente que está viajando, indaga a você se ele deve esperar o retorno de Roberta, que esqueceu de fornecer procuração.\n\nDiante desse cenário, assinale a afirmativa que, corretamente, apresenta sua orientação.",
     "alternativas": {
       "A": "Júlio pode oferecer contestação, independentemente de procuração, desde que junte o instrumento aos autos no prazo de 15 dias, a fim de evitar preclusão.",
       "B": "Júlio pode oferecer contestação, independentemente de instrumento de mandato, apenas se a parte contrária concordar.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 51,
-    "enunciado": "Ana Carolina procurou você, como advogado(a) , para elaborar sua defesa em demanda pelo procedimento comum movida por Eduardo perante Vara Cível com o objetivo de obter indenização em virtude de suposto inadimplemento de Ana Carolina, qual seja, ter entregado uma quantidade de soja menor do que a que fora acordada contratualmente. Nessa reunião, Ana Carolina relatou que a indenização não era devida, porque ela havia entregado a quantidade de soja prevista no contrato. Ana Carolina relatou ainda que, na realidade, Eduardo não tinha realizado o pagamento integral previsto em contrato. Sobre a demanda movida por Eduardo visando ao pagamento da quantia que lhe é devida, assinale a opção que apresenta a medida cabível que você, na condição de advogado(a) de Ana Carolina, indicou.",
+    "enunciado": "Ana Carolina procurou você, como advogado(a) , para elaborar sua defesa em demanda pelo procedimento comum movida por Eduardo perante Vara Cível com o objetivo de obter indenização em virtude de suposto inadimplemento de Ana Carolina, qual seja, ter entregado uma quantidade de soja menor do que a que fora acordada contratualmente.\n\nNessa reunião, Ana Carolina relatou que a indenização não era devida, porque ela havia entregado a quantidade de soja prevista no contrato. Ana Carolina relatou ainda que, na realidade, Eduardo não tinha realizado o pagamento integral previsto em contrato.\n\nSobre a demanda movida por Eduardo visando ao pagamento da quantia que lhe é devida, assinale a opção que apresenta a medida cabível que você, na condição de advogado(a) de Ana Carolina, indicou.",
     "alternativas": {
       "A": "Ana Carolina terá que ajuizar uma nova demanda autônoma visando ao pagamento da quantia devida por Eduardo.",
       "B": "Ana Carolina poderá apresentar reconvenção para cobrar a quantia que lhe é devida por Eduardo, sendo que essa medida deverá ser formulada na contestação.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 53,
-    "enunciado": "Maria ajuizou ação em face da União, com pedido de condenação desta à entrega de remédios, por ser portadora de grave doença cardíaca. Após o regular processamento, o Juízo da Vara Federal competente proferiu sentença de procedência condenando a União a entregar o medicamento solicitado. A Fazenda Pública foi vencida e, na hipótese, foi aplicado pelo Juiz o instituto da remessa necessária, com o envio do processo ao Tribunal Regional Federal, embora a União não tenha apelado da sentença. Acerca da remessa necessária, segundo o ordenamento jurídico brasileiro, assinale a afirmativa correta.",
+    "enunciado": "Maria ajuizou ação em face da União, com pedido de condenação desta à entrega de remédios, por ser portadora de grave doença cardíaca.\n\nApós o regular processamento, o Juízo da Vara Federal competente proferiu sentença de procedência condenando a União a entregar o medicamento solicitado. A Fazenda Pública foi vencida e, na hipótese, foi aplicado pelo Juiz o instituto da remessa necessária, com o envio do processo ao Tribunal Regional Federal, embora a União não tenha apelado da sentença.\n\nAcerca da remessa necessária, segundo o ordenamento jurídico brasileiro, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Aplica-se a remessa necessária quando a sentença estiver fundada em entendimento firmado em incidente de assunção de competência.",
       "B": "Aplica-se a remessa necessária quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a mil salários mínimos para a União.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 55,
-    "enunciado": "Débora, servidora pública aposentada do Município de Fortaleza, procurou você, como advogado(a) , para ajuizar uma ação pelo procedimento comum em face do Município, pleiteando o pagamento de verbas em atraso a título de auxílio alimentação. Proferida sentença de procedência do pedido, foi interposto recurso de apelação pelo réu, não provido, assim como foi mantida a sentença em remessa necessária na mesma oportunidade. Transitada em julgado a sentença, Débora pretende receber os valores que lhe são devidos. Sobre o caso, assinale a afirmativa correta.",
+    "enunciado": "Débora, servidora pública aposentada do Município de Fortaleza, procurou você, como advogado(a) , para ajuizar uma ação pelo procedimento comum em face do Município, pleiteando o pagamento de verbas em atraso a título de auxílio alimentação.\n\nProferida sentença de procedência do pedido, foi interposto recurso de apelação pelo réu, não provido, assim como foi mantida a sentença em remessa necessária na mesma oportunidade. Transitada em julgado a sentença, Débora pretende receber os valores que lhe são devidos.\n\nSobre o caso, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A Fazenda Pública Municipal, caso não pague o valor devido à Débora de forma espontânea, diferentemente do que ocorre com as Fazendas Estadual e Federal, sujeita-se à penhora de seus bens.",
       "B": "Débora deverá instruir sua petição de cumprimento de sentença com o demonstrativo discriminado e atualizado do crédito, devendo o Município ser intimado para apresentar impugnação nos mesmos autos.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 51,
-    "enunciado": "Machado de Assis ajuizou ação indenizatória em face de Quincas Borba, pugnando pela condenação do réu ao pagamento de indenização por danos morais e materiais, resultantes do inadimplemento de contrato de prestação de serviços. O Juiz condenou o réu ao pagamento de indenização por danos morais no montante de R$ 5.000,00 (cinco mil reai s) e danos materiais, a serem apurados em sede de liquidação de sentença, diante da necessidade de comprovação dos prejuízos que vêm sendo experimentados pelo autor, desde a ocorrência do ilícito. Quincas Borba contratou você, como advogado(a) , para interpor recurso de apelação, buscando a reforma integral da sentença. Tomando o caso acima como premissa, assinale a opção que, corretamente, apresenta sua orientação.",
+    "enunciado": "Machado de Assis ajuizou ação indenizatória em face de Quincas Borba, pugnando pela condenação do réu ao pagamento de indenização por danos morais e materiais, resultantes do inadimplemento de contrato de prestação de serviços.\n\nO Juiz condenou o réu ao pagamento de indenização por danos morais no montante de R$ 5.000,00 (cinco mil reai\n\ns) e danos materiais, a serem apurados em sede de liquidação de sentença, diante da necessidade de comprovação dos prejuízos que vêm sendo experimentados pelo autor, desde a ocorrência do ilícito.\n\nQuincas Borba contratou você, como advogado(a) , para interpor recurso de apelação, buscando a reforma integral da sentença. Tomando o caso acima como premissa, assinale a opção que, corretamente, apresenta sua orientação.",
     "alternativas": {
       "A": "Enquanto não houver o julgamento do recurso de apelação, não será possível realizar a liquidação de sentença no capítulo referente aos danos materiais.",
       "B": "Apesar de Quincas Borba ter ofertado apelação, Machado de Assis poderá requerer desde logo a liquidação do capítulo dos danos materiais em autos apartados.",

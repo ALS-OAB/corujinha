@@ -1,7 +1,7 @@
 [
   {
     "num": 37,
-    "enunciado": "Pedro e Joana casaram-se pelo regime da comunhão parcial de bens. Na constância do casamento, Pedro herdou ações e comprou um carro, enquanto Joana recebeu de doação um apartamento e ganhou um prêmio de loteria. Com base nessas informações, assinale a opção que indica, em caso de divórcio, os bens que devem ser partilhados.",
+    "enunciado": "Pedro e Joana casaram-se pelo regime da comunhão parcial de bens.\nNa constância do casamento, Pedro herdou ações e comprou um\ncarro, enquanto Joana recebeu de doação um apartamento e ganhou\num prêmio de loteria.\nCom base nessas informações, assinale a opção que indica, em caso\nde divórcio, os bens que devem ser partilhados.",
     "alternativas": {
       "A": "As ações e o apartamento.",
       "B": "O carro e o prêmio de loteria.",
@@ -32,7 +32,7 @@
   },
   {
     "num": 37,
-    "enunciado": "Júlio Cesar e Thayane foram casados por 8 anos e tiveram 2 filhos. Como a separação foi amigável, o casal achou melhor não realizar qualquer medida judicial, acordando verbalmente o valor da pensão alimentícia que seria paga em benefício dos menores, bem como o esquema de convivência parental. Entretanto, 3 anos após a separação, Thayane resolveu reajustar o valor da pensão alimentícia. O que não foi aceito por Júlio Cesar. Como não conseguiram alcançar um acordo, já que Júlio Cesar não pagou os valores solicitados, Thayane decidiu suspender o contato do pai com os filhos. Sem poder ter contato com os filhos, Júlio Cesar procura você, como advogado(a) , a fim de receber sua orientação. Assinale a opção que indica, corretamente, sua orientação.",
+    "enunciado": "Júlio Cesar e Thayane foram casados por 8 anos e tiveram 2 filhos. Como a separação foi amigável, o casal achou melhor não realizar qualquer medida judicial, acordando verbalmente o valor da pensão alimentícia que seria paga em benefício dos menores, bem como o esquema de convivência parental.\n\nEntretanto, 3 anos após a separação, Thayane resolveu reajustar o valor da pensão alimentícia. O que não foi aceito por Júlio Cesar. Como não conseguiram alcançar um acordo, já que Júlio Cesar não pagou os valores solicitados, Thayane decidiu suspender o contato do pai com os filhos.\n\nSem poder ter contato com os filhos, Júlio Cesar procura você, como advogado(a) , a fim de receber sua orientação. Assinale a opção que indica, corretamente, sua orientação.",
     "alternativas": {
       "A": "A medida adotada por Thayane está correta, pois a mãe tem autonomia para suspender o contato do pai que não cumpre com seus deveres de prestar alimentos, resguardando, dessa forma, a proteção necessária ao desenvolvimento biopsíquico dos menores.",
       "B": "Thayane pode impedir o contato de Júlio Cesar com o filho, já que, após a separação, o exercício da autoridade familiar é exclusivo da mãe, que tem o dever de garantir os direitos das crianças e dos adolescentes.",
@@ -63,7 +63,7 @@
   },
   {
     "num": 37,
-    "enunciado": "Mariana e Lucas estão casados há mais de 10 anos em regime da comunhão parcial de bens. Recentemente, Mariana descobriu que Lucas vem mantendo uma relação extraconjugal com uma vizinha. A descoberta abalou profundamente o casamento, e Mariana pediu o divórcio. Considerando a quebra do dever de fidelidade, Mariana alega que Lucas perdeu o direito sobre todos os bens do casal, ou seja, ela entende que, apesar do regime de comunhão parcial de bens, o patrimônio construído ao longo do casamento não deverá ser partilhado. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "enunciado": "Mariana e Lucas estão casados há mais de 10 anos em regime da comunhão parcial de bens. Recentemente, Mariana descobriu que Lucas vem mantendo uma relação extraconjugal com uma vizinha. A descoberta abalou profundamente o casamento, e Mariana pediu o divórcio.\n\nConsiderando a quebra do dever de fidelidade, Mariana alega que Lucas perdeu o direito sobre todos os bens do casal, ou seja, ela entende que, apesar do regime de comunhão parcial de bens, o patrimônio construído ao longo do casamento não deverá ser partilhado.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O adultério traduz-se em violação do dever de recíproca fidelidade no casamento. Assim, em razão da traição de Lucas, Mariana tem direito à indenização correspondente a parte dos bens do casal.",
       "B": "A discussão de culpa e culpados para o divórcio não é mais necessária e, por isso, a divisão de bens deve seguir as regras do regime escolhido no casamento.",
@@ -94,7 +94,7 @@
   },
   {
     "num": 42,
-    "enunciado": "Vitória e Rodrigo foram casados, em regime de comunhão parcial de bens, e são pais de Mariana. Quando Mariana atingiu 16 (dezesseis) anos, os pais divorciaram-se, passando a residir em lares distintos e a compartilhar a guarda de Mariana. Mariana passou a residir com o pai. A respeito do dever de educação de Mariana, assinale a afirmativa correta.",
+    "enunciado": "Vitória e Rodrigo foram casados, em regime de comunhão parcial de bens, e são pais de Mariana. Quando Mariana atingiu 16 (dezesseis) anos, os pais divorciaram-se, passando a residir em lares distintos e a compartilhar a guarda de Mariana. Mariana passou a residir com o pai.\n\nA respeito do dever de educação de Mariana, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Caberá a Vitória e a Rodrigo, já que o dever de educação inserido nos deveres e direitos dos pais com relação aos filhos, no exercício do poder familiar, independe da situação conjugal de ambos.",
       "B": "Com o divórcio, o dever de educação passa a ser somente do pai, com quem Mariana reside, sendo impossível fisicamente Vitória colaborar nesse sentido, dada a distância física de Mariana.",
@@ -125,7 +125,7 @@
   },
   {
     "num": 40,
-    "enunciado": "Um ano antes da morte de Otávio, Natália, 19 anos, ajuizou ação declaratória de filiação, alegando ter nascido antes de trezentos dias da dissolução da sociedade conjugal de Otávio com Antônia, mãe dela. Otávio ainda teve tempo de contestar, alegando que, à época em que Antônia engravidou, ele sofria de impotência, e que ela o traía com Bernardo, irmão gêmeo univitelino dele – fato que foi devidamente comprovado, que o levou a se separar e a pedir o divórcio. Otávio faleceu pouco depois da contestação. Sobre o caso, assinale a afirmativa correta.",
+    "enunciado": "Um ano antes da morte de Otávio, Natália, 19 anos, ajuizou ação declaratória de filiação, alegando ter nascido antes de trezentos dias da dissolução da sociedade conjugal de Otávio com Antônia, mãe dela.\n\nOtávio ainda teve tempo de contestar, alegando que, à época em que Antônia engravidou, ele sofria de impotência, e que ela o traía com Bernardo, irmão gêmeo univitelino dele – fato que foi devidamente comprovado, que o levou a se separar e a pedir o divórcio. Otávio faleceu pouco depois da contestação.\n\nSobre o caso, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Os herdeiros de Otávio podem, após a sua morte, prosseguir na ação.",
       "B": "Opera presunção absoluta de que Otávio é pai de Natália.",
@@ -156,7 +156,7 @@
   },
   {
     "num": 39,
-    "enunciado": "Priscila e Lucas tiveram filhos muito cedo. Com 20 anos, Priscila teve Hugo, com Pedro. Com 19 anos, Lucas teve Vitória, com Larissa. Priscila e Lucas começaram a namorar quando seus filhos ainda eram bebês e se casaram tempos depois. Após vinte anos de casamento, sempre morando com os filhos, decidiram se divorciar. Durante todo esse tempo, Priscila cuidou de Vitória como se fosse mãe dela, contribuindo, inclusive, com as despesas da menina. Lucas, por sua vez, nunca teve paciência com as crianças e não desenvolveu com Hugo um relacionamento próximo, apesar de viverem na mesma casa. Os gastos específicos do menino sempre foram custeados por Priscila e por Pedro.",
+    "enunciado": "Priscila e Lucas tiveram filhos muito cedo. Com 20 anos, Priscila teve Hugo, com Pedro. Com 19 anos, Lucas teve Vitória, com Larissa.\n\nPriscila e Lucas começaram a namorar quando seus filhos ainda eram bebês e se casaram tempos depois. Após vinte anos de casamento, sempre morando com os filhos, decidiram se divorciar. Durante todo esse tempo, Priscila cuidou de Vitória como se fosse mãe dela, contribuindo, inclusive, com as despesas da menina. Lucas, por sua vez, nunca teve paciência com as crianças e não desenvolveu com Hugo um relacionamento próximo, apesar de viverem na mesma casa. Os gastos específicos do menino sempre foram custeados por Priscila e por Pedro.",
     "alternativas": {
       "A": "Por terem Priscila e Lucas criado as crianças, como um casal, sob o mesmo teto, fica automaticamente configurada a multiparentalidade.",
       "B": "Por ter sempre morado com Lucas, Hugo pode buscar o reconhecimento do vínculo de parentalidade socioafetiva com ele, o que extinguiria o vínculo jurídico entre Hugo e Pedro.",
@@ -187,12 +187,12 @@
   },
   {
     "num": 40,
-    "enunciado": "Paulo e Glória mantiveram união estável por 22 anos, sem que nunca tivessem celebrado pacto de convivência. Ao longo da relação, amealharam, por esforço comum, patrimônio de R$ 1.600.000 (um milhão e seiscentos mil reai s) . Paulo faleceu, não deixando filhos nem pais, apenas seus quatro avós e dois irmãos. Diante dos fatos hipotéticos narrados, sobre a sucessão de Paulo, assinale a afirmativa correta.",
+    "enunciado": "Paulo e Glória mantiveram união estável por 22 anos, sem que nunca tivessem celebrado pacto de convivência. Ao longo da relação, amealharam, por esforço comum, patrimônio de R$ 1.600.000 (um milhão e seiscentos mil reai\n\ns) . Paulo faleceu, não deixando filhos nem pais, apenas seus quatro avós e dois irmãos.\n\nDiante dos fatos hipotéticos narrados, sobre a sucessão de Paulo, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Glória terá direito à meação, R$ 800.000 (oitocentos mil reai s) , mais metade do valor da herança, ou seja, R$ 400.000 (quatrocentos mil reai s) . O valor restante, de R$ 400.000 (quatrocentos mil reai s) , será dividido igualmente entre os avós de Paulo.",
-      "B": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai s) , ao direito real de habitação, mas não concorrerá com os ascendentes de Paulo.",
+      "A": "Glória terá direito à meação, R$ 800.000 (oitocentos mil reai\n\ns) , mais metade do valor da herança, ou seja, R$ 400.000 (quatrocentos mil reai\n\ns) . O valor restante, de R$ 400.000 (quatrocentos mil reai\n\ns) , será dividido igualmente entre os avós de Paulo.",
+      "B": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai\n\ns) , ao direito real de habitação, mas não concorrerá com os ascendentes de Paulo.",
       "C": "Glória terá direito ao valor total dos bens, já que o cônjuge afasta da sucessão os ascendentes do falecido.",
-      "D": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai s) , e o valor da herança será dividido em três partes iguais, recebendo Glória e os dois irmãos de Paulo, o correspondente a 1/3 (um terç o) cada um."
+      "D": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai\n\ns) , e o valor da herança será dividido em três partes iguais, recebendo Glória e os dois irmãos de Paulo, o correspondente a 1/3 (um terç\n\no) cada um."
     },
     "gabarito": "A",
     "disciplina": "Direito Civil",
@@ -218,7 +218,7 @@
   },
   {
     "num": 42,
-    "enunciado": "Fabiano e Vitória, casados pelo regime de comunhão parcial de bens, são possuidores de boa-fé de um imóvel residencial localizado no município de Quebrangulo, AL, com área de 160 m2 (cento e sessenta metros quadrado s) . O proprietário do imóvel é Graciliano, que se mudou para Maceió, no início do ano de 2011, nunca mais retornando à cidade. Destaca-se que Graciliano havia hipotecado o bem dias antes de sua mudança para a capital. No dia de ontem, o casal procurou você, como advogado(a) , com o propósito da verificar uma possível usucapião, visto que residem no bem desde 2018. Com base no sistema jurídico brasileiro, assinale a opção que apresenta, corretamente, sua orientação.",
+    "enunciado": "Fabiano e Vitória, casados pelo regime de comunhão parcial de bens, são possuidores de boa-fé de um imóvel residencial localizado no município de Quebrangulo, AL, com área de 160 m2 (cento e sessenta metros quadrado\n\ns) .\n\nO proprietário do imóvel é Graciliano, que se mudou para Maceió, no início do ano de 2011, nunca mais retornando à cidade. Destaca-se que Graciliano havia hipotecado o bem dias antes de sua mudança para a capital.\n\nNo dia de ontem, o casal procurou você, como advogado(a) , com o propósito da verificar uma possível usucapião, visto que residem no bem desde 2018.\n\nCom base no sistema jurídico brasileiro, assinale a opção que apresenta, corretamente, sua orientação.",
     "alternativas": {
       "A": "A usucapião é forma de aquisição derivada, de modo que permanecem os ônus reais que gravavam o imóvel antes de sua declaração, não podendo ser oposta em caso de hipoteca.",
       "B": "O casal, Fabiano e Vitória, poderá adquirir o domínio do imóvel por usucapião especial urbana, desde que demonstre a posse sem oposição, a utilização para sua moradia ou de sua família e que não seja proprietário de outro imóvel urbano ou rural.",
@@ -249,12 +249,12 @@
   },
   {
     "num": 37,
-    "enunciado": "Gabriel e Vitória, pais de Ana e de Clara, faleceram em um acidente aéreo. Os parentes mais próximos de Ana e Clara são os tios, Rafael – irmão de Gabriel –, com 42 anos de idade, e a tia, Júlia – irmã de Vitória –, com 38 anos de idade. Atualmente, Ana tem 9 anos de idade e, Clara, 7. Verificou-se que, em seus respectivos testamentos, Gabriel e Vitória nomearam, como tutor de Ana e Clara, Lucas, primo de Gabriel. Sobre o caso narrado, segundo o ordenamento jurídico brasileiro, assinale a afirmativa correta.",
+    "enunciado": "Gabriel e Vitória, pais de Ana e de Clara, faleceram em um acidente aéreo. Os parentes mais próximos de Ana e Clara são os tios, Rafael – irmão de Gabriel –, com 42 anos de idade, e a tia, Júlia – irmã de Vitória –, com 38 anos de idade. Atualmente, Ana tem 9 anos de idade e, Clara, 7.\n\nVerificou-se que, em seus respectivos testamentos, Gabriel e Vitória nomearam, como tutor de Ana e Clara, Lucas, primo de Gabriel.\n\nSobre o caso narrado, segundo o ordenamento jurídico brasileiro, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Júlia deverá exercer a tutela das meninas, por estar no mesmo grau de parentesco que Rafael, e por ser mais nova que ele, além de ser parente mais próxima que Lucas.",
       "B": "Rafael deverá exercer a tutela das meninas, por estar no mesmo grau de parentesco que Júlia, e por ser mais velho que ela, além de ser parente mais próximo que Lucas.",
       "C": "Lucas não poderá exercer a tutela, porque somente os colaterais até o terceiro grau podem ser tutores.",
-      "D": "Lucas deverá exercer a tutela, por ter sido nomeado pelos pais das meninas em testamento."
+      "D": "Lucas deverá exercer a tutela, por ter sido nomeado pelos pais\n\ndas meninas em testamento."
     },
     "gabarito": "D",
     "disciplina": "Direito Civil",
@@ -280,7 +280,7 @@
   },
   {
     "num": 41,
-    "enunciado": "Beatriz nasceu duzentos e cinquenta dias após a morte do pai, Bernardo, com quem sua mãe, Gabriela, era casada há 2 anos. Quando Gabriela foi registrar Beatriz, Leonardo, irmão de Bernardo, afirmou que não aceitaria que ela a registrasse como filha de Bernardo, a não ser que Gabriela provasse a paternidade, por meio de exame de DNA. Sobre a situação apresentada, assinale a afirmativa correta.",
+    "enunciado": "Beatriz nasceu duzentos e cinquenta dias após a morte do pai, Bernardo, com quem sua mãe, Gabriela, era casada há 2 anos.\n\nQuando Gabriela foi registrar Beatriz, Leonardo, irmão de Bernardo, afirmou que não aceitaria que ela a registrasse como filha de Bernardo, a não ser que Gabriela provasse a paternidade, por meio de exame de DNA.\n\nSobre a situação apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Gabriela precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que é direito da família do falecido questionar a paternidade a este atribuída após a sua morte.",
       "B": "Gabriela precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que, nos termos do Código Civil, a paternidade não é presumida após a dissolução do vínculo conjugal.",
@@ -311,7 +311,7 @@
   },
   {
     "num": 38,
-    "enunciado": "Joaquim, de 71 anos de idade, é viúvo de Marta há cerca de quatro anos, e não finalizou a partilha de bens deixados por sua falecida esposa, porque há um litígio entre o filho comum do ex-casal e a filha do primeiro casamento de Marta. Na semana passada, Joaquim procurou você, como advogado(a) , para ser orientado juridicamente acerca da união que pretende estabelecer com Joana, tendo em vista que a partilha anterior não será realizada antes do novo matrimônio. A respeito do regime de bens que deveria adotar na nova união, assinale a opção que apresenta, corretamente, a sua orientação.",
+    "enunciado": "Joaquim, de 71 anos de idade, é viúvo de Marta há cerca de quatro anos, e não finalizou a partilha de bens deixados por sua falecida esposa, porque há um litígio entre o filho comum do ex-casal e a filha do primeiro casamento de Marta.\n\nNa semana passada, Joaquim procurou você, como advogado(a) , para ser orientado juridicamente acerca da união que pretende estabelecer com Joana, tendo em vista que a partilha anterior não será realizada antes do novo matrimônio.\n\nA respeito do regime de bens que deveria adotar na nova união, assinale a opção que apresenta, corretamente, a sua orientação.",
     "alternativas": {
       "A": "Separação convencional de bens, ante a idade de Joaquim.",
       "B": "Qualquer regime de bens, por força da autonomia que é assegurada a Joaquim.",

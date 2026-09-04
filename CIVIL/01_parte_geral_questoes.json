@@ -1,7 +1,7 @@
 [
   {
     "num": 37,
-    "enunciado": "Robson, advogado de sucesso e bem-sucedido profissionalmente, foi preso e condenado, com sentença transitada em julgado, pelo crime de homicídio, iniciando o cumprimento de sua pena no regime fechado. Ele é pai de Raquel, 17 anos, fruto de sua união com Rose e ambos compartilham a guarda da filha. Rose e Robson divorciaram-se e, em ação própria, foi fixado o dever de Robson prover alimentos para Raquel. A respeito dos efeitos da prisão de Robson sobre o dever de alimentos, assinale a afirmativa correta.",
+    "enunciado": "Robson, advogado de sucesso e bem-sucedido profissionalmente, foi preso e condenado, com sentença transitada em julgado, pelo crime de homicídio, iniciando o cumprimento de sua pena no regime fechado. Ele é pai de Raquel, 17 anos, fruto de sua união com Rose e ambos compartilham a guarda da filha. Rose e Robson divorciaram-se e, em ação própria, foi fixado o dever de Robson prover alimentos para Raquel.\n\nA respeito dos efeitos da prisão de Robson sobre o dever de alimentos, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Afasta-se a obrigação de prestar alimentos de Robson considerando que a mãe de Raquel, Rose, ainda está viva.",
       "B": "A prisão de Robson suspende o dever de prestar alimentos, que volta a produzir seus efeitos imediatamente após o cumprimento integral da pena.",
@@ -32,7 +32,7 @@
   },
   {
     "num": 39,
-    "enunciado": "Joana, conhecida durante toda a sua vida em sua cidade natal pelo prenome Giovanna, começa a enfrentar uma série de embaraços e constrangimentos ao ser chamada em órgãos públicos por seu prenome registral, constante de seus DOC_Documentos de identificação civil. Diante disso, Joana, de 19 anos de idade, consulta você, como advogado ( a) , buscando descobrir a viabilidade jurídica de alterar o seu prenome e os eventuais requisitos jurídicos que deveriam ser observados caso seja possível a mudança. Sobre a pretensão de Joana, assinale a afirmativa correta.",
+    "enunciado": "Joana, conhecida durante toda a sua vida em sua cidade natal pelo prenome Giovanna, começa a enfrentar uma série de embaraços e constrangimentos ao ser chamada em órgãos públicos por seu prenome registral, constante de seus documentos de identificação civil.\n\nDiante disso, Joana, de 19 anos de idade, consulta você, como advogado (\n\na) , buscando descobrir a viabilidade jurídica de alterar o seu prenome e os eventuais requisitos jurídicos que deveriam ser observados caso seja possível a mudança.\n\nSobre a pretensão de Joana, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Poderá alterar seu prenome para Giovanna, bastando realizar solicitação, por escrito e fundamentada, diante do oficial do Registro Civil, dependendo, no entanto, de sentença judicial.",
       "B": "Não poderá alterar seu prenome para Giovanna, pois vigora no Direito Brasileiro o princípio da imutabilidade do nome.",
@@ -63,7 +63,7 @@
   },
   {
     "num": 41,
-    "enunciado": "Devido às consequências da pandemia, Gabriel Cervantes teve graves problemas financeiros e profissionais, levando ao consumo de álcool de forma excessiva diariamente, sendo considerado pelos médicos como ébrio habitual. Rosa Torres, sua esposa, desesperada com a condição do marido e pela situação financeira da família, procura você, como advogado(a) , desejando saber a respeito da possibilidade de curatela. Informa a esposa que o casal tem dois filhos absolutamente incapazes e os pais do marido encontram-se vivos. Comunica ainda que o casal não se encontra separado de fato. Sobre a hipótese, segundo o sistema jurídico brasileiro, assinale a afirmativa correta.",
+    "enunciado": "Devido às consequências da pandemia, Gabriel Cervantes teve graves problemas financeiros e profissionais, levando ao consumo de álcool de forma excessiva diariamente, sendo considerado pelos médicos como ébrio habitual.\n\nRosa Torres, sua esposa, desesperada com a condição do marido e pela situação financeira da família, procura você, como advogado(a) , desejando saber a respeito da possibilidade de curatela. Informa a esposa que o casal tem dois filhos absolutamente incapazes e os pais do marido encontram-se vivos. Comunica ainda que o casal não se encontra separado de fato.\n\nSobre a hipótese, segundo o sistema jurídico brasileiro, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O alcoolismo por si só não conduz à curatela, devendo a esposa demonstrar a prodigalidade do marido.",
       "B": "Em eventual curatela, os pais terão prioridade no exercício em relação à esposa, que só poderá ser designada curadora na desistência dos pais.",
@@ -94,7 +94,7 @@
   },
   {
     "num": 39,
-    "enunciado": "André, pessoa física, faz a coleta de dados pessoais de seus conhecidos e os arquiva em seus cadernos pessoais. A coleta é feita para fins exclusivamente particulares e não econômicos. Sobre a aplicação da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018) ao caso narrado, assinale a afirmativa correta.",
+    "enunciado": "André, pessoa física, faz a coleta de dados pessoais de seus conhecidos e os arquiva em seus cadernos pessoais. A coleta é feita para fins exclusivamente particulares e não econômicos.\n\nSobre a aplicação da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018) ao caso narrado, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Não é aplicável, porque se trata de pessoa natural e a referida lei somente se aplica às pessoas jurídicas, de direito público ou privado.",
       "B": "Não é aplicável, porque o tratamento de dados pessoais, na hipótese em questão, é realizado por pessoa física com finalidade exclusivamente particular e não econômica.",
@@ -125,7 +125,7 @@
   },
   {
     "num": 37,
-    "enunciado": "Joaquim Cardoso e Celina de Holanda são pais das gêmeas Clarice e Maria, que têm 17 anos de idade. No ano passado, Clarice, com a devida autorização dos pais, casouse com Ariano. Maria, no mês de março deste ano, iniciou o curso de Medicina em uma universidade federal. O casal procurou você, como advogado(a) especializado(a) em Direito Civil, para ser orientado sobre a situação jurídica das filhas. A respeito da capacidade civil das filhas de Joaquim e Celina, assinale a afirmativa correta.",
+    "enunciado": "Joaquim Cardoso e Celina de Holanda são pais das gêmeas Clarice e Maria, que têm 17 anos de idade.\n\nNo ano passado, Clarice, com a devida autorização dos pais, casouse com Ariano. Maria, no mês de março deste ano, iniciou o curso de Medicina em uma universidade federal.\n\nO casal procurou você, como advogado(a) especializado(a) em Direito Civil, para ser orientado sobre a situação jurídica das filhas. A respeito da capacidade civil das filhas de Joaquim e Celina, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Como Clarice é casada, ela é civilmente capaz.",
       "B": "Maria do Carmo, pela matrícula no ensino superior, é civilmente capaz.",
@@ -156,7 +156,7 @@
   },
   {
     "num": 42,
-    "enunciado": "Sara, em 24 de outubro de 2023, outorgou a Vítor, seu filho, uma procuração por instrumento público para vender seu imóvel até 24 de outubro de 2026. No momento da outorga, Sara gozava de boa saúde mental. A partir de 2024, Sara passou a sofrer um acelerado processo de demência, vindo a perder as suas habilidades cognitivas básicas no início de 2025. Sara foi interditada e Roberto, seu marido, tornouse o seu curador. Em 24 de setembro de 2025, Raul se interessou em comprar o imóvel de Sara, e Vítor se apresentou como procurador da mãe. Na qualidade de advogado de Raul, assinale a opção que apresenta a sua orientação jurídica para o caso.",
+    "enunciado": "Sara, em 24 de outubro de 2023, outorgou a Vítor, seu filho, uma procuração por instrumento público para vender seu imóvel até 24 de outubro de 2026. No momento da outorga, Sara gozava de boa saúde mental.\n\nA partir de 2024, Sara passou a sofrer um acelerado processo de demência, vindo a perder as suas habilidades cognitivas básicas no início de 2025. Sara foi interditada e Roberto, seu marido, tornouse o seu curador.\n\nEm 24 de setembro de 2025, Raul se interessou em comprar o imóvel de Sara, e Vítor se apresentou como procurador da mãe. Na qualidade de advogado de Raul, assinale a opção que apresenta a sua orientação jurídica para o caso.",
     "alternativas": {
       "A": "Não recomendaria a aquisição do imóvel, figurando Vítor como representante de Sara, pois há possíveis interesses conflitantes entre eles.",
       "B": "Não recomendaria a aquisição do imóvel, figurando Vítor como representante de Sara, pois, diante da interdição, o contrato de mandato é extinto.",

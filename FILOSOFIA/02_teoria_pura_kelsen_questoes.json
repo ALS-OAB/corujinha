@@ -1,12 +1,12 @@
 [
   {
     "num": 10,
-    "enunciado": "Operadores do Direito, com relativa frequência, precisam enfrentar situações dramáticas que envolvem a vida humana ou o corpo humano. Em casos como esses, nem sempre a lei oferece uma determinação clara e unívoca. Certas vezes a filosofia oferece uma base mais consistente de reflexão e argumentação. Assinale a opção que apresenta o conhecido imperativo categórico de Kant, muitas vezes citado nos debates relativos a essas situações dramáticas.",
+    "enunciado": "Operadores do Direito, com relativa frequência, precisam enfrentar\nsituações dramáticas que envolvem a vida humana ou o corpo\nhumano. Em casos como esses, nem sempre a lei oferece uma\ndeterminação clara e unívoca. Certas vezes a filosofia oferece uma\nbase mais consistente de reflexão e argumentação.\nAssinale a opção que apresenta o conhecido imperativo categórico\nde Kant, muitas vezes citado nos debates relativos a essas situações\ndramáticas.",
     "alternativas": {
-      "A": "O homem é um animal político e como tal possui o sentimento do bem e do mal, do justo e do injusto, sobre os quais pode se manifestar graças ao dom da fala e de sua capacidade de comunicação.",
-      "B": "A normatização que regula a relação entre o todo e as partes deve ser considerada justa, de forma a realizar a distribuição proporcional dos bens comuns.",
-      "C": "Age de tal maneira que uses a humanidade, tanto na tua pessoa como na pessoa de qualquer outro, sempre e simultaneamente como um fim e nunca como um meio.",
-      "D": "O mundo ético vivo é o espírito em sua verdade; assim que o espírito chega ao saber abstrato de sua essência, a eticidade decai na universalidade formal do Direito. 5 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "O homem é um animal político e como tal possui o sentimento do\nbem e do mal, do justo e do injusto, sobre os quais pode se\nmanifestar graças ao dom da fala e de sua capacidade de\ncomunicação.",
+      "B": "A normatização que regula a relação entre o todo e as partes\ndeve ser considerada justa, de forma a realizar a distribuição\nproporcional dos bens comuns.",
+      "C": "Age de tal maneira que uses a humanidade, tanto na tua pessoa\ncomo na pessoa de qualquer outro, sempre e simultaneamente\ncomo um fim e nunca como um meio.",
+      "D": "O mundo ético vivo é o espírito em sua verdade; assim que o\nespírito chega ao saber abstrato de sua essência, a eticidade\ndecai na universalidade formal do Direito."
     },
     "gabarito": "C",
     "disciplina": "Filosofia do Direito",
@@ -39,7 +39,7 @@
   },
   {
     "num": 10,
-    "enunciado": "Considere hipoteticamente que determinado Tribunal, no julgamento de três casos diversos, profere as seguintes decisões: - I. Ao analisar determinada lei que diz ser “proibida a entrada de animais em estabelecimentos comerciais”, o Tribunal decide que cães-guias de pessoas com deficiência visual não estão abrangidos pela norma. - II. Interpretando lei segundo a qual “é proibido fumar em ambientes fechados”, o Tribunal considera que a proibição deve se limitar ao que está textualmente contido na norma. - III. Com base em lei que prevê o “benefício da licençamaternidade à mãe biológica”, o Tribunal defere esse benefício a uma mãe adotiva. Assinale a opção que indica corretamente os tipos de interpretação adotados pelo Tribunal nos casos I, II e III, respectivamente.",
+    "enunciado": "Considere hipoteticamente que determinado Tribunal, no julgamento de três casos diversos, profere as seguintes decisões:\n\n- I. Ao analisar determinada lei que diz ser “proibida a entrada de animais em estabelecimentos comerciais”, o Tribunal decide que cães-guias de pessoas com deficiência visual não estão abrangidos pela norma.\n- II. Interpretando lei segundo a qual “é proibido fumar em ambientes fechados”, o Tribunal considera que a proibição deve se limitar ao que está textualmente contido na norma.\n- III. Com base em lei que prevê o “benefício da licençamaternidade à mãe biológica”, o Tribunal defere esse benefício a uma mãe adotiva.\n\nAssinale a opção que indica corretamente os tipos de interpretação adotados pelo Tribunal nos casos I, II e III, respectivamente.",
     "alternativas": {
       "A": "Extensiva, teleológica e axiológica.",
       "B": "Axiológica, restritiva e especificadora.",

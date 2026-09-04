@@ -559,7 +559,7 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:4px;"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
         Resumo Aula
       </button>
-      <span class="progress-pill" id="progress-text">0 / 0</span>
+      <span class="progress-pill" id="progress-text">0 / 2</span>
     </div>
   </header>
 
@@ -573,12 +573,12 @@
         </div>
         <h1 class="hero-title">Financiamento e Contribuições Sociais</h1>
         <p class="hero-subtitle">
-          Estudo intensivo de Direito Constitucional. 0 questões estruturadas com raciocínio lógico, síntese e fundamentação da Arts. 194 a 204 da CF/1988, Leis nº 8.212/1991, 8.213/1991 e EC nº 103/2019.
+          Estudo intensivo de Direito Constitucional. 2 questões estruturadas com raciocínio lógico, síntese e fundamentação da Arts. 194 a 204 da CF/1988, Leis nº 8.212/1991, 8.213/1991 e EC nº 103/2019.
         </p>
         
         <div class="hero-stats">
           <div class="stat-card">
-            <div class="stat-val">0</div>
+            <div class="stat-val">2</div>
             <div class="stat-lbl">Questões Didáticas</div>
           </div>
           <div class="stat-card">
@@ -596,7 +596,7 @@
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px;"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
             Dashboard
           </a>
-          <button class="btn-hero" style="flex: 2; width: auto; margin-top: 0;" onclick="startQuiz()">Iniciar Simulado (0 Questões)</button>
+          <button class="btn-hero" style="flex: 2; width: auto; margin-top: 0;" onclick="startQuiz()">Iniciar Simulado (2 Questões)</button>
         </div>
       </div>
     </div>
@@ -633,7 +633,7 @@
             <div style="font-size: 11px; font-weight: 600; color: #991b1b;">Erros</div>
           </div>
           <div style="background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 12px; padding: 12px;">
-            <div style="font-size: 18px; font-weight: 700; color: var(--primary);" id="res-total">0</div>
+            <div style="font-size: 18px; font-weight: 700; color: var(--primary);" id="res-total">2</div>
             <div style="font-size: 11px; font-weight: 600; color: var(--text-muted);">Total</div>
           </div>
         </div>
@@ -677,7 +677,7 @@
   </div>
 
   <script>
-    const questionsData = [];
+    const questionsData = [{"num": 69, "enunciado": "Marina, empregada doméstica, é casada com Pedro, trabalhador avulso. Ambos são pessoas de baixa renda. O casal possui 2 (dois) filhos, um com 7 (sete) anos e outro com 15 (quinze) anos, sendo este inválido. Marina contribui para a Previdência Social há\n\n- 2 (dois) anos e Pedro iniciou a contribuição há 4 (quatro) meses. Diante do caso narrado, assinale a afirmativa correta.", "alternativas": {"A": "Pedro não possui a carência mínima para receber o benefício do salário-família.", "B": "Marina e Pedro não fazem jus ao salário-família por possuírem um filho maior de 14 (quatorze) anos.", "C": "Marina e Pedro têm direito ao benefício do salário-família, na proporção do respectivo número de filhos.", "D": "Pedro, na qualidade de trabalhador avulso, não possui direito ao benefício do salário-família."}, "gabarito": "C", "disciplina": "Direito Previdenciário", "exame": "39º Exame OAB", "tipo": "Branca", "exame_num": 39, "exame_label": "39º Exame OAB", "modulo_codigo": "03_financiamento_contribuicoes", "modulo_nome": "Financiamento da Seguridade Social e Contribuições", "id": 1}, {"num": 69, "enunciado": "Maria, empregada doméstica desde julho de 1990, no deslocamento para seu local de trabalho, sofreu um acidente em virtude de uma queda na saída do ônibus.\n\nMaria não sabe se deve procurar o sistema previdenciário desde já e se tem direito a algum benefício. Por isso, procurou você, como advogado(a) .\n\nAssinale a opção que apresenta, corretamente, sua orientação.", "alternativas": {"A": "O direito ao benefício não é reconhecido, pois os empregados domésticos não são cobertos pela Previdência Social brasileira.", "B": "Sobre o afastamento do trabalho, sendo superior a 15 dias consecutivos, haverá direito ao benefício previdenciário por incapacidade temporária.", "C": "O benefício previdenciário deve ser requerido de imediato pelo sítio eletrônico do Instituto Nacional do Seguro Social (INSS) ou por central telefônica.", "D": "Sobre o afastamento do trabalho, se a incapacidade for inferior a 30 dias de afastamento, não haverá qualquer direito subjetivo a benefício previdenciário."}, "gabarito": "B", "disciplina": "Direito Previdenciário", "exame": "43º Exame OAB", "tipo": "Branca", "exame_num": 43, "exame_label": "43º Exame OAB", "modulo_codigo": "03_financiamento_contribuicoes", "modulo_nome": "Financiamento da Seguridade Social e Contribuições", "id": 2}];
     
     let currentIndex = 0;
     let score = 0;
@@ -701,7 +701,7 @@
 
     function buildQuestionSlide(q, i) {
       let optionsHtml = '';
-      for (const [letter, text] of Object.entries(q.opcoes)) {
+      for (const [letter, text] of Object.entries(q.alternativas || q.opcoes || {})) {
         optionsHtml += `
           <button class="opt-btn" id="opt-${i}-${letter}" onclick="answerQuestion(${i}, '${letter}')">
             <span class="opt-letter">${letter}</span>
@@ -720,7 +720,7 @@
                 <div class="q-meta" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="q-num">Q${i + 1} / ${questionsData.length}</span>
                   ${q.exame ? `<span class="q-exame-badge" style="background:#ecfdf5; color:#047857; border:1px solid #a7f3d0; font-weight:700; border-radius:6px; padding:3px 8px; font-size:11px; letter-spacing:-0.2px; display:inline-flex; align-items:center;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>${q.exame}</span>` : ''}
-                  <span class="q-topic">${q.tema}</span>
+                  <span class="q-topic">${q.tema || q.modulo_nome || ""}</span>
                 </div>
                 <div class="timer-badge" id="timer-badge-${i}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>

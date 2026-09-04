@@ -1,7 +1,7 @@
 [
   {
     "num": 20,
-    "enunciado": "O veículo de serviço do Consulado de um Estado estrangeiro transgrediu as leis de trânsito brasileiras e causou avarias em uma viatura da Polícia Militar de Estado da Federação brasileira. A competência para processar e julgar uma eventual ação indenizatória é, originariamente,",
+    "enunciado": "O veículo de serviço do Consulado de um Estado estrangeiro\ntransgrediu as leis de trânsito brasileiras e causou avarias em uma\nviatura da Polícia Militar de Estado da Federação brasileira.\nA competência para processar e julgar uma eventual ação\nindenizatória é, originariamente,",
     "alternativas": {
       "A": "do Supremo Tribunal Federal.",
       "B": "do Superior Tribunal de Justiça.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 22,
-    "enunciado": "Estado estrangeiro solicita, por via diplomática, ao Ministério da Justiça e Segurança Pública brasileiro (MJSP), com base em tratado, com promessa de reciprocidade, a transferência da execução da pena de Olof, estrangeiro com residência habitual no Brasil, pelo cometimento de crime perante a lei de ambos os países, punido com pena superior a dois anos. Você, como advogado(a) especializado(a) em Direito Internacional, foi procurado(a) por Olof para avaliar a viabilidade do pedido do Estado estrangeiro, depois que ele soube que o MJSP já havia se manifestado pela presença dos pressupostos formais de admissibilidade exigidos pelo tratado de que são signatários o Brasil e o Estado estrangeiro solicitante. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "enunciado": "Estado estrangeiro solicita, por via diplomática, ao Ministério da Justiça e Segurança Pública brasileiro (MJSP), com base em tratado, com promessa de reciprocidade, a transferência da execução da pena de Olof, estrangeiro com residência habitual no Brasil, pelo cometimento de crime perante a lei de ambos os países, punido com pena superior a dois anos.\n\nVocê, como advogado(a) especializado(a) em Direito Internacional, foi procurado(a) por Olof para avaliar a viabilidade do pedido do Estado estrangeiro, depois que ele soube que o MJSP já havia se manifestado pela presença dos pressupostos formais de admissibilidade exigidos pelo tratado de que são signatários o Brasil e o Estado estrangeiro solicitante.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O pedido terá êxito após a homologação pelo Supremo Tribunal Federal da sentença criminal estrangeira, ainda que não tenha transitado em julgado, para fins de transferência de execução da pena.",
       "B": "O pedido terá êxito após a homologação pelo Superior Tribunal de Justiça da sentença criminal estrangeira, transitada em julgado, para fins de transferência de execução da pena.",

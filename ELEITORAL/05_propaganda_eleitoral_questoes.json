@@ -1,7 +1,7 @@
 [
   {
     "num": 19,
-    "enunciado": "Entre os correligionários do partido político Alfa estavam dois dos pré-candidatos considerados favoritos na eleição para governador do Estado Beta. Como somente um deles poderia ser escolhido por Alfa para concorrer ao referido cargo eletivo, houve grande interesse dos meios de comunicação social na cobertura das prévias partidárias. Em relação às emissoras de rádio e televisão, à luz dos balizamentos legais existentes, assinale a afirmativa correta.",
+    "enunciado": "Entre os correligionários do partido político Alfa estavam dois dos pré-candidatos considerados favoritos na eleição para governador do Estado Beta. Como somente um deles poderia ser escolhido por Alfa para concorrer ao referido cargo eletivo, houve grande interesse dos meios de comunicação social na cobertura das prévias partidárias.\n\nEm relação às emissoras de rádio e televisão, à luz dos balizamentos legais existentes, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A lei obsta a cobertura das prévias partidárias.",
       "B": "Elas podem realizar, ao vivo ou não, a plena cobertura das prévias partidárias, não sendo permitida qualquer censura.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 19,
-    "enunciado": "Maria e João foram eleitos, respectivamente, prefeita e viceprefeito do Município Alfa, com poucos votos de vantagem sobre Ana e Antônio, que formavam a outra chapa que disputou a eleição. Dez dias após a diplomação dos eleitos, os integrantes da chapa derrotada obtiveram provas cabais de que os integrantes da chapa vencedora teriam praticado uma fraude, o que comprometera a normalidade e a legitimidade do pleito. Sobre o caso apresentado, como advogado(a) dos integrantes da chapa derrotada, assinale a medida judicial que deve ser ajuizada em face dos integrantes da chapa vencedora.",
+    "enunciado": "Maria e João foram eleitos, respectivamente, prefeita e viceprefeito do Município Alfa, com poucos votos de vantagem sobre Ana e Antônio, que formavam a outra chapa que disputou a eleição.\n\nDez dias após a diplomação dos eleitos, os integrantes da chapa derrotada obtiveram provas cabais de que os integrantes da chapa vencedora teriam praticado uma fraude, o que comprometera a normalidade e a legitimidade do pleito.\n\nSobre o caso apresentado, como advogado(a) dos integrantes da chapa derrotada, assinale a medida judicial que deve ser ajuizada em face dos integrantes da chapa vencedora.",
     "alternativas": {
       "A": "Investigação judicial eleitoral.",
       "B": "Ação de captação ilícita de votos.",

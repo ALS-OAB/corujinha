@@ -1,12 +1,12 @@
 [
   {
     "num": 45,
-    "enunciado": "Carlos, um consumidor, celebrou um contrato de adesão para aquisição de um pacote turístico. Ao ler atentamente o contrato, Carlos identificou uma cláusula que determinava que ele não poderia requerer indenização à empresa em caso de eventuais prejuízos decorrentes de cancelamentos por causas naturais. Preocupado, Carlos procura você, como advogado(a) , para buscar amparo legal e entender a validade da cláusula em questão. Diante disso, assinale a afirmativa que apresenta, corretamente, sua orientação.",
+    "enunciado": "Carlos, um consumidor, celebrou um contrato de adesão para aquisição de um pacote turístico.\n\nAo ler atentamente o contrato, Carlos identificou uma cláusula que determinava que ele não poderia requerer indenização à empresa em caso de eventuais prejuízos decorrentes de cancelamentos por causas naturais.\n\nPreocupado, Carlos procura você, como advogado(a) , para buscar amparo legal e entender a validade da cláusula em questão. Diante disso, assinale a afirmativa que apresenta, corretamente, sua orientação.",
     "alternativas": {
-      "A": "A cláusula é válida, porque o **Art. 51** do CDC possui um rol exemplificativo de cláusulas abusivas, e essa cláusula específica não está listada entre as proibidas.",
-      "B": "A cláusula é inválida, porque o **Art. 51** do CDC possui um rol taxativo de cláusulas abusivas, e essa cláusula não está listada entre as permitidas.",
-      "C": "A cláusula é válida, porque o **Art. 51** do CDC, que possui um rol de cláusulas abusivas, não se aplica aos contratos de adesão.",
-      "D": "A cláusula é inválida, porque o **Art. 51** do CDC apresenta um rol exemplificativo de cláusulas abusivas, permitindo a anulação das cláusulas que se mostrem abusivas, mesmo que não listadas."
+      "A": "A cláusula é válida, porque o \n\n**Art. 51**\n do CDC possui um rol exemplificativo de cláusulas abusivas, e essa cláusula específica não está listada entre as proibidas.",
+      "B": "A cláusula é inválida, porque o \n\n**Art. 51**\n do CDC possui um rol taxativo de cláusulas abusivas, e essa cláusula não está listada entre as permitidas.",
+      "C": "A cláusula é válida, porque o \n\n**Art. 51**\n do CDC, que possui um rol de cláusulas abusivas, não se aplica aos contratos de adesão.",
+      "D": "A cláusula é inválida, porque o \n\n**Art. 51**\n do CDC apresenta um rol exemplificativo de cláusulas abusivas, permitindo a anulação das cláusulas que se mostrem abusivas, mesmo que não listadas."
     },
     "gabarito": "D",
     "disciplina": "Direito do Consumidor",
@@ -20,12 +20,12 @@
   },
   {
     "num": 46,
-    "enunciado": "- (",
+    "enunciado": "- (A) A falência opera a novação dos créditos quirografários existentes na data da decretação, que serão pagos até o limite de 25% (vinte e cinco por cent\n\no) de seu valor, exceto se o ativo apurado for superior para garantir o pagamento integral a outras classes de credores.",
     "alternativas": {
-      "A": "A coletividade de pessoas, ainda que indetermináveis, equipara-se a consumidor, podendo ser tutelada judicialmente por meio de Ação Civil Pública.",
       "B": "A Ação Civil Pública é incabível, pois somente o consumidor individual e identificado possui legitimidade para pleitear indenização por danos oriundos da relação de consumo.",
       "C": "O conceito de consumidor por equiparação exige que a coletividade seja determinada e tenha comprovadamente adquirido o produto para ser considerada consumidora.",
-      "D": "Apenas os consumidores que efetivamente adquiriram e consumiram o produto possuem legitimidade para buscar reparação por danos, ainda que representados por associação."
+      "D": "Apenas os consumidores que efetivamente adquiriram e consumiram o produto possuem legitimidade para buscar reparação por danos, ainda que representados por associação.",
+      "A": "A coletividade de pessoas, ainda que indetermináveis, equipara-se a consumidor, podendo ser tutelada judicialmente por meio de Ação Civil Pública."
     },
     "gabarito": "A",
     "disciplina": "Direito do Consumidor",

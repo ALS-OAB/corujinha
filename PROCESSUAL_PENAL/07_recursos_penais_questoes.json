@@ -1,7 +1,7 @@
 [
   {
     "num": 63,
-    "enunciado": "Luciane ajuizou na Vara Criminal da Comarca de Romã (ES) uma ação penal privada contra Jorge (guarda municipal daquele municípi o) por crime de injúria ( **Art. 140** , caput, do CP). Antes de oferecer a queixa-crime, Luciane propôs uma ação cível de indenização contra Jorge e não conseguiu citá-lo pessoalmente em sua residência, sita no próprio Município de Romã (ES), tendo em vista que o oficial de justiça certificou que esteve em duas oportunidades na casa de Jorge e não o localizou. Luciane foi informada por vizinhos que Jorge estava temporariamente residindo com sua mãe na cidade vizinha de Oeiras (ES), onde ela já havia passado um final de semana. Em se tratando de infração penal de menor potencial ofensivo, você, como advogado(a) da querelante, deverá, na ação penal privada, requere",
+    "enunciado": "Luciane ajuizou na Vara Criminal da Comarca de Romã (ES) uma ação penal privada contra Jorge (guarda municipal daquele municípi\n\no) por crime de injúria (\n\n**Art. 140**\n, caput, do CP).\n\nAntes de oferecer a queixa-crime, Luciane propôs uma ação cível de indenização contra Jorge e não conseguiu citá-lo pessoalmente em sua residência, sita no próprio Município de Romã (ES), tendo em vista que o oficial de justiça certificou que esteve em duas oportunidades na casa de Jorge e não o localizou.\n\nLuciane foi informada por vizinhos que Jorge estava temporariamente residindo com sua mãe na cidade vizinha de Oeiras (ES), onde ela já havia passado um final de semana.\n\nEm se tratando de infração penal de menor potencial ofensivo, você, como advogado(a) da querelante, deverá, na ação penal privada, requerer a citação de Jorge",
     "alternativas": {
       "A": "por intermédio do seu chefe de serviço, em razão de Jorge ser guarda municipal, expedindo-se ofício ao comandante da Guarda Municipal.",
       "B": "por hora certa, haja vista que Jorge estava se ocultando para não ser encontrado.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 65,
-    "enunciado": "Osvaldo foi denunciado pela prática do crime de estelionato em coautoria com Flávio. Durante a instrução processual, o Juízo ouviu três testemunhas da acusação, e, uma delas, Fabiana, apresentou versão conflitante com as apresentadas pelas defesas. Por isso, o Ministério Público requereu a realização de acareação prevista no **Art. 229** do CPP, entre Osvaldo, Flávio e Fabiana. A defesa de Osvaldo informou que o acusado não iria participar da acareação, mas o Ministério Público insistiu com o Juízo que determinasse que Osvaldo se submetesse ao ato, sob pena de incidir nas penas do crime de desobediência. Sobre o caso narrado, assinale a afirmativa que indica o princípio que você, como advogado(a) de Osvaldo, deve alegar em defesa do seu cliente.",
+    "enunciado": "Osvaldo foi denunciado pela prática do crime de estelionato em coautoria com Flávio.\n\nDurante a instrução processual, o Juízo ouviu três testemunhas da acusação, e, uma delas, Fabiana, apresentou versão conflitante com as apresentadas pelas defesas. Por isso, o Ministério Público requereu a realização de acareação prevista no \n\n**Art. 229**\n do CPP, entre Osvaldo, Flávio e Fabiana.\n\nA defesa de Osvaldo informou que o acusado não iria participar da acareação, mas o Ministério Público insistiu com o Juízo que determinasse que Osvaldo se submetesse ao ato, sob pena de incidir nas penas do crime de desobediência.\n\nSobre o caso narrado, assinale a afirmativa que indica o princípio que você, como advogado(a) de Osvaldo, deve alegar em defesa do seu cliente.",
     "alternativas": {
       "A": "O da ampla defesa veda a realização de acareação entre testemunhas de defesa e de acusação, pois cada parte tem o ônus de provar os fatos que alega.",
       "B": "O de fundamentação das decisões exige que, ao determinar a realização de uma prova, o Juízo indique concretamente as razões que a justifiquem, sob pena de nulidade.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 67,
-    "enunciado": "Depois do recebimento de denúncia anônima, a delegacia iniciou a verificação preliminar de informações e colheu indícios de que Juca desenvolvia atividades ilícitas de telecomunicações (pena: detenção, 2 a 4 ano s) . A fim de melhor apurar os fatos, foi instaurado inquérito policial e o delegado de polícia representou pela interceptação das comunicações telefônicas de Juca, o que foi deferido pelo Juiz. A fim de anular as provas colhidas a partir da interceptação telefônica, você, na condição de advogado(a) de defesa de Juca, deve alegar que",
+    "enunciado": "Depois do recebimento de denúncia anônima, a delegacia iniciou a verificação preliminar de informações e colheu indícios de que Juca desenvolvia atividades ilícitas de telecomunicações (pena: detenção, 2 a 4 ano\n\ns) .\n\nA fim de melhor apurar os fatos, foi instaurado inquérito policial e o delegado de polícia representou pela interceptação das comunicações telefônicas de Juca, o que foi deferido pelo Juiz.\n\nA fim de anular as provas colhidas a partir da interceptação telefônica, você, na condição de advogado(a) de defesa de Juca, deve alegar que",
     "alternativas": {
       "A": "não é cabível a interceptação quando o ilícito apurado for punível com pena de detenção.",
       "B": "a pena mínima de 2 (dois) anos não autoriza o deferimento de interceptação.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 64,
-    "enunciado": "Em um inquérito policial, o Juiz decretou, de ofício, a prisão preventiva de Débora, sem que esta possuísse qualquer antecedente criminal, apontando como fundamento para a prisão a gravidade em abstrato do crime de homicídio culposo. Certo de que não houve a decretação anterior de medida cautelar diversa da prisão, assinale a opção que apresenta, corretamente, a alegação que você, como advogado(a) de Débora, deve apresentar.",
+    "enunciado": "Em um inquérito policial, o Juiz decretou, de ofício, a prisão preventiva de Débora, sem que esta possuísse qualquer antecedente criminal, apontando como fundamento para a prisão a gravidade em abstrato do crime de homicídio culposo.\n\nCerto de que não houve a decretação anterior de medida cautelar diversa da prisão, assinale a opção que apresenta, corretamente, a alegação que você, como advogado(a) de Débora, deve apresentar.",
     "alternativas": {
       "A": "O magistrado não pode decretar prisão preventiva de ofício, bem como não é cabível a decretação de prisão preventiva em delitos culposos.",
       "B": "O magistrado pode, de ofício, decretrar prisão preventiva, e a gravidade em abstrato do crime é fundamento legítimo para a decretação de preventiva.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 66,
-    "enunciado": "Leda se candidatou a uma vaga de emprego na sociedade empresária X. Ao se apresentar, a sócia-administradora Vera afirmou que “pessoas de cor de pele escura não são compatíveis com o perfil da vaga”, impedindo, assim, que Leda prosseguisse no processo seletivo. Indignada, Leda procura você, como advogado(a) , a fim de defender seus interesses. Atuando na seara criminal em defesa dos interesses de Leda, você pode",
+    "enunciado": "Leda se candidatou a uma vaga de emprego na sociedade empresária X. Ao se apresentar, a sócia-administradora Vera afirmou que “pessoas de cor de pele escura não são compatíveis com o perfil da vaga”, impedindo, assim, que Leda prosseguisse no processo seletivo. Indignada, Leda procura você, como advogado(a) , a fim de defender seus interesses.\n\nAtuando na seara criminal em defesa dos interesses de Leda, você pode",
     "alternativas": {
       "A": "propor acordo de não persecução penal à sociedade empresária X.",
       "B": "ajuizar queixa-crime em face de Vera pelo delito de ação penal privada em tese ocorrido.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 64,
-    "enunciado": "Arthur está cumprindo pena privativa de liberdade pela prática do crime de furto qualificado. Durante o curso da execução penal sofreu uma queda e ficou tetraplégico, atestado em laudo médico oficial. No final do ano, o Presidente da República concedeu indulto natalino via Decreto, abrangendo os casos de tetraplegia superveniente à prática do delito, desde que o crime tivesse sido praticado sem violência ou grave ameaça. Sendo assim, você, como advogado(a) de Arthur, formulou o pedido de declaração da extinção da punibilidade ao Juízo da Execução, que indeferiu o pedido, sem apresentar fundamentação. Diante do caso narrado, na qualidade de advogado(a) de Arthur, você deve interpor",
+    "enunciado": "Arthur está cumprindo pena privativa de liberdade pela prática do crime de furto qualificado. Durante o curso da execução penal sofreu uma queda e ficou tetraplégico, atestado em laudo médico oficial.\n\nNo final do ano, o Presidente da República concedeu indulto natalino via Decreto, abrangendo os casos de tetraplegia superveniente à prática do delito, desde que o crime tivesse sido praticado sem violência ou grave ameaça.\n\nSendo assim, você, como advogado(a) de Arthur, formulou o pedido de declaração da extinção da punibilidade ao Juízo da Execução, que indeferiu o pedido, sem apresentar fundamentação.\n\nDiante do caso narrado, na qualidade de advogado(a) de Arthur, você deve interpor",
     "alternativas": {
       "A": "agravo em execução, no prazo de cinco dias. Sem prejuízo, pode ser impetrado habeas corpus.",
       "B": "recurso de apelação, no prazo de cinco dias. Sem prejuízo, pode ser impetrado habeas corpus.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 66,
-    "enunciado": "Nicola injuriou Robson e Carlos, servidores públicos federais, por fatos relacionados a times de futebol, mas sem caráter racial na injúria. Robson ofereceu queixa-crime, ao passo que Carlos deixou passar o prazo de decadência. O Juiz extinguiu a punibilidade, sob o argumento de que a decadência do direito de um dos envolvidos provocava a extinção de punibilidade em relação a todos. Assinale a opção que apresenta o recurso que você, na condição de advogado(a) de Robson, deve apresentar.",
+    "enunciado": "Nicola injuriou Robson e Carlos, servidores públicos federais, por fatos relacionados a times de futebol, mas sem caráter racial na injúria. Robson ofereceu queixa-crime, ao passo que Carlos deixou passar o prazo de decadência.\n\nO Juiz extinguiu a punibilidade, sob o argumento de que a decadência do direito de um dos envolvidos provocava a extinção de punibilidade em relação a todos.\n\nAssinale a opção que apresenta o recurso que você, na condição de advogado(a) de Robson, deve apresentar.",
     "alternativas": {
       "A": "O princípio da eventualidade demonstra o equívoco da decisão do Juiz.",
       "B": "O direito de queixa é autônomo para cada vítima, o que torna impossível, juridicamente, a extensão da decadência nesse caso.",

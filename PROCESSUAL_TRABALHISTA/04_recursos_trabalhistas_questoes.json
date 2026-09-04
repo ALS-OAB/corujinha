@@ -1,12 +1,12 @@
 [
   {
     "num": 77,
-    "enunciado": "Arthur ajuizou reclamação trabalhista em face de seu ex-empregador - a sociedade empresária Alfa -, e dos 3 sócios dela, valendo-se do incidente de desconsideração da personalidade jurídica (IDPJ) na fase de cognição. Argumentou na petição inicial que assim procedeu para que, em havendo sucesso na pretensão, os sócios já constem do título executivo judicial, o que abreviaria a futura execução. Diante da situação retratada e da previsão contida na CLT, assinale a afirmativa correta.",
+    "enunciado": "Arthur ajuizou reclamação trabalhista em face de seu ex-empregador\n- a sociedade empresária Alfa -, e dos 3 sócios dela, valendo-se do\nincidente de desconsideração da personalidade jurídica (IDPJ) na fase\nde cognição.\nArgumentou na petição inicial que assim procedeu para que, em\nhavendo sucesso na pretensão, os sócios já constem do título\nexecutivo judicial, o que abreviaria a futura execução.\nDiante da situação retratada e da previsão contida na CLT, assinale a\nafirmativa correta.",
     "alternativas": {
-      "A": "O incidente de desconsideração da personalidade jurídica (IDPJ), na Justiça do Trabalho, somente pode ser feito na fase de execução.",
-      "B": "O incidente de desconsideração da personalidade jurídica (IDPJ), na seara trabalhista, pode ser feito na fase de conhecimento ou de execução.",
-      "C": "O incidente de desconsideração da personalidade jurídica (IDPJ) na fase de conhecimento dependerá da concordância dos sócios.",
-      "D": "A opção pelo incidente de desconsideração da personalidade jurídica (IDPJ), por exigência expressa da CLT, deve ter, na fase de conhecimento, sua necessidade provada por DOC_Documentos. 22 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "O incidente de desconsideração da personalidade jurídica (IDPJ),\nna Justiça do Trabalho, somente pode ser feito na fase de\nexecução.",
+      "B": "O incidente de desconsideração da personalidade jurídica (IDPJ),\nna seara trabalhista, pode ser feito na fase de conhecimento ou\nde execução.",
+      "C": "O incidente de desconsideração da personalidade jurídica (IDPJ)\nna fase de conhecimento dependerá da concordância dos sócios.",
+      "D": "A opção pelo incidente de desconsideração da personalidade\njurídica (IDPJ), por exigência expressa da CLT, deve ter, na fase de\nconhecimento, sua necessidade provada por documentos."
     },
     "gabarito": "B",
     "disciplina": "Processo do Trabalho",
@@ -20,12 +20,12 @@
   },
   {
     "num": 80,
-    "enunciado": "Você advoga para um ex-empregado, em sede de reclamação trabalhista em face de uma sociedade empresária, e também em face dos sócios desta. O curso processual vem sendo bastante conturbado. A parte ré deduziu fatos manifesta e notoriamente inverídicos em juízo; ela vem utilizando meios e modos de retardar o desfecho processual, arrolando testemunhas que não são localizadas, requerendo a substituição de testemunhas e provocando adiamentos desnecessários de audiências, no intuito de suscitar eventual futura nulidade. Seu cliente perguntou se as condutas poderiam ensejar o requerimento e consequente condenação em litigância de má-fé, em razão de considerar que tais condutas representam procedimento contrário à boa ordem processual. Nesse sentido, de acordo com o texto da CLT, assinale a afirm",
+    "enunciado": "Você advoga para um ex-empregado, em sede de reclamação trabalhista em face de uma sociedade empresária, e também em face dos sócios desta.\n\nO curso processual vem sendo bastante conturbado. A parte ré deduziu fatos manifesta e notoriamente inverídicos em juízo; ela vem utilizando meios e modos de retardar o desfecho processual, arrolando testemunhas que não são localizadas, requerendo a substituição de testemunhas e provocando adiamentos desnecessários de audiências, no intuito de suscitar eventual futura nulidade.\n\nSeu cliente perguntou se as condutas poderiam ensejar o requerimento e consequente condenação em litigância de má-fé, em razão de considerar que tais condutas representam procedimento contrário à boa ordem processual.\n\nNesse sentido, de acordo com o texto da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Não é vedado a parte promover incidentes processuais sem fundamento, com intuito de retardar o andamento processual, já que o amplo direito de defesa é assegurado constitucionalmente.",
       "B": "Os valores da multa de litigância de má-fé sempre incidem sobre o valor da causa, ainda que irrisório o valor, pois existem as demais reparações previstas na lei.",
       "C": "Não constitui conduta passível de litigância de má-fé a parte formular alegações em sede de contestação contrárias a texto expresso de lei, pois cabe ao juiz rechaçar a alegação.",
-      "D": "As condutas ensejam litigância de má-fé e têm previsão legal, sendo passíveis de multa superior a 1% e inferior a 10% sobre o valor corrigido da causa, entre outras penalidades. ### QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a "
+      "D": "As condutas ensejam litigância de má-fé e têm previsão legal, sendo passíveis de multa superior a 1% e inferior a 10% sobre o valor corrigido da causa, entre outras penalidades.\n\n\nEste questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas nos espaços próprios (canto inferior direit\n\no) da sua folha de respostas. A OAB e a FGV agradecem sua colaboração."
     },
     "gabarito": "D",
     "disciplina": "Processo do Trabalho",
@@ -39,12 +39,12 @@
   },
   {
     "num": 80,
-    "enunciado": "Em sede de reclamação trabalhista na qual você advoga para o empregado, foi celebrado acordo entre as partes ainda na fase de conhecimento, antes da prolação da sentença. Na petição de lavra conjunta entre os advogados das partes nada constou acerca das custas processuais. Seu cliente é beneficiário da gratuidade de justiça, conforme decisão constante do processo desde o início. Sobre as custas processuais, considerando o silêncio das partes e havendo acordo, segundo o texto da CLT, assinale a afirmativa correta.",
+    "enunciado": "Em sede de reclamação trabalhista na qual você advoga para o empregado, foi celebrado acordo entre as partes ainda na fase de conhecimento, antes da prolação da sentença.\n\nNa petição de lavra conjunta entre os advogados das partes nada constou acerca das custas processuais. Seu cliente é beneficiário da gratuidade de justiça, conforme decisão constante do processo desde o início.\n\nSobre as custas processuais, considerando o silêncio das partes e havendo acordo, segundo o texto da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "As custas deverão incidir em 2% sobre o valor do acordo e serão divididas em frações iguais pelas partes, sendo que, no caso de seu cliente, não haverá o pagamento por força da gratuidade de justiça.",
       "B": "As custas deverão incidir em 10% sobre o valor do acordo e serão integralmente recolhidas pela parte ré.",
       "C": "As custas deverão incidir em 2% sobre o valor do acordo e ficarão integralmente sob responsabilidade da parte autora que, na hipótese, está dispensada do recolhimento por força da gratuidade de justiça.",
-      "D": "As custas deverão incidir em 5% sobre o valor da causa, já que não houve prolação de sentença, e serão rateadas igualmente pelas partes, dispensado o autor do recolhimento pela gratuidade de justiça. ### QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm co"
+      "D": "As custas deverão incidir em 5% sobre o valor da causa, já que não houve prolação de sentença, e serão rateadas igualmente pelas partes, dispensado o autor do recolhimento pela gratuidade de justiça.\n\n\nEste questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas nos espaços próprios (canto inferior direit\n\no) da sua folha de respostas. A OAB e a FGV agradecem sua colaboração."
     },
     "gabarito": "A",
     "disciplina": "Processo do Trabalho",
@@ -58,7 +58,7 @@
   },
   {
     "num": 78,
-    "enunciado": "Foi protocolizada petição de homologação de acordo extrajudicial à 200ª Vara do Trabalho de Florianópolis. As partes envolvidas são Luísa, empregada doméstica, e José Pedro, seu ex-empregador. O valor apresentado para o acordo é de R$ 27.000,00 (vinte e sete mil reai s) , pagos em duas parcelas iguais e sucessivas, sendo mantidas as anotações na CTPS de Luísa. Empregada e empregador estão representados pelo mesmo advogado. Sobre esses fatos, segundo os termos da CLT, assinale a afirmativa correta.",
+    "enunciado": "Foi protocolizada petição de homologação de acordo extrajudicial à 200ª Vara do Trabalho de Florianópolis.\n\nAs partes envolvidas são Luísa, empregada doméstica, e José Pedro, seu ex-empregador. O valor apresentado para o acordo é de R$ 27.000,00 (vinte e sete mil reai\n\ns) , pagos em duas parcelas iguais e sucessivas, sendo mantidas as anotações na CTPS de Luísa. Empregada e empregador estão representados pelo mesmo advogado.\n\nSobre esses fatos, segundo os termos da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Não é possível a homologação, porque as partes não podem ser representadas pelo mesmo advogado.",
       "B": "Na homologação de acordo extrajudicial, os empregados precisam ser assistidos pelo advogado do seu sindicato de classe.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 76,
-    "enunciado": "Sandra trabalhou na sociedade empresária Sorvete Saboroso Ltda. por 3 anos, como atendente de loja. Após ser dispensada em 2024, Sandra ajuizou reclamação trabalhista contra a ex-empregadora requerendo equiparação salarial com a funcionária Maria, que exercia a mesma função, mas recebia salário superior. Apresentada a defesa, os pontos controvertidos definidos foram: diferença na perfeição técnica entre as empregadas e diferença superior a quatro anos no tempo de serviço para o empregador. Considerando a distribuição estática do ônus da prova e os termos da CLT, assinale a afirmativa correta.",
+    "enunciado": "Sandra trabalhou na sociedade empresária Sorvete Saboroso Ltda. por 3 anos, como atendente de loja. Após ser dispensada em 2024, Sandra ajuizou reclamação trabalhista contra a ex-empregadora requerendo equiparação salarial com a funcionária Maria, que exercia a mesma função, mas recebia salário superior.\n\nApresentada a defesa, os pontos controvertidos definidos foram: diferença na perfeição técnica entre as empregadas e diferença superior a quatro anos no tempo de serviço para o empregador.\n\nConsiderando a distribuição estática do ônus da prova e os termos da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "À empresa caberá provar a diferença na perfeição técnica e a diferença superior a quatro anos no tempo de serviço entre as cotejadas.",
       "B": "À empresa caberá provar a diferença superior a quatro anos no tempo de serviço e, à empregada, a diferença na perfeição técnica.",
@@ -96,12 +96,12 @@
   },
   {
     "num": 80,
-    "enunciado": "Você foi procurado(a) por um Sindicato de Empregados que deseja ajuizar uma ação em face de outro Sindicato de Empregados, com o objetivo de discutir a legitimidade para receber as contribuições sindicais oriundas de uma determinada sociedade empresária. Sobre a hipótese, assinale a afirmativa correta.",
+    "enunciado": "Você foi procurado(a) por um Sindicato de Empregados que deseja ajuizar uma ação em face de outro Sindicato de Empregados, com o objetivo de discutir a legitimidade para receber as contribuições sindicais oriundas de uma determinada sociedade empresária.\n\nSobre a hipótese, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A ação deverá ser ajuizada na Justiça do Trabalho.",
       "B": "A ação deverá ser ajuizada na Justiça Comum Federal.",
       "C": "A ação deverá ser ajuizada na Justiça Comum Estadual.",
-      "D": "Não caberá ajuizamento de ação judicial, mas apenas procedimento administrativo no Ministério do Trabalho e Emprego. ### Questionário de percepção sobre a prova Este questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar."
+      "D": "Não caberá ajuizamento de ação judicial, mas apenas procedimento administrativo no Ministério do Trabalho e Emprego.\n\n\nEste questionário é de preenchimento facultativo pelo examinando. Como se trata de mera pesquisa, não influi no resultado final do exame. As questões têm como objetivo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas respostas nos espaços próprios (canto inferior direit\n\no) da sua folha de respostas. A OAB e a FGV agradecem sua colaboração.\n\n- 1 Na sua avaliação, o grau de dificuldade dessa prova foi\n\n- A) muito fácil.\n- B) fácil.\n- C) médio.\n- D) difícil.\n\n- 2\n\nQuanto à capacidade crítica e interpretativa, em relação ao cenário e ao ordenamento jurídico contemporâneo, essa prova foi\n\n- A) plenamente satisfatória.\n- B) satisfatória.\n- C) pouco satisfatória.\n- D) insatisfatória.\n\n- 3\n\nConsiderando a extensão da prova em relação ao tempo total, você considera que ela foi\n\n- A) muito longa.\n- B) longa.\n- C) adequada.\n- D) curta.\n\n- 4 Os enunciados das questões estavam claros e objetivos?\n\n- A) Sim, todos.\n- B) Sim, a maioria.\n- C) Poucos.\n- D) Não, nenhum.\n\n- 5\n\nAs diversas áreas do Direito (Civil, Penal, Trabalho, Administrativo etc.) apresentavam questões com o mesmo nível de dificuldade e compreensão?\n\n- A) Sim, todas.\n- B) Sim, a maioria.\n- C) Não houve esse nivelamento.\n- D) Não tenho como opinar."
     },
     "gabarito": "A",
     "disciplina": "Processo do Trabalho",

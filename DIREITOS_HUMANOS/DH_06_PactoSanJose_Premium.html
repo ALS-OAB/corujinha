@@ -677,7 +677,7 @@
   </div>
 
   <script>
-    const questionsData = [{"num": 1, "id": 3, "exame": "38º Exame OAB", "tema": "Pacto de San José da Costa Rica (CADH) (38º Exame OAB)", "enunciado": "Numa acirrada disputa eleitoral pelo governo municipal de sua cidade, o prefeito atual e candidato à reeleição, divulgou, por meio do site da Prefeitura, informações inexatas e ofensivas contra o candidato da oposição. Esse candidato o(a) procurou, por saber de sua atuação como advogado(a) em defesa dos Direitos Humanos, e disse que, amparado na Convenção Americana sobre Direitos Humanos, queria o direito de resposta na rádio local. Sobre a hipótese narrada, cabe a você esclarecer que a Convenção assegura", "opcoes": {"A": "Opção A", "B": "Opção B", "C": "Opção C", "D": "Opção D"}, "gabarito": "C", "core": true, "sintese": "<p><strong>Aguardando síntese didática / lógica do conceito.</strong><br>Questão oficial extraída do 38º Exame OAB. Gabarito definitivo: <strong>Alternativa C</strong>.</p>", "logica_conceito": "<p>Fundamentação teórica do tema <em>Pacto de San José da Costa Rica (CADH)</em> pendente de elaboração pedagógica.</p>", "fundamentacao": "<p>Convenção Americana sobre Direitos Humanos (CADH) e Constituição Federal de 1988 (Art. 5º, § 3º e Art. 109, V-A).</p>", "dica": "<p>Analise a hierarquia dos tratados de direitos humanos, o trâmite na CIDH/Corte IDH e a proteção às minorias.</p>", "aula_comentario": "<p>Comentário em vídeo referente ao 38º Exame OAB.</p>", "analise": "<p>Análise detalhada das alternativas A, B, C e D em desenvolvimento.</p>"}];
+    const questionsData = [{"num": 1, "id": 1, "exame": "Exame OAB", "tema": "Questão Didática Modelo - Pacto de San José da Costa Rica (CADH)", "enunciado": "<p>Aguardando extração das questões históricas dos últimos exames de Ordem para esta matéria.</p>", "opcoes": {"A": "Opção A (Aguardando povoamento)", "B": "Opção B (Aguardando povoamento)", "C": "Opção C (Aguardando povoamento)", "D": "Opção D (Aguardando povoamento)"}, "gabarito": "A", "core": true, "sintese": "<p>Síntese Didática Modelo</p>", "logica_conceito": "<p>Lógica do Conceito Modelo</p>", "fundamentacao": "<p>Lei nº 14.133/2021 (Nova Lei de Licitações) e legislação administrativa</p>", "dica": "<p>Dica Didática Modelo</p>", "aula_comentario": "<p>Comentário da Aula</p>", "analise": "<p>Análise detalhada das alternativas.</p>"}];
     
     let currentIndex = 0;
     let score = 0;
@@ -701,7 +701,7 @@
 
     function buildQuestionSlide(q, i) {
       let optionsHtml = '';
-      for (const [letter, text] of Object.entries(q.opcoes)) {
+      for (const [letter, text] of Object.entries(q.alternativas || q.opcoes || {})) {
         optionsHtml += `
           <button class="opt-btn" id="opt-${i}-${letter}" onclick="answerQuestion(${i}, '${letter}')">
             <span class="opt-letter">${letter}</span>
@@ -720,7 +720,7 @@
                 <div class="q-meta" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="q-num">Q${i + 1} / ${questionsData.length}</span>
                   ${q.exame ? `<span class="q-exame-badge" style="background:#ecfdf5; color:#047857; border:1px solid #a7f3d0; font-weight:700; border-radius:6px; padding:3px 8px; font-size:11px; letter-spacing:-0.2px; display:inline-flex; align-items:center;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>${q.exame}</span>` : ''}
-                  <span class="q-topic">${q.tema}</span>
+                  <span class="q-topic">${q.tema || q.modulo_nome || ""}</span>
                 </div>
                 <div class="timer-badge" id="timer-badge-${i}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>

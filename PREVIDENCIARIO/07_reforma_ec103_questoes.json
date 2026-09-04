@@ -1,7 +1,7 @@
 [
   {
     "num": 69,
-    "enunciado": "Humberto Alves, que sempre atuou como advogado autônomo, logrou aprovação em concurso público para a Advocacia Geral da União, sendo regularmente nomeado em cargo público de provimento efetivo e iniciando suas atividades na função pública em janeiro de 2023. Diante da situação hipotética narrada, assinale a afirmativa correta.",
+    "enunciado": "Humberto Alves, que sempre atuou como advogado autônomo, logrou aprovação em concurso público para a Advocacia Geral da União, sendo regularmente nomeado em cargo público de provimento efetivo e iniciando suas atividades na função pública em janeiro de 2023.\n\nDiante da situação hipotética narrada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Humberto permanece vinculado ao Regime Geral de Previdência Social na condição de segurado empregado, salvo se optar pelo ingresso em regime diverso.",
       "B": "Caso Humberto já ingresse no cargo público com tempo de contribuição e idade suficientes para a aposentadoria, poderá requerer a prestação imediatamente no regime previdenciário a que estiver vinculado.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 69,
-    "enunciado": "Joana Silva, empregada doméstica, prestando serviço aos mesmos empregadores por cinco anos consecutivos, é demitida por justa causa, devido à prática de ilícito prontamente comprovado em ambiente laboral. Joana, seis meses após o desligamento, sofreu um acidente de trânsito, restando incapacitada permanentemente para qualquer atividade remunerada. Nesse contexto, assinale a afirmativa correta.",
+    "enunciado": "Joana Silva, empregada doméstica, prestando serviço aos mesmos empregadores por cinco anos consecutivos, é demitida por justa causa, devido à prática de ilícito prontamente comprovado em ambiente laboral.\n\nJoana, seis meses após o desligamento, sofreu um acidente de trânsito, restando incapacitada permanentemente para qualquer atividade remunerada.\n\nNesse contexto, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Joana poderá obter o benefício previdenciário de aposentadoria por incapacidade permanente.",
       "B": "Joana não possui direito a qualquer prestação previdenciária, haja vista o desligamento por justa causa.",

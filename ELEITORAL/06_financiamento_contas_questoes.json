@@ -1,7 +1,7 @@
 [
   {
     "num": 20,
-    "enunciado": "João, candidato ao cargo eletivo de prefeito municipal, logrou ser eleito. No entanto, por ser muito desorganizado, não conseguiu localizar os DOC_Documentos necessários para a prestação de contas à Justiça Eleitoral, o que resultou na não apresentação dessas contas. Sobre as consequências da omissão de João, assinale a afirmativa correta.",
+    "enunciado": "João, candidato ao cargo eletivo de prefeito municipal, logrou ser eleito. No entanto, por ser muito desorganizado, não conseguiu localizar os documentos necessários para a prestação de contas à Justiça Eleitoral, o que resultou na não apresentação dessas contas.\n\nSobre as consequências da omissão de João, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A impossibilidade de ser diplomado.",
       "B": "A sua diplomação com reservas.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 20,
-    "enunciado": "Pedro, que teve deferido o registro de candidatura para concorrer ao cargo eletivo de Prefeito Municipal de uma importante capital brasileira, deseja aumentar a capilaridade de seu projeto de governo junto à população, de modo que um número maior de eleitores tenha conhecimento de suas propostas. Com esse objetivo, consultou você, como advogado(a) , a respeito da possibilidade de veicular propaganda eleitoral paga, na imprensa escrita, durante o período de propaganda eleitoral. Quanto à orientação a ser dada, assinale a afirmativa que apresenta, corretamente, sua resposta.",
+    "enunciado": "Pedro, que teve deferido o registro de candidatura para concorrer ao cargo eletivo de Prefeito Municipal de uma importante capital brasileira, deseja aumentar a capilaridade de seu projeto de governo junto à população, de modo que um número maior de eleitores tenha conhecimento de suas propostas.\n\nCom esse objetivo, consultou você, como advogado(a) , a respeito da possibilidade de veicular propaganda eleitoral paga, na imprensa escrita, durante o período de propaganda eleitoral.\n\nQuanto à orientação a ser dada, assinale a afirmativa que apresenta, corretamente, sua resposta.",
     "alternativas": {
       "A": "A realização da propaganda eleitoral na forma pretendida é vedada, em qualquer hipótese.",
       "B": "A propaganda eleitoral que ele deseja realizar é a única de natureza não gratuita permitida pela legislação eleitoral, podendo ser realizada até o dia da eleição.",

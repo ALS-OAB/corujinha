@@ -1,12 +1,12 @@
 [
   {
     "num": 17,
-    "enunciado": "Um terço dos membros do Senado Federal apresentou proposta de emenda à Constituição da República (PEC), propondo o acréscimo de um inciso ao Art. 5º. Segundo a PEC, o novo inciso teria a seguinte redação: “LXXX – é garantida a inclusão digital e o acesso amplo e irrestrito à Internet, nos termos da lei.” A proposta foi aprovada pelo plenário da Câmara dos Deputados e do Senado Federal por mais de três quintos dos membros em um único turno de votação. Ato contínuo, a PEC foi promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal. Sobre a PEC descrita na narrativa, segundo o sistema jurídico- constitucional brasileiro, assinale a afirmativa correta.",
+    "enunciado": "Um terço dos membros do Senado Federal apresentou proposta de\nemenda à Constituição da República (PEC), propondo o acréscimo de\num inciso ao Art. 5º. Segundo a PEC, o novo inciso teria a seguinte\nredação: “LXXX – é garantida a inclusão digital e o acesso amplo e\nirrestrito à Internet, nos termos da lei.”\nA proposta foi aprovada pelo plenário da Câmara dos Deputados e do\nSenado Federal por mais de três quintos dos membros em um único\nturno de votação. Ato contínuo, a PEC foi promulgada pelas Mesas da\nCâmara dos Deputados e do Senado Federal.\nSobre a PEC descrita na narrativa, segundo o sistema jurídico-\nconstitucional brasileiro, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Apresenta uma inconstitucionalidade material, que vem a ser a violação de cláusula pétrea, haja vista a impossibilidade de qualquer alteração no Art. 5º da Constituição da República.",
-      "B": "É formalmente inconstitucional, pois o procedimento a ser seguido pelas casas do Congresso Nacional, que funcionam como poder constituinte derivado reformador, não foi corretamente observado.",
-      "C": "Ostenta um vício de iniciativa, visto que é da competência exclusiva do chefe do Poder Executivo a apresentação do projeto de emenda à Constituição.",
-      "D": "Apresenta vício formal, pois, em qualquer ato de produção normativa, especialmente no caso de emenda à constituição, a competência para o ato de promulgação é do Presidente da República."
+      "A": "Apresenta uma inconstitucionalidade material, que vem a ser a\nviolação de cláusula pétrea, haja vista a impossibilidade de\nqualquer alteração no Art. 5º da Constituição da República.",
+      "B": "É formalmente inconstitucional, pois o procedimento a ser\nseguido pelas casas do Congresso Nacional, que funcionam como\npoder constituinte derivado reformador, não foi corretamente\nobservado.",
+      "C": "Ostenta um vício de iniciativa, visto que é da competência\nexclusiva do chefe do Poder Executivo a apresentação do projeto\nde emenda à Constituição.",
+      "D": "Apresenta vício formal, pois, em qualquer ato de produção\nnormativa, especialmente no caso de emenda à constituição, a\ncompetência para o ato de promulgação é do Presidente da\nRepública."
     },
     "gabarito": "B",
     "disciplina": "Direitos Humanos",
@@ -20,12 +20,12 @@
   },
   {
     "num": 17,
-    "enunciado": "Em razão da alta concentração de indígenas no Município X e com vistas à melhor promoção dos seus direitos e garantias, as autoridades locais adotaram uma série de medidas administrativas com impacto direto sobre as referidas comunidades. Não lhes foi franqueada, contudo, qualquer mecanismo de participação nos ciclos de elaboração e implementação dessas medidas. Nesse contexto, você foi procurado(a) , como advogado(a) , para representar uma das comunidades. À luz da Convenção 169 da Organização Internacional do Trabalho sobre Povos Indígenas e Tribais, assinale a opção que apresenta, corretamente, sua orientação.",
+    "enunciado": "Em razão da alta concentração de indígenas no Município X e com vistas à melhor promoção dos seus direitos e garantias, as autoridades locais adotaram uma série de medidas administrativas com impacto direto sobre as referidas comunidades. Não lhes foi franqueada, contudo, qualquer mecanismo de participação nos ciclos de elaboração e implementação dessas medidas.\n\nNesse contexto, você foi procurado(a) , como advogado(a) , para representar uma das comunidades. À luz da Convenção 169 da Organização Internacional do Trabalho sobre Povos Indígenas e Tribais, assinale a opção que apresenta, corretamente, sua orientação.",
     "alternativas": {
       "A": "É assegurado às comunidades indígenas e às populações tradicionais o direito à consulta, mediante procedimentos apropriados e, particularmente, por meio de suas instituições representativas, cada vez que sejam previstas medidas legislativas ou administrativas suscetíveis de afetá-las diretamente.",
       "B": "No caso específico, a Convenção em questão excetua o dever de assegurar a participação das comunidades indígenas diretamente atingidas, já que se trata de medidas tomadas com o intuito de promover a máxima eficácia dos direitos e das garantias dessas populações tradicionais.",
       "C": "Apesar de as disposições da Convenção em questão estabelecerem a necessidade de efetiva participação das comunidades indígenas cada vez que forem previstas medidas legislativas ou administrativas suscetíveis de afetá-las diretamente, a não observância desse dever estatal somente acarreta vício capaz de anular os atos praticados se restar demonstrado, no caso concreto, a existência de prejuízo.",
-      "D": "É assegurado às comunidades indígenas e populações tradicionais o direito à consulta, mediante procedimentos apropriados, cada vez que sejam previstas medidas legislativas ou administrativas suscetíveis de afetá-las diretamente. No âmbito nacional, confiou-se à Fundação Nacional do Índio (FUNAI) a atribuição para representar diretamente as referidas comunidades, por serem desprovidas de personalid"
+      "D": "É assegurado às comunidades indígenas e populações tradicionais o direito à consulta, mediante procedimentos apropriados, cada vez que sejam previstas medidas legislativas ou administrativas suscetíveis de afetá-las diretamente. No âmbito nacional, confiou-se à Fundação Nacional do Índio (FUNAI) a atribuição para representar diretamente as referidas comunidades, por serem desprovidas de personalidade jurídica própria."
     },
     "gabarito": "A",
     "disciplina": "Direitos Humanos",
@@ -39,7 +39,7 @@
   },
   {
     "num": 17,
-    "enunciado": "Na condição de advogado(a) especializado(a) na defesa de Direitos Humanos, você é procurado(a) por membros de uma comunidade de povos originários, interessados em regularizar a situação das terras por eles tradicionalmente ocupadas. A referida comunidade pretende obter esclarecimentos acerca do seu eventual direito de propriedade, bem como quanto à forma de sua utilização. Em relação ao tema, de acordo com o sistema regional americano e o ordenamento jurídico nacional, assinale a opção que apresenta, corretamente, o seu esclarecimento.",
+    "enunciado": "Na condição de advogado(a) especializado(a) na defesa de Direitos Humanos, você é procurado(a) por membros de uma comunidade de povos originários, interessados em regularizar a situação das terras por eles tradicionalmente ocupadas. A referida comunidade pretende obter esclarecimentos acerca do seu eventual direito de propriedade, bem como quanto à forma de sua utilização.\n\nEm relação ao tema, de acordo com o sistema regional americano e o ordenamento jurídico nacional, assinale a opção que apresenta, corretamente, o seu esclarecimento.",
     "alternativas": {
       "A": "De acordo com o ordenamento jurídico interno, aos povos originários é assegurado o usufruto exclusivo das riquezas do solo por eles tradicionamente ocupado. Nesse sentido, pode a comunidade, exercendo o seu direito à autodeterminação, cultivar organismos geneticamente modificados em suas terras.",
       "B": "A Convenção nº 169, da Organização Internacional do Trabalho, reconhece expressamente o direito de propriedade dos povos originários em relação às terras que tradicionalmente ocupam.",

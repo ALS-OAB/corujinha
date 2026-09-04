@@ -1,12 +1,12 @@
 [
   {
     "num": 69,
-    "enunciado": "Nise é acusada em um processo penal pela prática de delito de estelionato (pena: 1 a 5 anos de reclusão) e possui condenação definitiva pelo mesmo delito. Nise é paciente psiquiátrica e laudo pericial constatou a sua completa incapacidade de se autodeterminar de acordo com o entendimento acerca da ilicitude do fato que lhe é imputado. Sobre a influência deste diagnóstico sobre processos atuais ou já julgados, assinale a afirmativa correta.",
+    "enunciado": "Nise é acusada em um processo penal pela prática de delito de\nestelionato (pena: 1 a 5 anos de reclusão) e possui condenação\ndefinitiva pelo mesmo delito. Nise é paciente psiquiátrica e laudo\npericial constatou a sua completa incapacidade de se autodeterminar\nde acordo com o entendimento acerca da ilicitude do fato que lhe é\nimputado.\nSobre a influência deste diagnóstico sobre processos atuais ou já\njulgados, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Se a insanidade for contemporânea ao fato delituoso, ainda que eventualmente curada no curso do processo, poderá haver aplicação da medida de segurança.",
-      "B": "Se a insanidade mental ocorreu no curso da execução penal, e houver a conversão em medida de segurança, o posterior restabelecimento importa na cessação da periculosidade, e consequente extinção da punibilidade.",
-      "C": "Se a insanidade mental for subsequente aos fatos, constatada durante o curso do processo, ser-lhe-á nomeado curador, sob pena de nulidade, podendo a sentença, ao final, aplicar a medida de segurança ou aplicar pena, deixando-a suspensa.",
-      "D": "Se a sentença houver aplicado medida de segurança, o Juiz da Execução Penal poderá reconverter as penas em privativa de liberdade, se constatada a cura da doença mental que atingia a segurada. 20 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "Se a insanidade for contemporânea ao fato delituoso, ainda que\neventualmente curada no curso do processo, poderá haver\naplicação da medida de segurança.",
+      "B": "Se a insanidade mental ocorreu no curso da execução penal, e\nhouver a conversão em medida de segurança, o posterior\nrestabelecimento importa na cessação da periculosidade, e\nconsequente extinção da punibilidade.",
+      "C": "Se a insanidade mental for subsequente aos fatos, constatada\ndurante o curso do processo, ser-lhe-á nomeado curador, sob\npena de nulidade, podendo a sentença, ao final, aplicar a medida\nde segurança ou aplicar pena, deixando-a suspensa.",
+      "D": "Se a sentença houver aplicado medida de segurança, o Juiz da\nExecução Penal poderá reconverter as penas em privativa de\nliberdade, se constatada a cura da doença mental que atingia a\nsegurada."
     },
     "gabarito": "*",
     "disciplina": "Direito do Trabalho",
@@ -20,7 +20,7 @@
   },
   {
     "num": 74,
-    "enunciado": "Vladimir, formado em Educação Física, 28 anos de idade, era instrutor em uma academia de ginástica há 1 ano, com a CTPS devidamente assinada. Ao ser comunicado pelo empregador de sua dispensa sem justa causa, com aviso prévio que deveria ser trabalhado, Vladimir foi tomado de intensa emoção e teve um ataque cardíaco fulminante, vindo a óbito. De acordo com a situação retratada e a norma de regência, assinale a afirmativa correta.",
+    "enunciado": "Vladimir, formado em Educação Física, 28 anos de idade, era instrutor em uma academia de ginástica há 1 ano, com a CTPS devidamente assinada. Ao ser comunicado pelo empregador de sua dispensa sem justa causa, com aviso prévio que deveria ser trabalhado, Vladimir foi tomado de intensa emoção e teve um ataque cardíaco fulminante, vindo a óbito.\n\nDe acordo com a situação retratada e a norma de regência, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A sociedade empresária será condenada pelo acidente do trabalho sofrido, mas não haverá indenização pela extinção do contrato porque o aviso prévio não foi cumprido.",
       "B": "As verbas devidas serão pagas, em quotas iguais, aos dependentes de Vladimir habilitados perante a Previdência Social e, na falta, aos sucessores previstos na lei civil.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 72,
-    "enunciado": "Alexandre, Reginaldo e Maurício eram empregados da mesma sociedade empresária, mas em períodos distintos. Alexandre pediu demissão após 2 (dois) anos de trabalho, pois já estava cansado de trabalhar para o mesmo empregador e já era idoso contando com 71 (setenta e u m) anos de idade. Reginaldo se aposentou após 3 (três) anos, pois já contava com idade e tempo de serviço anterior, apesar de ter 62 (sessenta e doi s) anos. Maurício foi dispensado sem justa causa, após quatro meses, mesmo sendo jovem e contando com 25 (vinte e cinc o) anos de idade. Os três consultaram você, como advogado(a) , acerca da possibilidade de levantamento imediato dos valores depositados a título de FGTS dos contratos terminados. Observando a legislação em vigor e adstrito aos dados do enunciado, assinale a afirmat",
+    "enunciado": "Alexandre, Reginaldo e Maurício eram empregados da mesma sociedade empresária, mas em períodos distintos.\n\nAlexandre pediu demissão após 2 (dois) anos de trabalho, pois já estava cansado de trabalhar para o mesmo empregador e já era idoso contando com 71 (setenta e u\n\nm) anos de idade. Reginaldo se aposentou após 3 (três) anos, pois já contava com idade e tempo de serviço anterior, apesar de ter 62 (sessenta e doi\n\ns) anos. Maurício foi dispensado sem justa causa, após quatro meses, mesmo sendo jovem e contando com 25 (vinte e cinc\n\no) anos de idade.\n\nOs três consultaram você, como advogado(a) , acerca da possibilidade de levantamento imediato dos valores depositados a título de FGTS dos contratos terminados.\n\nObservando a legislação em vigor e adstrito aos dados do enunciado, assinale a afirmativa que apresenta, corretamente, sua orientação.",
     "alternativas": {
       "A": "Os três poderão receber, imediatamente, os valores do FGTS.",
       "B": "Alexandre e Maurício não poderão receber os valores imediatamente, pois um pediu demissão e o outro teve contrato inferior a seis meses.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 73,
-    "enunciado": "As irmãs Margarida, Hortência e Rosa aderiram ao plano de demissão voluntária (PDV) oferecido pelos seus respectivos empregadores. No caso de Margarida, a previsão do PDV encontrava-se em acordo coletivo de trabalho; no caso de Hortência, estava previsto em convenção coletiva de trabalho; e, no caso de Rosa, em norma interna definida pelo empregador. Feitas as extinções dos contratos em 2024, sem ressalvas, as irmãs pretendem ajuizar reclamação trabalhista postulando direitos supostamente lesados ao longo do pacto laboral. Considerando a situação apresentada e os termos da CLT, assinale a afirmativa correta.",
+    "enunciado": "As irmãs Margarida, Hortência e Rosa aderiram ao plano de demissão voluntária (PDV) oferecido pelos seus respectivos empregadores.\n\nNo caso de Margarida, a previsão do PDV encontrava-se em acordo coletivo de trabalho; no caso de Hortência, estava previsto em convenção coletiva de trabalho; e, no caso de Rosa, em norma interna definida pelo empregador.\n\nFeitas as extinções dos contratos em 2024, sem ressalvas, as irmãs pretendem ajuizar reclamação trabalhista postulando direitos supostamente lesados ao longo do pacto laboral.\n\nConsiderando a situação apresentada e os termos da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Margarida e Hortência deram quitação plena e irrevogável dos direitos decorrentes da relação empregatícia, não podendo postular diferenças.",
       "B": "As três irmãs poderão ajuizar ação trabalhista com chance de sucesso, porque não houve homologação do PDV no sindicato de classe das empregadas.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 73,
-    "enunciado": "Jéssica trabalha em um hospital particular de Belo Horizonte, no setor de tratamento de pacientes com doenças infectocontagiosas, recebendo adicional de insalubridade em grau máximo. Em 2024, Jessica engravidou e deu ciência do fato ao seu chefe, que imediatamente a transferiu para o setor de convênios, localizado em um prédio diferente do hospital, ocupando uma confortável e arejada sala comercial na qual cinco funcionários negociam com os planos de saúde conveniados, por telefone, a tabela de valores pelos atendimentos e procedimentos, sem atendimento presencial do público externo. Sobre a situação apresentada e os termos da CLT, assinale a afirmativa correta.",
+    "enunciado": "Jéssica trabalha em um hospital particular de Belo Horizonte, no setor de tratamento de pacientes com doenças infectocontagiosas, recebendo adicional de insalubridade em grau máximo.\n\nEm 2024, Jessica engravidou e deu ciência do fato ao seu chefe, que imediatamente a transferiu para o setor de convênios, localizado em um prédio diferente do hospital, ocupando uma confortável e arejada sala comercial na qual cinco funcionários negociam com os planos de saúde conveniados, por telefone, a tabela de valores pelos atendimentos e procedimentos, sem atendimento presencial do público externo.\n\nSobre a situação apresentada e os termos da CLT, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A empregada, durante a gestação, fez jus ao adicional de insalubridade, que cessará após o nascimento da criança, não se estendendo ao período de lactação.",
       "B": "O direito ao adicional de insalubridade, até o retorno, deverá cessar porque a transferência foi uma necessidade para a qual a sociedade empresária não colaborou.",

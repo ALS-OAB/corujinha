@@ -1,7 +1,7 @@
 [
   {
     "num": 43,
-    "enunciado": "Pedro, adolescente de quinze anos, foi apreendido pela prática de ato infracional análogo ao crime de roubo. Realizados todos os procedimentos legais cabíveis, o juízo determinou cautelarmente que fosse recolhido à internação em instituição dedicada ao cumprimento de medida socioeducativa dessa natureza. Ocorre que não havia vaga na entidade de internação da comarca, pelo que Pedro foi recolhido a uma repartição policial, em seção isolada dos adultos e com instalações apropriadas, lá restando internado cautelarmente há vinte dias, aguardando o surgimento de vaga no estabelecimento dedicado. Com base nos fatos acima, assinale a afirmativa correta.",
+    "enunciado": "Pedro, adolescente de quinze anos, foi apreendido pela prática de ato infracional análogo ao crime de roubo. Realizados todos os procedimentos legais cabíveis, o juízo determinou cautelarmente que fosse recolhido à internação em instituição dedicada ao cumprimento de medida socioeducativa dessa natureza.\n\nOcorre que não havia vaga na entidade de internação da comarca, pelo que Pedro foi recolhido a uma repartição policial, em seção isolada dos adultos e com instalações apropriadas, lá restando internado cautelarmente há vinte dias, aguardando o surgimento de vaga no estabelecimento dedicado.\n\nCom base nos fatos acima, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A internação jamais poderá ser realizada em repartição policial, nem mesmo cautelarmente, mesmo que seja impossível a transferência imediata.",
       "B": "É admissível a intenação cautelar em estabelecimento policial ou prisional quando da situação exposta no enunciado, por prazo indeterminado, até que seja encontrada vaga em entidade apropriada.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 44,
-    "enunciado": "Roberta, 35 anos, descobriu que estava grávida e ficou muito preocupada, já que possui parcos recursos financeiros e acredita que não será uma boa mãe. Essa angústia desencadeou graves problemas que precisam ser tratados por meio de sessões com psicólogo(a) . Diante da falta de recursos financeiros para custear o profissional, Roberta lhe procura para obter orientação jurídica. De acordo com o Estatuto da Criança e do Adolescente (EC",
+    "enunciado": "Roberta, 35 anos, descobriu que estava grávida e ficou muito preocupada, já que possui parcos recursos financeiros e acredita que não será uma boa mãe. Essa angústia desencadeou graves problemas que precisam ser tratados por meio de sessões com psicólogo(a) .\n\nDiante da falta de recursos financeiros para custear o profissional, Roberta lhe procura para obter orientação jurídica. De acordo com o Estatuto da Criança e do Adolescente (ECA), assinale a orientação correta para o caso.",
     "alternativas": {
       "A": "Roberta não possui direito a assistência psicológica, por inexistir previsão legal.",
       "B": "O ECA garante o direito de assistência psicológica apenas no período pós-natal, caso se verifique que o estado puerperal pode prejudicar o desenvolvimento da criança.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 44,
-    "enunciado": "Matheus, 17 anos, insiste em passar longos períodos na rua, deixando de lado os deveres escolares e, também, os compromissos familiares. A rebeldia de Matheus é atribuída à ausência do pai, que abandonou a família logo após o seu nascimento e de quem nunca mais ele teve notícia. Carolina, preocupada com a situação do filho, busca a inserção de Matheus no mercado formal de trabalho e encontra a oportunidade em um grande supermercado da região. O estabelecimento necessita de uma pessoa para carregar as caixas de produtos e abastecer o mercado durante a madrugada, especificamente entre meia-noite e quatro horas da manhã. Entretanto, por ainda não ter atingido a maioridade, Carolina possui dúvidas sobre a possibilidade de Matheus trabalhar. Por isso, procura você, como advogado(a) , para ter s",
+    "enunciado": "Matheus, 17 anos, insiste em passar longos períodos na rua, deixando de lado os deveres escolares e, também, os compromissos familiares. A rebeldia de Matheus é atribuída à ausência do pai, que abandonou a família logo após o seu nascimento e de quem nunca mais ele teve notícia.\n\nCarolina, preocupada com a situação do filho, busca a inserção de Matheus no mercado formal de trabalho e encontra a oportunidade em um grande supermercado da região. O estabelecimento necessita de uma pessoa para carregar as caixas de produtos e abastecer o mercado durante a madrugada, especificamente entre meia-noite e quatro horas da manhã.\n\nEntretanto, por ainda não ter atingido a maioridade, Carolina possui dúvidas sobre a possibilidade de Matheus trabalhar. Por isso, procura você, como advogado(a) , para ter sua orientação jurídica.\n\nSobre a hipótese apresentada, assinale a afirmativa que, corretamente, apresenta a sua orientação.",
     "alternativas": {
       "A": "Matheus, por estar no final da adolescência, pode trabalhar sem restrições.",
       "B": "Matheus não pode ingressar no mercado formal de trabalho, por ainda não ter completado 18 anos.",

@@ -677,7 +677,7 @@
   </div>
 
   <script>
-    const questionsData = [{"num": 1, "id": 12, "exame": "42º Exame OAB", "tema": "Código Florestal (42º Exame OAB)", "enunciado": "Bruno pretende realizar supressão de vegetação nativa em Área de Preservação Permanente no interior de sua propriedade, a fim de viabilizar a implantação de trilhas para o desenvolvimento do ecoturismo. Miguel Tavares vendeu um imóvel para Margarida Pinto localizado na comarca de Caxias do Sul, RS. Ficou avençado que a imissão da posse ocorreria na celebração da escritura pública, e o pagamento seria feito em 48 prestações. Com objetivo de verificar a legalidade de seu projeto, Bruno consultou você, como advogado(a) . Você informou a seu cliente que, de acordo com o Código Florestal, a intervenção ou a supressão de vegetação nativa em Área de Preservação Permanente ocorrerá nas hipóteses previstas naquela Lei. Após o pagamento de 38 prestações, a compradora, em virtude de desemprego, passo", "opcoes": {"A": "Opção A", "B": "Opção B", "C": "Opção C", "D": "Opção D"}, "gabarito": "D", "core": true, "sintese": "<p><strong>Aguardando síntese didática / lógica do conceito.</strong><br>Questão oficial extraída do 42º Exame OAB. Gabarito definitivo: <strong>Alternativa D</strong>.</p>", "logica_conceito": "<p>Fundamentação teórica do tema <em>Código Florestal</em> pendente de elaboração pedagógica.</p>", "fundamentacao": "<p>Política Nacional do Meio Ambiente (Lei nº 6.938/1981), Código Florestal (Lei nº 12.651/2012) e CF/1988 (Art. 225).</p>", "dica": "<p>Analise a responsabilidade civil objetiva (risco integral), as fases do licenciamento e a proteção às APPs e Reserva Legal.</p>", "aula_comentario": "<p>Comentário em vídeo referente ao 42º Exame OAB.</p>", "analise": "<p>Análise detalhada das alternativas A, B, C e D em desenvolvimento.</p>"}];
+    const questionsData = [{"num": 1, "id": 1, "exame": "Exame OAB", "tema": "Questão Didática Modelo - Código Florestal (Lei 12.651/2012)", "enunciado": "<p>Aguardando extração das questões históricas dos últimos exames de Ordem para esta matéria.</p>", "opcoes": {"A": "Opção A (Aguardando povoamento)", "B": "Opção B (Aguardando povoamento)", "C": "Opção C (Aguardando povoamento)", "D": "Opção D (Aguardando povoamento)"}, "gabarito": "A", "core": true, "sintese": "<p>Síntese Didática Modelo</p>", "logica_conceito": "<p>Lógica do Conceito Modelo</p>", "fundamentacao": "<p>Lei nº 14.133/2021 (Nova Lei de Licitações) e legislação administrativa</p>", "dica": "<p>Dica Didática Modelo</p>", "aula_comentario": "<p>Comentário da Aula</p>", "analise": "<p>Análise detalhada das alternativas.</p>"}];
     
     let currentIndex = 0;
     let score = 0;
@@ -701,7 +701,7 @@
 
     function buildQuestionSlide(q, i) {
       let optionsHtml = '';
-      for (const [letter, text] of Object.entries(q.opcoes)) {
+      for (const [letter, text] of Object.entries(q.alternativas || q.opcoes || {})) {
         optionsHtml += `
           <button class="opt-btn" id="opt-${i}-${letter}" onclick="answerQuestion(${i}, '${letter}')">
             <span class="opt-letter">${letter}</span>
@@ -720,7 +720,7 @@
                 <div class="q-meta" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="q-num">Q${i + 1} / ${questionsData.length}</span>
                   ${q.exame ? `<span class="q-exame-badge" style="background:#ecfdf5; color:#047857; border:1px solid #a7f3d0; font-weight:700; border-radius:6px; padding:3px 8px; font-size:11px; letter-spacing:-0.2px; display:inline-flex; align-items:center;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>${q.exame}</span>` : ''}
-                  <span class="q-topic">${q.tema}</span>
+                  <span class="q-topic">${q.tema || q.modulo_nome || ""}</span>
                 </div>
                 <div class="timer-badge" id="timer-badge-${i}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>

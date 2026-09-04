@@ -1,12 +1,12 @@
 [
   {
     "num": 24,
-    "enunciado": "Depois de citado em Ação de Execução Fiscal movida pelo Estado Alfa, João não pagou o crédito tributário constante da Certidão de Dívida Ativa no valor de R$ 100.000,00 e nem ofereceu voluntariamente qualquer bem para garantir a execução. Em seguida, foi decretada e cumprida a penhora on line em dinheiro do valor total cobrado, que foi encontrado em uma de suas contas bancárias, constrição realizada através do SISBAJUD. João, por seu advogado(a), pretende oferecer em sua defesa os Embargos do Devedor, dentro do prazo legal. Para tal, ele terá 30 (trinta) dias para oferecer os Embargos do Devedor, contados",
+    "enunciado": "Depois de citado em Ação de Execução Fiscal movida pelo Estado\nAlfa, João não pagou o crédito tributário constante da Certidão de\nDívida Ativa no valor de R$ 100.000,00 e nem ofereceu\nvoluntariamente qualquer bem para garantir a execução.\nEm seguida, foi decretada e cumprida a penhora on line em dinheiro\ndo valor total cobrado, que foi encontrado em uma de suas contas\nbancárias, constrição realizada através do SISBAJUD.\nJoão, por seu advogado(a), pretende oferecer em sua defesa os\nEmbargos do Devedor, dentro do prazo legal. Para tal, ele terá 30\n(trinta) dias para oferecer os Embargos do Devedor, contados",
     "alternativas": {
       "A": "da sua citação para oferecer os Embargos do Devedor.",
-      "B": "do despacho do juiz que deferiu a inicial da ação de execução fiscal.",
+      "B": "do despacho do juiz que deferiu a inicial da ação de execução\nfiscal.",
       "C": "da efetiva intimação da penhora.",
-      "D": "da juntada aos autos do mandado de intimação da penhora devidamente cumprido."
+      "D": "da juntada aos autos do mandado de intimação da penhora\ndevidamente cumprido."
     },
     "gabarito": "C",
     "disciplina": "Direito Tributário",
@@ -20,7 +20,7 @@
   },
   {
     "num": 26,
-    "enunciado": "No ano de 2022, os sindicatos de enfermeiros e de médicos do Estado Alfa firmaram convenção coletiva de trabalho (CCT) com os hospitais daquele estado para que a remuneração paga pelo trabalho realizado nos plantões em final de semana passasse a ter a nomenclatura de “indenização de plantões”. Assim, não seria mais necessária a retenção na fonte do respectivo Imposto sobre a Renda de Pessoa Física (IRPF) quanto a esta parcela, aumentando, como consequência, o valor líquido de salário que os médicos e enfermeiros receberiam mensalmente. O médico João, que sempre cumpriu corretamente suas obrigações tributárias, preocupado com o decidido naquela CCT, procura o seu advogado para emitir um parecer sobre aquela situação. Diante desse cenário, à luz do Código Tributário Nacional, assinale a afir",
+    "enunciado": "No ano de 2022, os sindicatos de enfermeiros e de médicos do Estado Alfa firmaram convenção coletiva de trabalho (CCT) com os hospitais daquele estado para que a remuneração paga pelo trabalho realizado nos plantões em final de semana passasse a ter a nomenclatura de “indenização de plantões”. Assim, não seria mais necessária a retenção na fonte do respectivo Imposto sobre a Renda de Pessoa Física (IRPF) quanto a esta parcela, aumentando, como consequência, o valor líquido de salário que os médicos e enfermeiros receberiam mensalmente.\n\nO médico João, que sempre cumpriu corretamente suas obrigações tributárias, preocupado com o decidido naquela CCT, procura o seu advogado para emitir um parecer sobre aquela situação.\n\nDiante desse cenário, à luz do Código Tributário Nacional, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Em razão da natureza indenizatória que esta verba passou a ter, o IRPF não incide sobre tal parcela.",
       "B": "Embora não tenha caráter indenizatório, sobre tal parcela não haverá incidência de IRPF por se tratar de uma decisão tomada em convenção coletiva de trabalho (CCT).",
@@ -58,7 +58,7 @@
   },
   {
     "num": 27,
-    "enunciado": "A sociedade empresária ABC Ltda. teve um auto de infração lavrado contra si pelo Fisco federal, em junho de 2021, lançando de ofício valores de tributo federal não declarados, nem pagos, referentes a fatos geradores ocorridos em junho de 2017. A sociedade empresária impugnou o auto dentro do prazo, apontando a existência de vício formal, o que foi reconhecido pelo Fisco federal, que anulou tal lançamento em junho de 2022. Diante desse cenário e à luz do texto expresso do Código Tributário Nacional, assinale a afirmativa correta.",
+    "enunciado": "A sociedade empresária ABC Ltda. teve um auto de infração lavrado contra si pelo Fisco federal, em junho de 2021, lançando de ofício valores de tributo federal não declarados, nem pagos, referentes a fatos geradores ocorridos em junho de 2017.\n\nA sociedade empresária impugnou o auto dentro do prazo, apontando a existência de vício formal, o que foi reconhecido pelo Fisco federal, que anulou tal lançamento em junho de 2022.\n\nDiante desse cenário e à luz do texto expresso do Código Tributário Nacional, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O Fisco poderá efetuar novo lançamento, contando-se o prazo decadencial de 5 anos da data em que se tornou definitiva a decisão que anulou, por vício formal, o lançamento anteriormente efetuado.",
       "B": "O Fisco poderá efetuar novo lançamento, contando-se o prazo decadencial de 5 anos a partir de 1º/1/2023, primeiro dia do exercício seguinte àquele em que o novo lançamento poderia ter sido efetuado.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 25,
-    "enunciado": "Paulo, domiciliado em Ubatuba (SP), era proprietário de uma única embarcação automotora, que ficava ancorada em Paraty (RJ). Ele veio a falecer no início do ano de 2024, em Belo Horizonte (MG), durante visita à filha e única herdeira, Joana, domiciliada nesta mesma cidade. A filha, maior de idade e capaz, realizou o inventário extrajudicial de seu pai perante tabelião de Belo Horizonte (MG). De acordo com o texto da Constituição Federal de 1988, assinale a opção que indica, corretamente, o Estado em que o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) incidente sobre essa transmissão causa mortis é devido.",
+    "enunciado": "Paulo, domiciliado em Ubatuba (SP), era proprietário de uma única embarcação automotora, que ficava ancorada em Paraty (RJ).\n\nEle veio a falecer no início do ano de 2024, em Belo Horizonte (MG), durante visita à filha e única herdeira, Joana, domiciliada nesta mesma cidade. A filha, maior de idade e capaz, realizou o inventário extrajudicial de seu pai perante tabelião de Belo Horizonte (MG).\n\nDe acordo com o texto da Constituição Federal de 1988, assinale a opção que indica, corretamente, o Estado em que o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) incidente sobre essa transmissão causa mortis é devido.",
     "alternativas": {
       "A": "Minas Gerais, por ser o local onde se processou o inventário extrajudicial.",
       "B": "Minas Gerais, por ser o local de domicílio da única herdeira.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 28,
-    "enunciado": "Educando 100%, associação civil sem fins lucrativos, portadora de Certificado de Entidade Beneficente de Assistência Social (CEBAS), contratou a Construtora ABC Ltda. a fim de que esta realizasse a construção de um novo edifício para a entidade beneficente. Sobre o serviço de realização de obras incide o Imposto sobre Serviços (ISS), e a lei local, instituidora do tributo, estabeleceu que é obrigação da tomadora do serviço a retenção do ISS devido. Contudo, Educando 100% não reteve o ISS devido sobre a obra. A construtora prestadora do serviço também não efetuou o pagamento do ISS devido. Sobre a pretensão do Fisco de fazer a cobrança da dívida tributária, assinale a afirmativa correta.",
+    "enunciado": "Educando 100%, associação civil sem fins lucrativos, portadora de Certificado de Entidade Beneficente de Assistência Social (CEBAS), contratou a Construtora ABC Ltda. a fim de que esta realizasse a construção de um novo edifício para a entidade beneficente.\n\nSobre o serviço de realização de obras incide o Imposto sobre Serviços (ISS), e a lei local, instituidora do tributo, estabeleceu que é obrigação da tomadora do serviço a retenção do ISS devido. Contudo, Educando 100% não reteve o ISS devido sobre a obra. A construtora prestadora do serviço também não efetuou o pagamento do ISS devido.\n\nSobre a pretensão do Fisco de fazer a cobrança da dívida tributária, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A imunidade de Educando 100% impede que incida o ISS nessa prestação de serviços de obras.",
       "B": "Como responsável tributária pela retenção do ISS devido, Educando 100% pode ser cobrada pelo Fisco municipal.",

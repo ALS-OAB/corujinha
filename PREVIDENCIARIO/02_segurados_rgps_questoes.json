@@ -1,7 +1,7 @@
 [
   {
     "num": 70,
-    "enunciado": "Manoel, empresário do segmento de alimentação, desempenha suas atividades como sócio administrador de sua sociedade empresária, a qual desenvolve suas atividades em mais de uma cidade, recebendo seu pro-labore regularmente. Além da condição de empresário, Manoel também é engajado em diversas ações voluntárias em prol de pessoas carentes. Diante dessa realidade, sobre os direitos previdenciários de Manoel assinale a afirmativa correta.",
+    "enunciado": "Manoel, empresário do segmento de alimentação, desempenha suas atividades como sócio administrador de sua sociedade empresária, a qual desenvolve suas atividades em mais de uma cidade, recebendo seu pro-labore regularmente. Além da condição de empresário, Manoel também é engajado em diversas ações voluntárias em prol de pessoas carentes.\n\nDiante dessa realidade, sobre os direitos previdenciários de Manoel assinale a afirmativa correta.",
     "alternativas": {
       "A": "Devido à atividade beneficente de Manoel, ele poderá verter contribuições ao Regime Geral de Previdência Social na condição de facultativo, além de seus aportes como empresário.",
       "B": "Na condição de empresário administrador de sua sociedade empresária, Manoel é segurado obrigatório do Regime Geral de Previdência Social, como contribuinte individual.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 70,
-    "enunciado": "Manuela Dias, empregada doméstica, procurou você, como advogado(a) , para receber orientação jurídica para uma demanda relacionada a acidente de trabalho, que ocorreu durante os seus afazeres diários na residência da empregadora doméstica, que gerou incapacidade temporária. Assinale a opção que indica a orientação correta.",
+    "enunciado": "Manuela Dias, empregada doméstica, procurou você, como advogado(a) , para receber orientação jurídica para uma demanda relacionada a acidente de trabalho, que ocorreu durante os seus afazeres diários na residência da empregadora doméstica, que gerou incapacidade temporária.\n\nAssinale a opção que indica a orientação correta.",
     "alternativas": {
       "A": "Manuela poderá usufruir de benefício previdenciário por incapacidade temporária, ainda que possua menos de 12 contribuições mensais.",
       "B": "O acidente de trabalho somente será reconhecido como tal caso haja incapacidade mínima de seis meses para o trabalho, avaliada por perícia médica.",

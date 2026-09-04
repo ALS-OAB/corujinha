@@ -1,12 +1,12 @@
 [
   {
     "num": 67,
-    "enunciado": "Gregório é defensor público no Estado do Rio de Janeiro, cuja Constituição lhe assegura foro por prerrogativa de função no Tribunal de Justiça local. Durante o carnaval, na cidade de Salvador/BA, Gregório por acaso se encontra com seu irmão e inimigo capital Sandro em uma rua erma, durante a dispersão de bloco carnavalesco. Gregório então se aproveita da oportunidade para matar Sandro com golpes de espada. Assinale a opção que indica o foro competente para conhecer e julgar esse crime.",
+    "enunciado": "Gregório é defensor público no Estado do Rio de Janeiro, cuja\nConstituição lhe assegura foro por prerrogativa de função no Tribunal\nde Justiça local.\nDurante o carnaval, na cidade de Salvador/BA, Gregório por acaso se\nencontra com seu irmão e inimigo capital Sandro em uma rua erma,\ndurante a dispersão de bloco carnavalesco. Gregório então se\naproveita da oportunidade para matar Sandro com golpes de espada.\nAssinale a opção que indica o foro competente para conhecer e julgar\nesse crime.",
     "alternativas": {
       "A": "O Tribunal do Júri da Comarca de Salvador/BA.",
       "B": "O Tribunal de Justiça do Estado da Bahia.",
       "C": "O Tribunal do Júri da Comarca do Rio de Janeiro/RJ.",
-      "D": "O Tribunal de Justiça do Estado do Rio de Janeiro. 9 NIFICADO – TIPO 1 – BRANCA A EM 26/2/2023"
+      "D": "O Tribunal de Justiça do Estado do Rio de Janeiro."
     },
     "gabarito": "A",
     "disciplina": "Processo Penal",
@@ -20,7 +20,7 @@
   },
   {
     "num": 64,
-    "enunciado": "Júnior foi condenado pelo delito de latrocínio, na modalidade tentada, a uma pena de 8 (oito) anos e 6 (seis) meses de reclusão, a ser cumprida em regime inicial fechado, já tendo a sentença transitado em julgado, sem nulidade. Júnior inicia a execução das penas e procura você, na qualidade de advogado(a) . Assinale a afirmativa que apresenta, corretamente, a orientação jurídica que possibilita reduzir o tempo de encarceramento de Júnior.",
+    "enunciado": "Júnior foi condenado pelo delito de latrocínio, na modalidade tentada, a uma pena de 8 (oito) anos e 6 (seis) meses de reclusão, a ser cumprida em regime inicial fechado, já tendo a sentença transitado em julgado, sem nulidade. Júnior inicia a execução das penas e procura você, na qualidade de advogado(a) .\n\nAssinale a afirmativa que apresenta, corretamente, a orientação jurídica que possibilita reduzir o tempo de encarceramento de Júnior.",
     "alternativas": {
       "A": "Postular o perdão do ofendido e, assim, reduzir sua pena.",
       "B": "Aguardar o decreto presidencial de comutação de pena.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 66,
-    "enunciado": "Roberto Jorge, após regular pronúncia, foi levado a Júri, ocasião em que foi mantido algemado durante toda a sessão de julgamento, com a justificativa de ser pessoa de índole perigosa, já que responde à acusação por crime doloso contra a vida. A defesa técnica impugnou, sem sucesso, a determinação do Juízo. O Ministério Público, em plenário, postulou a condenação do acusado, asseverando que sua periculosidade fica comprovada pela necessidade do uso de algemas durante o julgamento. Roberto Jorge foi condenado pelo Conselho de Sentença, tendo sido aplicada pena privativa de liberdade de 15 (quinze) anos de reclusão. Você, como advogado(a) de Roberto Jorge, interpôs apelação criminal. Assinale a afirmativa que apresenta, corretamente, o objetivo da sua demanda.",
+    "enunciado": "Roberto Jorge, após regular pronúncia, foi levado a Júri, ocasião em que foi mantido algemado durante toda a sessão de julgamento, com a justificativa de ser pessoa de índole perigosa, já que responde à acusação por crime doloso contra a vida. A defesa técnica impugnou, sem sucesso, a determinação do Juízo.\n\nO Ministério Público, em plenário, postulou a condenação do acusado, asseverando que sua periculosidade fica comprovada pela necessidade do uso de algemas durante o julgamento.\n\nRoberto Jorge foi condenado pelo Conselho de Sentença, tendo sido aplicada pena privativa de liberdade de 15 (quinze) anos de reclusão. Você, como advogado(a) de Roberto Jorge, interpôs apelação criminal.\n\nAssinale a afirmativa que apresenta, corretamente, o objetivo da sua demanda.",
     "alternativas": {
       "A": "Postular a reforma da sentença, com a absolvição do acusado, pois este foi prejudicado no julgamento em razão do uso artbitrário de algemas.",
       "B": "Arguir a nulidade posterior à pronúncia, em razão da manutenção do réu algemado, sem necessidade concreta, e da referência a este fato pelo órgão do Ministério Público.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 65,
-    "enunciado": "Fábio foi submetido a julgamento pelo Tribunal do Júri e, ao final, condenado a uma pena de 15 anos de reclusão, em regime inicial fechado. Você, como advogado(a) de Fábio, interpôs tempestivo e cabível recurso. Assinale a opção que indica o recurso correto interposto e/ou suas características.",
+    "enunciado": "Fábio foi submetido a julgamento pelo Tribunal do Júri e, ao final, condenado a uma pena de 15 anos de reclusão, em regime inicial fechado. Você, como advogado(a) de Fábio, interpôs tempestivo e cabível recurso.\n\nAssinale a opção que indica o recurso correto interposto e/ou suas características.",
     "alternativas": {
       "A": "O recurso cabível é de apelação e o efeito devolutivo é restrito aos fundamentos de interposição.",
       "B": "A alegação de decisão manifestamente contrária à prova dos autos só pode ser repetida por, no máximo, três vezes.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 63,
-    "enunciado": "Lucas era investigado por estupro de vulnerável, pois, de acordo com as investigações, teria mantido relações sexuais com pessoa menor de 14 anos. A partir de indícios concretos, a 1ª Vara Criminal da Comarca correspondente ao local dos fatos expediu mandado de busca e apreensão de aparelhos eletrônicos de Lucas, após regular requerimento do Ministério Público. Nos dispositivos eletrônicos apreendidos foram localizados diversos arquivos, cujo conteúdo apresentava abuso sexual infantil, armazenados e compartilhados nas redes sociais, acessíveis de qualquer lugar do país e do exterior, sem se confirmar, contudo, a hipótese inicial de estupro de vulnerável. Assim, Lucas foi denunciado como incurso nas penas do **Art. 241** A e do **Art. 241** -B, ambos do ECA (divulgação e armazenamento de co",
+    "enunciado": "Lucas era investigado por estupro de vulnerável, pois, de acordo com as investigações, teria mantido relações sexuais com pessoa menor de 14 anos. A partir de indícios concretos, a 1ª Vara Criminal da Comarca correspondente ao local dos fatos expediu mandado de busca e apreensão de aparelhos eletrônicos de Lucas, após regular requerimento do Ministério Público.\n\nNos dispositivos eletrônicos apreendidos foram localizados diversos arquivos, cujo conteúdo apresentava abuso sexual infantil, armazenados e compartilhados nas redes sociais, acessíveis de qualquer lugar do país e do exterior, sem se confirmar, contudo, a hipótese inicial de estupro de vulnerável.\n\nAssim, Lucas foi denunciado como incurso nas penas do \n\n**Art. 241**\nA e do \n\n**Art. 241**\n-B, ambos do ECA (divulgação e armazenamento de conteúdo pornográfico envolvendo criança ou adolescent\n\ne) . A sentença foi proferida pelo Juiz de Direito da 1ª Vara Criminal da Comarca, tendo sido confirmada pelo Tribunal de Justiça correspondente, e transitada em julgado, condenando Lucas a 5 anos de reclusão, em regime semiaberto.\n\nA respeito dos fatos, assinale a opção que apresenta, corretamente, a providência de Direito Processual Penal que o(a) advogado(a) deve adotar.",
     "alternativas": {
       "A": "A ocorrência do trânsito em julgado impede que sejam suscitadas questões processuais atinentes à nulidade ou à incompetência absoluta, admitindo-se a rediscussão dos fatos apenas se for baseada em prova nova, mediante revisão criminal.",
       "B": "Pode ser alegada a nulidade da busca e apreensão e de todos os atos dela decorrentes, diante da incompetência absoluta do Juízo que determinou a diligência, impetrando-se habeas corpus.",

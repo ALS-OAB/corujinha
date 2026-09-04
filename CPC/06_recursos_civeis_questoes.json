@@ -1,12 +1,12 @@
 [
   {
     "num": 54,
-    "enunciado": "Vitor, residente em Salvador/BA, precisou se mudar para Fortaleza/CE, por motivos profissionais. Para realizar sua mudança, propôs pagar uma quantia de R$ 10.000,00 (dez mil reais) para Danilo e Juarez, além de arcar com todos os custos da viagem. Por não ter acompanhado o serviço, Vitor não sabe quem efetivamente o fez. Após o término da mudança, Vitor tentou quitar a dívida, mas não sabia a quem pagar, pois ambos afirmaram ser titulares do crédito. Sendo assim, procurou você, como advogado(a), pois queria fazer o pagamento de forma consignada para extinguir a obrigação. Na qualidade de advogado de Vitor, assinale a opção que indica a posição acertada no tocante ao procedimento especial de ação de consignação em pagamento.",
+    "enunciado": "Vitor, residente em Salvador/BA, precisou se mudar para\nFortaleza/CE, por motivos profissionais. Para realizar sua mudança,\npropôs pagar uma quantia de R$ 10.000,00 (dez mil reais) para Danilo\ne Juarez, além de arcar com todos os custos da viagem.\nPor não ter acompanhado o serviço, Vitor não sabe quem\nefetivamente o fez. Após o término da mudança, Vitor tentou quitar\na dívida, mas não sabia a quem pagar, pois ambos afirmaram ser\ntitulares do crédito. Sendo assim, procurou você, como advogado(a),\npois queria fazer o pagamento de forma consignada para extinguir a\nobrigação.\nNa qualidade de advogado de Vitor, assinale a opção que indica a\nposição acertada no tocante ao procedimento especial de ação de\nconsignação em pagamento.",
     "alternativas": {
-      "A": "Vitor requererá o depósito e a citação de Danilo, e, caso posteriormente se entenda não ser ele o titular, fará a citação de Juarez.",
-      "B": "Vitor não deve requerer o depósito, devendo no primeiro momento requerer a citação de todos os possíveis titulares do crédito, para que, após essa decisão, discuta-se o crédito devido.",
-      "C": "Vitor requererá o depósito e a citação dos possíveis titulares do crédito para provarem o seu direito.",
-      "D": "Vitor requererá o depósito e a citação de Juarez, e, caso posteriormente se entenda não ser ele o titular, fará o chamamento ao processo de Danilo. 16 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "Vitor requererá o depósito e a citação de Danilo, e, caso\nposteriormente se entenda não ser ele o titular, fará a citação de\nJuarez.",
+      "B": "Vitor não deve requerer o depósito, devendo no primeiro\nmomento requerer a citação de todos os possíveis titulares do\ncrédito, para que, após essa decisão, discuta-se o crédito devido.",
+      "C": "Vitor requererá o depósito e a citação dos possíveis titulares do\ncrédito para provarem o seu direito.",
+      "D": "Vitor requererá o depósito e a citação de Juarez, e, caso\nposteriormente se entenda não ser ele o titular, fará o\nchamamento ao processo de Danilo."
     },
     "gabarito": "C",
     "disciplina": "Processo Civil",
@@ -20,7 +20,7 @@
   },
   {
     "num": 51,
-    "enunciado": "Em determinada demanda judicial cível é proferida sentença de procedência do pedido autoral, com a condenação da sociedade empresária ré ao pagamento de determinado valor a título de reparação por dano material. Com o trânsito em julgado, o autor inicia a fase de cumprimento de sentença e, após alguns meses e diversas tentativas, sem sucesso, de penhora de bens do réu, apresenta requerimento de instauração do incidente de desconsideração da personalidade jurídica. Você, na condição de advogado(a) , é procurado(a) pelo réu, buscando saber sobre o incidente em questão. Assinale a opção que apresenta, corretamente, sua orientação.",
+    "enunciado": "Em determinada demanda judicial cível é proferida sentença de procedência do pedido autoral, com a condenação da sociedade empresária ré ao pagamento de determinado valor a título de reparação por dano material.\n\nCom o trânsito em julgado, o autor inicia a fase de cumprimento de sentença e, após alguns meses e diversas tentativas, sem sucesso, de penhora de bens do réu, apresenta requerimento de instauração do incidente de desconsideração da personalidade jurídica.\n\nVocê, na condição de advogado(a) , é procurado(a) pelo réu, buscando saber sobre o incidente em questão. Assinale a opção que apresenta, corretamente, sua orientação.",
     "alternativas": {
       "A": "O referido incidente não é cabível no procedimento comum, sendo restrito ao âmbito da execução fiscal de débitos tributários.",
       "B": "A instauração do mencionado incidente suspende o processo e sua resolução se dá por decisão interlocutória.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 53,
-    "enunciado": "O engenheiro civil José Carlos Silva trabalha em Aracaju/SE. Ele realizou a reforma da casa de Luzia, no valor de R$ 15.000,00 (quinze mil reai s) . O serviço foi devidamente prestado, sem qualquer reclamação por eventuais falhas por parte de Luzia. Contudo, Luzia não efetuou o pagamento no prazo estipulado. José Carlos procurou Luzia para resolver o pagamento da dívida sem buscar o Poder Judiciário e, após diversas tratativas, Luzia assinou um documento particular em que reconhece a dívida de R$ 15.000,00 (quinze mil reai s) . O referido instrumento também foi assinado por duas testemunhas. Porém, no prazo estipulado para cumprimento da obrigação, Luzia não efetuou o pagamento e José Carlos ajuizou uma execução de título extrajudicial em face de Luzia. Depois da citação e da ausência do p",
+    "enunciado": "O engenheiro civil José Carlos Silva trabalha em Aracaju/SE. Ele realizou a reforma da casa de Luzia, no valor de R$ 15.000,00 (quinze mil reai\n\ns) . O serviço foi devidamente prestado, sem qualquer reclamação por eventuais falhas por parte de Luzia. Contudo, Luzia não efetuou o pagamento no prazo estipulado.\n\nJosé Carlos procurou Luzia para resolver o pagamento da dívida sem buscar o Poder Judiciário e, após diversas tratativas, Luzia assinou um documento particular em que reconhece a dívida de R$ 15.000,00 (quinze mil reai\n\ns) . O referido instrumento também foi assinado por duas testemunhas. Porém, no prazo estipulado para cumprimento da obrigação, Luzia não efetuou o pagamento e José Carlos ajuizou uma execução de título extrajudicial em face de Luzia.\n\nDepois da citação e da ausência do pagamento de Luzia, José Carlos pede ao Juiz que Luzia indique bens sujeitos à penhora, sob pena de multa, pois caso não indique, sua conduta poderá ser considerada atentatória à dignidade da justiça.\n\nSobre o requerimento de José Carlos, assinale a afirmativa correta.",
     "alternativas": {
       "A": "José Carlos não poderá efetuar esse requerimento, pois não é possível o arbitramento de multa caso Luzia não indique bens sujeitos à penhora.",
       "B": "José Carlos poderá efetuar esse requerimento, sendo considerada atentatória à dignidade da justiça conduta comissiva ou omissiva da executada que intimada, não indica ao juiz quais são e onde estão os bens sujeitos à penhora e os respectivos valores, nem exibe prova de sua propriedade e, se for o caso, a certidão negativa de ônus.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 56,
-    "enunciado": "Silene ajuizou ação de divórcio, cumulada com pedido de fixação de alimentos, em face de Jonas. O juiz, em sede de decisão de saneamento e organização do processo, entendeu que o pedido de divórcio estava apto para julgamento e, no que se refere à pretensão de alimentos, determinou a produção de prova oral, consistente em depoimento pessoal e prova testemunhal, bem como de prova documental suplementar. Ato contínuo, por meio de decisão interlocutória, o juiz julgou procedente o pedido de divórcio, e determinou o prosseguimento do processo para a fase instrutória em relação ao pedido de fixação de alimentos. Tomando o caso concreto como premissa, assinale a afirmativa correta.",
+    "enunciado": "Silene ajuizou ação de divórcio, cumulada com pedido de fixação de alimentos, em face de Jonas. O juiz, em sede de decisão de saneamento e organização do processo, entendeu que o pedido de divórcio estava apto para julgamento e, no que se refere à pretensão de alimentos, determinou a produção de prova oral, consistente em depoimento pessoal e prova testemunhal, bem como de prova documental suplementar.\n\nAto contínuo, por meio de decisão interlocutória, o juiz julgou procedente o pedido de divórcio, e determinou o prosseguimento do processo para a fase instrutória em relação ao pedido de fixação de alimentos.\n\nTomando o caso concreto como premissa, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A decisão de julgamento do pedido de divórcio poderá ser impugnada por agravo de instrumento.",
       "B": "O número de testemunhas arroladas não poderá ser superior a cinco, sendo duas, no máximo, para cada fato.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 52,
-    "enunciado": "Você, como advogado(a) , foi procurado(a) por Joana e por Regina, cada uma pretendendo propor ação reparatória perante os Juizados Especiais Cíveis. Joana deseja ajuizar ação para cobrar o equivalente a 100 salários mínimos, ao passo que Regina pretende cobrar o correspondente a 30 salários mínimos. Sobre as ações pretendidas por Joana e Regina, assinale a afirmativa correta.",
+    "enunciado": "Você, como advogado(a) , foi procurado(a) por Joana e por Regina, cada uma pretendendo propor ação reparatória perante os Juizados Especiais Cíveis. Joana deseja ajuizar ação para cobrar o equivalente a 100 salários mínimos, ao passo que Regina pretende cobrar o correspondente a 30 salários mínimos.\n\nSobre as ações pretendidas por Joana e Regina, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Regina poderá propor ação sem advogado, pois nas causas de até 30 salários mínimos não é obrigatória a assistência de advogado.",
       "B": "Em nenhuma hipótese Joana poderá ingressar no Juizado Especial Cível, pois este não tem competência para processar causas cujo valor exceda a 40 salários mínimos, independentemente da matéria.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 54,
-    "enunciado": "Juliana e André foram casados por anos, tiveram um filho que atualmente está com 6 anos, mas, por adversidades conjugais, resolveram pôr fim ao casamento. Após a separação, o filho ficou residindo com a mãe em cidade distinta do pai. Considerando que não tem mais volta a relação conjugal, Juliana, por meio do seu advogado, deseja propor ação de divórcio e guarda. Sobre o caso, assinale a afirmativa correta.",
+    "enunciado": "Juliana e André foram casados por anos, tiveram um filho que atualmente está com 6 anos, mas, por adversidades conjugais, resolveram pôr fim ao casamento. Após a separação, o filho ficou residindo com a mãe em cidade distinta do pai.\n\nConsiderando que não tem mais volta a relação conjugal, Juliana, por meio do seu advogado, deseja propor ação de divórcio e guarda.\n\nSobre o caso, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A ação de divórcio e guarda deve tramitar em segredo de justiça.",
       "B": "A ação de divórcio e guarda deve ser proposta no domicílio de André.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 56,
-    "enunciado": "Joana ajuizou ação em face de Pietra, cirurgiã plástica, requerendo a sua condenação ao pagamento de danos morais e estéticos, resultantes de procedimento estético malsucedido. Ocorre que, anteriormente, em decisão transitada em julgado, fundada na mesma causa de pedir e contra a mesma profissional, um pedido idêntico de Joana foi julgado improcedente em face de Pietra, sob o fundamento de que não restou comprovada conduta negligente de Pietra, a ensejar a sua condenação. Em tal hipótese, assinale a opção que indica o fenômeno processual cabível para extinguir a ação proposta por Joana.",
+    "enunciado": "Joana ajuizou ação em face de Pietra, cirurgiã plástica, requerendo a sua condenação ao pagamento de danos morais e estéticos, resultantes de procedimento estético malsucedido.\n\nOcorre que, anteriormente, em decisão transitada em julgado, fundada na mesma causa de pedir e contra a mesma profissional, um pedido idêntico de Joana foi julgado improcedente em face de Pietra, sob o fundamento de que não restou comprovada conduta negligente de Pietra, a ensejar a sua condenação.\n\nEm tal hipótese, assinale a opção que indica o fenômeno processual cabível para extinguir a ação proposta por Joana.",
     "alternativas": {
       "A": "Conexão, por ser comum o pedido e a causa de pedir.",
       "B": "Litispendência, por se repetir ação já proposta e em curso.",

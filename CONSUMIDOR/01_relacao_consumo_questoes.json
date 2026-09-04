@@ -1,12 +1,12 @@
 [
   {
     "num": 42,
-    "enunciado": "A entidade governamental Casa dos Anjos, destinada a programa de internação de adolescentes em conflito com a lei, recebeu inspeção de fiscalização por parte do Ministério Público. Nesta visita, restou constatado que a instituição não dispunha de diversos elementos essenciais para a manutenção condigna dos adolescentes sujeitos à medida socioeducativa, inexistindo, por exemplo, cuidados médicos, psicológicos, odontológicos e farmacêuticos adequados. Com base nos fatos acima, assinale a afirmativa correta.",
+    "enunciado": "A entidade governamental Casa dos Anjos, destinada a programa de\ninternação de adolescentes em conflito com a lei, recebeu inspeção\nde fiscalização por parte do Ministério Público.\nNesta visita, restou constatado que a instituição não dispunha de\ndiversos elementos essenciais para a manutenção condigna dos\nadolescentes sujeitos à medida socioeducativa, inexistindo, por\nexemplo, cuidados médicos, psicológicos, odontológicos e\nfarmacêuticos adequados.\nCom base nos fatos acima, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Poderá ser interrompido o repasse de verbas públicas para a entidade, enquanto ela não sanar as irregularidades.",
-      "B": "Poderá ser determinado o afastamento temporário dos dirigentes da Casa dos Anjos.",
+      "A": "Poderá ser interrompido o repasse de verbas públicas para a\nentidade, enquanto ela não sanar as irregularidades.",
+      "B": "Poderá ser determinado o afastamento temporário dos\ndirigentes da Casa dos Anjos.",
       "C": "Poderá haver a cassação do registro da instituição em questão.",
-      "D": "Tratando-se de entidade governamental, não há medidas sancionatórias específicas cabíveis."
+      "D": "Tratando-se de entidade governamental, não há medidas\nsancionatórias específicas cabíveis."
     },
     "gabarito": "B",
     "disciplina": "Direito do Consumidor",
@@ -20,7 +20,7 @@
   },
   {
     "num": 46,
-    "enunciado": "Jordana, aposentada, 89 anos, o(a) procurou como advogado(a) porque fora atraída por ligação telefônica da instituição financeira Banco Mútuo S.A., que anunciava oferta de crédito sem análise da situação financeira do consumidor. Jordana, que à época da oferta do crédito estava em situação financeira muito difícil, contratou a abertura de crédito. Diante do valor reduzido de sua aposentadoria e dos compromissos indispensáveis ao lar e à saúde, celebrados ao longo do ano, não tem mais como pagar todas as dívidas, que a cada mês ficam maiores. Diante da situação hipotética apresentada, assinale a afirmativa correta.",
+    "enunciado": "Jordana, aposentada, 89 anos, o(a) procurou como advogado(a) porque fora atraída por ligação telefônica da instituição financeira Banco Mútuo S.A., que anunciava oferta de crédito sem análise da situação financeira do consumidor.\n\nJordana, que à época da oferta do crédito estava em situação financeira muito difícil, contratou a abertura de crédito. Diante do valor reduzido de sua aposentadoria e dos compromissos indispensáveis ao lar e à saúde, celebrados ao longo do ano, não tem mais como pagar todas as dívidas, que a cada mês ficam maiores.\n\nDiante da situação hipotética apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É direito básico do consumidor a garantia de práticas de crédito responsável, bem como a proteção contra a publicidade enganosa.",
       "B": "Para responsabilizar o Banco Mútuo S.A., impondo-lhe a obrigação de indenizar, é necessário comprovar o ato de negligência do preposto do banco.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 45,
-    "enunciado": "Mário, passando por dificuldades financeiras, solicitou, em juízo, a instauração de processo de repactuação de dívidas, que é deferido juntamente com a designação de audiência conciliatória. Na data fixada, a maior parte dos credores compareceu, com exceção do Banco XYZ S.A., que preferiu não se submeter à conciliação por superendividamento, por entender ser infrutífero o procedimento. A respeito da ausência do Banco XYZ S.A. à audiência, assinale a afirmativa correta.",
+    "enunciado": "Mário, passando por dificuldades financeiras, solicitou, em juízo, a instauração de processo de repactuação de dívidas, que é deferido juntamente com a designação de audiência conciliatória.\n\nNa data fixada, a maior parte dos credores compareceu, com exceção do Banco XYZ S.A., que preferiu não se submeter à conciliação por superendividamento, por entender ser infrutífero o procedimento.\n\nA respeito da ausência do Banco XYZ S.A. à audiência, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Acarreta o vencimento antecipado da dívida de Mário.",
       "B": "Interrompe os encargos da mora incidentes em seu crédito.",

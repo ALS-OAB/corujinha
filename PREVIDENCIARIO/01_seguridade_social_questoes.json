@@ -39,7 +39,7 @@
   },
   {
     "num": 69,
-    "enunciado": "Antônio José, segurado obrigatório do Regime Geral de Previdência Social, completou 65 anos de idade, após 30 anos ininterruptos de atividade remunerada como segurado empregado. Diante disso, procurou você, como advogado(a) , para ser orientado sobre sua aposentadoria. Assinale a opção que apresenta, corretamente, a sua orientação.",
+    "enunciado": "Antônio José, segurado obrigatório do Regime Geral de Previdência Social, completou 65 anos de idade, após 30 anos ininterruptos de atividade remunerada como segurado empregado.\n\nDiante disso, procurou você, como advogado(a) , para ser orientado sobre sua aposentadoria. Assinale a opção que apresenta, corretamente, a sua orientação.",
     "alternativas": {
       "A": "Antônio não possui carência para fins de aposentadoria.",
       "B": "Antônio já possui idade e carência para fins de aposentadoria.",

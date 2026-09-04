@@ -1,7 +1,7 @@
 [
   {
     "num": 19,
-    "enunciado": "Depois de ser convidado para concorrer a um cargo eletivo pelo partido político Alfa, Antônio expressou sua preocupação com os custos de uma campanha eleitoral. Afinal, embora popular, era pessoa humilde e não poderia arcar com esses custos. Para tranquilizá-lo, Maria, presidente de Alfa, informou que seriam utilizados recursos do Fundo Especial de Financiamento de Campanha (FEFC). A respeito do destinatário dos recursos a serem entregues pelo Tribunal Superior Eleitoral, assinale a afirmativa correta.",
+    "enunciado": "Depois de ser convidado para concorrer a um cargo eletivo pelo partido político Alfa, Antônio expressou sua preocupação com os custos de uma campanha eleitoral. Afinal, embora popular, era pessoa humilde e não poderia arcar com esses custos. Para tranquilizá-lo, Maria, presidente de Alfa, informou que seriam utilizados recursos do Fundo Especial de Financiamento de Campanha (FEFC).\n\nA respeito do destinatário dos recursos a serem entregues pelo Tribunal Superior Eleitoral, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Os partidos políticos devem receber os recursos e os distribuir, de forma isonômica, entre os seus candidatos.",
       "B": "Os recursos devem ser encaminhados diretamente aos candidatos, o que deve ser feito de maneira isonômica.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 19,
-    "enunciado": "João, prefeito do Município Alfa, no ano em que seriam realizadas eleições municipais, cedeu, de maneira gratuita, o uso de um prédio público, mais especificamente de uma escola pública, fora do horário de aulas, para que os partidos políticos pudessem promover as convenções partidárias nas quais seriam escolhidos os candidatos ao pleito. Ana, cidadã com elevado senso cívico, consultou você, como advogado(a) , sobre a compatibilidade dessa medida com a legislação eleitoral. Em relação à atitude de João, assinale a afirmativa correta.",
+    "enunciado": "João, prefeito do Município Alfa, no ano em que seriam realizadas eleições municipais, cedeu, de maneira gratuita, o uso de um prédio público, mais especificamente de uma escola pública, fora do horário de aulas, para que os partidos políticos pudessem promover as convenções partidárias nas quais seriam escolhidos os candidatos ao pleito.\n\nAna, cidadã com elevado senso cívico, consultou você, como advogado(a) , sobre a compatibilidade dessa medida com a legislação eleitoral.\n\nEm relação à atitude de João, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A decisão proferida gera prejuízo ao erário, pois, embora o prédio público possa ser utilizado pelos partidos políticos para a finalidade indicada, deveria ser pago aluguel.",
       "B": "João decidiu de maneira harmônica com a legislação eleitoral, pois o prédio público não pode ser utilizado para finalidades privadas, estando configurada uma conduta vedada aos AGT_Agentes públicos em campanhas eleitorais.",

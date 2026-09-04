@@ -1,7 +1,7 @@
 [
   {
     "num": 25,
-    "enunciado": "A Sociedade Empresária Aguardente 100% Ltda., fabricante de bebidas destiladas, por meio de sua advogada Sophia, protocolou perante a Secretaria Especial da Receita Federal do Brasil, ainda dentro do prazo legal para pagamento, consulta referente à necessidade de recolhimento de Imposto sobre Produtos Industrializados (IPI) acerca de operação específica por ela desempenhada. Escoado o prazo original para pagamento e ainda não decidida a consulta, à luz do Código Tributário Nacional (CTN) assinale a afirmativa correta.",
+    "enunciado": "A Sociedade Empresária Aguardente 100% Ltda., fabricante de bebidas destiladas, por meio de sua advogada Sophia, protocolou perante a Secretaria Especial da Receita Federal do Brasil, ainda dentro do prazo legal para pagamento, consulta referente à necessidade de recolhimento de Imposto sobre Produtos Industrializados (IPI) acerca de operação específica por ela desempenhada.\n\nEscoado o prazo original para pagamento e ainda não decidida a consulta, à luz do Código Tributário Nacional (CTN) assinale a afirmativa correta.",
     "alternativas": {
       "A": "Aguardente 100% Ltda. poderá ter cobrados contra si juros de mora que correm mesmo na pendência da consulta tributária.",
       "B": "Por ocasião da decisão final da consulta, o Fisco federal poderá impor multa tributária caso a solução de consulta seja contrária aos interesses de Aguardente 100% Ltda.",
@@ -21,7 +21,7 @@
   },
   {
     "num": 28,
-    "enunciado": "Diante da calamidade pública decretada pela União, por força da pandemia da “Gripe-22XY”, foi editada a Lei Ordinária Federal - nº XX/2022, de 01/05/2022, estabelecendo sua vigência e eficácia imediata, instituindo empréstimo compulsório para atender a despesas extraordinárias na área sanitária para enfrentamento da pandemia. Diante desse cenário, a instituição e a cobrança do empréstimo compulsório",
+    "enunciado": "Diante da calamidade pública decretada pela União, por força da pandemia da “Gripe-22XY”, foi editada a Lei Ordinária Federal\n\n- nº XX/2022, de 01/05/2022, estabelecendo sua vigência e eficácia imediata, instituindo empréstimo compulsório para atender a despesas extraordinárias na área sanitária para enfrentamento da pandemia. Diante desse cenário, a instituição e a cobrança do empréstimo compulsório",
     "alternativas": {
       "A": "podem ser feitas, por cumprir o requisito constitucional de ser voltada a “atender a despesas extraordinárias, decorrentes de calamidade pública”.",
       "B": "são válidas, por atenderem ao princípio da legalidade tributária.",
@@ -40,7 +40,7 @@
   },
   {
     "num": 26,
-    "enunciado": "Um deputado estadual desejava conceder benefício fiscal na modalidade de crédito presumido de ICMS em favor de bares e restaurantes situados no Estado Alfa, de modo a fomentar esse setor comercial. Por isso, propôs projeto de lei com esse fim, o qual foi aprovado por maioria simples na Assembleia Legislativa e sancionado pelo governador. Acerca desse cenário, assinale a afirmativa correta.",
+    "enunciado": "Um deputado estadual desejava conceder benefício fiscal na modalidade de crédito presumido de ICMS em favor de bares e restaurantes situados no Estado Alfa, de modo a fomentar esse setor comercial. Por isso, propôs projeto de lei com esse fim, o qual foi aprovado por maioria simples na Assembleia Legislativa e sancionado pelo governador.\n\nAcerca desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Tal projeto de lei deveria ter sido aprovado por maioria absoluta, e não por maioria simples, na Assembleia Legislativa.",
       "B": "A iniciativa desse projeto de lei era privativa do governador.",
@@ -59,7 +59,7 @@
   },
   {
     "num": 29,
-    "enunciado": "Uma lei municipal do Município Alfa concedia isenção do IPTU a determinado segmento econômico. Contudo, em razão de dificuldades financeiras municipais, tal isenção foi revogada por nova lei, publicada em 20/2/2024, que estabelecia a produção de seus efeitos a partir de 1º/6/2024. A sociedade empresária ABC Ltda., que deixaria de ser beneficiada, questionou você, como advogado(a) , para saber se tal lei revogadora não feriria as garantias tributárias constitucionais desse segmento. Diante desse cenário, assinale a opção que apresenta, corretamente, sua orientação.",
+    "enunciado": "Uma lei municipal do Município Alfa concedia isenção do IPTU a determinado segmento econômico. Contudo, em razão de dificuldades financeiras municipais, tal isenção foi revogada por nova lei, publicada em 20/2/2024, que estabelecia a produção de seus efeitos a partir de 1º/6/2024.\n\nA sociedade empresária ABC Ltda., que deixaria de ser beneficiada, questionou você, como advogado(a) , para saber se tal lei revogadora não feriria as garantias tributárias constitucionais desse segmento.\n\nDiante desse cenário, assinale a opção que apresenta, corretamente, sua orientação.",
     "alternativas": {
       "A": "Seria necessária a alteração na Lei Orgânica do Município para revogar a isenção que favorecia a sociedade ABC Ltda.",
       "B": "Por configurar cláusula pétrea, a isenção que favorecia a sociedade ABC Ltda. não poderia ser revogada, nem mesmo por emenda constitucional.",
@@ -78,7 +78,7 @@
   },
   {
     "num": 27,
-    "enunciado": "Uma sociedade empresária do setor petrolífero adquiriu uma Unidade Flutuante de Produção, Armazenamento e Transferência de Petróleo, a fim de produzir petróleo nas águas territoriais brasileiras. Esta Unidade tem capacidade de se locomover pelas águas por meio de MTR_Motores próprios, razão pela qual o Estado Alfa, onde fica o domicílio da sociedade empresária, publicou, em 10/02/2024, lei estadual ordinária estabelecendo que a propriedade de tais Unidades configura fato gerador de IPVA. Diante desse cenário, assinale a afirmativa correta.",
+    "enunciado": "Uma sociedade empresária do setor petrolífero adquiriu uma Unidade Flutuante de Produção, Armazenamento e Transferência de Petróleo, a fim de produzir petróleo nas águas territoriais brasileiras.\n\nEsta Unidade tem capacidade de se locomover pelas águas por meio de MTR_Motores próprios, razão pela qual o Estado Alfa, onde fica o domicílio da sociedade empresária, publicou, em 10/02/2024, lei estadual ordinária estabelecendo que a propriedade de tais Unidades configura fato gerador de IPVA.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Embora se trate de veículo automotor, a Constituição Federal proíbe a incidência de IPVA sobre quaisquer veículos aquáticos.",
       "B": "O IPVA não pode incidir sobre veículo que é utilizado nas águas territoriais brasileiras, mas apenas se fosse utilizado em terra.",
@@ -97,7 +97,7 @@
   },
   {
     "num": 25,
-    "enunciado": "Com necessidade de ampliar os gastos na área da seguridade social, a União criou uma nova contribuição de seguridade social, por meio da Lei Ordinária nº XXX/2024, publicada em 1º de setembro de 2024, cuja cobrança se iniciou em 1º de novembro de 2024. Diante desse cenário, assinale a afirmativa correta.",
+    "enunciado": "Com necessidade de ampliar os gastos na área da seguridade social, a União criou uma nova contribuição de seguridade social, por meio da Lei Ordinária nº XXX/2024, publicada em 1º de setembro de 2024, cuja cobrança se iniciou em 1º de novembro de 2024.\n\nDiante desse cenário, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A Lei Ordinária nº XXX/2024 é inconstitucional por violar tanto a reserva de lei complementar como os princípios da anterioridade tributária anual e nonagesimal.",
       "B": "Embora não viole o princípio da anterioridade tributária anual, a Lei Ordinária nº XXX/2024 é inconstitucional por violar tanto a reserva de lei complementar como o princípio da anterioridade tributária nonagesimal.",

@@ -1,7 +1,7 @@
 [
   {
     "num": 38,
-    "enunciado": "Joaquim estava jantando com sua família em um restaurante, quando percebeu que sua filha tinha iniciado um quadro alérgico, apresentando dificuldades respiratórias, que a colocavam em grave risco de morte. Em frente ao restaurante, havia uma clínica médica, onde buscaram atendimento. O médico de plantão, aproveitando-se da situação de urgência, exigiu pagamento antecipado de valor exorbitante – muito acima do cobrado regularmente por ele ou pelo mercado para esse tipo de atendimento. Joaquim, em desespero, anuiu com o pagamento desproporcional. Entretanto, depois do susto, consultou você, como advogado(a) . Após inteirar-se do caso, você afirmou ao seu cliente que o negócio jurídico celebrado entre ele e o médico padecia de um defeito. Assinale a opção que o indica.",
+    "enunciado": "Joaquim estava jantando com sua família em um restaurante, quando percebeu que sua filha tinha iniciado um quadro alérgico, apresentando dificuldades respiratórias, que a colocavam em grave risco de morte.\n\nEm frente ao restaurante, havia uma clínica médica, onde buscaram atendimento. O médico de plantão, aproveitando-se da situação de urgência, exigiu pagamento antecipado de valor exorbitante – muito acima do cobrado regularmente por ele ou pelo mercado para esse tipo de atendimento.\n\nJoaquim, em desespero, anuiu com o pagamento desproporcional. Entretanto, depois do susto, consultou você, como advogado(a) . Após inteirar-se do caso, você afirmou ao seu cliente que o negócio jurídico celebrado entre ele e o médico padecia de um defeito.\n\nAssinale a opção que o indica.",
     "alternativas": {
       "A": "Dolo, com prazo decadencial de seis meses.",
       "B": "Lesão, com prazo decadencial de dois anos.",
@@ -32,7 +32,7 @@
   },
   {
     "num": 38,
-    "enunciado": "Adriana é fisioterapeuta e prestou serviços a Vitória (sessões de fisioterapi a) . Como contraprestação ao serviço prestado, Vitória se comprometeu a pagar a quantia de R$1.000,00 a Adriana. A obrigação foi registrada em instrumento contratual escrito. Posteriormente, Adriana cedeu seu crédito contra Vitória para Paulo. Sobre a cessão do crédito de Adriana para Paulo, assinale a afirmativa correta.",
+    "enunciado": "Adriana é fisioterapeuta e prestou serviços a Vitória (sessões de fisioterapi\n\na) . Como contraprestação ao serviço prestado, Vitória se comprometeu a pagar a quantia de R$1.000,00 a Adriana. A obrigação foi registrada em instrumento contratual escrito. Posteriormente, Adriana cedeu seu crédito contra Vitória para Paulo.\n\nSobre a cessão do crédito de Adriana para Paulo, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É inválida, pois a natureza do crédito resultante de contrato de prestação de serviços não é compatível com a cessão.",
       "B": "É ineficaz perante Vitória, salvo se ela tiver sido devidamente notificada do referido negócio ou se ela tiver se declarado ciente da cessão feita.",

@@ -1,0 +1,23 @@
+[
+  {
+    "num": 1,
+    "id": 1,
+    "exame": "Exame OAB",
+    "tema": "Questão Didática Modelo - Cumprimento de Sentença e Execução",
+    "enunciado": "<p>Aguardando extração das questões históricas dos últimos exames de Ordem para esta matéria.</p>",
+    "opcoes": {
+      "A": "Opção A (Aguardando povoamento)",
+      "B": "Opção B (Aguardando povoamento)",
+      "C": "Opção C (Aguardando povoamento)",
+      "D": "Opção D (Aguardando povoamento)"
+    },
+    "gabarito": "A",
+    "core": true,
+    "sintese": "<p>Síntese Didática Modelo</p>",
+    "logica_conceito": "<p>Lógica do Conceito Modelo</p>",
+    "fundamentacao": "<p>Lei nº 13.105/2015 (CPC)</p>",
+    "dica": "<p>Dica Didática Modelo</p>",
+    "aula_comentario": "<p>Comentário da Aula</p>",
+    "analise": "<p>Análise detalhada das alternativas.</p>"
+  }
+]

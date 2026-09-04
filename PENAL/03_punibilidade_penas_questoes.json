@@ -1,12 +1,12 @@
 [
   {
     "num": 58,
-    "enunciado": "Antônio, de 49 anos, manteve numerosas relações sexuais consensuais com Miriam, à época com 13 anos, que tinha experiência sexual anterior, durante o namoro entre eles. Antônio tinha conhecimento da idade de Miriam. Sobre o caso, assinale a afirmativa correta.",
+    "enunciado": "Antônio, de 49 anos, manteve numerosas relações sexuais\nconsensuais com Miriam, à época com 13 anos, que tinha experiência\nsexual anterior, durante o namoro entre eles. Antônio tinha\nconhecimento da idade de Miriam.\nSobre o caso, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Antônio cometeu conduta típica, ilícita e culpável.",
       "B": "Antônio cometeu conduta ilícita e culpável, mas não típica.",
       "C": "Antônio cometeu conduta típica e culpável, mas não ilícita.",
-      "D": "Antônio cometeu conduta típica e ilícita, mas não culpável. 17 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "D": "Antônio cometeu conduta típica e ilícita, mas não culpável."
     },
     "gabarito": "A",
     "disciplina": "Direito Penal",
@@ -20,12 +20,12 @@
   },
   {
     "num": 61,
-    "enunciado": "Francisco, funcionário público concursado de uma autarquia federal, recebeu de seu órgão de atuação um notebook funcional, tendo assinado o livro de carga referente ao objeto e assumido o compromisso de zelar pelo bem da administração. Durante suas férias, Francisco viaja para uma pousada no interior do estado de São Paulo e leva o computador na mochila, uma vez que tinha o costume de assistir séries através do aparelho. Durante sua estadia na pousada, Francisco leva o notebook para a piscina e o coloca na mesa onde deixara seus demais pertences. Após se ausentar por cerca de 40 minutos para jogar uma partida de futebol, retorna para a piscina e constata que o notebook fora furtado. Desesperado, procura a administração do local que após analisar as câmeras de segurança não consegue identif",
+    "enunciado": "Francisco, funcionário público concursado de uma autarquia federal, recebeu de seu órgão de atuação um notebook funcional, tendo assinado o livro de carga referente ao objeto e assumido o compromisso de zelar pelo bem da administração. Durante suas férias, Francisco viaja para uma pousada no interior do estado de São Paulo e leva o computador na mochila, uma vez que tinha o costume de assistir séries através do aparelho. Durante sua estadia na pousada, Francisco leva o notebook para a piscina e o coloca na mesa onde deixara seus demais pertences. Após se ausentar por cerca de 40 minutos para jogar uma partida de futebol, retorna para a piscina e constata que o notebook fora furtado. Desesperado, procura a administração do local que após analisar as câmeras de segurança não consegue identificar quem teria subtraído o computador.\n\nDiante dos fatos, o órgão funcional ao qual Francisco era vinculado instaura procedimento administrativo e, ato contínuo, encaminha pedido de instauração de Inquérito na Polícia Federal que culmina no oferecimento de denúncia por parte do Ministério Público Federal pela prática do crime de peculato culposo. Francisco procura a repartição pública e se oferece para pagar o valor referente ao notebook, o que é aceito, sendo certo que o ressarcimento ao erário se deu antes do julgamento da ação penal. Diante dos fatos narrados, é correto afirmar que Francisco",
     "alternativas": {
       "A": "terá direito à redução de metade da pena pelo fato de o ressarcimento ter sido feito após o recebimento da denúncia.",
       "B": "terá direito à extinção da punibilidade pelo fato de o ressarcimento ter sido feito antes da sentença irrecorrível.",
-      "C": "não terá direito à atenuante referente à reparação do dano, prevista no **Art. 65** , inciso III, alínea b, do CP, na medida em que esta exige a reparação do dano antes do recebimento da denúncia.",
-      "D": "poderá ser beneficiado pelo arrependimento posterior, previsto no **Art. 16** do Código Penal em razão de ter reparado o dano antes da sentença."
+      "C": "não terá direito à atenuante referente à reparação do dano, prevista no \n\n**Art. 65**\n, inciso III, alínea b, do CP, na medida em que esta exige a reparação do dano antes do recebimento da denúncia.",
+      "D": "poderá ser beneficiado pelo arrependimento posterior, previsto no \n\n**Art. 16**\n do Código Penal em razão de ter reparado o dano antes da sentença."
     },
     "gabarito": "B",
     "disciplina": "Direito Penal",
@@ -39,7 +39,7 @@
   },
   {
     "num": 57,
-    "enunciado": "Arthur resolveu furtar os cabos de eletricidade da linha férrea de sua cidade, a fim de revender o cobre, clandestinamente. Contudo, após iniciar o corte para retirar os fios de cobre, foi surpreendido pelo trem, que o atropelou, vindo a sofrer a amputação dos membros inferiores. Arthur foi denunciado como incurso nas penas do delito de furto. Sobre o caso, assinale a afirmativa que apresenta a linha de defesa correta.",
+    "enunciado": "Arthur resolveu furtar os cabos de eletricidade da linha férrea de sua cidade, a fim de revender o cobre, clandestinamente. Contudo, após iniciar o corte para retirar os fios de cobre, foi surpreendido pelo trem, que o atropelou, vindo a sofrer a amputação dos membros inferiores. Arthur foi denunciado como incurso nas penas do delito de furto.\n\nSobre o caso, assinale a afirmativa que apresenta a linha de defesa correta.",
     "alternativas": {
       "A": "Deve ser reconhecida a tentativa, com a correspondente diminuição da pena, já que o delito não chegou a se consumar.",
       "B": "Pode ser reduzida a pena diante do arrependimento posterior, uma vez que, em razão do fato, Arthur perdeu os dois membros inferiores.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 59,
-    "enunciado": "Gabriel flagrou Júlia, sua namorada, em um momento íntimo com Pedro. Alucinado, Gabriel efetuou disparos de arma de fogo contra ambos, com a intenção de matá-los, mas errou a pontaria. Pedro, assustado com os tiros, saiu correndo do local e, na fuga, tropeçou em uma reentrância do piso, desequilibrou-se e bateu com a cabeça no solo, fato relativamente independente que, por si só, causou o resultado morte. Gabriel aproximou-se de Júlia ainda com munição em sua arma, porém, ao vê-la assustada, desistiu de prosseguir com seu intento original. Gabriel abraçou Júlia, que, na sequência, sofreu um fulminante ataque cardíaco, vindo a falecer. Gabriel foi denunciado pelo homicídio doloso de Pedro e Júlia. Na condição de advogado(a) de defesa de Gabriel, você deve alegar que",
+    "enunciado": "Gabriel flagrou Júlia, sua namorada, em um momento íntimo com Pedro. Alucinado, Gabriel efetuou disparos de arma de fogo contra ambos, com a intenção de matá-los, mas errou a pontaria. Pedro, assustado com os tiros, saiu correndo do local e, na fuga, tropeçou em uma reentrância do piso, desequilibrou-se e bateu com a cabeça no solo, fato relativamente independente que, por si só, causou o resultado morte.\n\nGabriel aproximou-se de Júlia ainda com munição em sua arma, porém, ao vê-la assustada, desistiu de prosseguir com seu intento original. Gabriel abraçou Júlia, que, na sequência, sofreu um fulminante ataque cardíaco, vindo a falecer. Gabriel foi denunciado pelo homicídio doloso de Pedro e Júlia.\n\nNa condição de advogado(a) de defesa de Gabriel, você deve alegar que",
     "alternativas": {
       "A": "houve desistência voluntária em relação a ambas as vítimas, cabendo a responsabilização apenas pelos disparos de arma de fogo.",
       "B": "houve fato superveniente que, por si só, ocasionou o resultado, de forma que a ação de Gabriel configurou apenas duas tentativas de homicídio.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 61,
-    "enunciado": "Filisteu, empresário, contratou Mateus para matar seu concorrente, Lucas, mediante pagamento antecipado de R$ 50.000,00 (cinquenta mil reai s) . Portando arma de fogo municiada, Mateus se pôs em campana, levando consigo seu amigo, Antônio, que nada sabia sobre os fatos. Quando Lucas saiu de casa com seu filho no colo, Mateus não teve coragem de cumprir o acordado e abandonou o local sem que Lucas o avistasse. Diante dessa situação hipotética, assinale a afirmativa correta.",
+    "enunciado": "Filisteu, empresário, contratou Mateus para matar seu concorrente, Lucas, mediante pagamento antecipado de R$ 50.000,00 (cinquenta mil reai\n\ns) .\n\nPortando arma de fogo municiada, Mateus se pôs em campana, levando consigo seu amigo, Antônio, que nada sabia sobre os fatos. Quando Lucas saiu de casa com seu filho no colo, Mateus não teve coragem de cumprir o acordado e abandonou o local sem que Lucas o avistasse.\n\nDiante dessa situação hipotética, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Filisteu não praticou fato penalmente típico.",
       "B": "Filisteu e Mateus praticaram o crime de associação criminosa.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 57,
-    "enunciado": "Matheus foi a uma festa de réveillon onde reencontrou sua exnamorada, Laís, sendo ambos maiores e capazes. Assim que a viu, ele se aproximou dela e, a partir daí, iniciaram uma animada conversa sobre os “velhos tempos”. Em determinado momento, Matheus, sem a anuência de Laís, acariciou suas nádegas e tentou beijá-la, para satisfazer sua própria lascívia. Acerca da tipificação da conduta de Matheus, assinale a afirmativa correta.",
+    "enunciado": "Matheus foi a uma festa de réveillon onde reencontrou sua exnamorada, Laís, sendo ambos maiores e capazes. Assim que a viu, ele se aproximou dela e, a partir daí, iniciaram uma animada conversa sobre os “velhos tempos”. Em determinado momento, Matheus, sem a anuência de Laís, acariciou suas nádegas e tentou beijá-la, para satisfazer sua própria lascívia.\n\nAcerca da tipificação da conduta de Matheus, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É fato atípico.",
       "B": "É crime de estupro.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 59,
-    "enunciado": "João é missionário, e Pedro é pastor, ambos da mesma igreja. O primeiro planejou apropriar-se do dinheiro dos dízimos que Pedro costumava guardar em uma urna em seu quarto, localizado nos fundos da igreja. Quando Pedro se ausentou durante a noite, João pulou o muro e arrombou a fechadura, mas, ao se aproximar da urna, foi tomado por um sentimento sobrenatural, orou para livrar-se dos maus pensamentos e foi embora. Sobre a ação praticada por João, assinale a afirmativa correta. (",
+    "enunciado": "João é missionário, e Pedro é pastor, ambos da mesma igreja. O primeiro planejou apropriar-se do dinheiro dos dízimos que Pedro costumava guardar em uma urna em seu quarto, localizado nos fundos da igreja.\n\nQuando Pedro se ausentou durante a noite, João pulou o muro e arrombou a fechadura, mas, ao se aproximar da urna, foi tomado por um sentimento sobrenatural, orou para livrar-se dos maus pensamentos e foi embora.\n\nSobre a ação praticada por João, assinale a afirmativa correta. (A) João percorreu as fases da cogitação, preparação e execução,\n\nque integram o iter criminis, mas não exauriu a conduta, o que era imprescindível para a caracterização da tentativa.",
     "alternativas": {
       "B": "João praticou tentativa de furto e ser-lhe-á aplicada a pena do crime consumado a ser reduzida, dentro das margens legais, segundo o trecho do iter criminis que foi percorrido.",
       "C": "João praticou tentativa imperfeita de furto, pois, apesar de ter praticado todos os atos executórios, o resultado não foi atingido por circunstâncias sobrenaturais avessas à vontade do agente.",
@@ -133,7 +133,7 @@
   },
   {
     "num": 62,
-    "enunciado": "Pedro costumava consumir maconha. Vislumbrando a perspectiva de lucro, passou a plantá-la e a fabricar artesanalmente cigarros de maconha, mantendo-os parcialmente em depósito e vendendo o restante da produção por meio de aplicativo de mensagens telefônicas. Devido ao aumento da divulgação do serviço prestado, Pedro foi investigado e preso quando possuía, em casa, 500 gramas de maconha, sendo acusado da prática do crime de tráfico de drogas por cinco vezes, haja vista que importou sementes, plantou-as, fabricou cigarros e os manteve em depósito, além de vender parte da produção. Você, como advogado(a) , foi constituído(a) por Pedro para atuar no curso da Ação Penal. Sobre o caso narrado, assinale a opção que indica, corretamente, a orientação jurídica que você prestou.",
+    "enunciado": "Pedro costumava consumir maconha. Vislumbrando a perspectiva de lucro, passou a plantá-la e a fabricar artesanalmente cigarros de maconha, mantendo-os parcialmente em depósito e vendendo o restante da produção por meio de aplicativo de mensagens telefônicas.\n\nDevido ao aumento da divulgação do serviço prestado, Pedro foi investigado e preso quando possuía, em casa, 500 gramas de maconha, sendo acusado da prática do crime de tráfico de drogas por cinco vezes, haja vista que importou sementes, plantou-as, fabricou cigarros e os manteve em depósito, além de vender parte da produção.\n\nVocê, como advogado(a) , foi constituído(a) por Pedro para atuar no curso da Ação Penal. Sobre o caso narrado, assinale a opção que indica, corretamente, a orientação jurídica que você prestou.",
     "alternativas": {
       "A": "Pedro praticou apenas o crime de porte de drogas para o consumo pessoal, pois a droga foi produzida e apreendida no interior de sua casa.",
       "B": "Pedro praticou o crime de tráfico de drogas por cinco vezes, sob continuidade delitiva, razão pela qual faz jus à mitigação da pena total.",

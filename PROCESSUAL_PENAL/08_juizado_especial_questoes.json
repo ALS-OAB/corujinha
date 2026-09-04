@@ -1,7 +1,7 @@
 [
   {
     "num": 64,
-    "enunciado": "Arthur e sua esposa Aline, residentes no Distrito Federal, decidem viajar em um cruzeiro, partindo de Fortaleza com destino à cidade do Rio de Janeiro e fazendo uma parada em Recife. Durante passagem pela costa pernambucana, em alto-mar, o casal tem uma discussão e Arthur agride Aline, vindo a ser contido por seguranças do navio e retirado logo na primeira parada. Aline sofreu lesão que a incapacitou para suas atividades habituais por mais de trinta dias, mas que não deixou sequela ou debilidade permanente. Assinale a opção que indica a autoridade judiciária competente para processar Arthur.",
+    "enunciado": "Arthur e sua esposa Aline, residentes no Distrito Federal, decidem viajar em um cruzeiro, partindo de Fortaleza com destino à cidade do Rio de Janeiro e fazendo uma parada em Recife.\n\nDurante passagem pela costa pernambucana, em alto-mar, o casal tem uma discussão e Arthur agride Aline, vindo a ser contido por seguranças do navio e retirado logo na primeira parada. Aline sofreu lesão que a incapacitou para suas atividades habituais por mais de trinta dias, mas que não deixou sequela ou debilidade permanente.\n\nAssinale a opção que indica a autoridade judiciária competente para processar Arthur.",
     "alternativas": {
       "A": "O Juizado Especial Federal da cidade do Rio de Janeiro.",
       "B": "O Juizado Especial de Violência Doméstica e Familiar contra a Mulher do Distrito Federal.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 66,
-    "enunciado": "Fabrício foi preso em flagrante pela prática do crime de roubo, tendo havido a regular conversão do flagrante em prisão preventiva. Contudo, passados mais de dois anos, a instrução processual não logrou finalizar a oitiva das testemunhas de acusação, pois o Ministério Público insiste na oitiva de policiais que, constantemente, faltam à audiência por motivos pessoais, alegando férias e licença. Fabrício permanece preso preventivamente, o que ensejou impetração de habeas corpus para o Tribunal de Justiça competente. O Tribunal de Justiça, em decisão colegiada, denegou a ordem de habeas corpus. Identifique, corretamente, a medida judicial a ser proposta para o caso narrado.",
+    "enunciado": "Fabrício foi preso em flagrante pela prática do crime de roubo, tendo havido a regular conversão do flagrante em prisão preventiva.\n\nContudo, passados mais de dois anos, a instrução processual não logrou finalizar a oitiva das testemunhas de acusação, pois o Ministério Público insiste na oitiva de policiais que, constantemente, faltam à audiência por motivos pessoais, alegando férias e licença. Fabrício permanece preso preventivamente, o que ensejou impetração de habeas corpus para o Tribunal de Justiça competente. O Tribunal de Justiça, em decisão colegiada, denegou a ordem de habeas corpus.\n\nIdentifique, corretamente, a medida judicial a ser proposta para o caso narrado.",
     "alternativas": {
       "A": "Recurso odinário constitucional, dirigido ao Superior Tribunal de Justiça.",
       "B": "Recurso de apelação, dirigido ao Superior Tribunal de Justiça.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 68,
-    "enunciado": "Suelen ajuizou queixa-crime contra Bolívar, pela prática do crime de exercício arbitrário das próprias razões praticado sem violência ou grave ameaça, previsto no **Art. 345** , caput e parágrafo único, do CP, cuja pena cominada é de detenção de quinze dias a um mês, ou multa. A queixa-crime foi ajuizada perante o Juízo competente, que, após todo o trâmite preliminar, sendo infrutífero qualquer tipo de solução negociada, já na audiência de instrução e julgamento, rejeitou a queixa. Diante do caso narrado, como advogado(a) de Suelen, assinale a opção que indica o recurso que deve ser interposto.",
+    "enunciado": "Suelen ajuizou queixa-crime contra Bolívar, pela prática do crime de exercício arbitrário das próprias razões praticado sem violência ou grave ameaça, previsto no \n\n**Art. 345**\n, caput e parágrafo único, do CP, cuja pena cominada é de detenção de quinze dias a um mês, ou multa.\n\nA queixa-crime foi ajuizada perante o Juízo competente, que, após todo o trâmite preliminar, sendo infrutífero qualquer tipo de solução negociada, já na audiência de instrução e julgamento, rejeitou a queixa.\n\nDiante do caso narrado, como advogado(a) de Suelen, assinale a opção que indica o recurso que deve ser interposto.",
     "alternativas": {
       "A": "Recurso em Sentido Estrito, interposto na Vara Criminal. As razões podem ser apresentadas diretamente no Tribunal.",
       "B": "Apelação, a ser interposta no Juizado Especial Criminal, já acompanhada de razões recursais dirigidas à Turma Recursal.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 65,
-    "enunciado": "Amanda impetra habeas corpus em favor de Telma, que foi presa preventivamente por decisão do Juiz de Primeiro Grau, sendo acusada da prática de crime hediondo. O habeas corpus foi impetrado com o argumento de excesso de prazo. O Tribunal concedeu a ordem de habeas corpus de ofício, fundamentado na incompetência do juiz que decretou a prisão. Sobre a hipótese narrada, assinale a afirmativa correta.",
+    "enunciado": "Amanda impetra habeas corpus em favor de Telma, que foi presa preventivamente por decisão do Juiz de Primeiro Grau, sendo acusada da prática de crime hediondo. O habeas corpus foi impetrado com o argumento de excesso de prazo. O Tribunal concedeu a ordem de habeas corpus de ofício, fundamentado na incompetência do juiz que decretou a prisão.\n\nSobre a hipótese narrada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "O Tribunal equivocou-se, uma vez que a incompetência do julgador não é fundamento para a concessão de habeas corpus.",
       "B": "O Tribunal agiu de modo correto, uma vez que é possível a concessão de habeas corpus de ofício sempre que houver constrangimento ilegal.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 65,
-    "enunciado": "Túlio abriu sua geladeira, retirou sua água com gás e, ao beber, sentiu um gosto estranho, posteriormente vindo a descobrir que se tratava de solvente. Em seguida, Túlio entrou no quarto e chamou sua esposa, Felícia, de “assassina”. Após o esclarecimento de que o solvente tinha sido colocado por equívoco na geladeira por seu filho Thor, Túlio pediu desculpas à Felícia. Alguns dias depois, Felícia contou, em uma roda informal, para a sua amiga Promotora de Justiça, que o marido a havia chamado de “assassina”. Diante de tais fatos, o Ministério Público ofereceu a denúncia por crime de injúria em desfavor de Túlio. Sobre o caso narrado, como advogado(a) de Túlio, assinale a afirmativa correta.",
+    "enunciado": "Túlio abriu sua geladeira, retirou sua água com gás e, ao beber, sentiu um gosto estranho, posteriormente vindo a descobrir que se tratava de solvente. Em seguida, Túlio entrou no quarto e chamou sua esposa, Felícia, de “assassina”.\n\nApós o esclarecimento de que o solvente tinha sido colocado por equívoco na geladeira por seu filho Thor, Túlio pediu desculpas à Felícia. Alguns dias depois, Felícia contou, em uma roda informal, para a sua amiga Promotora de Justiça, que o marido a havia chamado de “assassina”. Diante de tais fatos, o Ministério Público ofereceu a denúncia por crime de injúria em desfavor de Túlio.\n\nSobre o caso narrado, como advogado(a) de Túlio, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Em razão de envolver violência doméstica, o crime é de ação penal pública incondicionada, cabendo apenas se defender quanto ao mérito da acusação.",
       "B": "O crime é de ação penal privada, devendo ser alegada a ilegitimidade do Ministério Público para a propositura da ação.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 67,
-    "enunciado": "Leandro oferece queixa-crime no Juizado Especial Criminal. O Juiz rejeita a queixa sustentando a existência de decadência. Na condição de advogado(a) de Leandro, assinale a opção que indica, corretamente, o recurso que deve ser interposto contra a decisão que rejeitou a queixa.",
+    "enunciado": "Leandro oferece queixa-crime no Juizado Especial Criminal. O Juiz rejeita a queixa sustentando a existência de decadência.\n\nNa condição de advogado(a) de Leandro, assinale a opção que indica, corretamente, o recurso que deve ser interposto contra a decisão que rejeitou a queixa.",
     "alternativas": {
       "A": "Apelação.",
       "B": "Recurso inominado.",

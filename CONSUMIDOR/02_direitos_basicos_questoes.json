@@ -1,12 +1,12 @@
 [
   {
     "num": 43,
-    "enunciado": "Wilson, 13 anos, foi apreendido por Manoel quando estava em fuga, após praticar ato de subtração de uma caixa de mil unidades de doces em sua vendinha. No curso da perseguição, os doces se perderam porque Wilson os jogou em um bueiro para, desembaraçado, correr melhor. Esgotados todos os procedimentos legais para apuração do ato infracional e constatada sua prática, a autoridade competente fixou, além das medidas socioeducativas pertinentes a Wilson, a obrigatoriedade de reparar o dano, ou seja, restituir o valor correspondente aos doces perdidos por Manoel. Acerca dos fatos acima, assinale a opção que apresenta a medida compensatória adequada para o caso concreto.",
+    "enunciado": "Wilson, 13 anos, foi apreendido por Manoel quando estava em fuga,\napós praticar ato de subtração de uma caixa de mil unidades de\ndoces em sua vendinha. No curso da perseguição, os doces se\nperderam porque Wilson os jogou em um bueiro para,\ndesembaraçado, correr melhor.\nEsgotados todos os procedimentos legais para apuração do ato\ninfracional e constatada sua prática, a autoridade competente fixou,\nalém das medidas socioeducativas pertinentes a Wilson, a\nobrigatoriedade de reparar o dano, ou seja, restituir o valor\ncorrespondente aos doces perdidos por Manoel.\nAcerca dos fatos acima, assinale a opção que apresenta a medida\ncompensatória adequada para o caso concreto.",
     "alternativas": {
-      "A": "A compensação do dano não poderá ser exigida dos pais de Wilson.",
-      "B": "Wilson deverá prestar duas horas diárias de serviços de empacotamento de compras na vendinha, até que se compense o dano, caso ele ou seus pais não possam custear financeiramente o valor.",
-      "C": "Havendo manifesta impossibilidade de Wilson ou seus pais custearem a perda patrimonial de Manoel, não há como substituir a compensação por outra medida adequada.",
-      "D": "A autoridade poderá determinar que Wilson compense o prejuízo de Manoel, desde que não configure trabalho forçado. 13 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "A compensação do dano não poderá ser exigida dos pais de\nWilson.",
+      "B": "Wilson deverá prestar duas horas diárias de serviços de\nempacotamento de compras na vendinha, até que se compense o\ndano, caso ele ou seus pais não possam custear financeiramente\no valor.",
+      "C": "Havendo manifesta impossibilidade de Wilson ou seus pais\ncustearem a perda patrimonial de Manoel, não há como\nsubstituir a compensação por outra medida adequada.",
+      "D": "A autoridade poderá determinar que Wilson compense o prejuízo\nde Manoel, desde que não configure trabalho forçado."
     },
     "gabarito": "D",
     "disciplina": "Direito do Consumidor",
@@ -20,7 +20,7 @@
   },
   {
     "num": 45,
-    "enunciado": "A sociedade empresária Óleo Essencial de Barreto Ltda. fabrica, há cinquenta anos, o produto que originou o nome empresarial, criado pelo fundador da indústria e amplamente utilizado pelo público como item pessoal para várias utilidades, sobretudo como pós-banho. Recentemente, ao concluir uma pesquisa científica, um químico da fábrica levou ao conhecimento da diretoria o fato de que o uso do produto Óleo Essencial de Barreto pode causar queimaduras graves em um certo grupo de pessoas, caso seja associado a um novo tipo de protetor solar, cujo uso vem crescendo no país. Sobre o caso narrado, assinale a afirmativa correta.",
+    "enunciado": "A sociedade empresária Óleo Essencial de Barreto Ltda. fabrica, há cinquenta anos, o produto que originou o nome empresarial, criado pelo fundador da indústria e amplamente utilizado pelo público como item pessoal para várias utilidades, sobretudo como pós-banho.\n\nRecentemente, ao concluir uma pesquisa científica, um químico da fábrica levou ao conhecimento da diretoria o fato de que o uso do produto Óleo Essencial de Barreto pode causar queimaduras graves em um certo grupo de pessoas, caso seja associado a um novo tipo de protetor solar, cujo uso vem crescendo no país.\n\nSobre o caso narrado, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Cabe à Óleo Essencial de Barreto Ltda. cessar, imediatamente, a fabricação do produto.",
       "B": "Deve a autoridade administrativa, de ofício, proibir, imediatamente, a fabricação do produto.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 46,
-    "enunciado": "Maria Victoria, em maio de 2023, decidiu aceitar a oferta do cartão de crédito Black, oferecido pelo Banco Y, do qual já era correntista há cerca de três anos. Contudo, em agosto de 2023, deixou de pagar a fatura de julho, no valor de R$ 5.300,00 (cinco mil e trezentos reai s) . Em razão disso, passado o vencimento, o Banco Y debitou automaticamente da conta-corrente dela o valor de R$ 300,00 (trezentos reai s) , referente ao denominado “pagamento mínimo” da fatura do cartão de crédito. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "enunciado": "Maria Victoria, em maio de 2023, decidiu aceitar a oferta do cartão de crédito Black, oferecido pelo Banco Y, do qual já era correntista há cerca de três anos. Contudo, em agosto de 2023, deixou de pagar a fatura de julho, no valor de R$ 5.300,00 (cinco mil e trezentos reai\n\ns) .\n\nEm razão disso, passado o vencimento, o Banco Y debitou automaticamente da conta-corrente dela o valor de R$ 300,00 (trezentos reai\n\ns) , referente ao denominado “pagamento mínimo” da fatura do cartão de crédito.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Nas hipóteses em que não há previsão contratual para tanto, é possível ao banco debitar automaticamente o valor integral da fatura do cartão de crédito da conta-corrente do consumidor, quando ultrapassados 60 dias do inadimplemento e notificado o consumidor do débito após 30 dias da data do seu vencimento.",
       "B": "Independentemente de serem contratos distintos, pelo fato de existir uma única relação jurídica entre o consumidor e o banco, pode o banco debitar o valor mínimo da fatura do cartão de crédito automaticamente da conta-corrente do consumidor em caso de inadimplemento.",

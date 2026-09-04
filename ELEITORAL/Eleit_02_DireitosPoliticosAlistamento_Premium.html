@@ -559,7 +559,7 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:4px;"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
         Resumo Aula
       </button>
-      <span class="progress-pill" id="progress-text">0 / 0</span>
+      <span class="progress-pill" id="progress-text">0 / 3</span>
     </div>
   </header>
 
@@ -573,12 +573,12 @@
         </div>
         <h1 class="hero-title">Direitos Políticos e Alistamento</h1>
         <p class="hero-subtitle">
-          Estudo intensivo de Direito Constitucional. 0 questões estruturadas com raciocínio lógico, síntese e fundamentação da Código Eleitoral (Lei 4.737/65), Lei das Eleições (Lei 9.504/97) e LC nº 64/90.
+          Estudo intensivo de Direito Constitucional. 3 questões estruturadas com raciocínio lógico, síntese e fundamentação da Código Eleitoral (Lei 4.737/65), Lei das Eleições (Lei 9.504/97) e LC nº 64/90.
         </p>
         
         <div class="hero-stats">
           <div class="stat-card">
-            <div class="stat-val">0</div>
+            <div class="stat-val">3</div>
             <div class="stat-lbl">Questões Didáticas</div>
           </div>
           <div class="stat-card">
@@ -596,7 +596,7 @@
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px;"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
             Dashboard
           </a>
-          <button class="btn-hero" style="flex: 2; width: auto; margin-top: 0;" onclick="startQuiz()">Iniciar Simulado (0 Questões)</button>
+          <button class="btn-hero" style="flex: 2; width: auto; margin-top: 0;" onclick="startQuiz()">Iniciar Simulado (3 Questões)</button>
         </div>
       </div>
     </div>
@@ -633,7 +633,7 @@
             <div style="font-size: 11px; font-weight: 600; color: #991b1b;">Erros</div>
           </div>
           <div style="background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 12px; padding: 12px;">
-            <div style="font-size: 18px; font-weight: 700; color: var(--primary);" id="res-total">0</div>
+            <div style="font-size: 18px; font-weight: 700; color: var(--primary);" id="res-total">3</div>
             <div style="font-size: 11px; font-weight: 600; color: var(--text-muted);">Total</div>
           </div>
         </div>
@@ -677,7 +677,7 @@
   </div>
 
   <script>
-    const questionsData = [];
+    const questionsData = [{"num": 20, "enunciado": "Helena, filiada ao partido político Beta e candidata ao cargo de governadora do Estado Alfa, consultou seu advogado a respeito da composição dos gastos de campanha, mais especificamente se o pagamento de honorários em razão da prestação de serviços advocatícios, no curso e em razão da campanha eleitoral, teria essa natureza jurídica.\n\nA assessoria respondeu, corretamente, que os referidos honorários", "alternativas": {"A": "estão incluídos no limite de gastos de campanha, sendo tidos como despesas eleitorais.", "B": "são considerados gastos eleitorais e não estão incluídos no limite de gastos de campanha.", "C": "pela sua essência alimentar, não têm correlação com os gastos eleitorais, o que afasta a possibilidade de serem enquadrados em qualquer limitador de despesas.\n- D) podem ser considerados gastos eleitorais, caso o candidato assim os declare, e estão incluídos no limite de gastos de campanha."}, "gabarito": "B", "disciplina": "Direito Eleitoral", "exame": "38º Exame OAB", "tipo": "Branca", "exame_num": 38, "exame_label": "38º Exame OAB", "modulo_codigo": "02_direitos_politicos", "modulo_nome": "Direitos Políticos (Alistamento e Votação)", "id": 1}, {"num": 20, "enunciado": "Pedro, com 40 anos de idade, por razões ideológicas, decidiu não mais votar nas eleições para o provimento de cargos dos Poderes Executivo e Legislativo dos distintos níveis da Federação.\n\nApós repetir esse procedimento em três eleições consecutivas, compareceu ao cartório eleitoral e solicitou uma certidão de quitação eleitoral para que pudesse requerer a emissão do seu passaporte. Para sua surpresa, foi informado que sua inscrição fora cancelada, o que, ao seu ver, o impediria de obter o passaporte.\n\nIrresignado com a situação descrita, Pedro consultou você, como advogado(a) , a respeito da juridicidade desse procedimento. Assinale a opção que apresenta a informação correta.", "alternativas": {"A": "A obtenção do passaporte instrumentaliza o direito de ir e vir, o que não é influenciado pelo exercício do direito de voto.", "B": "O exercício da objeção de consciência, como a realizada por ele, é amparado pela legislação eleitoral, sendo uma forma de exercício dos direitos políticos, logo o cancelamento foi ilícito.", "C": "A inscrição eleitoral instrumentaliza o direito de votar, que não pode ser obstado pela prática de ilícitos eleitorais, o que configuraria sanção política, logo não poderia ter sido cancelada.", "D": "O cancelamento é correto, caso ele não tenha pagado a multa ou apresentado justificativa no prazo previsto na legislação, a contar da última eleição a que deveria ter comparecido."}, "gabarito": "D", "disciplina": "Direito Eleitoral", "exame": "42º Exame OAB", "tipo": "Branca", "exame_num": 42, "exame_label": "42º Exame OAB", "modulo_codigo": "02_direitos_politicos", "modulo_nome": "Direitos Políticos (Alistamento e Votação)", "id": 2}, {"num": 20, "enunciado": "Logo após a diplomação de Maria, candidata eleita para o cargo de Prefeita do Município Delta, Ana, candidata derrotada, procurou você, como advogado(a) , com provas de que Maria recebera doação estimável em dinheiro, por meio da publicidade realizada, em seu benefício, pela organização da sociedade civil de interesse público Gama. Ana o(a) questionou em relação à juridicidade da conduta de Maria.\n\nQuanto à orientação a ser dada, assinale a afirmativa correta.", "alternativas": {"A": "Trata-se de captação ilícita de recursos, e a medida a ser ajuizada deve observar o procedimento da ação de investigação judicial eleitoral.", "B": "Como não houve repasse de recursos financeiros, o fato de Maria ter sido beneficiada pela publicidade realizada por Gama não configura ilícito eleitoral.", "C": "Ocorreu a preclusão de qualquer medida passível de ser adotada em relação à situação descrita, o que torna desinfluente a análise de sua licitude ou não.", "D": "Como somente são admitidas doações expressas em moeda, a conduta é ilícita, o que acarreta a incidência da pena cominada, sendo possível a aplicação da sanção de multa a Gama e a Maria."}, "gabarito": "A", "disciplina": "Direito Eleitoral", "exame": "46º Exame OAB", "tipo": "Branca", "exame_num": 46, "exame_label": "46º Exame OAB", "modulo_codigo": "02_direitos_politicos", "modulo_nome": "Direitos Políticos (Alistamento e Votação)", "id": 3}];
     
     let currentIndex = 0;
     let score = 0;
@@ -701,7 +701,7 @@
 
     function buildQuestionSlide(q, i) {
       let optionsHtml = '';
-      for (const [letter, text] of Object.entries(q.opcoes)) {
+      for (const [letter, text] of Object.entries(q.alternativas || q.opcoes || {})) {
         optionsHtml += `
           <button class="opt-btn" id="opt-${i}-${letter}" onclick="answerQuestion(${i}, '${letter}')">
             <span class="opt-letter">${letter}</span>
@@ -720,7 +720,7 @@
                 <div class="q-meta" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="q-num">Q${i + 1} / ${questionsData.length}</span>
                   ${q.exame ? `<span class="q-exame-badge" style="background:#ecfdf5; color:#047857; border:1px solid #a7f3d0; font-weight:700; border-radius:6px; padding:3px 8px; font-size:11px; letter-spacing:-0.2px; display:inline-flex; align-items:center;"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>${q.exame}</span>` : ''}
-                  <span class="q-topic">${q.tema}</span>
+                  <span class="q-topic">${q.tema || q.modulo_nome || ""}</span>
                 </div>
                 <div class="timer-badge" id="timer-badge-${i}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>

@@ -1,12 +1,12 @@
 [
   {
     "num": 14,
-    "enunciado": "Carlos, praticante de religião politeísta, é internado em hospital de orientação cristã e solicita assistência espiritual a ser conduzida por um líder religioso de sua crença. Os parentes de Carlos, mesmo cientes de que a assistência solicitada se resumiria a uma discreta conversa, estão temerosos de que a presença do referido líder coloque em risco a permanência de Carlos no hospital, em virtude de representar uma vertente religiosa não aderente à fé adotada pela instituição hospitalar. Os parentes de Carlos o procuram, como advogado(a), para conhecer os procedimentos adequados à situação narrada. Você os informou que, segundo o sistema jurídico-constitucional brasileiro, o hospital",
+    "enunciado": "Carlos, praticante de religião politeísta, é internado em hospital de\norientação cristã e solicita assistência espiritual a ser conduzida por\num líder religioso de sua crença.\nOs parentes de Carlos, mesmo cientes de que a assistência solicitada\nse resumiria a uma discreta conversa, estão temerosos de que a\npresença do referido líder coloque em risco a permanência de Carlos\nno hospital, em virtude de representar uma vertente religiosa não\naderente à fé adotada pela instituição hospitalar.\nOs parentes de Carlos o procuram, como advogado(a), para conhecer\nos procedimentos adequados à situação narrada.\nVocê os informou que, segundo o sistema jurídico-constitucional\nbrasileiro, o hospital",
     "alternativas": {
-      "A": "pode negar a autorização para a assistência espiritual em religião diversa daquela preconizada pela instituição, embora não fosse o caso de Carlos perder a vaga.",
-      "B": "não pode negar o apoio espiritual solicitado, mesmo que a assistência seja prestada em bases religiosas diversas daquela oficialmente preconizada pelo hospital.",
-      "C": "somente está obrigado a autorizar a assistência religiosa caso já tivesse permitido que sacerdote de outra religião exercesse atividades religiosas em suas instalações.",
-      "D": "tem, como instituição privada, total autonomia para estabelecer regras para situações como esta, podendo permitir ou negar o pedido, de acordo com seu regulamento interno. 6 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "pode negar a autorização para a assistência espiritual em religião\ndiversa daquela preconizada pela instituição, embora não fosse o\ncaso de Carlos perder a vaga.",
+      "B": "não pode negar o apoio espiritual solicitado, mesmo que a\nassistência seja prestada em bases religiosas diversas daquela\noficialmente preconizada pelo hospital.",
+      "C": "somente está obrigado a autorizar a assistência religiosa caso já\ntivesse permitido que sacerdote de outra religião exercesse\natividades religiosas em suas instalações.",
+      "D": "tem, como instituição privada, total autonomia para estabelecer\nregras para situações como esta, podendo permitir ou negar o\npedido, de acordo com seu regulamento interno."
     },
     "gabarito": "B",
     "disciplina": "Direito Constitucional",
@@ -20,10 +20,10 @@
   },
   {
     "num": 16,
-    "enunciado": "José foi eleito deputado estadual por determinado Estado da Federação. Uma semana após a sua posse e fora do recinto da Assembleia Legislativa do seu respectivo Estado, o deputado encontra João, candidato não eleito e seu principal opositor durante a campanha eleitoral, vindo a agredi-lo, causando-lhe lesões corporais gravíssimas, cuja persecução em juízo é iniciada mediante denúncia oferecida pelo Ministério Público. Diante de tal contexto, levando em consideração as imunidades do parlamentar estadual, de acordo com o Direito Constitucional brasileiro, assinale a opção correta.",
+    "enunciado": "José foi eleito deputado estadual por determinado Estado da Federação. Uma semana após a sua posse e fora do recinto da Assembleia Legislativa do seu respectivo Estado, o deputado encontra João, candidato não eleito e seu principal opositor durante a campanha eleitoral, vindo a agredi-lo, causando-lhe lesões corporais gravíssimas, cuja persecução em juízo é iniciada mediante denúncia oferecida pelo Ministério Público.\n\nDiante de tal contexto, levando em consideração as imunidades do parlamentar estadual, de acordo com o Direito Constitucional brasileiro, assinale a opção correta.",
     "alternativas": {
       "A": "Em relação à imunidade formal de processo, recebida a denúncia oferecida contra o deputado estadual José, por crime cometido após a posse, a Casa legislativa a que pertence o parlamentar denunciado poderá apenas sustar a tramitação da ação penal.",
-      "B": "Por gozar da mesma imunidade material (inviolabilidade parlamenta r) de deputados federais e senadores, o deputado estadual José não poderá ser responsabilizado por qualquer tipo de crime praticado durante o seu mandato eletivo.",
+      "B": "Por gozar da mesma imunidade material (inviolabilidade parlamenta\n\nr) de deputados federais e senadores, o deputado estadual José não poderá ser responsabilizado por qualquer tipo de crime praticado durante o seu mandato eletivo.",
       "C": "Em relação à imunidade formal de processo, o deputado estadual José está sujeito a julgamento judicial pelo crime comum cometido, desde que a análise da denúncia oferecida contra ele seja autorizada pela respectiva casa legislativa.",
       "D": "Por não possuir as mesmas imunidades formais de deputados federais e senadores, mas apenas a imunidade material relativa aos atos praticados em razão do seu mandato, o deputado estadual José será julgado pelo crime comum cometido, não sendo possível que seja sustada a tramitação da ação penal."
     },
@@ -39,7 +39,7 @@
   },
   {
     "num": 12,
-    "enunciado": "Em uma cidade situada no município Gama, José Silva sofreu grave acidente ao ser atropelado por um caminhão. Com lesões pelo corpo, ele foi conduzido ao hospital municipal situado na cidade e, ao passar pelo setor de identificação, alegou não possuir consigo qualquer documento. Na dúvida sobre se José poderia ter acesso aos serviços de saúde do SUS (Sistema Único de Saúd e) , a direção do hospital consultou a Procuradoria do Município. Sobre o caso apresentado, em consonância com o sistema jurídicoconstitucional brasileiro, assinale a afirmativa que apresenta a resposta correta.",
+    "enunciado": "Em uma cidade situada no município Gama, José Silva sofreu grave acidente ao ser atropelado por um caminhão. Com lesões pelo corpo, ele foi conduzido ao hospital municipal situado na cidade e, ao passar pelo setor de identificação, alegou não possuir consigo qualquer documento. Na dúvida sobre se José poderia ter acesso aos serviços de saúde do SUS (Sistema Único de Saúd\n\ne) , a direção do hospital consultou a Procuradoria do Município. Sobre o caso apresentado, em consonância com o sistema jurídicoconstitucional brasileiro, assinale a afirmativa que apresenta a resposta correta.",
     "alternativas": {
       "A": "Para fazer jus aos serviços de saúde ofertados pelo SUS, José deve comprovar a condição de contribuinte do sistema previdenciário brasileiro.",
       "B": "Para fazer jus aos serviços de saúde ofertados pelo SUS, José deve comprovar, formalmente, a condição de trabalhador.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 15,
-    "enunciado": "Uma Proposta de Emenda à Constituição (PEC) foi apresentada pelo Presidente da República à Câmara dos Deputados. Tal PEC, para alguns parlamentares, versa sobre matéria que é manifestamente ofensiva ao núcleo essencial do pacto federativo. Apesar disso, é aprovada pelas comissões competentes e colocada em pauta, pela Mesa, para a votação pelo Plenário. Diversos deputados federais do bloco de oposição, inconformados com essa situação, consultam você, como advogado(a) , sobre possível medida judicial para que seja reconhecida a incompatibilidade da PEC com a Constituição da República, de modo a impedir a votação pelo Plenário. Diante de tal contexto, assinale, como advogado(a) , a opção que se harmoniza com o sistema brasileiro de controle de constitucionalidade.",
+    "enunciado": "Uma Proposta de Emenda à Constituição (PEC) foi apresentada pelo Presidente da República à Câmara dos Deputados. Tal PEC, para alguns parlamentares, versa sobre matéria que é manifestamente ofensiva ao núcleo essencial do pacto federativo. Apesar disso, é aprovada pelas comissões competentes e colocada em pauta, pela Mesa, para a votação pelo Plenário.\n\nDiversos deputados federais do bloco de oposição, inconformados com essa situação, consultam você, como advogado(a) , sobre possível medida judicial para que seja reconhecida a incompatibilidade da PEC com a Constituição da República, de modo a impedir a votação pelo Plenário.\n\nDiante de tal contexto, assinale, como advogado(a) , a opção que se harmoniza com o sistema brasileiro de controle de constitucionalidade.",
     "alternativas": {
       "A": "A PEC, enquanto não for aprovada e convertida em um ato normativo, vigente e eficaz, não pode ser objeto de nenhum tipo de controle de constitucionalidade.",
       "B": "É possível que a PEC seja considerada inconstitucional em sede de mandado de segurança impetrado no Supremo Tribunal Federal por qualquer deputado federal.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 11,
-    "enunciado": "O Presidente da República, por ter alegadamente atuado com o intuito de beneficiar pessoas de seu círculo de amizades pessoais, é acusado de influir diretamente no resultado de uma grande licitação, cujo procedimento ocorreu em órgão do Ministério X. Enzo, francês nato e naturalizado brasileiro, com candidatura deferida para disputar a eleição para vereador no Município em que reside, resolve consultá-lo(a) , como advogado(a) , para saber se ele poderia ajuizar uma ação constitucional para anular a referida licitação e para preservar a intangibilidade do patrimônio público, bem como a integridade do princípio da moralidade administrativa. Analisando a narrativa à luz do sistema jurídico-constitucional, assinale a afirmativa que apresenta, corretamente, a solução para o caso em tela.",
+    "enunciado": "O Presidente da República, por ter alegadamente atuado com o intuito de beneficiar pessoas de seu círculo de amizades pessoais, é acusado de influir diretamente no resultado de uma grande licitação, cujo procedimento ocorreu em órgão do Ministério X.\n\nEnzo, francês nato e naturalizado brasileiro, com candidatura deferida para disputar a eleição para vereador no Município em que reside, resolve consultá-lo(a) , como advogado(a) , para saber se ele poderia ajuizar uma ação constitucional para anular a referida licitação e para preservar a intangibilidade do patrimônio público, bem como a integridade do princípio da moralidade administrativa.\n\nAnalisando a narrativa à luz do sistema jurídico-constitucional, assinale a afirmativa que apresenta, corretamente, a solução para o caso em tela.",
     "alternativas": {
       "A": "Enzo, por ser francês nato, não tem legitimidade ativa para ajuizar ação constitucional com o objetivo almejado, mas pode impetrar um mandado de segurança perante o Superior Tribunal de Justiça para sustar a eficácia do ato.",
       "B": "Enzo, na qualidade de cidadão brasileiro, pode ajuizar uma ação popular perante o Supremo Tribunal Federal.",
@@ -96,7 +96,7 @@
   },
   {
     "num": 13,
-    "enunciado": "No Estado Sigma foi promulgada a Lei Estadual nº X/2024, que aborda matéria de Direito Financeiro. Ocorre que os dispositivos desse diploma normativo entram em conflito com as normas do Ato das Disposições Constitucionais Transitórias (ADCT) que ainda produzem seus naturais efeitos. O Presidente do Partido Político Delta, o deputado federal João Silva, sem possuir conhecimentos jurídicos, resolve consultar você, como advogado(a) , para saber se poderia questionar a constitucionalidade das normas da Lei Estadual nº X/2024, por afrontarem as normas do ADCT. Assinale a opção que indica a resposta correta à consulta formulada.",
+    "enunciado": "No Estado Sigma foi promulgada a Lei Estadual nº X/2024, que aborda matéria de Direito Financeiro. Ocorre que os dispositivos desse diploma normativo entram em conflito com as normas do Ato das Disposições Constitucionais Transitórias (ADCT) que ainda produzem seus naturais efeitos.\n\nO Presidente do Partido Político Delta, o deputado federal João Silva, sem possuir conhecimentos jurídicos, resolve consultar você, como advogado(a) , para saber se poderia questionar a constitucionalidade das normas da Lei Estadual nº X/2024, por afrontarem as normas do ADCT.\n\nAssinale a opção que indica a resposta correta à consulta formulada.",
     "alternativas": {
       "A": "Embora federais, as normas do ADCT possuem hierarquia legal, razão pela qual não poderia haver controle de constitucionalidade, mas controle de legalidade da Lei Estadual nº X/2024.",
       "B": "As normas do ADCT, por possuírem status supralegal, poderiam servir de parâmetro para aferir a validade da Lei Estadual nº X/2024, muito embora não pudessem ser consideradas normas paramétricas para o controle de constitucionalidade.",
@@ -115,7 +115,7 @@
   },
   {
     "num": 15,
-    "enunciado": "A Lei Federal nº 1.079/1950 define os crimes de responsabilidade praticados pelo Presidente da República e traz normas regulando o respectivo processo. Há poucos meses, o Diretório Nacional do Partido Político Alfa consultou você, como advogado(a) , sobre a possibilidade de ingressar com Ação Direta de Inconstitucionalidade (ADI) para impugnar alguns dispositivos da Lei nº 1.079/1950 que considerava incompatíveis com a ordem constitucional. Sobre a hipótese apresentada, assinale a afirmativa correta.",
+    "enunciado": "A Lei Federal nº 1.079/1950 define os crimes de responsabilidade praticados pelo Presidente da República e traz normas regulando o respectivo processo.\n\nHá poucos meses, o Diretório Nacional do Partido Político Alfa consultou você, como advogado(a) , sobre a possibilidade de ingressar com Ação Direta de Inconstitucionalidade (ADI) para impugnar alguns dispositivos da Lei nº 1.079/1950 que considerava incompatíveis com a ordem constitucional.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Como a Lei nº 1.079/1950 foi recepcionada pela ordem constitucional vigente, continuando a produzir efeitos nas últimas décadas, a Ação Direta de Inconstitucionalidade é a via de controle objetivo adequada para impugná-la.",
       "B": "Diante da fungibilidade reconhecida pelo Supremo Tribunal Federal entre a Ação Direta de Inconstitucionalidade e a Arguição de Descumprimento de Preceito Fundamental, admite-se, em qualquer caso, a conversão de uma via impugnativa em outra.",

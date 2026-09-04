@@ -1,12 +1,12 @@
 [
   {
     "num": 32,
-    "enunciado": "Com o intuito de tomar providências em relação à determinada política pública, no âmbito da Administração Pública Federal, foi determinado que os Ministérios Alfa, Beta e Gama, promovessem uma decisão coordenada, diante da justificável relevância da matéria. A Associação Dabliu, que atua na área de interesse coletivo, almeja habilitar-se como ouvinte do processo decisório, bem como ter direito de voz durante a reunião concernente aos respectivos trabalhos, designada para a próxima quarta-feira. Diante dessa situação hipotética e das normas relativas à decisão coordenada na Lei nº 9.784/99, assinale a afirmativa correta.",
+    "enunciado": "Com o intuito de tomar providências em relação à determinada\npolítica pública, no âmbito da Administração Pública Federal, foi\ndeterminado que os Ministérios Alfa, Beta e Gama, promovessem\numa decisão coordenada, diante da justificável relevância da matéria.\nA Associação Dabliu, que atua na área de interesse coletivo, almeja\nhabilitar-se como ouvinte do processo decisório, bem como ter\ndireito de voz durante a reunião concernente aos respectivos\ntrabalhos, designada para a próxima quarta-feira.\nDiante dessa situação hipotética e das normas relativas à decisão\ncoordenada na Lei nº 9.784/99, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "A Associação Dabliu não poderá habilitar-se a participar da decisão coordenada, ainda que na qualidade de ouvinte.",
-      "B": "A participação dos Ministérios Alfa, Beta e Gama na decisão coordenada em questão independe de intimação.",
-      "C": "O eventual dissenso do Ministério Alfa quanto à solução do objeto da decisão coordenada não precisa ser manifestado durante a reunião.",
-      "D": "A decisão prolatada por autoridade competente, que defira a participação da Associação Dabliu na reunião, com direito a voz, é irrecorrível."
+      "A": "A Associação Dabliu não poderá habilitar-se a participar da\ndecisão coordenada, ainda que na qualidade de ouvinte.",
+      "B": "A participação dos Ministérios Alfa, Beta e Gama na decisão\ncoordenada em questão independe de intimação.",
+      "C": "O eventual dissenso do Ministério Alfa quanto à solução do\nobjeto da decisão coordenada não precisa ser manifestado\ndurante a reunião.",
+      "D": "A decisão prolatada por autoridade competente, que defira a\nparticipação da Associação Dabliu na reunião, com direito a voz,\né irrecorrível."
     },
     "gabarito": "D",
     "disciplina": "Direito Ambiental",
@@ -20,7 +20,7 @@
   },
   {
     "num": 36,
-    "enunciado": "Município Alfa criou regularmente uma Unidade de Conservação (UC), por meio de decreto do Prefeito. Três anos depois, mediante a realização de novos estudos técnicos e de consulta pública, o chefe do Executivo municipal se convenceu de que deveria reduzir os limites geográficos da Unidade de Conservação. Sabendo que o Prefeito está prestes a assinar novo decreto promovendo a supressão e a desafetação de uma parte dessa Unidade de Conservação, um grupo de ambientalistas procurou você como advogado(a) . Nesse contexto, assinale a opção que apresenta, corretamente, sua orientação acerca do novo decreto.",
+    "enunciado": "Município Alfa criou regularmente uma Unidade de Conservação (UC), por meio de decreto do Prefeito. Três anos depois, mediante a realização de novos estudos técnicos e de consulta pública, o chefe do Executivo municipal se convenceu de que deveria reduzir os limites geográficos da Unidade de Conservação.\n\nSabendo que o Prefeito está prestes a assinar novo decreto promovendo a supressão e a desafetação de uma parte dessa Unidade de Conservação, um grupo de ambientalistas procurou você como advogado(a) .\n\nNesse contexto, assinale a opção que apresenta, corretamente, sua orientação acerca do novo decreto.",
     "alternativas": {
       "A": "O decreto em questão não pode ser considerado válido, pois quaisquer alterações na UC devem ser precedidas de autorização dos órgãos ambientais estadual e federal.",
       "B": "Não há qualquer mácula no aludido decreto, uma vez que foram realizados novos estudos técnicos e consulta pública, que são imprescindíveis para quaisquer alterações na UC.",
@@ -39,7 +39,7 @@
   },
   {
     "num": 36,
-    "enunciado": "Por decisão de seus representantes legais, o exercício de determinada atividade empresarial da sociedade Aurora, em benefício próprio, ensejou a poluição de um determinado rio, de modo que a conduta praticada ocasionou severos danos ao meio ambiente e, ao mesmo tempo, caracteriza ilícito penal, civil e administrativo. Diante dessa situação hipotética e considerando as normas de responsabilização da pessoa jurídica em matéria ambiental, assinale a afirmativa correta.",
+    "enunciado": "Por decisão de seus representantes legais, o exercício de determinada atividade empresarial da sociedade Aurora, em benefício próprio, ensejou a poluição de um determinado rio, de modo que a conduta praticada ocasionou severos danos ao meio ambiente e, ao mesmo tempo, caracteriza ilícito penal, civil e administrativo.\n\nDiante dessa situação hipotética e considerando as normas de responsabilização da pessoa jurídica em matéria ambiental, assinale a afirmativa correta.",
     "alternativas": {
       "A": "A sociedade Aurora deve ser responsabilizada administrativa, civil e penalmente pela aludida conduta, nos termos da legislação de regência.",
       "B": "Eventual responsabilização penal da sociedade Aurora afasta a possibilidade de que ela seja responsabilizada nas esferas civil e administrativa.",

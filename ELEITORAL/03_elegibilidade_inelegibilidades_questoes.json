@@ -1,7 +1,7 @@
 [
   {
     "num": 19,
-    "enunciado": "Os partidos políticos Alfa, Beta e Gama decidiram celebrar uma coligação para a eleição municipal majoritária que se avizinhava. Apesar do apoio recebido da maior parte dos correligionários dessas agremiações, alguns tinham dúvidas em relação aos efeitos dessa iniciativa quanto à autonomia de cada partido político durante o processo eleitoral, mais especificamente, se poderiam atuar isoladamente ou se apenas a coligação poderia fazê-lo. De acordo com a narrativa e a sistemática estabelecida na Lei nº 9.504/97, assinale a afirmativa correta.",
+    "enunciado": "Os partidos políticos Alfa, Beta e Gama decidiram celebrar uma coligação para a eleição municipal majoritária que se avizinhava. Apesar do apoio recebido da maior parte dos correligionários dessas agremiações, alguns tinham dúvidas em relação aos efeitos dessa iniciativa quanto à autonomia de cada partido político durante o processo eleitoral, mais especificamente, se poderiam atuar isoladamente ou se apenas a coligação poderia fazê-lo.\n\nDe acordo com a narrativa e a sistemática estabelecida na Lei nº 9.504/97, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Alfa, Beta e Gama somente podem atuar isoladamente no processo eleitoral para questionar a validade da própria coligação, isto no período delimitado em lei.",
       "B": "Em qualquer fase do processo eleitoral, somente a coligação pode atuar, mas isto não afeta a autonomia de Alfa, Beta e Gama, que devem referendar cada ato praticado.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 19,
-    "enunciado": "Maria estava concorrendo ao cargo de Governadora do Estado Alfa. No decorrer da campanha, obteve prova documental e testemunhal de que Joana, sua adversária direta na disputa, praticara abuso do poder econômico. Por essa razão, solicitou a você, como advogado(a) , que a representasse à Justiça Eleitoral para a abertura de investigação judicial eleitoral. Assinale a opção que indica, corretamente, a quem deve ser encaminhada a petição.",
+    "enunciado": "Maria estava concorrendo ao cargo de Governadora do Estado Alfa. No decorrer da campanha, obteve prova documental e testemunhal de que Joana, sua adversária direta na disputa, praticara abuso do poder econômico.\n\nPor essa razão, solicitou a você, como advogado(a) , que a representasse à Justiça Eleitoral para a abertura de investigação judicial eleitoral.\n\nAssinale a opção que indica, corretamente, a quem deve ser encaminhada a petição.",
     "alternativas": {
       "A": "A um dos Juízes Eleitorais em atuação no Estado Alfa.",
       "B": "Ao Presidente do Tribunal Regional Eleitoral, que deve apreciar os fatos.",

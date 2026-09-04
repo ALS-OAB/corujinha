@@ -1,7 +1,7 @@
 [
   {
     "num": 47,
-    "enunciado": "Marco Araripe pretende iniciar uma empresa em nome próprio e mediante responsabilidade ilimitada pelas obrigações. Antes de realizar sua inscrição na Junta Comercial, Marco Araripe precisa indicar o nome que adotará para o exercício de empresa. Consoante a determinação contida no Código Civil quanto à formação de firma individual, ela deve ser constituída",
+    "enunciado": "Marco Araripe pretende iniciar uma empresa em nome próprio e mediante responsabilidade ilimitada pelas obrigações. Antes de realizar sua inscrição na Junta Comercial, Marco Araripe precisa indicar o nome que adotará para o exercício de empresa.\n\nConsoante a determinação contida no Código Civil quanto à formação de firma individual, ela deve ser constituída",
     "alternativas": {
       "A": "pelo nome do empresário, completo ou abreviado, aditandolhe, se quiser, designação mais precisa da sua pessoa ou do gênero de atividade.",
       "B": "pelo nome de fantasia livremente escolhido, aditando-lhe, se quiser, designação do gênero de atividade.",
@@ -20,7 +20,7 @@
   },
   {
     "num": 47,
-    "enunciado": "O juiz da falência da sociedade empresária Refrigeração Abaíra Ltda. determinou que o administrador judicial ficasse responsável pela guarda dos bens arrecadados. O administrador judicial, entretanto, apresentou justificativas que o impossibilitavam de assumir tal encargo. Foi proposto ao juiz que os bens situados fora do estabelecimento da falida ficassem sob a guarda do Sr. Belmonte, conhecido empresário na Comarca, e sob a responsabilidade do administrador judicial. Para os bens situados dentro do estabelecimento, inclusive o próprio imóvel, propôs o administrador judicial que a Sra. América Dourada, exadministradora da sociedade e representante da falida no processo, fosse nomeada depositária dos bens. Sobre a proposta do administrador judicial, assinale a afirmativa correta.",
+    "enunciado": "O juiz da falência da sociedade empresária Refrigeração Abaíra Ltda. determinou que o administrador judicial ficasse responsável pela guarda dos bens arrecadados. O administrador judicial, entretanto, apresentou justificativas que o impossibilitavam de assumir tal encargo.\n\nFoi proposto ao juiz que os bens situados fora do estabelecimento da falida ficassem sob a guarda do Sr. Belmonte, conhecido empresário na Comarca, e sob a responsabilidade do administrador judicial. Para os bens situados dentro do estabelecimento, inclusive o próprio imóvel, propôs o administrador judicial que a Sra. América Dourada, exadministradora da sociedade e representante da falida no processo, fosse nomeada depositária dos bens.\n\nSobre a proposta do administrador judicial, assinale a afirmativa correta.",
     "alternativas": {
       "A": "É ilícita, porque é uma atribuição legal e personalíssima do administrador judicial ter os bens arrecadados do falido sob sua guarda.",
       "B": "Deve ser acatada, pois é permitido que os bens arrecadados fiquem sob a guarda da pessoa por ele escolhida e sob sua responsabilidade, podendo também qualquer dos representantes do falido ser nomeado depositário dos bens.",
@@ -58,7 +58,7 @@
   },
   {
     "num": 47,
-    "enunciado": "Joana, aposentada, contratou diversos empréstimos ao longo dos anos para fazer frente a necessidades inesperadas, em razão de um grave problema de saúde que enfrentou, além de assumir dívidas com cartões de crédito, lojas e empréstimos consignados. Com o tempo, Joana não conseguiu mais pagar todas as parcelas, que agora superam o valor de sua aposentadoria, comprometendo suas despesas básicas, como alimentação e saúde. No contrato de sociedade em conta de participação firmado entre o sócio ostensivo e quatro sócios participantes não há cláusula dispondo sobre a admissão de novos sócios. Diante da omissão, assinale a afirmativa correta.",
+    "enunciado": "Joana, aposentada, contratou diversos empréstimos ao longo dos anos para fazer frente a necessidades inesperadas, em razão de um grave problema de saúde que enfrentou, além de assumir dívidas com cartões de crédito, lojas e empréstimos consignados. Com o tempo, Joana não conseguiu mais pagar todas as parcelas, que agora superam o valor de sua aposentadoria, comprometendo suas despesas básicas, como alimentação e saúde.\n\nNo contrato de sociedade em conta de participação firmado entre o sócio ostensivo e quatro sócios participantes não há cláusula dispondo sobre a admissão de novos sócios.\n\nDiante da omissão, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Joana pode requerer judicialmente a renegociação das dívidas contraídas para consumo pessoal, mas não dos empréstimos financeiros.",
       "B": "Joana pode requerer judicialmente a renegociação de suas dívidas, preservando o mínimo existencial, e buscar um plano de pagamento compatível com sua renda.",
@@ -77,7 +77,7 @@
   },
   {
     "num": 48,
-    "enunciado": "A padaria Jacaré dos Homens Ltda. teve sua falência requerida em razão da impontualidade no pagamento de duplicata de prestação de serviço, no valor de R$ 62.000,00 (sessenta e dois mil reai s) , aceita e devidamente protestada para este fim. A devedora procurou você, como advogado(a) , informando que pretende depositar o valor cobrado. Acerca deste depósito, assinale a afirmativa correta.",
+    "enunciado": "A padaria Jacaré dos Homens Ltda. teve sua falência requerida em razão da impontualidade no pagamento de duplicata de prestação de serviço, no valor de R$ 62.000,00 (sessenta e dois mil reai\n\ns) , aceita e devidamente protestada para este fim. A devedora procurou você, como advogado(a) , informando que pretende depositar o valor cobrado.\n\nAcerca deste depósito, assinale a afirmativa correta.",
     "alternativas": {
       "A": "Deverá ser realizado em dinheiro, no prazo de quinze dias, contado da citação da devedora.",
       "B": "Compreenderá o valor total do crédito, acrescido de correção monetária, juros e honorários advocatícios.",

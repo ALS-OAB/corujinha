@@ -1,0 +1,23 @@
+[
+  {
+    "num": 1,
+    "id": 1,
+    "exame": "Exame OAB",
+    "tema": "Questão Didática Modelo - Organização do Estado e Competências",
+    "enunciado": "<p>Aguardando extração das questões históricas dos últimos exames de Ordem para esta matéria.</p>",
+    "opcoes": {
+      "A": "Opção A (Aguardando povoamento)",
+      "B": "Opção B (Aguardando povoamento)",
+      "C": "Opção C (Aguardando povoamento)",
+      "D": "Opção D (Aguardando povoamento)"
+    },
+    "gabarito": "A",
+    "core": true,
+    "sintese": "<p>Síntese Didática Modelo</p>",
+    "logica_conceito": "<p>Lógica do Conceito Modelo</p>",
+    "fundamentacao": "<p>Constituição da República Federativa do Brasil de 1988 (CF/88)</p>",
+    "dica": "<p>Dica Didática Modelo</p>",
+    "aula_comentario": "<p>Comentário da Aula</p>",
+    "analise": "<p>Análise detalhada das alternativas.</p>"
+  }
+]

@@ -1,10 +1,10 @@
 [
   {
     "num": 69,
-    "enunciado": "José, mecânico, contando com 12 (doze) meses de contribuição para a Previdência Social, sofreu acidente de trabalho, tornandose tetraplégico. Em razão do acidente, ficou completamente incapacitado para o trabalho. Diante dessas condições, assinale a afirmativa correta.",
+    "enunciado": "José, mecânico, contando com 12 (doze) meses de contribuição para a Previdência Social, sofreu acidente de trabalho, tornandose tetraplégico. Em razão do acidente, ficou completamente incapacitado para o trabalho.\n\nDiante dessas condições, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "José não terá direito à aposentadoria por incapacidade permanente, uma vez que não cumpriu a carência mínima de 24 (vinte e quatr o) meses de contribuição.",
-      "B": "José, necessitando da assistência permanente de outra pessoa, terá acrescido o valor da sua aposentadoria por incapacidade permanente em até 50% (cinquenta por cent o) .",
+      "A": "José não terá direito à aposentadoria por incapacidade permanente, uma vez que não cumpriu a carência mínima de 24 (vinte e quatr\n\no) meses de contribuição.",
+      "B": "José, necessitando da assistência permanente de outra pessoa, terá acrescido o valor da sua aposentadoria por incapacidade permanente em até 50% (cinquenta por cent\n\no) .",
       "C": "José, caso se recupere e volte a trabalhar voluntariamente, terá sua aposentadoria cancelada automaticamente, a partir da data do retorno.",
       "D": "José, sendo portador de doença ou lesão ao filiar-se ao Regime Geral de Previdência Social, não terá direito à aposentadoria por incapacidade permanente, ainda que a incapacidade sobrevenha, após a filiação, por motivo de progressão ou agravamento dessa doença ou lesão."
     },
@@ -20,7 +20,7 @@
   },
   {
     "num": 69,
-    "enunciado": "Manoel, mecânico de manutenção, após acidente durante sua atividade remunerada, recebeu benefício por incapacidade temporária durante dois anos. Antes da alta previdenciária, foi encaminhado para a reabilitação profissional, na qual se identificou a necessidade de utilização de prótese e fisioterapia, sem necessidade de transfusão de sangue ou cirurgia, em local conveniado com o INSS. Sobre o intervalo, considerando os fatos e a previsão da CLT, assinale a afirmativa correta. (",
+    "enunciado": "Manoel, mecânico de manutenção, após acidente durante sua atividade remunerada, recebeu benefício por incapacidade temporária durante dois anos. Antes da alta previdenciária, foi encaminhado para a reabilitação profissional, na qual se identificou a necessidade de utilização de prótese e fisioterapia, sem necessidade de transfusão de sangue ou cirurgia, em local conveniado com o INSS.\n\nSobre o intervalo, considerando os fatos e a previsão da CLT, assinale a afirmativa correta. (A) A jornada cumprida por Pedro não credencia qualquer\n\nintervalo. (B) Pedro terá direito a um intervalo de 15 minutos diários, já aproveitado. (C) Pedro receberá, a título indenizatório, 45 minutos diários com adicional de 50%. (D) O empregado deverá receber 55 minutos de horas extras diárias acrescidas de 50%.\n\nNesse contexto hipotético, assinale a afirmativa correta.",
     "alternativas": {
       "A": "No seu processo de reabilitação profissional está incluído o transporte, quando necessário.",
       "B": "Manoel poderia se recusar a fazer a reabilitação profissional, pois a lei não a indica como etapa obrigatória a ser observada pelos segurados.",
