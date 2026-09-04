@@ -343,6 +343,13 @@ def build_module(prefix, title, out_filename):
     .q-back {{
       transform: rotateY(180deg);
       background: #fafafa;
+      cursor: pointer;
+    }}
+    .q-back > * {{
+      pointer-events: none;
+    }}
+    .flip-btn-front {{
+      pointer-events: auto !important;
     }}
 
     /* Question Card Elements */
@@ -711,7 +718,7 @@ def build_module(prefix, title, out_filename):
             <div class="stat-lbl">Questões Didáticas</div>
           </div>
           <div class="stat-card">
-            <div class="stat-val">45s</div>
+            <div class="stat-val">60s</div>
             <div class="stat-lbl">Timer Regressivo</div>
           </div>
           <div class="stat-card">
@@ -811,7 +818,7 @@ def build_module(prefix, title, out_filename):
     let currentIndex = 0;
     let score = 0;
     let answered = new Array(questionsData.length).fill(false);
-    let timers = new Array(questionsData.length).fill(45);
+    let timers = new Array(questionsData.length).fill(60);
     let timerIntervals = new Array(questionsData.length).fill(null);
 
     function initCarousel() {{
@@ -853,7 +860,7 @@ def build_module(prefix, title, out_filename):
                 </div>
                 <div class="timer-badge" id="timer-badge-${{i}}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                  <span id="timer-text-${{i}}">45s</span>
+                  <span id="timer-text-${{i}}">60s</span>
                 </div>
               </div>
 
@@ -888,7 +895,9 @@ def build_module(prefix, title, out_filename):
                 ${{q.dica}}
               </div>
               ${{q.analise ? '<div class="back-section alternatives"><div class="back-section-title"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg> ANÁLISE DAS ALTERNATIVAS</div>' + q.analise + '</div>' : ''}}
-              <div class="flip-hint">Toque no card para voltar à pergunta</div>
+              <div style="text-align:center; margin-top:8px;">
+                <button class="flip-btn-front" onclick="unflip(${{i}})" style="background:#e2e8f0; border:none; border-radius:8px; padding:8px 20px; font-size:12px; font-weight:700; color:#334155; cursor:pointer;">← Ver Enunciado</button>
+              </div>
             </div>
 
           </div>
@@ -910,7 +919,7 @@ def build_module(prefix, title, out_filename):
       currentIndex = 0;
       score = 0;
       answered = new Array(questionsData.length).fill(false);
-      timers = new Array(questionsData.length).fill(45);
+      timers = new Array(questionsData.length).fill(60);
       timerIntervals.forEach(t => clearInterval(t));
       timerIntervals = new Array(questionsData.length).fill(null);
       document.getElementById('score-display').innerText = `Acertos: 0`;
@@ -930,7 +939,7 @@ def build_module(prefix, title, out_filename):
           
           if (textEl) textEl.innerText = `${{timers[index]}}s`;
           if (barEl) {{
-            const pct = (timers[index] / 45) * 100;
+            const pct = (timers[index] / 60) * 100;
             barEl.style.width = `${{pct}}%`;
             if (timers[index] <= 10) {{
               barEl.classList.add('warning');
@@ -1075,7 +1084,7 @@ def build_module(prefix, title, out_filename):
         pct: pct,
         date: new Date().toLocaleDateString('pt-BR')
       }};
-      localStorage.setItem('etica_score_' + modulePrefix, JSON.stringify(scoreObj));
+      try {{ localStorage.setItem('etica_score_' + modulePrefix, JSON.stringify(scoreObj)); }} catch(e) {{}}
 
       document.getElementById('result-pct').innerText = `${{pct}}%`;
       document.getElementById('res-correct').innerText = score;
