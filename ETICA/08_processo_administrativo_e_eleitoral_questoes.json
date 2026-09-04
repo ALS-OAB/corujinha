@@ -26,8 +26,13 @@
   },
   {
     "num": 2,
-    "enunciado": "Alice Santos, advogada, está sendo investigada criminalmente por ter, supostamente, cometido fraude contra o sistema previdenciário, em conjunto com Robson Lima, seu cliente, e Leonardo Melo, seu ex-cliente. O órgão competente do Ministério Público consulta a Dra. Alice Santos sobre seu interesse em efetuar colaboração premiada.\n\nCom base na legislação aplicável, assinale a afirmativa que apresenta, corretamente, o que ela concluiu.\n\n- A) Poderá efetuar colaboração premiada contra Leonardo Melo, já que ele não ostenta mais a condição de seu cliente.\n\n- B) Poderá efetuar colaboração premiada contra Robson Lima, por se tratar de cliente que está sendo formalmente investigado como co-autor pela prática do mesmo crime.\n\n- C) Caso efetue colaboração premiada contra Robson Lima, estará sujeita a processo disciplinar, que poderá culminar na aplicação da pena de suspensão.\n\n- D) Caso efetue colaboração premiada contra Leonardo Melo, estará sujeita às penas do crime de violação do segredo profissional.",
-    "alternativas": {},
+    "enunciado": "Alice Santos, advogada, está sendo investigada criminalmente por ter, supostamente, cometido fraude contra o sistema previdenciário, em conjunto com Robson Lima, seu cliente, e Leonardo Melo, seu ex-cliente. O órgão competente do Ministério Público consulta a Dra. Alice Santos sobre seu interesse em efetuar colaboração premiada.\n\nCom base na legislação aplicável, assinale a afirmativa que apresenta, corretamente, o que ela concluiu.",
+    "alternativas": {
+      "A": "Poderá efetuar colaboração premiada contra Leonardo Melo, já que ele não ostenta mais a condição de seu cliente.",
+      "B": "Poderá efetuar colaboração premiada contra Robson Lima, por se tratar de cliente que está sendo formalmente investigado como co-autor pela prática do mesmo crime.",
+      "C": "Caso efetue colaboração premiada contra Robson Lima, estará sujeita a processo disciplinar, que poderá culminar na aplicação da pena de suspensão.",
+      "D": "Caso efetue colaboração premiada contra Leonardo Melo, estará sujeita às penas do crime de violação do segredo profissional."
+    },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -46,8 +51,13 @@
   },
   {
     "num": 3,
-    "enunciado": "Durante audiência de instrução e julgamento da qual participou na qualidade de advogado, Robson foi comprovadamente ofendido por palavras desferidas pelo juiz que presidia o ato. Abalado em razão desse fato, Robson decide buscar as informações necessárias para obter desagravo público perante o Conselho Seccional competente da OAB.\n\nA esse respeito, assinale a afirmativa correta.\n\n- A) O relator deverá solicitar informações da autoridade ofensora, como condição para a concessão do desagravo.\n\n- B) Não há previsão legal ou regulamentar de prazo máximo para concessão do desagravo, em caso de acolhimento do parecer do relator, aplicando-se o princípio da Duração Razoável do Processo.\n\n- C) O desagravo será concedido em sessão realizada para essa finalidade, amplamente divulgada, sendo vedada, em qualquer caso, a concessão imediata.\n\n- D) A sessão de desagravo deverá ser realizada, preferencialmente, no local onde a ofensa foi sofrida ou onde se encontre a autoridade ofensora.",
-    "alternativas": {},
+    "enunciado": "Durante audiência de instrução e julgamento da qual participou na qualidade de advogado, Robson foi comprovadamente ofendido por palavras desferidas pelo juiz que presidia o ato. Abalado em razão desse fato, Robson decide buscar as informações necessárias para obter desagravo público perante o Conselho Seccional competente da OAB.\n\nA esse respeito, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O relator deverá solicitar informações da autoridade ofensora, como condição para a concessão do desagravo.",
+      "B": "Não há previsão legal ou regulamentar de prazo máximo para concessão do desagravo, em caso de acolhimento do parecer do relator, aplicando-se o princípio da Duração Razoável do Processo.",
+      "C": "O desagravo será concedido em sessão realizada para essa finalidade, amplamente divulgada, sendo vedada, em qualquer caso, a concessão imediata.",
+      "D": "A sessão de desagravo deverá ser realizada, preferencialmente, no local onde a ofensa foi sofrida ou onde se encontre a autoridade ofensora."
+    },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -66,8 +76,13 @@
   },
   {
     "num": 8,
-    "enunciado": "Antônio Oliveira, advogado, cometeu infração disciplinar no exercício de suas funções, submetendo-se a processo disciplinar perante o Tribunal de Ética e Disciplina do Conselho Seccional competente.\n\nAntônio contratou o advogado Pedro para defendê-lo no âmbito do processo disciplinar. No que diz respeito à instauração, instrução e tramitação do processo disciplinar instaurado em face de Antônio, assinale a afirmativa correta que deverá ser observada por Pedro, no exercício da defesa técnica.\n\n- A) O processo disciplinar poderá ser instruído por subseção ou por relatores do próprio Conselho Seccional.\n\n- B) Antônio não poderá ser suspenso preventivamente sem oitiva prévia, mesmo que não atenda às notificações de comparecimento.\n\n- C) O processo disciplinar não poderá ser instaurado de ofício, sob pena de violação do princípio acusatório.\n\n- D) Oferecida a defesa prévia, o relator do processo disciplinar poderá decidir pelo arquivamento liminar da representação.\n\n#",
-    "alternativas": {},
+    "enunciado": "Antônio Oliveira, advogado, cometeu infração disciplinar no exercício de suas funções, submetendo-se a processo disciplinar perante o Tribunal de Ética e Disciplina do Conselho Seccional competente.\n\nAntônio contratou o advogado Pedro para defendê-lo no âmbito do processo disciplinar. No que diz respeito à instauração, instrução e tramitação do processo disciplinar instaurado em face de Antônio, assinale a afirmativa correta que deverá ser observada por Pedro, no exercício da defesa técnica.",
+    "alternativas": {
+      "A": "O processo disciplinar poderá ser instruído por subseção ou por relatores do próprio Conselho Seccional.",
+      "B": "Antônio não poderá ser suspenso preventivamente sem oitiva prévia, mesmo que não atenda às notificações de comparecimento.",
+      "C": "O processo disciplinar não poderá ser instaurado de ofício, sob pena de violação do princípio acusatório.",
+      "D": "Oferecida a defesa prévia, o relator do processo disciplinar poderá decidir pelo arquivamento liminar da representação.\n\n#"
+    },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -86,8 +101,13 @@
   },
   {
     "num": 7,
-    "enunciado": "Aurélio, advogado regularmente inscrito na OAB, recebeu uma ligação urgente da família de Adalberto, seu amigo de infância, informando que este havia sido preso em flagrante, acusado da prática de homicídio.\n\nPreocupado com a situação, Aurélio dirigiu-se à Delegacia de Polícia para conversar com Adalberto e prestar-lhe assistência jurídica. No entanto, o Delegado Moisés negou o pedido de Aurélio para se comunicar pessoal e reservadamente com Adalberto, justificando a negativa pela gravidade do crime e pela ausência de procuração formal outorgada ao advogado.\n\nSobre a hipótese narrada, com base no Estatuto da OAB, assinale a afirmativa correta.\n\n- (A) A negativa do Delegado foi legítima, uma vez que, em razão da gravidade do crime de homicídio, é admissível limitar a comunicação do advogado com o preso.\n\n- (B) A comunicação de Aurélio com Adalberto só poderia ocorrer mediante a apresentação de procuração assinada, conforme exigido para a assistência jurídica em casos graves.\n\n- (C) A atuação de Aurélio é ilegal, pois a advocacia em favor de amigos próximos caracteriza conflito ético-profissional que inviabiliza a assistência jurídica.\n\n- (D) A negativa do Delegado foi ilegal, pois Aurélio tem direito de comunicar-se pessoal e reservadamente com Adalberto, mesmo sem procuração, conforme previsto no Estatuto da OAB.\n\n##",
-    "alternativas": {},
+    "enunciado": "Aurélio, advogado regularmente inscrito na OAB, recebeu uma ligação urgente da família de Adalberto, seu amigo de infância, informando que este havia sido preso em flagrante, acusado da prática de homicídio.\n\nPreocupado com a situação, Aurélio dirigiu-se à Delegacia de Polícia para conversar com Adalberto e prestar-lhe assistência jurídica. No entanto, o Delegado Moisés negou o pedido de Aurélio para se comunicar pessoal e reservadamente com Adalberto, justificando a negativa pela gravidade do crime e pela ausência de procuração formal outorgada ao advogado.\n\nSobre a hipótese narrada, com base no Estatuto da OAB, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A negativa do Delegado foi legítima, uma vez que, em razão da gravidade do crime de homicídio, é admissível limitar a comunicação do advogado com o preso.",
+      "B": "A comunicação de Aurélio com Adalberto só poderia ocorrer mediante a apresentação de procuração assinada, conforme exigido para a assistência jurídica em casos graves.",
+      "C": "A atuação de Aurélio é ilegal, pois a advocacia em favor de amigos próximos caracteriza conflito ético-profissional que inviabiliza a assistência jurídica.",
+      "D": "A negativa do Delegado foi ilegal, pois Aurélio tem direito de comunicar-se pessoal e reservadamente com Adalberto, mesmo sem procuração, conforme previsto no Estatuto da OAB.\n\n##"
+    },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
@@ -106,8 +126,13 @@
   },
   {
     "num": 4,
-    "enunciado": "A advogada Jéssica foi contratada pela sociedade empresária de telefonia Alfa para trabalhar 10 horas contínuas por dia, de segunda a quinta-feira, totalizando 40 horas semanais. Além disso, o contrato escrito firmado entre Jéssica e a sociedade empresária prevê que, em situações excepcionais, ela deverá trabalhar horas extras, sendo remunerada com um adicional de 50% sobre o valor da hora normal.\n\nJéssica questiona a validade dessas condições contratuais, especialmente em relação à duração da jornada de trabalho e à remuneração das horas extras.\n\nCom base no \n\n**Art. 20**\n do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.\n\n- (A) O contrato de Jéssica é válido, pois a jornada semanal não ultrapassa 40 horas, e as horas extras podem ser remuneradas com um adicional de 50% conforme estipulado no contrato.\n\n- (B) A sociedade empresária está correta ao fixar 10 horas de trabalho por dia, desde que Jéssica cumpra apenas quatro dias de trabalho por semana, sem a necessidade de pagamento de horas extras.\n\n- (C) O contrato de Jéssica é inválido, pois a jornada diária não pode exceder 8 horas contínuas, e as horas extras devem ser remuneradas com um adicional de 100%, conforme previsto no Estatuto da OAB, independentemente do contrato firmado.\n\n- (D) A sociedade empresária está agindo corretamente, pois Jéssica pode trabalhar até 10 horas por dia desde que sua jornada semanal não ultrapasse 40 horas, mas a remuneração das horas extras deveria ser de 100% sobre o valor da hora normal, independentemente do contrato escrito.\n\n#",
-    "alternativas": {},
+    "enunciado": "A advogada Jéssica foi contratada pela sociedade empresária de telefonia Alfa para trabalhar 10 horas contínuas por dia, de segunda a quinta-feira, totalizando 40 horas semanais. Além disso, o contrato escrito firmado entre Jéssica e a sociedade empresária prevê que, em situações excepcionais, ela deverá trabalhar horas extras, sendo remunerada com um adicional de 50% sobre o valor da hora normal.\n\nJéssica questiona a validade dessas condições contratuais, especialmente em relação à duração da jornada de trabalho e à remuneração das horas extras.\n\nCom base no \n\n**Art. 20**\n do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O contrato de Jéssica é válido, pois a jornada semanal não ultrapassa 40 horas, e as horas extras podem ser remuneradas com um adicional de 50% conforme estipulado no contrato.",
+      "B": "A sociedade empresária está correta ao fixar 10 horas de trabalho por dia, desde que Jéssica cumpra apenas quatro dias de trabalho por semana, sem a necessidade de pagamento de horas extras.",
+      "C": "O contrato de Jéssica é inválido, pois a jornada diária não pode exceder 8 horas contínuas, e as horas extras devem ser remuneradas com um adicional de 100%, conforme previsto no Estatuto da OAB, independentemente do contrato firmado.",
+      "D": "A sociedade empresária está agindo corretamente, pois Jéssica pode trabalhar até 10 horas por dia desde que sua jornada semanal não ultrapasse 40 horas, mas a remuneração das horas extras deveria ser de 100% sobre o valor da hora normal, independentemente do contrato escrito.\n\n#"
+    },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "45º Exame OAB",

@@ -26,8 +26,13 @@
   },
   {
     "num": 4,
-    "enunciado": "Pedro, cidadão brasileiro, graduou-se em Direito em renomada instituição norte-americana. Caso deseje exercer no Brasil a profissão de advogado, Pedro deverá solicitar inscrição na Ordem dos Advogados do Brasil.\n\nSobre a hipótese, assinale a opção que indica o requisito que, em tal ocasião, Pedro estará dispensado de apresentar.\n\n- A) Revalidação do título de graduação em Direito.\n\n- B) Aprovação em Exame de Ordem.\n\n- C) Ter sido admitido em estágio profissional de advocacia.\n\n- D) Prestação de compromisso perante o conselho.",
-    "alternativas": {},
+    "enunciado": "Pedro, cidadão brasileiro, graduou-se em Direito em renomada instituição norte-americana. Caso deseje exercer no Brasil a profissão de advogado, Pedro deverá solicitar inscrição na Ordem dos Advogados do Brasil.\n\nSobre a hipótese, assinale a opção que indica o requisito que, em tal ocasião, Pedro estará dispensado de apresentar.",
+    "alternativas": {
+      "A": "Revalidação do título de graduação em Direito.",
+      "B": "Aprovação em Exame de Ordem.",
+      "C": "Ter sido admitido em estágio profissional de advocacia.",
+      "D": "Prestação de compromisso perante o conselho."
+    },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -46,8 +51,13 @@
   },
   {
     "num": 7,
-    "enunciado": "Bruno, advogado, compareceu à audiência de conciliação acompanhado de seu cliente Carlos, tendo-lhe sido conferidos poderes para transacionar em juízo ou fora dele. Na audiência, foi oferecida proposta de acordo pela parte adversa, que não foi aceita por Bruno, visto que conflitava flagrantemente com os interesses de seu cliente.\n\nContrariado, o magistrado cassou a palavra de Bruno, determinando que não se manifestasse mais durante a audiência, visto que a opção de aceitar ou não o acordo seria de decisão única de Carlos, sem possibilidade de influência de seu patrono.\n\nNesse contexto, de acordo com o Estatuto da Advocacia e Ordem dos Advogados do Brasil (OAB), assinale a afirmativa correta.\n\n- A) O magistrado agiu corretamente, considerando que tem o dever de manter a ordem dos trabalhos e, em sua atuação, deve fomentar a solução pacífica dos conflitos, que estava sendo inviabilizada pela resistência de Bruno ao acordo.\n\n- B) A palavra de Bruno não poderia ter sido cassada sob o fundamento de que aceitar ou não o acordo é de decisão única de Carlos sem possibilidade de influência de seu patrono, vez que o advogado é indispensável à administração da justiça e deve orientar seu cliente.\n\n- C) Em insistindo em falar com seu cliente sobre a aceitação ou não do acordo, a conduta de Bruno acarretará responsabilidade perante a OAB, em razão da violação da ordem hierárquica do magistrado.\n\n- D) Em caso de manutenção da insubordinação de Bruno, o juiz poderá determinar que a seccional competente da Ordem dos Advogados do Brasil aplique a pena de suspensão das atividades de advocacia por ele desempenhadas, por prazo não inferior a dois anos.",
-    "alternativas": {},
+    "enunciado": "Bruno, advogado, compareceu à audiência de conciliação acompanhado de seu cliente Carlos, tendo-lhe sido conferidos poderes para transacionar em juízo ou fora dele. Na audiência, foi oferecida proposta de acordo pela parte adversa, que não foi aceita por Bruno, visto que conflitava flagrantemente com os interesses de seu cliente.\n\nContrariado, o magistrado cassou a palavra de Bruno, determinando que não se manifestasse mais durante a audiência, visto que a opção de aceitar ou não o acordo seria de decisão única de Carlos, sem possibilidade de influência de seu patrono.\n\nNesse contexto, de acordo com o Estatuto da Advocacia e Ordem dos Advogados do Brasil (OAB), assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O magistrado agiu corretamente, considerando que tem o dever de manter a ordem dos trabalhos e, em sua atuação, deve fomentar a solução pacífica dos conflitos, que estava sendo inviabilizada pela resistência de Bruno ao acordo.",
+      "B": "A palavra de Bruno não poderia ter sido cassada sob o fundamento de que aceitar ou não o acordo é de decisão única de Carlos sem possibilidade de influência de seu patrono, vez que o advogado é indispensável à administração da justiça e deve orientar seu cliente.",
+      "C": "Em insistindo em falar com seu cliente sobre a aceitação ou não do acordo, a conduta de Bruno acarretará responsabilidade perante a OAB, em razão da violação da ordem hierárquica do magistrado.",
+      "D": "Em caso de manutenção da insubordinação de Bruno, o juiz poderá determinar que a seccional competente da Ordem dos Advogados do Brasil aplique a pena de suspensão das atividades de advocacia por ele desempenhadas, por prazo não inferior a dois anos."
+    },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -66,8 +76,13 @@
   },
   {
     "num": 1,
-    "enunciado": "Determinada sociedade de advogados deseja se associar a advogados que não a integram para prestação de serviços e participação nos resultados.\n\nSegundo a legislação aplicável à formalização desse vínculo jurídico, assinale a opção que indica, corretamente, a conclusão dos administradores da sociedade de advogados.\n\n- A) O contrato de associação não pode ser pactuado em caráter geral, devendo registringir-se a causas ou trabalhos específicos, sob pena de se configurarem os requisitos legais de vínculo empregatício.\n\n- B) O contrato de associação deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados.\n\n- C) O contrato de associação poderá atribuir a totalidade dos riscos à sociedade de advogados, mas não exclusivamente a um advogado sócio ou associado.\n\n- D) O advogado não pode, simultaneamente, celebrar contrato de associação com mais de uma sociedade de advogados com sede ou filial na mesma área territorial do respectivo Conselho Seccional.\n\n##",
-    "alternativas": {},
+    "enunciado": "Determinada sociedade de advogados deseja se associar a advogados que não a integram para prestação de serviços e participação nos resultados.\n\nSegundo a legislação aplicável à formalização desse vínculo jurídico, assinale a opção que indica, corretamente, a conclusão dos administradores da sociedade de advogados.",
+    "alternativas": {
+      "A": "O contrato de associação não pode ser pactuado em caráter geral, devendo registringir-se a causas ou trabalhos específicos, sob pena de se configurarem os requisitos legais de vínculo empregatício.",
+      "B": "O contrato de associação deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados.",
+      "C": "O contrato de associação poderá atribuir a totalidade dos riscos à sociedade de advogados, mas não exclusivamente a um advogado sócio ou associado.",
+      "D": "O advogado não pode, simultaneamente, celebrar contrato de associação com mais de uma sociedade de advogados com sede ou filial na mesma área territorial do respectivo Conselho Seccional.\n\n##"
+    },
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -86,8 +101,13 @@
   },
   {
     "num": 5,
-    "enunciado": "Formalizou-se, no Tribunal Regional Eleitoral do Estado Alfa, a vacância de um dos cargos de juiz eleitoral, reservado constitucionalmente à classe de advogados. De igual modo, no Tribunal Regional Federal da Enésima Região, sediado na capital do mesmo Estado Alfa, com jurisdição nos Estados Alfa, Beta e Gama, foi também formalizada a vacância de um cargo de juiz federal do Tribunal Regional Federal, destinado à advocacia nos termos da Constituição Federal (quinto constituciona\n\nl) .\n\nNesse hipotético cenário, que demandará a produção de duas listas de membros da advocacia para o futuro preenchimento dos cargos, assinale a afirmativa que descreve corretamente as competências dos órgãos da OAB.\n\n- A) A lista para o preenchimento do cargo no TRE do Estado Alfa ficará sob a incumbência do Conselho Seccional da OAB do respectivo Estado, competindo ao Conselho Federal da OAB elaborar a lista para o preenchimento do cargo no TRF da Enésima Região.\n\n- B) A lista para o preenchimento do cargo no TRE do Estado Alfa ficará sob a incumbência do Conselho Seccional da OAB do respectivo Estado, competindo aos Conselhos Seccionais da OAB dos Estados Alfa, Beta e Gama a elaboração conjunta da lista para o preenchimento do cargo no TRF da Enésima Região.\n\n- C) Uma vez que tanto a Justiça Eleitoral quanto a Justiça Federal pertencem ao Poder Judiciário da União, competirá ao Conselho Federal da OAB a elaboração das duas listas.\n\n- D) Uma vez que tanto o TRE do Estado Alfa quanto a sede do TRF da Enésima Região estão situados no Estado Alfa, competirá ao Conselho Seccional da OAB desse Estado a elaboração das duas listas.\n\n##",
-    "alternativas": {},
+    "enunciado": "Formalizou-se, no Tribunal Regional Eleitoral do Estado Alfa, a vacância de um dos cargos de juiz eleitoral, reservado constitucionalmente à classe de advogados. De igual modo, no Tribunal Regional Federal da Enésima Região, sediado na capital do mesmo Estado Alfa, com jurisdição nos Estados Alfa, Beta e Gama, foi também formalizada a vacância de um cargo de juiz federal do Tribunal Regional Federal, destinado à advocacia nos termos da Constituição Federal (quinto constituciona\n\nl) .\n\nNesse hipotético cenário, que demandará a produção de duas listas de membros da advocacia para o futuro preenchimento dos cargos, assinale a afirmativa que descreve corretamente as competências dos órgãos da OAB.",
+    "alternativas": {
+      "A": "A lista para o preenchimento do cargo no TRE do Estado Alfa ficará sob a incumbência do Conselho Seccional da OAB do respectivo Estado, competindo ao Conselho Federal da OAB elaborar a lista para o preenchimento do cargo no TRF da Enésima Região.",
+      "B": "A lista para o preenchimento do cargo no TRE do Estado Alfa ficará sob a incumbência do Conselho Seccional da OAB do respectivo Estado, competindo aos Conselhos Seccionais da OAB dos Estados Alfa, Beta e Gama a elaboração conjunta da lista para o preenchimento do cargo no TRF da Enésima Região.",
+      "C": "Uma vez que tanto a Justiça Eleitoral quanto a Justiça Federal pertencem ao Poder Judiciário da União, competirá ao Conselho Federal da OAB a elaboração das duas listas.",
+      "D": "Uma vez que tanto o TRE do Estado Alfa quanto a sede do TRF da Enésima Região estão situados no Estado Alfa, competirá ao Conselho Seccional da OAB desse Estado a elaboração das duas listas.\n\n##"
+    },
     "gabarito": "*",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -106,8 +126,13 @@
   },
   {
     "num": 6,
-    "enunciado": "Valmir, bacharel em Direito, aprovado no Exame da Ordem dos Advogados do Brasil, ocupa o cargo público de agente de Polícia Civil do Estado Alfa.\n\nMovido por sentimento altruísta, Valmir requer sua inscrição na OAB, pois pretende, nos momentos de folga da atividade policial, exercer a advocacia de forma gratuita, eventual e voluntária, em favor de instituições sociais sem fins econômicos que não disponham de recursos para a contratação de profissional.\n\nÀ luz dessas informações, e considerada a legislação vigente, assinale a afirmativa correta.\n\n- A) Valmir poderá exercer regularmente a advocacia, inclusive pro bono.\n\n- B) Valmir não poderá exercer a advocacia remunerada, pois ocupa cargo incompatível, mas poderá exercer a advocacia pro bono.\n\n- C) Valmir não poderá exercer a advocacia, mesmo pro bono, uma vez que o cargo público que ocupa atrai o regime da incompatibilidade.\n\n- D) A condição de servidor público atrai o regime do impedimento, razão pela qual Valmir não poderá exercer a advocacia contra a Fazenda Pública que o remunera. Observado esse impedimento, não haverá óbice para o exercício da advocacia pro bono.\n\n##",
-    "alternativas": {},
+    "enunciado": "Valmir, bacharel em Direito, aprovado no Exame da Ordem dos Advogados do Brasil, ocupa o cargo público de agente de Polícia Civil do Estado Alfa.\n\nMovido por sentimento altruísta, Valmir requer sua inscrição na OAB, pois pretende, nos momentos de folga da atividade policial, exercer a advocacia de forma gratuita, eventual e voluntária, em favor de instituições sociais sem fins econômicos que não disponham de recursos para a contratação de profissional.\n\nÀ luz dessas informações, e considerada a legislação vigente, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Valmir poderá exercer regularmente a advocacia, inclusive pro bono.",
+      "B": "Valmir não poderá exercer a advocacia remunerada, pois ocupa cargo incompatível, mas poderá exercer a advocacia pro bono.",
+      "C": "Valmir não poderá exercer a advocacia, mesmo pro bono, uma vez que o cargo público que ocupa atrai o regime da incompatibilidade.",
+      "D": "A condição de servidor público atrai o regime do impedimento, razão pela qual Valmir não poderá exercer a advocacia contra a Fazenda Pública que o remunera. Observado esse impedimento, não haverá óbice para o exercício da advocacia pro bono.\n\n##"
+    },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -126,8 +151,13 @@
   },
   {
     "num": 5,
-    "enunciado": "Roberto Gil, professor de Direito Administrativo da Universidade Federal do Estado Alfa, é casado com Maria Amélia, servidora do Ministério da Saúde há 35 anos. Maria Amélia contou a seu esposo que várias colegas do Ministério da Saúde estão ajuizando ações contra a União, em que postulam o recebimento de gratificações de atividade de combate e controle de endemias, e indagou a Roberto Gil se poderia assumir o patrocínio dessas causas como advogado.\n\nCom base no caso narrado, sobre as incompatibilidades e impedimentos ao exercício da advocacia, assinale a afirmativa correta.\n\n- A) O exercício da advocacia é incompatível com a de professor de Universidade Federal, não sendo possível a Roberto que atue no patrocínio de qualquer causa como advogado no Poder Judiciário.\n- B) Roberto Gil não poderá assumir o patrocínio dessas causas, porque, sendo servidor da administração federal indireta, está impedido de exercer a advocacia contra a União, diante da vinculação existente entre a Universidade Federal e a União.\n- C) Roberto Gil poderá assumir o patrocínio da causa apenas de sua esposa, pois, apesar de existir a regra de impedimento de exercício da advocacia contra a União por servidores da administração indireta federal, os membros da família estão incluídos no conceito de causa própria, o que autoriza a atuação em defesa de entes queridos.\n- D) Embora, em regra, os servidores da administração indireta estejam impedidos de exercer advocacia contra a Fazenda Pública que os remunera ou à qual seja vinculada a entidade empregadora, Roberto Gil poderá assumir o patrocínio de causas contra a União, pois os docentes de cursos jurídicos não estão sujeitos a essa vedação.\n\n#",
-    "alternativas": {},
+    "enunciado": "Roberto Gil, professor de Direito Administrativo da Universidade Federal do Estado Alfa, é casado com Maria Amélia, servidora do Ministério da Saúde há 35 anos. Maria Amélia contou a seu esposo que várias colegas do Ministério da Saúde estão ajuizando ações contra a União, em que postulam o recebimento de gratificações de atividade de combate e controle de endemias, e indagou a Roberto Gil se poderia assumir o patrocínio dessas causas como advogado.\n\nCom base no caso narrado, sobre as incompatibilidades e impedimentos ao exercício da advocacia, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O exercício da advocacia é incompatível com a de professor de Universidade Federal, não sendo possível a Roberto que atue no patrocínio de qualquer causa como advogado no Poder Judiciário.",
+      "B": "Roberto Gil não poderá assumir o patrocínio dessas causas, porque, sendo servidor da administração federal indireta, está impedido de exercer a advocacia contra a União, diante da vinculação existente entre a Universidade Federal e a União.",
+      "C": "Roberto Gil poderá assumir o patrocínio da causa apenas de sua esposa, pois, apesar de existir a regra de impedimento de exercício da advocacia contra a União por servidores da administração indireta federal, os membros da família estão incluídos no conceito de causa própria, o que autoriza a atuação em defesa de entes queridos.",
+      "D": "Embora, em regra, os servidores da administração indireta estejam impedidos de exercer advocacia contra a Fazenda Pública que os remunera ou à qual seja vinculada a entidade empregadora, Roberto Gil poderá assumir o patrocínio de causas contra a União, pois os docentes de cursos jurídicos não estão sujeitos a essa vedação.\n\n#"
+    },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "42º Exame OAB",
@@ -146,8 +176,13 @@
   },
   {
     "num": 4,
-    "enunciado": "Roberto, advogado criminalista, foi contratado para promover a defesa de Juvenal, gestor público acusado da prática de corrupção passiva, peculato e “lavagem” ou ocultação de valores. No decorrer do processo criminal, foi decretado, pelo Juízo, o bloqueio universal do patrimônio de Juvenal, visando ao ressarcimento do suposto dano causado ao erário, o que inviabilizou o adimplemento dos honorários contratuais devidos a Roberto e o reembolso de gastos com a defesa.\n\nSobre essa hipótese, assinale a afirmativa correta.\n\n- (A) Roberto terá direito à liberação de até 20% dos bens bloqueados para fins de recebimento de honorários e o reembolso de gastos com a defesa.\n\n- (B) Roberto deverá solicitar, nos próprios autos da ação penal, a liberação de até 20% dos bens bloqueados, exclusivamente para o reembolso de gastos com a defesa.\n\n- (C) Em virtude da supremacia do interesse público, Roberto não fará jus à liberação de qualquer valor tornado indisponível, até que sobrevenha eventual decisão promovendo o desbloqueio do patrimônio de Juvenal.\n\n- (D) Em virtude do caráter alimentar dos honorários advocatícios, caso apresente o respectivo contrato nos autos, Roberto fará jus à liberação dos bens bloqueados até a completa satisfação da verba contratada, ainda que isso implique o esvaziamento do bloqueio judicial.\n\n##",
-    "alternativas": {},
+    "enunciado": "Roberto, advogado criminalista, foi contratado para promover a defesa de Juvenal, gestor público acusado da prática de corrupção passiva, peculato e “lavagem” ou ocultação de valores. No decorrer do processo criminal, foi decretado, pelo Juízo, o bloqueio universal do patrimônio de Juvenal, visando ao ressarcimento do suposto dano causado ao erário, o que inviabilizou o adimplemento dos honorários contratuais devidos a Roberto e o reembolso de gastos com a defesa.\n\nSobre essa hipótese, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Roberto terá direito à liberação de até 20% dos bens bloqueados para fins de recebimento de honorários e o reembolso de gastos com a defesa.",
+      "B": "Roberto deverá solicitar, nos próprios autos da ação penal, a liberação de até 20% dos bens bloqueados, exclusivamente para o reembolso de gastos com a defesa.",
+      "C": "Em virtude da supremacia do interesse público, Roberto não fará jus à liberação de qualquer valor tornado indisponível, até que sobrevenha eventual decisão promovendo o desbloqueio do patrimônio de Juvenal.",
+      "D": "Em virtude do caráter alimentar dos honorários advocatícios, caso apresente o respectivo contrato nos autos, Roberto fará jus à liberação dos bens bloqueados até a completa satisfação da verba contratada, ainda que isso implique o esvaziamento do bloqueio judicial.\n\n##"
+    },
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
@@ -166,8 +201,13 @@
   },
   {
     "num": 5,
-    "enunciado": "Pedro, advogado regularmente inscrito na OAB, foi eleito Deputado Federal e deseja continuar exercendo a advocacia, patrocinando causas contra a Caixa Econômica Federal. Ele também cogita a possibilidade de concorrer ao cargo de Presidente da Câmara dos Deputados.\n\nCom base nas disposições do Estatuto da OAB, assinale a afirmativa correta sobre a possibilidade de Pedro continuar advogando.\n\n- (A) Caso Pedro seja eleito Presidente da Câmara dos Deputados, ele ficará impedido de atuar em causas contra a Caixa Econômica Federal, mas poderá advogar em causas particulares.\n\n- (B) Pedro, na condição de Deputado Federal, poderá advogar contra a Caixa Econômica Federal, desde que seja em causa própria, tendo em vista que o impedimento se aplica apenas a causas de terceiros.\n\n- (C) Como Deputado Federal, Pedro está impedido de exercer a advocacia contra a Caixa Econômica Federal, mas pode atuar em causas que não envolvam entes públicos ou concessionárias de serviço público.\n\n- (D) Pedro, como Deputado Federal, estará em situação de incompatibilidade total com o exercício da advocacia e não poderá atuar como advogado em nenhuma causa, mesmo em processos particulares.\n\n##",
-    "alternativas": {},
+    "enunciado": "Pedro, advogado regularmente inscrito na OAB, foi eleito Deputado Federal e deseja continuar exercendo a advocacia, patrocinando causas contra a Caixa Econômica Federal. Ele também cogita a possibilidade de concorrer ao cargo de Presidente da Câmara dos Deputados.\n\nCom base nas disposições do Estatuto da OAB, assinale a afirmativa correta sobre a possibilidade de Pedro continuar advogando.",
+    "alternativas": {
+      "A": "Caso Pedro seja eleito Presidente da Câmara dos Deputados, ele ficará impedido de atuar em causas contra a Caixa Econômica Federal, mas poderá advogar em causas particulares.",
+      "B": "Pedro, na condição de Deputado Federal, poderá advogar contra a Caixa Econômica Federal, desde que seja em causa própria, tendo em vista que o impedimento se aplica apenas a causas de terceiros.",
+      "C": "Como Deputado Federal, Pedro está impedido de exercer a advocacia contra a Caixa Econômica Federal, mas pode atuar em causas que não envolvam entes públicos ou concessionárias de serviço público.",
+      "D": "Pedro, como Deputado Federal, estará em situação de incompatibilidade total com o exercício da advocacia e não poderá atuar como advogado em nenhuma causa, mesmo em processos particulares.\n\n##"
+    },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
@@ -186,8 +226,13 @@
   },
   {
     "num": 1,
-    "enunciado": "Antônia, advogada atuante na área previdenciária, foi consultada por Osvaldo sobre a possibilidade de propor ação judicial contra decisão do Instituto Nacional do Seguro Social (INSS), visando à obtenção de benefício previdenciário indeferido na via administrativa.\n\nAo estudar o caso, Antônia verificou que o indeferimento do benefício havia se dado com base em dispositivo claro e expresso da lei que dispõe sobre o Plano de Benefícios da Previdência Social; e que não havia, até aquele momento, notícia de precedente judicial favorável à pretensão de Osvaldo. Essas informações, bem como os riscos de eventual ação judicial, foram prestadas de modo claro e inequívoco por Antônia ao cliente. No entanto, devido à insistência de Osvaldo, Antônia decidiu propor a demanda judicial. Com base nesse cenário, considerando o regime das infrações e sanções disciplinares da Advocacia, assinale a afirmativa correta.\n\n- (A) Antônia advogou contra literal disposição de lei, o que, não obstante seja conduta irrelevante no regime das infrações disciplinares, poderá sujeitá-la a eventual sanção por litigância de má-fé aplicada pelo juiz da causa.\n\n- (B) Antônia advogou contra literal disposição de lei, conduta que poderá sujeitá-la, perante o órgão competente da OAB, à pena isolada de multa.\n\n- (C) Antônia advogou contra literal disposição de lei, porém poderá contar com a presunção de boa-fé em seu favor, caso tenha fundamentado seu pedido na inconstitucionalidade ou na injustiça da lei.\n\n- (D) Antônia advogou contra literal disposição de lei, conduta que não possui relevância jurídico-disciplinar, mesmo porque a atuação da advocacia deve ser a mais ampla possível na defesa dos interesses de seus clientes.\n\n#",
-    "alternativas": {},
+    "enunciado": "Antônia, advogada atuante na área previdenciária, foi consultada por Osvaldo sobre a possibilidade de propor ação judicial contra decisão do Instituto Nacional do Seguro Social (INSS), visando à obtenção de benefício previdenciário indeferido na via administrativa.\n\nAo estudar o caso, Antônia verificou que o indeferimento do benefício havia se dado com base em dispositivo claro e expresso da lei que dispõe sobre o Plano de Benefícios da Previdência Social; e que não havia, até aquele momento, notícia de precedente judicial favorável à pretensão de Osvaldo. Essas informações, bem como os riscos de eventual ação judicial, foram prestadas de modo claro e inequívoco por Antônia ao cliente. No entanto, devido à insistência de Osvaldo, Antônia decidiu propor a demanda judicial. Com base nesse cenário, considerando o regime das infrações e sanções disciplinares da Advocacia, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Antônia advogou contra literal disposição de lei, o que, não obstante seja conduta irrelevante no regime das infrações disciplinares, poderá sujeitá-la a eventual sanção por litigância de má-fé aplicada pelo juiz da causa.",
+      "B": "Antônia advogou contra literal disposição de lei, conduta que poderá sujeitá-la, perante o órgão competente da OAB, à pena isolada de multa.",
+      "C": "Antônia advogou contra literal disposição de lei, porém poderá contar com a presunção de boa-fé em seu favor, caso tenha fundamentado seu pedido na inconstitucionalidade ou na injustiça da lei.",
+      "D": "Antônia advogou contra literal disposição de lei, conduta que não possui relevância jurídico-disciplinar, mesmo porque a atuação da advocacia deve ser a mais ampla possível na defesa dos interesses de seus clientes.\n\n#"
+    },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "44º Exame OAB",
@@ -206,8 +251,13 @@
   },
   {
     "num": 2,
-    "enunciado": "Danilo, procurador de carreira, foi nomeado Procurador-Geral de sua instituição. Antes de assumir a Procuradoria-Geral do Estado, ele patrocinava várias causas trabalhistas contra empresas privadas e causas tributárias. Agora, Danilo está em dúvida se poderá continuar advogando nessas ações.\n\nSobre a hipótese apresentada, com base nas disposições do Estatuto da OAB sobre incompatibilidades e impedimentos, assinale a afirmativa correta.\n\n- (A) Danilo está impedido de atuar em causas trabalhistas e tributárias contra a Fazenda Pública que o remunera, mas pode continuar patrocinando as causas contra empresas privadas.\n\n- (B) Danilo poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado não gera incompatibilidade ou impedimento para advogar em questões privadas.\n\n- (C) Danilo poderá continuar patrocinando as causas tributárias, mas não as trabalhistas, pois apenas as causas tributárias contra a Fazenda Pública estão abrangidas pelo impedimento previsto no Estatuto da OAB.\n\n- (D) Danilo não poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado obsta o exercício da advocacia desvinculado da função que exerce, durante o período da investidura.\n\n#",
-    "alternativas": {},
+    "enunciado": "Danilo, procurador de carreira, foi nomeado Procurador-Geral de sua instituição. Antes de assumir a Procuradoria-Geral do Estado, ele patrocinava várias causas trabalhistas contra empresas privadas e causas tributárias. Agora, Danilo está em dúvida se poderá continuar advogando nessas ações.\n\nSobre a hipótese apresentada, com base nas disposições do Estatuto da OAB sobre incompatibilidades e impedimentos, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Danilo está impedido de atuar em causas trabalhistas e tributárias contra a Fazenda Pública que o remunera, mas pode continuar patrocinando as causas contra empresas privadas.",
+      "B": "Danilo poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado não gera incompatibilidade ou impedimento para advogar em questões privadas.",
+      "C": "Danilo poderá continuar patrocinando as causas tributárias, mas não as trabalhistas, pois apenas as causas tributárias contra a Fazenda Pública estão abrangidas pelo impedimento previsto no Estatuto da OAB.",
+      "D": "Danilo não poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado obsta o exercício da advocacia desvinculado da função que exerce, durante o período da investidura.\n\n#"
+    },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "46º Exame OAB",
