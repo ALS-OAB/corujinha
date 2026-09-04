@@ -16,26 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "08_processo_administrativo_e_eleitoral",
     "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 1
-  },
-  {
-    "num": 5,
-    "enunciado": "Lucas, estagiário de Direito, descobre que Patrícia, advogada que o supervisiona, teve sua inscrição na OAB cancelada. Na intenção de auxiliar Patrícia a restabelecer o exercício da advocacia, Lucas passa a estudar a legislação que disciplina o tema. Sobre o cancelamento da inscrição, Lucas concluiu, corretamente, que",
-    "alternativas": {
-      "A": "deve ter motivo justificado, caso seja solicitada pelo profissional.",
-      "B": "a aplicação de penalidade de exclusão impossibilita um novo pedido de inscrição.",
-      "C": "deve ser promovido, de ofício, pelo conselho competente, caso decorra do exercício de atividade incompatível com a advocacia.",
-      "D": "será restaurado o número cancelado, caso seja feito um novo pedido de inscrição."
-    },
-    "gabarito": "C",
-    "disciplina": "Ética Profissional",
-    "exame": "38º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 38,
-    "exame_label": "38º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 2
+    "id": 1,
+    "sintese": "Membro de Comissão da OAB: pode firmar contrato gratuito de prestação de serviços com entidades da OAB — a vedação é para aquisição onerosa de bens.",
+    "logica_conceito": "Maria integra comissão do Conselho Seccional. Há vedações para membros de órgãos da OAB em relação a negócios com a própria OAB — para evitar conflito de interesses. Mas contratos GRATUITOS (pro bono, parceria, colaboração gratuita) com entidades da OAB são permitidos.",
+    "fundamentacao": "EAOAB, Art. 54, parágrafo único: 'É vedado ao Conselho Federal e aos Conselhos Seccionais contratar servidores por meio de empresas prestadoras de serviços.' Regulamento Geral: vedações específicas para membros de órgãos da OAB em negócios com a Ordem.",
+    "dica": "Membro de órgão da OAB: pode firmar CONTRATO GRATUITO com entidades da OAB. Vedada: aquisição de bens da OAB, contratos onerosos de prestação de serviços onde o membro se beneficia economicamente.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): a vedação para membros de órgãos da OAB é para evitar conflito de interesses oneroso — não impede a prestação gratuita de serviços. Maria pode firmar contrato gratuito de prestação de serviços com entidade da OAB sem conflito de interesses.",
+    "analise": "A) CORRETA: Maria pode firmar contrato gratuito de prestação de serviços com entidades da OAB — a vedação é para negócios onerosos que criam conflito de interesses. B) Errada: a aquisição de bens móveis fungíveis da OAB é vedada para membros de órgãos. C) Errada: alienação de bens móveis infungíveis para entidades da OAB é vedada para membro de órgão. D) Errada: aquisição de bens imóveis de entidades da OAB é vedada para membro de órgão."
   },
   {
     "num": 2,
@@ -54,18 +41,24 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_processo_administrativo_e_eleitoral",
     "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 3
+    "id": 3,
+    "sintese": "Colaboração premiada: advogado não pode colaborar contra ex-cliente (Leonardo Melo) — violação do dever de sigilo e lealdade, mesmo após extinção da relação.",
+    "logica_conceito": "Alice foi advogada de Leonardo Melo. Robson Lima é cliente atual. Ela não pode colaborar contra Leonardo (ex-cliente) porque o dever de sigilo é perpétuo. Quanto a Robson (cliente atual), a vedação é ainda mais forte. A questão pede o que é VEDADO E sujeita às sanções do EAOAB.",
+    "fundamentacao": "EAOAB, Art. 7º, XIX: sigilo perpétuo. CED, Art. 25: 'O sigilo profissional é inerente à profissão.' Art. 34 EAOAB: 'Constitui infração disciplinar: [...] XXV - fazer declaração falsa ou utilizar documento falso nos atos do processo disciplinar' e incisos que incluem traição de segredo do cliente.",
+    "dica": "Colaboração contra ex-cliente: SEMPRE VEDADO — o sigilo é perpétuo. Colaboração contra cliente atual: igualmente VEDADO. A extinção da relação não extingue o sigilo profissional.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): sigilo perpétuo = a extinção do mandato não libera o advogado do sigilo. Alice não pode colaborar contra Leonardo (ex-cliente) nem contra Robson (cliente atual). A D reflete a vedação mais grave e suas consequências.",
+    "analise": "A) Errada: não pode colaborar contra Leonardo Melo mesmo após extinção da relação — o sigilo é perpétuo. B) Errada: não pode colaborar contra cliente atual Robson Lima de jeito nenhum. C) Errada: mesmo que possa colaborar em algum caso, sujeita-se sim a processo disciplinar. D) CORRETA: caso efetue colaboração premiada contra Leonardo Melo (ex-cliente), Alice estará sujeita às penalidades do EAOAB por violação do sigilo profissional."
   },
   {
-    "num": 7,
-    "enunciado": "Bruno, advogado, compareceu à audiência de conciliação acompanhado de seu cliente Carlos, tendo-lhe sido conferidos poderes para transacionar em juízo ou fora dele. Na audiência, foi oferecida proposta de acordo pela parte adversa, que não foi aceita por Bruno, visto que conflitava flagrantemente com os interesses de seu cliente. Contrariado, o magistrado cassou a palavra de Bruno, determinando que não se manifestasse mais durante a audiência, visto que a opção de aceitar ou não o acordo seria de decisão única de Carlos, sem possibilidade de influência de seu patrono. Nesse contexto, de acordo com o Estatuto da Advocacia e Ordem dos Advogados do Brasil (OAB), assinale a afirmativa correta.",
+    "num": 3,
+    "enunciado": "Durante audiência de instrução e julgamento da qual participou na qualidade de advogado, Robson foi comprovadamente ofendido por palavras desferidas pelo juiz que presidia o ato. Abalado em razão desse fato, Robson decide buscar as informações necessárias para obter desagravo público perante o Conselho Seccional competente da OAB. A esse respeito, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "O magistrado agiu corretamente, considerando que tem o dever de manter a ordem dos trabalhos e, em sua atuação, deve fomentar a solução pacífica dos conflitos, que estava sendo inviabilizada pela resistência de Bruno ao acordo.",
-      "B": "A palavra de Bruno não poderia ter sido cassada sob o fundamento de que aceitar ou não o acordo é de decisão única de Carlos sem possibilidade de influência de seu patrono, vez que o advogado é indispensável à administração da justiça e deve orientar seu cliente.",
-      "C": "Em insistindo em falar com seu cliente sobre a aceitação ou não do acordo, a conduta de Bruno acarretará responsabilidade perante a OAB, em razão da violação da ordem hierárquica do magistrado.",
-      "D": "Em caso de manutenção da insubordinação de Bruno, o juiz poderá determinar que a seccional competente da Ordem dos Advogados do Brasil aplique a pena de suspensão das atividades de advocacia por ele desempenhadas, por prazo não inferior a dois anos."
+      "A": "O relator deverá solicitar informações da autoridade ofensora, como condição para a concessão do desagravo.",
+      "B": "Não há previsão legal ou regulamentar de prazo máximo para concessão do desagravo, em caso de acolhimento do parecer do relator, aplicando-se o princípio da Duração Razoável do Processo.",
+      "C": "O desagravo será concedido em sessão realizada para essa finalidade, amplamente divulgada, sendo vedada, em qualquer caso, a concessão imediata.",
+      "D": "A sessão de desagravo deverá ser realizada, preferencialmente, no local onde a ofensa foi sofrida ou onde se encontre a autoridade ofensora."
     },
-    "gabarito": "B",
+    "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
     "tipo": "Branca",
@@ -73,26 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_processo_administrativo_e_eleitoral",
     "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 4
-  },
-  {
-    "num": 3,
-    "enunciado": "Considerando a extensão da prova em relação ao tempo total, você considera que ela foi",
-    "alternativas": {
-      "A": "Sim, todos.",
-      "B": "Sim, a maioria.",
-      "C": "Poucos.",
-      "D": "Não, nenhum."
-    },
-    "gabarito": "A",
-    "disciplina": "Ética Profissional",
-    "exame": "40º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 40,
-    "exame_label": "40º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 5
+    "id": 3903,
+    "sintese": "Desagravo público: a sessão deve ser realizada preferencialmente no local onde ocorreu a ofensa ou onde se encontra a autoridade ofensora.",
+    "logica_conceito": "Robson foi ofendido em audiência e requereu desagravo. O CED e o Regulamento Geral estabelecem que a sessão de desagravo deve ocorrer preferencialmente no local da ofensa ou onde se encontra a autoridade ofensora — para que tenha máximo impacto público e reparatório.",
+    "fundamentacao": "CED/OAB, Art. 18: 'O desagravo público é direito do advogado, não constituindo duplicidade com a responsabilidade civil, penal ou administrativa do infrator.' Regulamento Geral, Art. 18, § 2º: 'A sessão de desagravo será realizada, preferencialmente, no local onde ocorreu a ofensa ou onde se encontra a autoridade ofensora.'",
+    "dica": "Desagravo: local preferencial = onde ocorreu a ofensa OU onde está a autoridade ofensora. Prazo: 15 dias para manifestação da autoridade, 60 dias para OAB decidir, 30 dias para realizar a sessão. Pode ser concedido 'de plano' pelo relator.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o desagravo é um dos temas mais cobrados em Prerrogativas. Os prazos (15+60+30) e o local (onde ocorreu a ofensa ou onde está a autoridade) são os pontos críticos.",
+    "analise": "A) Errada: o relator pode conceder o desagravo de plano, sem solicitar informações da autoridade como condição prévia. B) Errada: há prazo regulamentar de 30 dias para a realização da sessão. C) Errada: a sessão não deve ser ampliada para o máximo de pessoas — deve ser realizada preferencialmente no local da ofensa. D) CORRETA: a sessão de desagravo deve ser realizada preferencialmente no local onde ocorreu a ofensa ou onde se encontra a autoridade ofensora."
   },
   {
     "num": 8,
@@ -111,83 +91,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_processo_administrativo_e_eleitoral",
     "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 6
-  },
-  {
-    "num": 5,
-    "enunciado": "Gilson, advogado recém inscrito nos quadros da Ordem dos Advogados do Brasil, estava em dúvida entre constituir sociedade unipessoal de advocacia, o que, em seu entender, lhe traria maior autonomia e liberdade, ou aceitar a proposta recebida da sociedade empresária XYZ, para atuar como advogado empregado em regime de dedicação exclusiva. Após estudar a legislação correlata, Gilson aceitou a proposta de emprego da sociedade empresária XYZ. Acerca desse vínculo contratual, de acordo com o texto legal do Estatuto da Advocacia, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Nas causas em que Gilson atuar como advogado empregado da empresa XYZ, ou de pessoa por esta representada, os honorários de sucumbência lhe pertencerão.",
-      "B": "Gilson estará eticamente obrigado a prestar serviços profissionais de interesse pessoal dos diretores da sociedade empresária XYZ.",
-      "C": "A jornada de trabalho de Gilson não poderá exceder a duração diária de 4 (quatro) horas contínuas e a de 20 (vinte) horas semanais.",
-      "D": "Em virtude da dedicação exclusiva, Gilson não poderá ser remunerado pelas horas trabalhadas excedentes à jornada normal prevista na legislação."
-    },
-    "gabarito": "A",
-    "disciplina": "Ética Profissional",
-    "exame": "41º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 41,
-    "exame_label": "41º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 7
-  },
-  {
-    "num": 1,
-    "enunciado": "Na sua avaliação, o grau de dificuldade desta prova, quanto ao conteúdo programático abordado, foi",
-    "alternativas": {
-      "A": "muito fácil.",
-      "B": "fácil.",
-      "C": "médio.",
-      "D": "difícil."
-    },
-    "gabarito": "D",
-    "disciplina": "Ética Profissional",
-    "exame": "42º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 42,
-    "exame_label": "42º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 8
-  },
-  {
-    "num": 6,
-    "enunciado": "José Fabiano, advogado recém-inscrito na OAB, com dois anos e seis meses de exercício da profissão, decidiu se candidatar para o cargo de Conselheiro Seccional da Ordem. Durante o procedimento de verificação da regularidade de sua candidatura, observou-se que ele havia sido condenado pela prática da infração disciplinar de abandonar a causa sem justo motivo ou antes de decorridos dez dias da comunicação da renúncia, tendo-lhe sido imposta sanção de censura, sem que tenha ocorrido, até o momento da eleição, sua reabilitação. Com base nessa situação hipotética e considerando as eleições da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "José Fabiano somente poderá participar da eleição caso não haja outros candidatos dispostos a concorrer para o cargo, hipótese na qual as condições de elegibilidade são flexibilizadas para que a posição não fique vaga.",
-      "B": "José Fabiano não poderá participar da eleição corrente, porque ainda não completou o prazo de três anos de efetivo exercício profissional da advocacia e por ter sido apenado com sanção disciplinar, sem que tenha sucedido reabilitação.",
-      "C": "José Fabiano poderá participar da eleição e concorrer ao cargo de Conselheiro Seccional da OAB, porque exerce a profissão de advogado há mais de um ano e foi condenado por infração disciplinar leve, para a qual está prevista apenas a pena de censura.",
-      "D": "José Fabiano não poderá participar da eleição corrente e de futuras, porque, uma vez apenado com sanção disciplinar, o advogado não mais poderá recuperar sua condição de elegibilidade, estando impedido, indefinidamente, de se candidatar a cargos na OAB."
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "42º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 42,
-    "exame_label": "42º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 9
-  },
-  {
-    "num": 2,
-    "enunciado": "Assinale a alternativa que indique a sua avaliação quanto à capacidade crítica e interpretativa desta prova em relação ao cenário e ao ordenamento jurídico contemporâneo.",
-    "alternativas": {
-      "A": "Plenamente satisfatória.",
-      "B": "Satisfatória.",
-      "C": "Pouco satisfatória.",
-      "D": "Insatisfatória."
-    },
-    "gabarito": "C",
-    "disciplina": "Ética Profissional",
-    "exame": "43º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 43,
-    "exame_label": "43º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 10
+    "id": 6,
+    "sintese": "PAD: pode ser instruído por Subseção (com mais de 100 inscritos) ou por relatores do próprio Conselho Seccional, conforme o local da infração.",
+    "logica_conceito": "Antônio cometeu infração no exercício de suas funções. O PAD segue o local da infração como regra. Pode ser instruído pela própria Subseção (se tiver mais de 100 inscritos e portanto Conselho Pleno) ou por relatores do Conselho Seccional. A A é correta.",
+    "fundamentacao": "EAOAB, Art. 70, § 1º: 'O processo disciplinar pode ser instruído pela Subseção, quando esta dispuser de Conselho Pleno.' Art. 73: 'Recebida a representação, o Presidente da Seccional ou do Tribunal de Ética e Disciplina designará relator [...]' (Local da infração determina competência.)",
+    "dica": "PAD: instaurado onde ocorreu a infração. Pode ser instruído por Subseção (com mais de 100 advogados = Conselho Pleno) ou por relatores do Conselho Seccional. Suspensão preventiva: tramita no local da inscrição principal.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o PAD segue o local da infração. Subseção com Conselho Pleno (+100 inscritos) pode instruir o processo. Para suspensão preventiva, a competência muda para o local da inscrição principal — exceção à regra.",
+    "analise": "A) CORRETA: o processo disciplinar pode ser instruído pela Subseção (quando dispuser de Conselho Pleno, +100 inscritos) ou por relatores do Conselho Seccional. B) Errada: a suspensão preventiva pode ser decretada sem oitiva prévia em casos urgentes. C) Errada: o PAD pode sim ser instaurado de ofício (pelo próprio Conselho), sem necessidade de representação de terceiro. D) Errada: o relator não pode decidir pelo arquivamento após a defesa prévia — sua função é opinar; quem decide é o Presidente (para censura) ou o colegiado (para suspensão/exclusão)."
   },
   {
     "num": 7,
@@ -206,26 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_processo_administrativo_e_eleitoral",
     "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 11
-  },
-  {
-    "num": 6,
-    "enunciado": "O advogado Ivan precisava embarcar em um voo doméstico de Recife para Curitiba, a fim de participar do Congresso Brasileiro de Direito de Família. Ao chegar ao balcão de check-in, percebeu que havia esquecido todos os seus DOC_Documentos de identificação em seu escritório, com exceção da carteira da Ordem dos Advogados do Brasil (OAB), na qual consta sua foto. A responsável pelo atendimento da companhia aérea informou que não aceitaria a carteira da OAB como documento de identidade e, por isso, Ivan estaria impedido de embarcar. Ivan argumentou que o documento deveria ser aceito como prova de identidade civil, uma vez que é o único documento de identidade profissional obrigatório para o exercício da advocacia. Sobre a hipótese, com base no Estatuto da Ordem dos Advogados do Brasil, assinale a ",
-    "alternativas": {
-      "A": "Ivan não poderá embarcar, pois a carteira da OAB não é considerada documento de identidade civil válido para viagens nacionais em aviões.",
-      "B": "Ivan poderá embarcar, pois a carteira da OAB constitui prova de identidade civil para todos os fins legais, inclusive para viagens nacionais em aviões.",
-      "C": "Ivan somente poderá embarcar se apresentar outro documento de identificação civil junto com a carteira da OAB, como medida de segurança adicional.",
-      "D": "Ivan não poderá embarcar, pois a carteira da OAB só é válida como documento de identificação quando utilizada em exercício da atividade profissional em fóruns e tribunais."
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "44º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 44,
-    "exame_label": "44º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 12
+    "id": 11,
+    "sintese": "Advogado pode comunicar-se pessoal e reservadamente com cliente preso, mesmo sem procuração — a negativa do delegado foi ilegal.",
+    "logica_conceito": "Aurélio quer se comunicar com Adalberto (preso). O Art. 7º, III garante ao advogado o direito de se comunicar com clientes presos, pessoal e reservadamente, mesmo sem procuração. A negativa do delegado é ilegal — não pode ser impedida por alegação de gravidade do crime ou incomunicabilidade.",
+    "fundamentacao": "EAOAB, Art. 7º, III: 'comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procuração, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicáveis.' Art. 7º-B: impedir essa comunicação é crime com pena de 2 a 4 anos.",
+    "dica": "Comunicação com preso: DIREITO ABSOLUTO — sem procuração, mesmo incomunicável, mesmo crime grave. A negativa do delegado é sempre ilegal nesse contexto. Impedir = crime (Art. 7º-B).",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): 'Sem procuração fala com preso.' A prerrogativa é absoluta — não admite exceção por gravidade do crime, incomunicabilidade decretada ou ausência de procuração. A negativa do delegado é ilegal e pode configurar o crime do Art. 7º-B.",
+    "analise": "A) Errada: não há exceção por gravidade do crime — a comunicação é garantida independentemente. B) Errada: não é necessária a apresentação de procuração para se comunicar com cliente preso. C) Errada: advogado pode representar amigos próximos — não há impedimento por proximidade pessoal. D) CORRETA: a negativa do delegado foi ilegal — Aurélio tem direito de se comunicar pessoal e reservadamente com Adalberto, mesmo sem procuração (Art. 7º, III EAOAB)."
   },
   {
     "num": 4,
@@ -244,44 +141,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_processo_administrativo_e_eleitoral",
     "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 13
-  },
-  {
-    "num": 2,
-    "enunciado": "Danilo, procurador de carreira, foi nomeado Procurador-Geral de sua instituição. Antes de assumir a Procuradoria-Geral do Estado, ele patrocinava várias causas trabalhistas contra empresas privadas e causas tributárias. Agora, Danilo está em dúvida se poderá continuar advogando nessas ações. Sobre a hipótese apresentada, com base nas disposições do Estatuto da OAB sobre incompatibilidades e impedimentos, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Danilo está impedido de atuar em causas trabalhistas e tributárias contra a Fazenda Pública que o remunera, mas pode continuar patrocinando as causas contra empresas privadas.",
-      "B": "Danilo poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado não gera incompatibilidade ou impedimento para advogar em questões privadas.",
-      "C": "Danilo poderá continuar patrocinando as causas tributárias, mas não as trabalhistas, pois apenas as causas tributárias contra a Fazenda Pública estão abrangidas pelo impedimento previsto no Estatuto da OAB.",
-      "D": "Danilo não poderá continuar patrocinando suas causas trabalhistas e tributárias, pois o cargo de Procurador-Geral do Estado obsta o exercício da advocacia desvinculado da função que exerce, durante o período da investidura."
-    },
-    "gabarito": "D",
-    "disciplina": "Ética Profissional",
-    "exame": "46º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 46,
-    "exame_label": "46º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 14
-  },
-  {
-    "num": 7,
-    "enunciado": "Frederico, advogado, após alcançar grande sucesso na advocacia, decidiu se dedicar também à construção civil, passando a atuar simultaneamente nas duas áreas. Diante da afinidade temática entre o Direito Imobiliário e o setor de construção civil, Frederico teve a ideia de unir ambas as atividades em um único escritório, oferecendo aos clientes consultoria jurídica e serviços de incorporação imobiliária. Para divulgar o seu novo empreendimento, contratou um escritório de marketing, que produziu uma campanha publicitária conjunta, ressaltando seus trabalhos como advogado e como empreendedor da construção civil. Sobre o fato narrado, com base no Estatuto da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "É possível a divulgação conjunta, desde que respeitados o decoro e a dignidade da advocacia, cabendo ao Tribunal de Ética e Disciplina da OAB avaliar a adequação da publicidade.",
-      "B": "É permitida a divulgação conjunta apenas quando a outra atividade também for regulamentada por entidade de classe, hipótese em que a OAB poderá celebrar o convênio para a publicidade cruzada.",
-      "C": "É vedada a divulgação conjunta de advocacia com outra atividade, ainda que exercida pela mesma pessoa e que haja afinidade entre os ramos, como ocorre entre a advocacia imobiliária e a construção civil.",
-      "D": "Em regra, não é possível divulgar a advocacia em conjunto com outra atividade, mas nesse caso seria permitido, pois as atividades são exercidas por uma mesma pessoa e possuem afinidade temática, inexistindo conflito ético."
-    },
-    "gabarito": "C",
-    "disciplina": "Ética Profissional",
-    "exame": "46º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 46,
-    "exame_label": "46º Exame OAB",
-    "modulo_codigo": "08_processo_administrativo_e_eleitoral",
-    "modulo_nome": "Processo Disciplinar e Eleitoral",
-    "id": 15
+    "id": 13,
+    "sintese": "Contrato de advogada empregada com jornada de 10h/dia: inválido — jornada máxima é 8h/dia e 40h/semana.",
+    "logica_conceito": "Jéssica foi contratada para 10h/dia. O Art. 20 EAOAB estabelece jornada máxima de 8h/dia e 40h/semana. Qualquer contrato que ultrapasse isso é inválido — mesmo que a jornada semanal não ultrapasse 40h (10h × 4 dias = 40h, mas 10h/dia viola o limite diário).",
+    "fundamentacao": "EAOAB, Art. 20: 'A jornada de trabalho do advogado empregado, no exercício da profissão, não poderá exceder a duração diária de oito horas e a duração semanal de quarenta horas, ressalvada a existência de previsão mais favorável em acordo individual, coletivo ou em convenção coletiva de trabalho.'",
+    "dica": "Jornada do advogado empregado: MAX 8h/dia E MAX 40h/semana. São dois limites independentes — ambos devem ser respeitados. Horas extras: mínimo de 100%. Noturno (20h-5h): adicional de 25%.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o Art. 20 EAOAB é proteção específica do advogado empregado — mais favorável que a CLT geral. Qualquer contrato que fixe mais de 8h/dia é inválido, independentemente da jornada semanal. Convenção coletiva pode prever condição mais favorável, nunca menos.",
+    "analise": "A) Errada: a jornada pode não ultrapassar 40h semanais, mas ultrapassa o limite diário de 8h. B) Errada: a empresa não está correta — o limite diário de 8h foi violado. C) CORRETA: o contrato de Jéssica é inválido porque a jornada diária não pode exceder 8 horas — o limite foi ultrapassado mesmo que a semanal eventualmente não ultrapasse 40h. D) Errada: o limite diário de 8h não pode ser compensado por trabalho em menos dias — o limite diário é autônomo."
   }
 ]

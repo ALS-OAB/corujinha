@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
-    "id": 1
+    "id": 1,
+    "sintese": "Notificações no PAD: presunção de recebimento quando enviadas por correspondência com AR ao endereço cadastrado na Seccional.",
+    "logica_conceito": "A notificação no PAD segue ordem: pessoalmente → AR → edital. Quando feita por carta registrada com AR, há presunção de recebimento se enviada ao endereço constante do cadastro na Seccional. O advogado deve manter seus dados atualizados; o risco da desatualização é seu.",
+    "fundamentacao": "EAOAB, Art. 68: 'Para o efeito do disposto nesta lei, nos casos omissos, aplica-se o Código de Processo Civil e os Regimentos Internos do Conselho Federal e dos Conselhos Seccionais.' Regulamento Geral, Art. 74, § 1º: 'A notificação pode ser feita pessoalmente ou por correspondência com aviso de recebimento, ao endereço constante do cadastro do interessado junto ao Conselho, presumindo-se recebida.'",
+    "dica": "A presunção de recebimento exige que o endereço seja o cadastrado na OAB — se o advogado não atualizou o endereço, o risco é dele. Questão muito cobrada para confundir com 'cientificação pessoal obrigatória'.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): a notificação é tríplice — pessoal, AR, edital. A segunda fase (AR) já presume recebimento se enviada ao endereço do cadastro. O advogado tem dever de manter dados atualizados. A notificação por AR ao endereço cadastrado é a mais cobrada em prova.",
+    "analise": "A) Errada: a notificação inicial não precisa ser necessariamente pessoal, pode ser por AR. B) Errada: a notificação por oficial é apenas uma das formas; AR ao endereço cadastrado também é válida. C) Errada: notificações por via postal com AR têm presunção de recebimento desde que no endereço cadastrado. D) CORRETA: há presunção de recebimento das notificações enviadas com AR ao endereço cadastrado na Seccional."
   },
   {
     "num": 1,
@@ -35,64 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
-    "id": 2
-  },
-  {
-    "num": 5,
-    "enunciado": "As questões das diversas áreas do Direito (Civil, Penal, Trabalho, Administrativo, etc.) apresentavam o mesmo nível de dificuldade e compreensão?",
-    "alternativas": {
-      "A": "Sim, todas.",
-      "B": "Sim, a maioria.",
-      "C": "Não houve esse nivelamento.",
-      "D": "Não tenho como opinar."
-    },
-    "gabarito": "C",
-    "disciplina": "Ética Profissional",
-    "exame": "38º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 38,
-    "exame_label": "38º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 3
-  },
-  {
-    "num": 3,
-    "enunciado": "Durante audiência de instrução e julgamento da qual participou na qualidade de advogado, Robson foi comprovadamente ofendido por palavras desferidas pelo juiz que presidia o ato. Abalado em razão desse fato, Robson decide buscar as informações necessárias para obter desagravo público perante o Conselho Seccional competente da OAB. A esse respeito, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "O relator deverá solicitar informações da autoridade ofensora, como condição para a concessão do desagravo.",
-      "B": "Não há previsão legal ou regulamentar de prazo máximo para concessão do desagravo, em caso de acolhimento do parecer do relator, aplicando-se o princípio da Duração Razoável do Processo.",
-      "C": "O desagravo será concedido em sessão realizada para essa finalidade, amplamente divulgada, sendo vedada, em qualquer caso, a concessão imediata.",
-      "D": "A sessão de desagravo deverá ser realizada, preferencialmente, no local onde a ofensa foi sofrida ou onde se encontre a autoridade ofensora."
-    },
-    "gabarito": "D",
-    "disciplina": "Ética Profissional",
-    "exame": "39º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 39,
-    "exame_label": "39º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 4
-  },
-  {
-    "num": 7,
-    "enunciado": "Assinale a alternativa que indique a sua avaliação quanto à capacidade crítica e interpretativa desta prova em relação ao cenário e ao ordenamento jurídico contemporâneo. Assinale o tipo de dificuldade que você encontrou ao responder à prova. Indique a preponderante.",
-    "alternativas": {
-      "A": "Plenamente satisfatória.",
-      "B": "Satisfatória.",
-      "C": "Pouco satisfatória.",
-      "D": "Insatisfatória. ##### 8 Considerando sua preparação para esta prova, você conclui que"
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "39º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 39,
-    "exame_label": "39º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 5
+    "id": 2,
+    "sintese": "Publicidade: patrocínio de evento (congresso jurídico) por sociedade de advogados é autorizado, inclusive com participação de clientes.",
+    "logica_conceito": "O patrocínio de eventos jurídicos por escritórios é forma de publicidade informativa permitida. O público pode incluir clientes e interessados do meio jurídico. O que é vedado é publicidade mercantilista (captação de clientela, preços, gratuitidade) — o evento jurídico não se enquadra nessa vedação.",
+    "fundamentacao": "CED/OAB, Art. 40: 'São admitidas: [...] III - a participação em eventos, congressos, seminários e conferências, inclusive como palestrante ou patrocinador, desde que não impliquem captação de clientela.' Art. 39: 'A publicidade profissional do advogado tem caráter meramente informativo e deve primar pela discrição e sobriedade.'",
+    "dica": "Patrocínio de congresso jurídico = PERMITIDO, inclusive com clientes como participantes. O que é vedado é o evento cuja finalidade seja captar clientela, não o evento técnico com patrocínio.",
+    "aula_comentario": "Prof. Fetter (CEISC): patrocínio de eventos é publicidade informativa permitida. O ponto crítico é o público: se o evento é para público jurídico em geral (incluindo clientes), é lícito. Se o evento fosse exclusivamente para captar clientes novos com oferta de serviços, seria vedado. A alternativa C traz exatamente o equilíbrio correto.",
+    "analise": "A) Errada: a publicidade de patrocínio de eventos é autorizada. B) Errada: a participação não precisa ser restrita apenas a integrantes da sociedade. C) CORRETA: é autorizada e admite participação de clientes e interessados do meio jurídico. D) Errada: mesma razão da A — o patrocínio de congressos jurídicos é forma lícita de publicidade."
   },
   {
     "num": 4,
@@ -111,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
-    "id": 6
+    "id": 6,
+    "sintese": "Contador + advogado: não há incompatibilidade entre as atividades, mas é vedada publicidade conjunta das duas profissões.",
+    "logica_conceito": "Ser contador não está no rol taxativo de incompatibilidades do Art. 28 EAOAB. Logo Pedro PODE exercer ambas simultaneamente. Contudo, o Art. 1º, § 3º EAOAB veda a divulgação da advocacia em conjunto com outra atividade profissional — inclusive contabilidade.",
+    "fundamentacao": "EAOAB, Art. 1º, § 3º: 'É vedada a divulgação de advocacia em conjunto com outra atividade.' Art. 28: 'A advocacia é incompatível, mesmo em causa própria, com as seguintes atividades: [...] VI - ocupantes de cargos ou funções que tenham competência de lançamento, arrecadação ou fiscalização de tributos e contribuições parafiscais.' (Contador autônomo não se enquadra — só auditor fiscal tributário.)",
+    "dica": "Contador ≠ incompatibilidade. Mas divulgar advocacia + contabilidade juntas = vedado. A questão combina os dois temas para confundir. Rol de incompatibilidades é TAXATIVO — contador não está lá.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): a pegadinha clássica é misturar incompatibilidade com publicidade conjunta. Contador é profissão liberal — não está no Art. 28. Mas o § 3º do Art. 1º veda divulgação conjunta de advocacia com qualquer outra atividade. As duas regras coexistem.",
+    "analise": "A) Errada: não há incompatibilidade — Pedro PODE exercer as duas atividades. B) Errada: há restrição — a publicidade conjunta é vedada. C) CORRETA: pode exercer ambas, mas é vedada a publicidade conjunta das duas atividades. D) Errada: mala direta e panfletos são vedados para a advocacia de qualquer forma (não só nesse caso)."
   },
   {
     "num": 1,
@@ -130,121 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
-    "id": 7
-  },
-  {
-    "num": 5,
-    "enunciado": "As questões das diversas áreas do Direito (Civil, Penal, Trabalho, Administrativo, etc.) apresentavam o mesmo nível de dificuldade e compreensão?",
-    "alternativas": {
-      "A": "Sim, todas.",
-      "B": "Sim, a maioria.",
-      "C": "Não houve esse nivelamento.",
-      "D": "Não tenho como opinar."
-    },
-    "gabarito": "A",
-    "disciplina": "Ética Profissional",
-    "exame": "41º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 41,
-    "exame_label": "41º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 8
-  },
-  {
-    "num": 2,
-    "enunciado": "O advogado Antônio Carlos ajuizou, em favor de sua cliente Celina, lide manifestamente temerária em face de João. A esse respeito, à luz do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "A responsabilidade de Antônio Carlos e Celina será solidária, independentemente do intuito de lesar João, parte contrária.",
-      "B": "Não há responsabilidade solidária entre Celina e Antônio Carlos se comprovado que não estavam coligados nos seus intuitos.",
-      "C": "Celina poderá ser responsabilizada se comprovada a violação do dever de cuidado, ao constar como parte autora no processo, ainda que não esteja coligada com seu advogado.",
-      "D": "Caso comprovado que Celina não sabia do conteúdo temerário da lide, Antônio Carlos não poderá ser civilmente responsável de forma isolada, porque a responsabilização do advogado exige participação dolosa de Celina."
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "42º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 42,
-    "exame_label": "42º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 9
-  },
-  {
-    "num": 6,
-    "enunciado": "As informações/instruções fornecidas para a resolução da prova foram suficientes e adequadas?",
-    "alternativas": {
-      "A": "Sim, até excessivas.",
-      "B": "Sim, todas elas.",
-      "C": "Sim, somente algumas.",
-      "D": "Não, nenhuma delas."
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "42º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 42,
-    "exame_label": "42º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 10
-  },
-  {
-    "num": 3,
-    "enunciado": "João Pedro, destacado aluno do último semestre do curso de Direito, logrou êxito no Exame da Ordem dos Advogados do Brasil, sendo então convidado a integrar, assim que formado, uma renomada sociedade de advogados da sua cidade. Apesar de ter ficado honrado com o convite, João Pedro está em dúvida, pois em seus estudos para o Exame da OAB verificou ser possível constituir sociedade unipessoal de advocacia, opção que lhe pareceu mais atrativa. Considerando o enunciado, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "A sociedade unipessoal de advocacia de João Pedro poderá ter como sede, filial ou local de trabalho, um espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas na legislação.",
-      "B": "João Pedro poderá integrar a sociedade de advogados e, simultaneamente, constituir uma sociedade unipessoal de advocacia, ambas com sede ou filial na mesma área territorial do respectivo Conselho Seccional.",
-      "C": "João Pedro poderá escolher livremente a denominação da sociedade unipessoal de advocacia que vier a constituir, desde que complemente com a expressão “Sociedade Individual de Advocacia”.",
-      "D": "A sociedade unipessoal de advocacia de João Pedro adquirirá personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Federal da OAB."
-    },
-    "gabarito": "A",
-    "disciplina": "Ética Profissional",
-    "exame": "43º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 43,
-    "exame_label": "43º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 11
-  },
-  {
-    "num": 7,
-    "enunciado": "Assinale o tipo de dificuldade que você encontrou ao responder à prova. Indique a preponderante.",
-    "alternativas": {
-      "A": "muito bom.",
-      "B": "bom.",
-      "C": "regular.",
-      "D": "ruim. ###### Realização"
-    },
-    "gabarito": "D",
-    "disciplina": "Ética Profissional",
-    "exame": "43º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 43,
-    "exame_label": "43º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 12
-  },
-  {
-    "num": 6,
-    "enunciado": "As informações/instruções para a resolução dessa prova foram suficientes e adequadas?",
-    "alternativas": {
-      "A": "Sim, até excessivas.",
-      "B": "Sim, todas elas.",
-      "C": "Sim, somente algumas.",
-      "D": "Não, nenhuma delas."
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "44º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 44,
-    "exame_label": "44º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 13
+    "id": 7,
+    "sintese": "Reabilitação disciplinar: quando a infração disciplinar corresponde a crime doloso, exige-se primeiro a reabilitação criminal para só então contar o prazo de 1 ano para a reabilitação na OAB.",
+    "logica_conceito": "Daniel cometeu infração que também foi crime doloso. Para a reabilitação profissional na OAB, o Art. 41 exige: (1) comprovação de bom comportamento por 1 ano E (2) reabilitação criminal correspondente. Ambos os requisitos são cumulativos. Se não há reabilitação criminal ainda, não pode haver reabilitação profissional, independentemente de quanto tempo passou.",
+    "fundamentacao": "EAOAB, Art. 41: 'A reabilitação profissional depende de: I - comprovação de bom comportamento, pelo prazo de um ano; II - reabilitação criminal correspondente, na hipótese de a infração ter correspondência com crime de natureza dolosa.'",
+    "dica": "Reabilitação quando há crime doloso: DOIS requisitos cumulativos — 1 ano de bom comportamento + reabilitação criminal. Sem a criminal, não há reabilitação profissional. Essa sequência é o que mais cai.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): Daniel não pode ser reabilitado apenas pelo prazo de 1 ano — enquanto não obtiver a reabilitação criminal, a porta da reabilitação profissional permanece fechada. O Art. 41, II é claro: exige-se reabilitação criminal 'correspondente' ao delito que gerou a infração disciplinar.",
+    "analise": "A) Errada: o prazo de 1 ano não basta quando há crime doloso correspondente — exige também reabilitação criminal. B) CORRETA: mais de 1 ano passou, mas Daniel ainda não obteve reabilitação criminal — portanto, a reabilitação profissional não pode ser concedida. C) Errada: bom comportamento é necessário mas não suficiente (falta reabilitação criminal). D) Errada: o pedido vai ao Conselho Seccional que aplicou a pena, não ao Conselho Federal."
   },
   {
     "num": 5,
@@ -263,44 +116,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
-    "id": 14
-  },
-  {
-    "num": 2,
-    "enunciado": "Quanto à capacidade crítica e interpretativa, em relação ao cenário e ao ordenamento jurídico contemporâneo, essa prova foi",
-    "alternativas": {
-      "A": "plenamente satisfatória.",
-      "B": "satisfatória.",
-      "C": "pouco satisfatória.",
-      "D": "insatisfatória."
-    },
-    "gabarito": "D",
-    "disciplina": "Ética Profissional",
-    "exame": "46º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 46,
-    "exame_label": "46º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 15
-  },
-  {
-    "num": 7,
-    "enunciado": "A dificuldade preponderante que você encontrou para responder às questões dessa prova foi",
-    "alternativas": {
-      "A": "menos de três horas.",
-      "B": "entre três e quatro horas.",
-      "C": "entre quatro e cinco horas.",
-      "D": "não consegui terminar."
-    },
-    "gabarito": "C",
-    "disciplina": "Ética Profissional",
-    "exame": "46º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 46,
-    "exame_label": "46º Exame OAB",
-    "modulo_codigo": "01_orgaos_da_oab",
-    "modulo_nome": "Órgãos da OAB",
-    "id": 16
+    "id": 14,
+    "sintese": "Marcos exerceu atos privativos de advogado sem inscrição na OAB (usou carteira de inscrito sem ser inscrito). A sanção cabível é censura, aplicável após manifestação do Conselho Seccional.",
+    "logica_conceito": "Marcos não é advogado inscrito — usou carteira falsa ou de terceiro. O EAOAB tipifica como infração disciplinar a prática de atos de advocacia sem inscrição. Para o estagiário que pratica atos além do autorizado, a sanção é censura. Aqui, por analogia ao Art. 9º, o procedimento disciplinar depende da manifestação do Conselho Seccional.",
+    "fundamentacao": "EAOAB, Art. 9º, § 2º: 'O estagiário regularmente inscrito e devidamente habilitado pode praticar os atos previstos no art. 29, do Regulamento Geral, sob a responsabilidade do advogado.' Art. 35: 'As sanções disciplinares consistem em: I - censura; II - suspensão; III - exclusão; IV - multa.' Art. 36, parágrafo único: para estagiário, a censura pode ser convertida em advertência.",
+    "dica": "Para estagiário: a ÚNICA penalidade possível é censura (jamais suspensão, exclusão ou multa). E a sanção exige processo disciplinar com manifestação do conselho — não é automática.",
+    "aula_comentario": "Prof. Fetter (CEISC): estagiário que ultrapassa os limites do Art. 29 do Regulamento Geral responde disciplinarmente, mas a única sanção que pode receber é censura. A suspensão é vedada para estagiário. E qualquer sanção precisa de processo disciplinar regular com ampla defesa.",
+    "analise": "A) Errada: a competência para PAD não é automaticamente do Conselho Federal; a gravidade do ato não desloca a competência. B) CORRETA: para aplicar a sanção disciplinar ao estagiário é necessária manifestação do órgão competente da OAB após processo regular. C) Errada: a sanção para estagiário não é suspensão — é censura. D) Errada: não há prescrição com base no prazo de 2 anos — a prescrição da pretensão punitiva é de 5 anos (Art. 43)."
   }
 ]

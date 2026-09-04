@@ -16,7 +16,38 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 1
+    "id": 1,
+    "sintese": "Questão anulada (gab=*): trata de busca e apreensão no escritório de advogado investigado + colaboração premiada do advogado.",
+    "logica_conceito": "Questão anulada. Os pontos teóricos: (1) Busca e apreensão em escritório de advogado investigado como coautor: lícita, mas deve respeitar as regras do Art. 7º, II (06h-18h, com representante OAB); (2) Colaboração premiada de advogado contra ex-cliente: vedada pelo CED; (3) Colaboração contra não-cliente (Matheus): possível, sem violação de sigilo.",
+    "fundamentacao": "EAOAB, Art. 7º, II e § 7º: 'A ressalva constante do inciso II do caput deste artigo não se aplica a investigações que envolvam suspeita de participação do advogado no crime investigado.' CED, Art. 25: sigilo profissional.",
+    "dica": "Questão anulada. Ponto teórico: busca no escritório do advogado INVESTIGADO é lícita (§ 7º do Art. 7º). Colaboração contra cliente atual/ex-cliente: VEDADA. Colaboração contra terceiro (não cliente): possível.",
+    "aula_comentario": "Questão anulada pela FGV por ambiguidade ou erro nas alternativas. O tema é relevante: a inviolabilidade do escritório cede quando o próprio advogado é investigado. A colaboração premiada contra cliente viola o sigilo e o dever de lealdade.",
+    "analise": "Questão anulada — gabarito *. Não há análise de mérito das alternativas."
+  },
+  {
+    "num": 3,
+    "enunciado": "O advogado Luís Santos, regularmente inscrito na OAB, está em início de carreira. Luís presta serviços jurídicos a determinada instituição social sem fins econômicos, consistentes em patrocinar seus interesses em demanda judicial em curso. Sobre a atuação de Luís, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Não poderá ser considerada advocacia pro bono a atuação gratuita de Luís como advogado das pessoas naturais, hipossuficientes econômicas, beneficiárias da instituição social.",
+      "B": "É ilícito que Luís preste gratuitamente tais serviços jurídicos, se o objetivo é valer-se de sua atuação como instrumento de publicidade da sua atividade profissional.",
+      "C": "A atuação gratuita de Luís, ainda que não seja eventual, na defesa em Juízo da mencionada instituição social, pode ser considerada advocacia pro bono.",
+      "D": "É admitida a prestação por Luís, sob a forma de advocacia pro bono voluntária, de serviços jurídicos para uma instituição social cobrando preços simbólicos, haja vista a ausência de fins econômicos."
+    },
+    "gabarito": "B",
+    "disciplina": "Ética Profissional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "07_advogados_e_estagiarios",
+    "modulo_nome": "Atividades de Advocacia e Estágio",
+    "id": 3803,
+    "sintese": "Advocacia pro bono com objetivo de captação de clientela (não como ato isolado): vedada — desvirtua o caráter altruísta do pró bono.",
+    "logica_conceito": "Luís presta serviços pro bono à associação, mas o objetivo é captar futuros clientes pagantes (não é ato isolado e altruísta). O pró bono é lícito quando eventual e genuinamente altruísta. Quando usado sistematicamente como estratégia de captação de clientela, viola o CED.",
+    "fundamentacao": "CED/OAB, Art. 30, § 1º: 'Na advocacia pro bono, são vedados: a captação de clientela, a publicidade comercial, a prática lucrativa e outros atos que possam comprometer sua natureza gratuita, eventual e altruísta.' Art. 34: Constitui infração disciplinar 'angariar ou captar causas, com ou sem a intervenção de terceiros.'",
+    "dica": "Pró bono lícito: eventual + altruísta + gratuito. Pró bono como estratégia de captação: ILÍCITO. O objetivo do profissional é determinante — se for captar clientela, é infração disciplinar.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): pró bono é ato nobre, mas não pode ser usado como estratégia de marketing. Se Luís faz o pró bono sistematicamente para conquistar futuros clientes pagantes, está usando o instituto de forma desvirtuada — é captação de clientela disfarçada.",
+    "analise": "A) Errada: a atuação gratuita de advogado em associação POR SI SÓ não é irregular — o problema é o objetivo de captação. B) CORRETA: é ilícita a prestação de pró bono quando o objetivo é captar futuros clientes — desvirtua a natureza gratuita e altruísta do instituto. C) Errada: a frequência (não eventual) e o objetivo de captação tornam a conduta ilícita. D) Errada: a prestação voluntária pro bono é lícita somente quando genuinamente eventual e altruísta, sem objetivo de captação."
   },
   {
     "num": 4,
@@ -35,7 +66,63 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 2
+    "id": 2,
+    "sintese": "Advogada gestante: prerrogativa de vaga garantida nas garagens dos fóruns — Art. 7º-A EAOAB.",
+    "logica_conceito": "Maria é advogada gestante. O Art. 7º-A EAOAB (incluído pela Lei 13.363/2016) garante às advogadas gestantes, entre outros direitos, vaga reservada em garagens dos fóruns e tribunais. Esse é um direito específico da gestante.",
+    "fundamentacao": "EAOAB, Art. 7º-A, I: 'São direitos da advogada: I - gestante, nos termos desta lei: a) não ser submetida a detector de metais ou aparelhos de raio-X, devendo ser dispensada de todo e qualquer procedimento de identificação e controle no acesso a estabelecimentos de ensino e a órgãos do Poder Judiciário, do Ministério Público, da Defensoria Pública, da Polícia e da Administração Pública em geral; b) ter atendimento prioritário; c) ter reservada vaga de estacionamento nas dependências dos órgãos do Poder Judiciário, do Ministério Público, da Defensoria Pública e de outros órgãos e entidades onde habitualmente atue.'",
+    "dica": "Gestante: vaga na garagem + entrada sem detector de metais + atendimento prioritário. Lactante: espaço de amamentação + acesso à creche. As prerrogativas são distintas por fase.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o Art. 7º-A é muito cobrado nas últimas edições do OAB. Gestante tem: (a) entrada sem detector de metais; (b) atendimento prioritário; (c) vaga reservada na garagem; (d) preferência em audiências. Lactante tem: espaço de amamentação.",
+    "analise": "A) CORRETA: durante a gravidez, a advogada tem direito a vaga garantida nas garagens dos fóruns e tribunais (Art. 7º-A, I, c). B) Errada: preferência nas audiências existe, mas a questão a restringe a 'qualquer audiência' — a prerrogativa é específica para quando houver advogado não-gestante no mesmo ato. C) Errada: a suspensão de prazos é de 30 dias (não 60) e depende de notificação prévia. D) Errada: a preferência em sustentações é da gestante, não da puérpera 'após dar à luz' indefinidamente."
+  },
+  {
+    "num": 5,
+    "enunciado": "Lucas, estagiário de Direito, descobre que Patrícia, advogada que o supervisiona, teve sua inscrição na OAB cancelada. Na intenção de auxiliar Patrícia a restabelecer o exercício da advocacia, Lucas passa a estudar a legislação que disciplina o tema. Sobre o cancelamento da inscrição, Lucas concluiu, corretamente, que",
+    "alternativas": {
+      "A": "deve ter motivo justificado, caso seja solicitada pelo profissional.",
+      "B": "a aplicação de penalidade de exclusão impossibilita um novo pedido de inscrição.",
+      "C": "deve ser promovido, de ofício, pelo conselho competente, caso decorra do exercício de atividade incompatível com a advocacia.",
+      "D": "será restaurado o número cancelado, caso seja feito um novo pedido de inscrição."
+    },
+    "gabarito": "C",
+    "disciplina": "Ética Profissional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "07_advogados_e_estagiarios",
+    "modulo_nome": "Atividades de Advocacia e Estágio",
+    "id": 3805,
+    "sintese": "Cancelamento da inscrição por exclusão (pena disciplinar): deve ser promovido de ofício pelo conselho competente — não depende de requerimento.",
+    "logica_conceito": "Patrícia foi excluída (pena disciplinar) → sua inscrição é cancelada. O cancelamento decorrente de exclusão deve ser promovido de ofício pelo Conselho Seccional — não precisa de requerimento, nem do advogado, nem de terceiro. É consequência automática da exclusão.",
+    "fundamentacao": "EAOAB, Art. 11: 'A inscrição do advogado é cancelada: I - de ofício, quando: [...] d) é excluído do quadro profissional por decisão do conselho competente. II - a requerimento do interessado.' (Exclusão = cancelamento de ofício, automático.)",
+    "dica": "Exclusão (pena disciplinar) → cancelamento de ofício. Não precisa de pedido — o próprio conselho promove automaticamente. O número de inscrição é extinto definitivamente. Para voltar: novo pedido com novo número.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): ao transitar em julgado a exclusão, o Conselho Seccional deve promover o cancelamento de ofício — não espera ninguém pedir. O cancelamento por exclusão é definitivo e o advogado só pode voltar com novo pedido e novo número.",
+    "analise": "A) Errada: o cancelamento por exclusão deve ter motivo (a própria exclusão) — e não precisa de requerimento. B) Errada: a exclusão não impossibilita novo pedido de inscrição no futuro (após reabilitação e condições cumpridas). C) CORRETA: o cancelamento decorrente do exercício da advocacia (exclusão disciplinar) deve ser promovido de ofício pelo conselho competente. D) Errada: após cancelamento por exclusão, novo pedido resulta em NOVO número de inscrição — o número anterior não é restaurado."
+  },
+  {
+    "num": 6,
+    "enunciado": "Teresa Silva, advogada atuante na área criminal, tem como clientes Luiz, acusado de tráfico ilícito de drogas, e Roberto, acusado de crimes contra o sistema financeiro nacional. Após serem proferidas decisões judiciais que determinam o bloqueio universal dos patrimônios de Luiz e Roberto, Teresa se indaga a respeito dos meios disponíveis para obter os valores necessários ao reembolso de gastos com a defesa e ao recebimento de honorários desses clientes. Sobre esse assunto, é correto concluir que",
+    "alternativas": {
+      "A": "garantir-se-á a Teresa a liberação de 20% (vinte por cent o) dos bens bloqueados de Luiz para o fim de reembolso de gastos com a defesa, vedado o recebimento de honorários.",
+      "B": "garantir-se-á a Teresa a liberação de 20% (vinte por cent o) dos bens bloqueados de Roberto para o fim de reembolso de gastos com a defesa e o recebimento de honorários.",
+      "C": "Teresa poderá optar pela venda de bens de Luiz em hasta pública para o reembolso de gastos com a defesa.",
+      "D": "Teresa não poderá realizar a adjudicação de bens de Roberto para a satisfação dos honorários devidos."
+    },
+    "gabarito": "B",
+    "disciplina": "Ética Profissional",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "modulo_codigo": "07_advogados_e_estagiarios",
+    "modulo_nome": "Atividades de Advocacia e Estágio",
+    "id": 3806,
+    "sintese": "Bens bloqueados de cliente: advogado tem direito de requerer liberação de até 20% para honorários, mesmo de bens de corréu diferente do seu cliente.",
+    "logica_conceito": "Teresa representa Luiz. Roberto é outro cliente (ou corréu). Os bens de ambos podem estar bloqueados. Teresa pode requerer liberação de 20% dos bens do cliente que representa (Luiz), mas não dos bens de terceiros que ela não representa. A questão verifica qual a limitação correta.",
+    "fundamentacao": "Regulamento Geral, Art. 35: 'O advogado tem o direito de requerer ao juízo a liberação de até 20% (vinte por cento) dos bens bloqueados do cliente para satisfação dos honorários advocatícios, apresentando o contrato de honorários.' (Limitado ao cliente representado.)",
+    "dica": "Liberação de 20%: limitada aos BENS DO CLIENTE representado. O advogado não pode requerer liberação dos bens de terceiro que não é seu constituinte. Apresentar o contrato de honorários é condição.",
+    "aula_comentario": "Prof. Fetter (CEISC): o direito de liberação de 20% é restrito aos bens do cliente — não se estende aos bens de corréu ou codevedor que não seja o constituinte do advogado. Teresa pode requerer em relação a Luiz (seu cliente), mas não em relação a Roberto.",
+    "analise": "A) Errada: a liberação é de até 20% dos bens de Luiz — não dos bens de Roberto (que Teresa não representa). B) CORRETA: Teresa tem direito à liberação de 20% dos bens bloqueados de Luiz (seu cliente) para satisfação dos honorários, com apresentação do contrato. C) Errada: não é possível optar pela venda em hasta pública dos bens do cliente para cobrar honorários. D) Errada: Teresa não pode realizar adjudicação de bens de Roberto — não o representa e não tem título executivo contra ele."
   },
   {
     "num": 1,
@@ -54,16 +141,22 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 3
+    "id": 3,
+    "sintese": "Contrato de associação entre advogada e sociedade: deve conter qualificação das partes com referência à inscrição no Conselho Seccional — é requisito obrigatório.",
+    "logica_conceito": "Mariana quer se associar à Sociedade XYZ como advogada associada. O contrato de associação deve conter obrigatoriamente a qualificação das partes, incluindo o número de inscrição no Conselho Seccional — elemento de identificação profissional essencial.",
+    "fundamentacao": "EAOAB, Art. 15, § 5º e Regulamento Geral, Art. 39: 'O contrato de associação de advogado com sociedade de advogados deve conter: I - a qualificação das partes, com referência expressa à inscrição de todos os signatários no Conselho Seccional; II - o objeto, que deve ser a prestação de serviços de advocacia [...]'",
+    "dica": "Contrato de associação: qualificação das partes COM referência à inscrição no Conselho Seccional é requisito obrigatório. Outros elementos: objeto (advocacia), forma de partilha de honorários, responsabilidades.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o contrato de associação tem requisitos formais. O número de inscrição na OAB deve constar — é elemento de identificação profissional imprescindível para registro e validade do contrato perante o Conselho Seccional.",
+    "analise": "A) CORRETA: a qualificação das partes com referência expressa à inscrição no Conselho Seccional é requisito obrigatório do contrato de associação. B) Errada: a exclusividade dos riscos a uma das partes é vedada — há partilha de riscos. C) Errada: a forma de repartição de responsabilidade é elemento do contrato, mas não é o conteúdo obrigatório específico perguntado. D) Errada: prazo indeterminado não é requisito — pode ser determinado ou indeterminado."
   },
   {
     "num": 6,
-    "enunciado": "Na sua avaliação, o grau de dificuldade desta prova, quanto ao conteúdo programático abordado, foi As informações/instruções fornecidas para a resolução da prova foram suficientes e adequadas?",
+    "enunciado": "Luana, advogada especialista em Direito Civil, é procurada por Carla, que busca ajuizar demanda para obtenção de indenização por danos morais e materiais em face de seu vizinho. Ao tomar conhecimento dos fatos, Luana percebe que aquele era o último dia possível para o ajuizamento da ação, visto que a prescrição da pretensão de sua cliente se consumaria no dia seguinte. Luana, então, peticionou, perante o juízo competente, sem, contudo, ter tido tempo hábil para anexar aos autos a procuração de sua cliente, em razão da urgência decorrente da iminente prescrição. Nesse contexto, considerando as disposições do Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Sim, até excessivas.",
-      "B": "Sim, todas elas.",
-      "C": "Sim, somente algumas.",
-      "D": "Não, nenhuma delas."
+      "A": "A advogada Luana não pode postular em juízo ou fora dele sem procuração, ainda que em situação de alegada urgência.",
+      "B": "A urgência, por si só, não é suficiente para justificar a não apresentação da procuração, devendo ser conjugada com iminente risco à integridade física ou à vida do cliente.",
+      "C": "Luana não está obrigada a apresentar procuração, visto que o mandato conferido por seus clientes é presumido pelos fatos narrados na inicial e pela documentação que a instrui.",
+      "D": "No contexto da iminente prescrição da pretensão de sua cliente, Luana, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -73,18 +166,24 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 4
+    "id": 3906,
+    "sintese": "Advogada pode atuar sem procuração em caso de urgência (prescrição iminente), desde que afirme a urgência e apresente a procuração em até 15 dias.",
+    "logica_conceito": "Luana enfrenta prescrição iminente da pretensão de Carla. Pode atuar sem procuração afirmando urgência, com prazo de 15 dias (prorrogável por mais 15) para regularizar. A urgência é o fundamento legal — e a iminência da prescrição configura urgência.",
+    "fundamentacao": "EAOAB, Art. 5º, § 1º: 'O advogado, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período.' § 2º: 'A procuração para o foro em geral habilita o advogado a praticar todos os atos judiciais em qualquer juízo ou instância [...]'",
+    "dica": "Urgência + sem procuração: LÍCITO. Prazo para regularizar: 15 dias + 15 dias. O advogado deve AFIRMAR a urgência no ato — não precisa provar imediatamente. Prescrição iminente = urgência clássica.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): atuação sem procuração por urgência é uma das exceções mais cobradas. O advogado afirma a urgência e age — depois regulariza em 15 dias. Prescrição iminente é o exemplo clássico de urgência.",
+    "analise": "A) Errada: o advogado pode SIM postular sem procuração quando há urgência. B) Errada: a urgência por si só JÁ é suficiente para atuar sem procuração (Art. 5º, § 1º). C) Errada: o mandato verbal não é suficiente — a lei exige a afirmação de urgência e posterior regularização. D) CORRETA: Luana, afirmando urgência pela iminência da prescrição, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de 15 dias."
   },
   {
-    "num": 3,
-    "enunciado": "Monique, advogada regularmente inscrita nos quadros da OAB, é investigada em inquérito policial por supostos crimes praticados por motivo ligado ao exercício da advocacia, tendo sido presa em flagrante, por crime da mesma espécie, em seu escritório, enquanto atendia a uma de suas clientes. Considerando as disposições do Estatuto da Advocacia, é correto afirmar que",
+    "num": 2,
+    "enunciado": "Sebastião, advogado, celebrou contrato de mandato com o cliente Amir, para representá-lo extrajudicialmente, tendo realizado diligências em prol da resolução do imbróglio. Desde a celebração do mandato, passaram-se mais de 20 (vinte) anos, mas as atividades para as quais Amir contratou Sebastião, por sua própria natureza, se protraíram no tempo, sendo ainda necessárias a Amir. Sobre a hipótese apresentada, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "Monique tem direito à presença de representante da OAB para lavratura do auto de prisão em flagrante, visto que se trata de suposto crime por motivo ligado ao exercício da advocacia, sob pena de nulidade.",
-      "B": "não há qualquer direito ou prerrogativa conferida pela legislação no caso em tela, devendo Monique receber tratamento idêntico ao dado a outros indivíduos não advogados, em razão do princípio da igualdade.",
-      "C": "a presença de representante da OAB no momento da lavratura do auto de prisão em flagrante será devida ainda que não se trate de motivo ligado ao exercício da advocacia, visto que se cuida de direito conferido ao advogado em todo e qualquer crime por ele cometido.",
-      "D": "o representante da OAB para acompanhar a lavratura do auto de prisão em flagrante, pode ser substituído por representante da Defensoria Pública, visto que ambos podem figurar como defensores."
+      "A": "O mandato extinguiu-se pelo decurso do tempo, salvo se previsto prazo diverso no respectivo instrumento.",
+      "B": "O mandato extinguiu-se pelo decurso do tempo, sendo vedada a previsão de prazo diverso no respectivo instrumento.",
+      "C": "O mandato não se extinguiu pelo decurso do tempo, salvo se foi consignado prazo no respectivo instrumento.",
+      "D": "O mandato não se extinguiu pelo decurso do tempo, sendo vedada a estipulação de prazo no respectivo instrumento."
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
     "tipo": "Branca",
@@ -92,26 +191,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 5
-  },
-  {
-    "num": 7,
-    "enunciado": "Assinale o tipo de dificuldade que você encontrou ao responder à prova. Indique a preponderante.",
-    "alternativas": {
-      "A": "muito bom.",
-      "B": "bom.",
-      "C": "regular.",
-      "D": "ruim. ###### Realização"
-    },
-    "gabarito": "D",
-    "disciplina": "Ética Profissional",
-    "exame": "40º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 40,
-    "exame_label": "40º Exame OAB",
-    "modulo_codigo": "07_advogados_e_estagiarios",
-    "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 6
+    "id": 4002,
+    "sintese": "Mandato extrajudicial: não se extingue pelo decurso do tempo quando não há prazo fixado — permanece vigente até revogação expressa.",
+    "logica_conceito": "Sebastião tem mandato extrajudicial de Amir sem prazo definido. O mandato sem prazo não se extingue automaticamente pelo tempo — permanece vigente até que seja expressamente revogado por qualquer das partes.",
+    "fundamentacao": "CC/2002, Art. 682: 'Cessa o mandato: I - pela revogação ou pela renúncia; II - pela morte ou interdição de uma das partes; III - pelo término do prazo ou pela conclusão do negócio.' EAOAB, Art. 5º: disposições sobre mandato judicial. (Mandato sem prazo = vigente até revogação.)",
+    "dica": "Mandato sem prazo: vigente indefinidamente até revogação ou renúncia. Não se extingue por decurso do tempo. Para extinguir: é necessário ato expresso de revogação (cliente) ou renúncia (advogado).",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o mandato sem prazo não 'vence' com o tempo — permanece em vigor até ato expresso de extinção. Sebastião continua sendo o representante de Amir enquanto ninguém revogar ou renunciar expressamente.",
+    "analise": "A) Errada: o mandato sem prazo não se extingue por decurso do tempo. B) Errada: é possível sim estipular prazo diverso (por isso a C é correta — salvo se houver prazo). C) CORRETA: o mandato não se extinguiu pelo tempo, salvo se foi consignado prazo determinado — sem prazo, permanece vigente. D) Errada: é vedada a estipulação de prazo no mandato? Não — isso é errado. O mandato PODE ter prazo."
   },
   {
     "num": 4,
@@ -130,7 +216,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 7
+    "id": 7,
+    "sintese": "Advogado deve atuar como patrono da parte (defender seus interesses), não como árbitro imparcial — o compromisso é com o cliente, não com a 'verdade'.",
+    "logica_conceito": "Ana Júlia acabou de se inscrever. A questão testa a compreensão do papel do advogado: é patrono do cliente (defende os interesses da parte), não árbitro. O advogado deve agir como representante da parte, com lealdade ao cliente — não com imparcialidade de árbitro.",
+    "fundamentacao": "CED/OAB, Art. 2º, parágrafo único: 'São deveres do advogado: I - preservar, em sua conduta, a honra, a nobreza e a dignidade da profissão, zelando pelo seu caráter de essencialidade e indispensabilidade; [...] VI - abster-se de emprestar concurso aos que atentem contra a ética, a moral, a honestidade e a dignidade da pessoa humana.' Art. 3º: 'O advogado deve ter consciência de que o Direito é um meio de mitigar as desigualdades para o encontro de soluções justas [...]'",
+    "dica": "O advogado é patrono do cliente — defende os INTERESSES DO CLIENTE, não a 'verdade absoluta'. Não é árbitro nem juiz. Deve buscar a melhor solução para o cliente, dentro dos limites legais e éticos.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): advogado ≠ árbitro. O papel do advogado é representar e defender o cliente com lealdade e dedicação. A tentação de agir como árbitro 'imparcial' é erro grave — o advogado deve pugnar pelos interesses da parte que representa.",
+    "analise": "A) Errada: estimular conciliação é um dever, mas o advogado deve fazê-lo tendo em vista os INTERESSES do cliente, não de forma imparcial. B) Errada: o advogado deve atuar com lealdade ao cliente — não como representante 'da Justiça'. C) Errada: pugnar pela cidadania é dever, mas o mandato é exercido em benefício do cliente. D) CORRETA: no exercício do mandato, o advogado deve atuar como patrono da parte — defendendo seus interesses, não como árbitro ou representante de interesses difusos."
   },
   {
     "num": 1,
@@ -149,16 +241,22 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 8
+    "id": 8,
+    "sintese": "Busca e apreensão cumprida na residência do CLIENTE do advogado (não no escritório): medida cautelar válida — a inviolabilidade protege o escritório do advogado, não a casa do cliente.",
+    "logica_conceito": "A operação foi cumprida na residência de um cliente do advogado Cléber (não no escritório do advogado). A inviolabilidade do Art. 7º, II protege o escritório do advogado e seus instrumentos de trabalho. A casa do cliente não tem a mesma proteção — a busca é lícita.",
+    "fundamentacao": "EAOAB, Art. 7º, II: 'a inviolabilidade de seu escritório ou local de trabalho, bem como de seus instrumentos de trabalho [...]' § 7º: 'A ressalva constante do inciso II do caput deste artigo não se aplica a investigações que envolvam suspeita de participação do advogado no crime investigado.' (O local protegido é o ESCRITÓRIO do advogado, não a casa do cliente.)",
+    "dica": "Inviolabilidade protege: escritório DO ADVOGADO. Não protege: casa do cliente, escritório de terceiros, local da prática criminosa. Se a busca foi na residência do cliente, não há violação de prerrogativa do advogado.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): a inviolabilidade é do ADVOGADO sobre seu local de trabalho e instrumentos. A casa do cliente é domicílio do cliente — sujeita à proteção constitucional do Art. 5º, XI CF, não ao Art. 7º EAOAB. A medida cautelar em casa de cliente é válida.",
+    "analise": "A) Errada: a inviolabilidade do escritório não é absoluta para impedir qualquer medida cautelar no escritório. B) Errada: a medida não foi cumprida no escritório do advogado — foi na residência do cliente. C) Errada: a inviolabilidade do escritório não abrange a residência do cliente. D) CORRETA: a medida cautelar é válida, pois não foi cumprida no escritório do advogado; documentos de clientes encontrados na residência deles não têm proteção pela inviolabilidade advocatícia."
   },
   {
-    "num": 5,
-    "enunciado": "As questões das diversas áreas do Direito (Civil, Penal, Trabalho, Administrativo etc.) apresentavam o mesmo nível de dificuldade e compreensão?",
+    "num": 3,
+    "enunciado": "Roberto Silva, advogado e sócio fundador da sociedade de advogados Silva e Souza Advogados Associados, foi eleito para o cargo de Prefeito do Município Ômega. Embora feliz e motivado com o mandato que lhe foi confiado pela população, Roberto Silva não gostaria de se retirar da sociedade de advogados por ele fundada. Considerando o Estatuto da Advocacia e da OAB, assinale a afirmativa que descreve corretamente a situação societária e a eventual atuação de Roberto Silva como advogado após assumir o cargo de Prefeito de Ômega:",
     "alternativas": {
-      "A": "Sim, todas.",
-      "B": "Sim, a maioria.",
-      "C": "Não houve esse nivelamento.",
-      "D": "Não tenho como opinar."
+      "A": "É impositiva a exclusão de Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, dada a incompatibilidade do cargo de Prefeito Municipal com a advocacia.",
+      "B": "O exercício do mandato de Prefeito de Ômega impede apenas que Roberto Silva advogue contra a Fazenda Pública que o remunera, no caso o Município Ômega, não havendo óbice para que continue integrando a sociedade de advogados e atuando em causas diversas.",
+      "C": "O exercício do mandato de Prefeito de Ômega é incompatível com a advocacia, mas, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, a qual poderá continuar explorando o nome e a imagem do seu fundador em benefício da sociedade.",
+      "D": "Embora incompatível com a advocacia, o exercício do cargo de Prefeito de Ômega, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados. Contudo, deve o fato ser averbado no registro da sociedade, bem como observada a incompatibilidade temporária."
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -168,18 +266,24 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 9
+    "id": 4203,
+    "sintese": "Advogado que se torna Prefeito (incompatível provisório): pode manter-se na sociedade de advogados, mas deve retirar seu nome e imagem da razão social e da publicidade.",
+    "logica_conceito": "Roberto Silva se tornou Prefeito — incompatibilidade provisória (Art. 28, I). Ele pode permanecer como sócio da sociedade, mas não pode usar seu nome para advogar nem ter sua imagem vinculada à sociedade enquanto no cargo. A razão social deve ser alterada para remover seu nome.",
+    "fundamentacao": "EAOAB, Art. 28, I: incompatibilidade — chefes do Poder Executivo. Art. 12, III: licença por cargo incompatível provisório. Regulamento Geral: 'O sócio que se encontra em situação de incompatibilidade ou impedimento pode permanecer na sociedade, mas é vedado o uso do seu nome e a sua participação ativa no exercício da advocacia.'",
+    "dica": "Sócio incompatível provisório (Prefeito, Governador): PODE continuar como sócio. Mas DEVE: (1) licenciar a OAB; (2) retirar o nome da razão social; (3) não usar sua imagem na publicidade da sociedade.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): incompatibilidade provisória = licença, não saída da sociedade. Mas o nome do incompatível não pode identificar o escritório — para não dar impressão de que ainda está advogando. A D traz exatamente isso.",
+    "analise": "A) Errada: não é impositiva a exclusão — o sócio pode permanecer, apenas licenciado. B) Errada: o impedimento é mais amplo do que apenas advogar contra o ente — é incompatibilidade total enquanto Prefeito. C) Errada: o nome deve ser retirado da razão social enquanto ele for incompatível (não é 'facultativo'). D) CORRETA: o exercício como Prefeito é incompatível com a advocacia, mas Roberto pode permanecer na sociedade, desde que seu nome e imagem sejam retirados da razão social e publicidade."
   },
   {
-    "num": 2,
-    "enunciado": "Paulo Afrânio foi representado ao Tribunal de Ética e Disciplina do Conselho Seccional do Estado Alfa pela prática da infração disciplinar de violar, sem justa causa, sigilo profissional. Com o recebimento da representação, o Presidente designou relator, a quem competiu instruir o processo e oferecer parecer preliminar submetido ao Tribunal de Ética e Disciplina. Por se tratar de infração leve, o relator dispensou as etapas de defesa prévia e razões finais, garantindo ao representado apenas a defesa oral. Ao final, o relator ofereceu parecer preliminar no sentido da aplicação da pena de censura, submetido ao Tribunal de Ética e Disciplina que, acolhendo a proposta, aplicou a referida sanção ao advogado Paulo Afrânio. Sobre o processo disciplinar no âmbito da OAB, assinale a afirmativa corr",
+    "num": 3,
+    "enunciado": "João Pedro, destacado aluno do último semestre do curso de Direito, logrou êxito no Exame da Ordem dos Advogados do Brasil, sendo então convidado a integrar, assim que formado, uma renomada sociedade de advogados da sua cidade. Apesar de ter ficado honrado com o convite, João Pedro está em dúvida, pois em seus estudos para o Exame da OAB verificou ser possível constituir sociedade unipessoal de advocacia, opção que lhe pareceu mais atrativa. Considerando o enunciado, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "O procedimento adotado pelo relator foi correto, porque a legislação prevê que a defesa oral, por ser mais ampla e contundente, substitui a etapa de defesa prévia e a apresentação de razões finais.",
-      "B": "Nos casos de parecer preliminar do relator recomendando a aplicação de pena de censura, o Presidente do Conselho Seccional pode, desde logo, diante da baixa gravidade da pena aplicada, homologar o parecer, aplicando essa sanção.",
-      "C": "A condução do processo disciplinar pelo relator foi ilegal, porque a gravidade da infração ou da sanção aplicada não autorizam que sejam reduzidas as oportunidades de defesa do representado ou que se atropelem etapas do processo disciplinar.",
-      "D": "Não houve violação da ampla defesa do advogado, porque o reconhecimento de nulidades processuais está sujeito à constatação de efetivo prejuízo e, como no caso foi aplicada apenas pena de censura, não ocorreu dano suficiente a ponto de que se reconhecesse a ilegalidade do procedimento."
+      "A": "A sociedade unipessoal de advocacia de João Pedro poderá ter como sede, filial ou local de trabalho, um espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas na legislação.",
+      "B": "João Pedro poderá integrar a sociedade de advogados e, simultaneamente, constituir uma sociedade unipessoal de advocacia, ambas com sede ou filial na mesma área territorial do respectivo Conselho Seccional.",
+      "C": "João Pedro poderá escolher livremente a denominação da sociedade unipessoal de advocacia que vier a constituir, desde que complemente com a expressão “Sociedade Individual de Advocacia”.",
+      "D": "A sociedade unipessoal de advocacia de João Pedro adquirirá personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Federal da OAB."
     },
-    "gabarito": "C",
+    "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
     "tipo": "Branca",
@@ -187,26 +291,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 10
-  },
-  {
-    "num": 6,
-    "enunciado": "As informações/instruções fornecidas para a resolução da prova foram suficientes e adequadas?",
-    "alternativas": {
-      "A": "Sim, até excessivas.",
-      "B": "Sim, todas elas.",
-      "C": "Sim, somente algumas.",
-      "D": "Não, nenhuma delas."
-    },
-    "gabarito": "B",
-    "disciplina": "Ética Profissional",
-    "exame": "43º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 43,
-    "exame_label": "43º Exame OAB",
-    "modulo_codigo": "07_advogados_e_estagiarios",
-    "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 11
+    "id": 4303,
+    "sintese": "Sociedade Unipessoal de Advocacia (SUAdv): pode ter coworking como sede, filial ou local de atendimento — prerrogativa expressa no Art. 15-A.",
+    "logica_conceito": "João Pedro constituiu SUAdv e quer usar coworking como sede. O Art. 15-A, § 1º permite expressamente que a SUAdv tenha como sede, filial ou local de atendimento espaço compartilhado (coworking). Também não pode integrar outra sociedade na mesma seccional nem escolher livremente a denominação.",
+    "fundamentacao": "EAOAB, Art. 15-A: 'O advogado pode constituir sociedade unipessoal de advocacia, desde que não mantenha mais de uma sociedade na mesma seccional. § 1º A sociedade unipessoal de advocacia pode resultar da concentração das quotas de sociedade pluripessoal [...] § 2º O nome da sociedade unipessoal de advocacia deve ser obrigatoriamente formado pelo nome do seu titular [...] § 3º Aplicam-se à sociedade unipessoal de advocacia as restrições e obrigações próprias das sociedades de advogados.' Provimento CFOAB: permite coworking como sede da SUAdv.",
+    "dica": "SUAdv + coworking = PERMITIDO. SUAdv: denominação obrigatória = nome do titular + 'Sociedade Individual de Advocacia'. Registro: no Conselho Seccional (não Junta Comercial). Uma só por seccional.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): a SUAdv é a grande novidade dos últimos exames. Permite coworking como sede — grande facilitador para advogado iniciante. A denominação não é livre: DEVE ter o nome do titular + a expressão legal obrigatória.",
+    "analise": "A) CORRETA: a SUAdv pode ter como sede, filial ou local de atendimento espaço compartilhado (coworking) — prerrogativa expressa no EAOAB. B) Errada: João Pedro não pode integrar a sociedade de advogados E manter a SUAdv na mesma seccional. C) Errada: a denominação não é livre — deve conter o nome do titular + expressão obrigatória. D) Errada: a SUAdv adquire personalidade jurídica com o registro no Conselho Seccional (não Junta Comercial)."
   },
   {
     "num": 5,
@@ -225,7 +316,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 12
+    "id": 12,
+    "sintese": "Honorários convencionados e sucumbenciais: pertencem ao advogado independentemente de acordo feito pelo cliente com a parte contrária.",
+    "logica_conceito": "Gomes representou Dênis. Dênis fez acordo com o banco sem comunicar Gomes e o acordo excluiu os honorários advocatícios. Mas os honorários convencionados (contratados com Dênis) e os sucumbenciais (devidos pelo banco vencido) pertencem ao advogado. O acordo entre as partes não pode prejudicar o direito do advogado.",
+    "fundamentacao": "EAOAB, Art. 22, § 1º: 'O advogado, quando indicado para patrocinar causa [...] tem direito aos honorários fixados pelo juiz.' Art. 24: 'A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos.' CPC, Art. 85, § 14: 'Os honorários constituem direito do advogado e têm natureza alimentar [...]'",
+    "dica": "Sucumbência e honorários contratuais: pertencem ao ADVOGADO. O cliente não pode, por acordo com a parte contrária, dispor dos honorários advocatícios — eles não são do cliente para renunciar. O acordo que exclui os honorários não é oponível ao advogado.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): os honorários — tanto convencionados quanto sucumbenciais — são do advogado por força de lei. O cliente não pode renunciá-los unilateralmente. O banco e Dênis podem fazer o acordo que quiserem, mas Gomes mantém seu direito aos honorários.",
+    "analise": "A) Errada: Dênis não tem o direito de renunciar aos honorários convencionados — eles são do advogado. B) Errada: o acordo não retira o direito de Gomes aos honorários. C) CORRETA: Gomes mantém o direito aos honorários convencionados e sucumbenciais, independentemente do acordo firmado por Dênis com o banco. D) Errada: os honorários são devidos independentemente de decisão judicial posterior — são título executivo."
   },
   {
     "num": 3,
@@ -244,7 +341,38 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 13
+    "id": 13,
+    "sintese": "Advogado que ingressa em empresa pública estadual como empregado: incompatibilidade total — Art. 28, III. Não pode advogar de nenhuma forma.",
+    "logica_conceito": "Tarcísio passou em concurso para empresa pública estadual (cargo de direção ou técnico jurídico). Empresa pública = Art. 28, III — incompatibilidade definitiva. Não pode advogar sequer em causa própria, sequer de forma eventual.",
+    "fundamentacao": "EAOAB, Art. 28, III: 'A advocacia é incompatível, mesmo em causa própria, com as seguintes atividades: III - ocupantes de cargos ou funções de direção em Órgãos da Administração Pública direta ou indireta, em suas fundações e em suas empresas controladas ou concessionárias de serviço público.' (Empresa pública estadual = Administração Pública indireta → incompatibilidade.)",
+    "dica": "Empresa pública = Administração Pública indireta = Art. 28, III = incompatibilidade TOTAL. Não pode advogar sequer em causa própria. Incompatibilidade = proibição absoluta, inclusive pro bono.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): empresa pública é ente da Administração Indireta. Cargo de direção nela = Art. 28, III = incompatibilidade total. Tarcísio não pode advogar de nenhuma forma enquanto no cargo — nem em causa própria, nem pro bono.",
+    "analise": "A) Errada: a incompatibilidade impede até a advocacia em causa própria. B) Errada: a incompatibilidade impede inclusive a advocacia contra a empresa que o emprega. C) CORRETA: Tarcísio está em situação de incompatibilidade total — o cargo na empresa pública é incompatível com qualquer exercício da advocacia. D) Errada: a incompatibilidade é total — não admite exercício mesmo em causas particulares."
+  },
+  {
+    "num": 6,
+    "enunciado": "Durante muitos anos, João representou Pedro, na condição de seu advogado, em diversas causas. Recentemente, após encerrados todos os vínculos contratuais existentes entre si, Pedro passou a ser investigado pelo suposto cometimento de ilícitos tributários. Sobre esse contexto, de acordo com o Estatuto da Ordem e com o Código de Ética e Disciplina da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, ainda que este expressamente o autorize ou solicite o depoimento do ex-advogado.",
+      "B": "João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, exceto se este expressamente o autorizar, ou no caso de solicitação do próprio ex-constituinte.",
+      "C": "João poderá ser obrigado a depor sobre fatos que constituam sigilo profissional caso seu depoimento seja considerado imprescindível para a instrução em processos criminais que apurem a prática de crimes dolosos contra a vida.",
+      "D": "Considerando que a investigação se iniciou após a extinção da relação profissional existente entre João e Pedro, não há qualquer prerrogativa em favor de João que o escuse da obrigação de depor como testemunha no curso de processo judicial sobre fato relacionado com pessoa de quem já foi advogado."
+    },
+    "gabarito": "A",
+    "disciplina": "Ética Profissional",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "modulo_codigo": "07_advogados_e_estagiarios",
+    "modulo_nome": "Atividades de Advocacia e Estágio",
+    "id": 4506,
+    "sintese": "Sigilo profissional: advogado não pode ser obrigado a depor sobre fatos cobertos pelo sigilo, mesmo após extinção da relação profissional.",
+    "logica_conceito": "João era advogado de Pedro por anos. A relação se extinguiu. João não pode ser obrigado a depor sobre fatos que soube na qualidade de advogado — o sigilo é perpétuo e não cessa com o fim do mandato. Nem o próprio cliente pode liberar o advogado do sigilo em relação a terceiros.",
+    "fundamentacao": "EAOAB, Art. 7º, XIX: 'recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou foi advogado, mesmo quando autorizado ou solicitado pelo constituinte, bem como sobre fato que constitua sigilo profissional.' CED, Art. 25: 'O sigilo profissional é inerente à profissão [...]'",
+    "dica": "Sigilo profissional = PERPÉTUO. Vale durante E APÓS a relação profissional. Nem a extinção do mandato, nem a autorização do cliente afasta o dever de sigilo em relação ao processo. O advogado PODE recusar-se a depor.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o sigilo é perpétuo — não termina quando o mandato termina. João tem o direito (e o dever) de recusar o depoimento sobre fatos que soube na qualidade de advogado de Pedro. A investigação posterior à extinção da relação não afasta o sigilo.",
+    "analise": "A) CORRETA: João não pode ser obrigado a depor sobre fatos cobertos pelo sigilo profissional, mesmo após a extinção da relação — o sigilo é perpétuo (Art. 7º, XIX EAOAB). B) Errada: João pode recusar-se a depor independentemente de autorização do cliente — o sigilo é seu dever autônomo. C) Errada: João não pode ser compelido a depor sobre o sigilo, mesmo com autorização judicial. D) Errada: o sigilo não cessa com a extinção da relação — é perpétuo."
   },
   {
     "num": 1,
@@ -263,7 +391,13 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 14
+    "id": 14,
+    "sintese": "Advogada gestante: tem o direito de entrar em Fóruns e Tribunais sem ser submetida a detectores de metais, mas com inspeção visual — o direito não é de total isenção de qualquer controle.",
+    "logica_conceito": "Paloma é gestante e compareceu ao fórum. O Art. 7º-A garante à gestante não ser submetida a detector de metais ou aparelhos de raio-X. Mas não isenta de qualquer controle — a inspeção visual ainda é possível. A alternativa C reflete esse equilíbrio.",
+    "fundamentacao": "EAOAB, Art. 7º-A, I, a: 'São direitos da advogada gestante: a) não ser submetida a detector de metais ou aparelhos de raio-X, devendo ser dispensada de todo e qualquer procedimento de identificação e controle no acesso a estabelecimentos de ensino e a órgãos do Poder Judiciário [...]'",
+    "dica": "Gestante: dispensada de detector de metais e raio-X. MAS pode ser submetida a inspeção visual. O direito é específico para aparelhos eletrônicos — não é isenção total de qualquer controle.",
+    "aula_comentario": "Prof.ª Maria Christina (Gran): o direito da gestante é não ser submetida a aparelhos de raio-X ou detectores de metais — que emitem radiação ou ondas prejudiciais à gestação. Inspeção visual não é vedada. A C traz a formulação correta.",
+    "analise": "A) Errada: a gestante tem sim o direito de não ser submetida a detectores de metais. B) Errada: os direitos não cessam na parturiente — mas a questão é sobre a gestante. C) CORRETA: Paloma, como advogada gestante, tem o direito de entrar em Fóruns sem ser submetida a detector de metais ou raio-X, podendo ser submetida apenas a inspeção visual. D) Errada: a prerrogativa da gestante é mais ampla — não exige reciprocidade com não-advogadas."
   },
   {
     "num": 6,
@@ -282,6 +416,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_advogados_e_estagiarios",
     "modulo_nome": "Atividades de Advocacia e Estágio",
-    "id": 15
+    "id": 15,
+    "sintese": "Bens bloqueados do cliente em processo criminal: advogado pode requerer liberação de até 20% para honorários, apresentando o contrato.",
+    "logica_conceito": "Abelardo representa Everardo em causa cível de grande vulto, com bens bloqueados em processo criminal. Pode requerer ao juiz criminal a liberação de até 20% dos bens bloqueados para garantir o pagamento dos honorários, mediante apresentação do contrato de honorários.",
+    "fundamentacao": "Regulamento Geral, Art. 35: 'O advogado tem o direito de requerer ao juízo a liberação de até 20% (vinte por cento) dos bens bloqueados do cliente para satisfação dos honorários advocatícios, apresentando o contrato de honorários.' EAOAB, Art. 24: honorários são título executivo e crédito privilegiado.",
+    "dica": "20% dos bens bloqueados: direito do advogado, requerido ao juízo competente (onde correr o processo de bloqueio), mediante apresentação do contrato de honorários. É o mecanismo para garantir que o acusado com bens bloqueados possa pagar a defesa.",
+    "aula_comentario": "Prof. Fetter (CEISC): o direito de 20% é mecanismo de garantia constitucional — sem ele, o acusado rico mas com bens bloqueados não teria como pagar a defesa. O pedido vai ao juízo criminal (onde está o bloqueio), com apresentação do contrato.",
+    "analise": "A) CORRETA: Abelardo pode requerer ao Juiz Criminal o desbloqueio de até 20% dos bens de Everardo, mediante apresentação do contrato de honorários. B) Errada: participar dos bens em geral não é o mecanismo legal — é o pedido específico de 20%. C) Errada: quota litis (só êxito) não é vedada, mas deve ser cumulada com honorários fixos — não pode ser única. D) Errada: quota litis não é vedada — apenas a quota litis pura (sem honorários fixos) é questionável."
   }
 ]
