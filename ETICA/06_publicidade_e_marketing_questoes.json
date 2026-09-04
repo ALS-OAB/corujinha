@@ -1,12 +1,12 @@
 [
   {
     "num": 6,
-    "enunciado": "O advogado Jefferson pretende associar-se a uma sociedade de advogados, para a prestação de serviços advocatícios e participação nos resultados. Sobre tal possibilidade, assinale a afirmativa correta.",
+    "enunciado": "O advogado Jefferson pretende associar-se a uma sociedade de\nadvogados, para a prestação de serviços advocatícios e participação\nnos resultados.\nSobre tal possibilidade, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "É admitido que Jefferson se associe, em tais moldes, a apenas uma sociedade de advogados.",
-      "B": "A associação de Jefferson a uma sociedade unipessoal de advocacia, com participação nos resultados, não é permitida, pois configuraria a presença de requisitos legais de vínculos empregatícios.",
-      "C": "É admitido que Jefferson se associe, simultaneamente, a uma sociedade de advogados e a uma sociedade unipessoal de advocacia.",
-      "D": "A associação de Jefferson a uma sociedade de advogados deve ser em caráter geral, não sendo admitida a restrição à determinada causa. 4 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "É admitido que Jefferson se associe, em tais moldes, a apenas\numa sociedade de advogados.",
+      "B": "A associação de Jefferson a uma sociedade unipessoal de\nadvocacia, com participação nos resultados, não é permitida, pois\nconfiguraria a presença de requisitos legais de vínculos\nempregatícios.",
+      "C": "É admitido que Jefferson se associe, simultaneamente, a uma\nsociedade de advogados e a uma sociedade unipessoal de\nadvocacia.",
+      "D": "A associação de Jefferson a uma sociedade de advogados deve\nser em caráter geral, não sendo admitida a restrição à\ndeterminada causa.\n4\nXXXVII EXAME DE ORDEM UN\nPROVA APLICADA"
     },
     "gabarito": "C",
     "disciplina": "Ética Profissional",
@@ -26,13 +26,8 @@
   },
   {
     "num": 8,
-    "enunciado": "Marcelo, advogado, é acusado de usar atestado médico falso para libertar seu cliente da prisão. O fato alcança grande repercussão, a ponto de um jornal local publicar matéria em que afirma que Marcelo deve ser suspenso preventivamente pela OAB, até que se conclua a apuração disciplinar da conduta. Sobre esse tema, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Cabe ao Tribunal de Ética e Disciplina do Conselho Seccional perante o qual a infração tenha ocorrido, suspendê-lo preventivamente.",
-      "B": "A suspensão preventiva pressupõe a demonstração de que o fato tenha gerado repercussão prejudicial à dignidade da advocacia.",
-      "C": "Antes de aplicada a suspensão preventiva, o acusado deve ser ouvido em sessão especial, salvo se não for possível notificá-lo para comparecer.",
-      "D": "Caso aplicada a suspensão preventiva, o processo disciplinar deve ser concluído no prazo máximo de sessenta dias."
-    },
+    "enunciado": "Marcelo, advogado, é acusado de usar atestado médico falso para libertar seu cliente da prisão. O fato alcança grande repercussão, a ponto de um jornal local publicar matéria em que afirma que Marcelo deve ser suspenso preventivamente pela OAB, até que se conclua a apuração disciplinar da conduta.\n\nSobre esse tema, assinale a afirmativa correta.\n\n- (A) Cabe ao Tribunal de Ética e Disciplina do Conselho Seccional perante o qual a infração tenha ocorrido, suspendê-lo preventivamente.\n\n- (B) A suspensão preventiva pressupõe a demonstração de que o fato tenha gerado repercussão prejudicial à dignidade da advocacia.\n\n- (C) Antes de aplicada a suspensão preventiva, o acusado deve ser ouvido em sessão especial, salvo se não for possível notificá-lo para comparecer.\n\n- (D) Caso aplicada a suspensão preventiva, o processo disciplinar deve ser concluído no prazo máximo de sessenta dias.\n\n#",
+    "alternativas": {},
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "38º Exame OAB",
@@ -51,13 +46,8 @@
   },
   {
     "num": 7,
-    "enunciado": "Mariângela, advogada trabalhista, foi intimada pelo juízo da Vara do Trabalho de sua cidade para comparecer à audiência una, designada para 16h15 de determinado dia. Por estar amamentando sua filha Manuela, recém-nascida, Mariângela protocolou petição nos autos do respectivo processo, requerendo preferência na ordem das audiências, mediante comprovação da sua condição. O juiz, contudo, indeferiu o pedido, com o argumento de que a causa é copatrocinada por uma segunda advogada, conforme procuração constante dos autos, a qual poderia participar do ato. A respeito da hipótese narrada, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Diante da constatação de que há duas advogadas constituídas pela parte, e à míngua de previsão legal, a condição de lactante de Mariângela não é suficiente para o deferimento do pedido de preferência.",
-      "B": "Conquanto inexista previsão legal para o pedido formulado por Mariângela, o juiz deveria ter deferido o pleito com base na práxis judiciária e no princípio da razoabilidade.",
-      "C": "Apenas se Mariângela comprovasse ser a única patrona da causa, haveria previsão legal para que o pedido de preferência fosse atendido.",
-      "D": "Mariângela tem o direito de preferência assegurado em lei, independentemente de haver outra advogada constituída nos autos."
-    },
+    "enunciado": "Mariângela, advogada trabalhista, foi intimada pelo juízo da Vara do Trabalho de sua cidade para comparecer à audiência una, designada para 16h15 de determinado dia.\n\nPor estar amamentando sua filha Manuela, recém-nascida, Mariângela protocolou petição nos autos do respectivo processo, requerendo preferência na ordem das audiências, mediante comprovação da sua condição. O juiz, contudo, indeferiu o pedido, com o argumento de que a causa é copatrocinada por uma segunda advogada, conforme procuração constante dos autos, a qual poderia participar do ato.\n\nA respeito da hipótese narrada, assinale a afirmativa correta.\n\n- A) Diante da constatação de que há duas advogadas constituídas pela parte, e à míngua de previsão legal, a condição de lactante de Mariângela não é suficiente para o deferimento do pedido de preferência.\n\n- B) Conquanto inexista previsão legal para o pedido formulado por Mariângela, o juiz deveria ter deferido o pleito com base na práxis judiciária e no princípio da razoabilidade.\n\n- C) Apenas se Mariângela comprovasse ser a única patrona da causa, haveria previsão legal para que o pedido de preferência fosse atendido.\n\n- D) Mariângela tem o direito de preferência assegurado em lei, independentemente de haver outra advogada constituída nos autos.\n\n##",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -76,13 +66,8 @@
   },
   {
     "num": 8,
-    "enunciado": "Pedro Estrela, brasileiro, natural de Recife/PE, foi preso em flagrante por participar de esquema criminoso envolvendo pirâmides financeiras e por se apresentar como advogado, mesmo sem qualquer formação jurídica. Tendo obtido liberdade provisória, fugiu para o Equador, onde obteve graduação no curso de Direito, em faculdade local. Muitos anos depois, após ter extinta a punibilidade pelas infrações penais praticadas, decide voltar ao Brasil com a pretensão de exercer a advocacia. Quando da mudança para o Brasil, trouxe sua esposa equatoriana, Soraya, que já exercia a profissão de advogada no Equador. Considerando o enunciado acima, e a respeito da inscrição na Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Pedro Estrela, desde que atendidos os demais requisitos para a inscrição como advogado, poderá exercer a advocacia no Brasil, independentemente de revalidação do seu diploma, diante do fato de ser brasileiro nato.",
-      "B": "Soraya não poderá exercer a profissão de advogada no Brasil, ainda que cumpra os demais requisitos para inscrição na Ordem, porque títulos de graduação obtidos em instituições estrangeiras não são aceitos para comprovação da aptidão por estrangeiros.",
-      "C": "O título de graduação obtido por Pedro em instituição estrangeira poderá ser aceito no Brasil, desde que devidamente revalidado, o que não lhe garantirá a inscrição na OAB, diante da necessidade de aprovação no Exame de Ordem, além do preenchimento dos demais requisitos legais, em especial a comprovação de idoneidade moral para a função.",
-      "D": "Pedro e Soraya poderão exercer livremente a função de advogado no Brasil, desde que sejam aprovados no Exame de Ordem, porque a aprovação nesse certame convalida os diplomas obtidos no exterior."
-    },
+    "enunciado": "Pedro Estrela, brasileiro, natural de Recife/PE, foi preso em flagrante por participar de esquema criminoso envolvendo pirâmides financeiras e por se apresentar como advogado, mesmo sem qualquer formação jurídica. Tendo obtido liberdade provisória, fugiu para o Equador, onde obteve graduação no curso de Direito, em faculdade local.\n\nMuitos anos depois, após ter extinta a punibilidade pelas infrações penais praticadas, decide voltar ao Brasil com a pretensão de exercer a advocacia. Quando da mudança para o Brasil, trouxe sua esposa equatoriana, Soraya, que já exercia a profissão de advogada no Equador.\n\nConsiderando o enunciado acima, e a respeito da inscrição na Ordem dos Advogados do Brasil, assinale a afirmativa correta.\n\n- (A) Pedro Estrela, desde que atendidos os demais requisitos para a inscrição como advogado, poderá exercer a advocacia no Brasil, independentemente de revalidação do seu diploma, diante do fato de ser brasileiro nato.\n\n- (B) Soraya não poderá exercer a profissão de advogada no Brasil, ainda que cumpra os demais requisitos para inscrição na Ordem, porque títulos de graduação obtidos em instituições estrangeiras não são aceitos para comprovação da aptidão por estrangeiros.\n\n- (C) O título de graduação obtido por Pedro em instituição estrangeira poderá ser aceito no Brasil, desde que devidamente revalidado, o que não lhe garantirá a inscrição na OAB, diante da necessidade de aprovação no Exame de Ordem, além do preenchimento dos demais requisitos legais, em especial a comprovação de idoneidade moral para a função.\n\n- (D) Pedro e Soraya poderão exercer livremente a função de advogado no Brasil, desde que sejam aprovados no Exame de Ordem, porque a aprovação nesse certame convalida os diplomas obtidos no exterior.",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "41º Exame OAB",
@@ -101,13 +86,8 @@
   },
   {
     "num": 4,
-    "enunciado": "O Presidente do Conselho Seccional da Ordem dos Advogados do Brasil do Estado Alfa recebeu representação devidamente identificada, contendo narrativa fática indicativa da prática de infração disciplinar pelo advogado Paulo. O autor da representação apresentou DOC_Documentos, rol de testemunhas e indicou a produção de provas. Ato contínuo, o Presidente imediatamente designou relator para a competente instrução do processo disciplinar. Considerando a legislação que rege o processo disciplinar do advogado, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Se a infração ético-disciplinar apontada na representação for punível com a sanção de censura, será admissível a celebração de termo de ajustamento de conduta, desde que o fato apurado não tenha gerado repercussão negativa à advocacia.",
-      "B": "A autoridade competente que proferir o despacho declaratório da instauração do processo disciplinar deverá, no mesmo ato, promover a suspensão preventiva de Paulo pelo prazo de até 90 (noventa) dias.",
-      "C": "Na hipótese de arquivamento liminar da representação pelo Presidente do Conselho Seccional, caberá recurso ao Conselho Federal da OAB.",
-      "D": "A designação imediata de relator pelo Presidente do Conselho Seccional, sem a prévia oitiva de Paulo, viola o princípio da ampla defesa."
-    },
+    "enunciado": "O Presidente do Conselho Seccional da Ordem dos Advogados do Brasil do Estado Alfa recebeu representação devidamente identificada, contendo narrativa fática indicativa da prática de infração disciplinar pelo advogado Paulo. O autor da representação apresentou DOC_Documentos, rol de testemunhas e indicou a produção de provas. Ato contínuo, o Presidente imediatamente designou relator para a competente instrução do processo disciplinar.\n\nConsiderando a legislação que rege o processo disciplinar do advogado, assinale a afirmativa correta.\n\n- (A) Se a infração ético-disciplinar apontada na representação for punível com a sanção de censura, será admissível a celebração de termo de ajustamento de conduta, desde que o fato apurado não tenha gerado repercussão negativa à advocacia.\n\n- (B) A autoridade competente que proferir o despacho declaratório da instauração do processo disciplinar deverá, no mesmo ato, promover a suspensão preventiva de Paulo pelo prazo de até 90 (noventa) dias.\n\n- (C) Na hipótese de arquivamento liminar da representação pelo Presidente do Conselho Seccional, caberá recurso ao Conselho Federal da OAB.\n\n- (D) A designação imediata de relator pelo Presidente do Conselho Seccional, sem a prévia oitiva de Paulo, viola o princípio da ampla defesa.\n\n#",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "44º Exame OAB",
@@ -126,13 +106,8 @@
   },
   {
     "num": 2,
-    "enunciado": "Helena concluiu seu mestrado em Administração Pública e acumulou significativo conhecimento jurídico, mas não possui formação em Direito nem inscrição nos quadros da OAB. Apesar disso, ela passou a oferecer consultoria jurídica e a atuar em audiências representando clientes. André, por sua vez, era advogado regularmente inscrito na OAB, porém foi suspenso do exercício profissional por prática de infração disciplinar. Mesmo suspenso, ele continuou a realizar atos privativos da advocacia, tais como peticionar e participar de audiências. Com base nessas situações hipotéticas, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Os atos praticados por André, após a sua suspensão da OAB, são nulos, pois ele está impedido de exercer a advocacia enquanto durar a suspensão.",
-      "B": "Os atos privativos da advocacia praticados por Helena, que não possui inscrição na OAB, são válidos, desde que seus clientes a autorizem expressamente, ratificando os atos por ela praticados.",
-      "C": "Os atos praticados por Helena são válidos, desde que restritos à consultoria extrajudicial e relacionados à administração pública, uma vez que ela não representa clientes em processos judiciais.",
-      "D": "Tanto os atos praticados por Helena quanto os atos praticados por André são anuláveis, porém sujeitos à convalidação, pois a atuação em audiências e a prática de consultoria jurídica, embora preferencialmente exercidas por advogados, podem, excepcionalmente, ser exercidas por pessoa com conhecimento jurídico."
-    },
+    "enunciado": "Helena concluiu seu mestrado em Administração Pública e acumulou significativo conhecimento jurídico, mas não possui formação em Direito nem inscrição nos quadros da OAB. Apesar disso, ela passou a oferecer consultoria jurídica e a atuar em audiências representando clientes.\n\nAndré, por sua vez, era advogado regularmente inscrito na OAB, porém foi suspenso do exercício profissional por prática de infração disciplinar. Mesmo suspenso, ele continuou a realizar atos privativos da advocacia, tais como peticionar e participar de audiências.\n\nCom base nessas situações hipotéticas, assinale a afirmativa correta.\n\n- (A) Os atos praticados por André, após a sua suspensão da OAB, são nulos, pois ele está impedido de exercer a advocacia enquanto durar a suspensão.\n\n- (B) Os atos privativos da advocacia praticados por Helena, que não possui inscrição na OAB, são válidos, desde que seus clientes a autorizem expressamente, ratificando os atos por ela praticados.\n\n- (C) Os atos praticados por Helena são válidos, desde que restritos à consultoria extrajudicial e relacionados à administração pública, uma vez que ela não representa clientes em processos judiciais.\n\n- (D) Tanto os atos praticados por Helena quanto os atos praticados por André são anuláveis, porém sujeitos à convalidação, pois a atuação em audiências e a prática de consultoria jurídica, embora preferencialmente exercidas por advogados, podem, excepcionalmente, ser exercidas por pessoa com conhecimento jurídico.\n\n#",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "45º Exame OAB",
@@ -151,13 +126,8 @@
   },
   {
     "num": 8,
-    "enunciado": "Pedro é advogado regularmente inscrito no Conselho Seccional da OAB do Estado Alfa e constituiu uma Sociedade Unipessoal de Advocacia registrada e ativa na mesma unidade federativa. Recentemente, ele foi convidado pelo renomado advogado Abraão para integrar uma Sociedade de Advogados, também com sede no Estado Alfa, na qualidade de sócio. Pedro considerou a proposta promissora e cogita aceitá-la, acreditando que pode participar de ambas as sociedades, desde que evite atuar nos mesmos processos ou contra os interesses de clientes de uma delas. Sobre a decisão de Pedro, com base no Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Pedro poderá integrar ambas as sociedades, desde que atue em processos distintos e jamais represente partes com interesses opostos.",
-      "B": "Pedro poderá aceitar o convite de Abraão apenas se encerrar formalmente a Sociedade Unipessoal de Advocacia que já possui no Estado Alfa.",
-      "C": "Pedro poderá participar das duas sociedades se firmar declaração formal de que manterá independência profissional e não haverá conflito de interesses.",
-      "D": "Pedro poderá manter a sua sociedade unipessoal e, ao mesmo tempo, integrar a sociedade de Abraão desde que a nova sociedade registre filial em outra área territorial, ainda que continue atuando no Estado Alfa."
-    },
+    "enunciado": "Pedro é advogado regularmente inscrito no Conselho Seccional da OAB do Estado Alfa e constituiu uma Sociedade Unipessoal de Advocacia registrada e ativa na mesma unidade federativa. Recentemente, ele foi convidado pelo renomado advogado Abraão para integrar uma Sociedade de Advogados, também com sede no Estado Alfa, na qualidade de sócio.\n\nPedro considerou a proposta promissora e cogita aceitá-la, acreditando que pode participar de ambas as sociedades, desde que evite atuar nos mesmos processos ou contra os interesses de clientes de uma delas.\n\nSobre a decisão de Pedro, com base no Estatuto da Advocacia e da OAB, assinale a afirmativa correta.\n\n- (A) Pedro poderá integrar ambas as sociedades, desde que atue em processos distintos e jamais represente partes com interesses opostos.\n\n- (B) Pedro poderá aceitar o convite de Abraão apenas se encerrar formalmente a Sociedade Unipessoal de Advocacia que já possui no Estado Alfa.\n\n- (C) Pedro poderá participar das duas sociedades se firmar declaração formal de que manterá independência profissional e não haverá conflito de interesses.\n\n- (D) Pedro poderá manter a sua sociedade unipessoal e, ao mesmo tempo, integrar a sociedade de Abraão desde que a nova sociedade registre filial em outra área territorial, ainda que continue atuando no Estado Alfa.\n\n#",
+    "alternativas": {},
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "45º Exame OAB",

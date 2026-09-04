@@ -1,12 +1,12 @@
 [
   {
     "num": 2,
-    "enunciado": "Teresa, advogada contratada por Carina para representar seus interesses em ação judicial, decide renunciar ao mandato. Em 16/02/2023, Teresa redige notificação de renúncia e a envia por meio de correspondência com aviso de recebimento a Carina, que a recebe em 28/02/2023. No dia seguinte, Carina ajusta com a advogada Fernanda que ela passará a representar seus interesses na ação judicial a partir de então, mas ainda não assina nova procuração. Considerando esse cenário, sobre o cumprimento de prazo processual com vencimento no dia 02/03/2023, assinale a afirmativa correta.",
+    "enunciado": "Teresa, advogada contratada por Carina para representar seus\ninteresses em ação judicial, decide renunciar ao mandato.\nEm 16/02/2023, Teresa redige notificação de renúncia e a envia por\nmeio de correspondência com aviso de recebimento a Carina, que a\nrecebe em 28/02/2023.\nNo dia seguinte, Carina ajusta com a advogada Fernanda que ela\npassará a representar seus interesses na ação judicial a partir de\nentão, mas ainda não assina nova procuração.\nConsiderando esse cenário, sobre o cumprimento de prazo\nprocessual com vencimento no dia 02/03/2023, assinale a afirmativa\ncorreta.",
     "alternativas": {
-      "A": "Teresa deve cumprir o prazo porque continuará obrigada, durante os dez dias seguintes à notificação de renúncia, a representar Carina, mesmo que tenha sido substituída antes do término desse prazo.",
-      "B": "Teresa estará desobrigada do cumprimento do prazo, porque Carina foi notificada da renúncia ao mandato em data anterior ao seu vencimento.",
-      "C": "Fernanda não poderá cumprir o prazo, já que somente poderá postular em juízo fazendo prova do mandato.",
-      "D": "Fernanda poderá cumprir o prazo, já que, afirmando urgência, poderá atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período. 3 XXXVII EXAME DE ORDEM UN PROVA APLICADA"
+      "A": "Teresa deve cumprir o prazo porque continuará obrigada,\ndurante os dez dias seguintes à notificação de renúncia, a\nrepresentar Carina, mesmo que tenha sido substituída antes do\ntérmino desse prazo.",
+      "B": "Teresa estará desobrigada do cumprimento do prazo, porque\nCarina foi notificada da renúncia ao mandato em data anterior ao\nseu vencimento.",
+      "C": "Fernanda não poderá cumprir o prazo, já que somente poderá\npostular em juízo fazendo prova do mandato.",
+      "D": "Fernanda poderá cumprir o prazo, já que, afirmando urgência,\npoderá atuar sem procuração, obrigando-se a apresentá-la no\nprazo de quinze dias, prorrogável por igual período.\n3\nXXXVII EXAME DE ORDEM UN\nPROVA APLICADA"
     },
     "gabarito": "D",
     "disciplina": "Ética Profissional",
@@ -26,13 +26,8 @@
   },
   {
     "num": 2,
-    "enunciado": "A medida cautelar de busca e apreensão a ser cumprida no escritório do advogado José foi regularmente deferida, por Juízo competente. Considerou o magistrado que havia nos autos indícios de autoria e materialidade da prática de crime por José, juntamente com um cliente seu, de nome Oswaldo. Quanto à situação hipotética narrada, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "É dever do representante da OAB presente ao ato, durante o cumprimento do mandado de busca e apreensão, impedir que DOC_Documentos referentes a outros processos em face de Oswaldo, não relacionados ao objeto da investigação que ensejou a cautelar, sejam retirados do escritório, exceto se o volume ou natureza dos objetos impedirem o resguardo do sigilo através da cadeia de custódia.",
-      "B": "A análise dos DOC_Documentos apreendidos deve ser feita mediante comunicação prévia ao Conselho Federal da OAB, com antecedência mínima e impreterível de 48 horas.",
-      "C": "Caso seja essencial à sua defesa no processo criminal, é admitido que José efetue colaboração premiada em face de Oswaldo, desde que haja confirmação das imputações por outros meios de prova.",
-      "D": "É direito de José estar presente na ocasião designada para análise do conteúdo dos DOC_Documentos apreendidos, quando do cumprimento do mandado de busca e apreensão."
-    },
+    "enunciado": "A medida cautelar de busca e apreensão a ser cumprida no escritório do advogado José foi regularmente deferida, por Juízo competente. Considerou o magistrado que havia nos autos indícios de autoria e materialidade da prática de crime por José, juntamente com um cliente seu, de nome Oswaldo.\n\nQuanto à situação hipotética narrada, assinale a afirmativa correta.\n\n- A) É dever do representante da OAB presente ao ato, durante o cumprimento do mandado de busca e apreensão, impedir que DOC_Documentos referentes a outros processos em face de Oswaldo, não relacionados ao objeto da investigação que ensejou a cautelar, sejam retirados do escritório, exceto se o volume ou natureza dos objetos impedirem o resguardo do sigilo através da cadeia de custódia.\n\n- B) A análise dos DOC_Documentos apreendidos deve ser feita mediante comunicação prévia ao Conselho Federal da OAB, com antecedência mínima e impreterível de 48 horas.\n\n- C) Caso seja essencial à sua defesa no processo criminal, é admitido que José efetue colaboração premiada em face de Oswaldo, desde que haja confirmação das imputações por outros meios de prova.\n\n- D) É direito de José estar presente na ocasião designada para análise do conteúdo dos DOC_Documentos apreendidos, quando do cumprimento do mandado de busca e apreensão.\n\n#",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "38º Exame OAB",
@@ -51,13 +46,8 @@
   },
   {
     "num": 8,
-    "enunciado": "O advogado Pedro, regularmente inscrito na OAB, deseja ser sócio de determinada sociedade de advogados. É seu intuito, ainda, ser escolhido sócio administrador da mencionada sociedade de advogados. Não obstante, Pedro atua, e continuará atuando, como servidor da administração pública indireta. À luz do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Pedro poderá ser sócio da sociedade de advogados e ocupar a posição de sócio administrador, exceto se for sujeito a regime de dedicação exclusiva.",
-      "B": "Há vedação legal a que Pedro seja sócio da sociedade de advogados.",
-      "C": "Pedro poderá ser sócio da sociedade de advogados. Todavia, não é autorizado que ocupe a posição de sócio administrador, independentemente do regime a que sujeito.",
-      "D": "Pedro poderá ser sócio da sociedade de advogados. De igual maneira, mesmo que o regime a que submetido seja de dedicação exclusiva, Pedro poderá ser sócio administrador da sociedade de advogados."
-    },
+    "enunciado": "O advogado Pedro, regularmente inscrito na OAB, deseja ser sócio de determinada sociedade de advogados. É seu intuito, ainda, ser escolhido sócio administrador da mencionada sociedade de advogados. Não obstante, Pedro atua, e continuará atuando, como servidor da administração pública indireta.\n\nÀ luz do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.\n\n- A) Pedro poderá ser sócio da sociedade de advogados e ocupar a posição de sócio administrador, exceto se for sujeito a regime de dedicação exclusiva.\n\n- B) Há vedação legal a que Pedro seja sócio da sociedade de advogados.\n\n- C) Pedro poderá ser sócio da sociedade de advogados. Todavia, não é autorizado que ocupe a posição de sócio administrador, independentemente do regime a que sujeito.\n\n- D) Pedro poderá ser sócio da sociedade de advogados. De igual maneira, mesmo que o regime a que submetido seja de dedicação exclusiva, Pedro poderá ser sócio administrador da sociedade de advogados.",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -76,13 +66,8 @@
   },
   {
     "num": 3,
-    "enunciado": "Monique, advogada regularmente inscrita nos quadros da OAB, é investigada em inquérito policial por supostos crimes praticados por motivo ligado ao exercício da advocacia, tendo sido presa em flagrante, por crime da mesma espécie, em seu escritório, enquanto atendia a uma de suas clientes. Considerando as disposições do Estatuto da Advocacia, é correto afirmar que",
-    "alternativas": {
-      "A": "Monique tem direito à presença de representante da OAB para lavratura do auto de prisão em flagrante, visto que se trata de suposto crime por motivo ligado ao exercício da advocacia, sob pena de nulidade.",
-      "B": "não há qualquer direito ou prerrogativa conferida pela legislação no caso em tela, devendo Monique receber tratamento idêntico ao dado a outros indivíduos não advogados, em razão do princípio da igualdade.",
-      "C": "a presença de representante da OAB no momento da lavratura do auto de prisão em flagrante será devida ainda que não se trate de motivo ligado ao exercício da advocacia, visto que se cuida de direito conferido ao advogado em todo e qualquer crime por ele cometido.",
-      "D": "o representante da OAB para acompanhar a lavratura do auto de prisão em flagrante, pode ser substituído por representante da Defensoria Pública, visto que ambos podem figurar como defensores."
-    },
+    "enunciado": "Monique, advogada regularmente inscrita nos quadros da OAB, é investigada em inquérito policial por supostos crimes praticados por motivo ligado ao exercício da advocacia, tendo sido presa em flagrante, por crime da mesma espécie, em seu escritório, enquanto atendia a uma de suas clientes.\n\nConsiderando as disposições do Estatuto da Advocacia, é correto afirmar que\n\n- A) Monique tem direito à presença de representante da OAB para lavratura do auto de prisão em flagrante, visto que se trata de suposto crime por motivo ligado ao exercício da advocacia, sob pena de nulidade.\n\n- B) não há qualquer direito ou prerrogativa conferida pela legislação no caso em tela, devendo Monique receber tratamento idêntico ao dado a outros indivíduos não advogados, em razão do princípio da igualdade.\n\n- C) a presença de representante da OAB no momento da lavratura do auto de prisão em flagrante será devida ainda que não se trate de motivo ligado ao exercício da advocacia, visto que se cuida de direito conferido ao advogado em todo e qualquer crime por ele cometido.\n\n- D) o representante da OAB para acompanhar a lavratura do auto de prisão em flagrante, pode ser substituído por representante da Defensoria Pública, visto que ambos podem figurar como defensores.\n\n##",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -101,13 +86,8 @@
   },
   {
     "num": 2,
-    "enunciado": "O juízo criminal da Comarca de ABC expediu mandado de prisão preventiva em desfavor de Saulo, o qual, no momento do cumprimento da medida, telefonou para sua amiga, a advogada criminalista Janete, rogando-lhe verbalmente que verificasse as razões daquela prisão, bem como levantasse outras informações sobre a investigação contra si instaurada. Ao se dirigir à autoridade policial responsável, Janete foi informada de que não poderia ter acesso aos autos do flagrante e nem aos do respectivo caderno apuratório, uma vez que não apresentou prova do mandato e os autos estão integralmente submetidos a sigilo. Com base nessas informações, e considerados os direitos da advocacia, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "A negativa de acesso aos autos, na hipótese, possui respaldo legal, uma vez que, estando os autos submetidos a sigilo, o acesso de Janete dependeria da apresentação de procuração.",
-      "B": "O Estatuto da Advocacia e da OAB assegura o direito de Janete de examinar os autos do flagrante e do respectivo caderno apuratório, mesmo sem procuração, ainda que submetidos a sigilo.",
-      "C": "Na hipótese de haver diligências em andamento, a negativa de acesso aos autos da investigação possui suporte legal, extensiva aos elementos de prova já documentados, oriundos de diligências finalizadas.",
-      "D": "É vedado o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças relacionadas a diligências sigilosas em andamento, sob pena de responsabilização criminal e funcional."
-    },
+    "enunciado": "O juízo criminal da Comarca de ABC expediu mandado de prisão preventiva em desfavor de Saulo, o qual, no momento do cumprimento da medida, telefonou para sua amiga, a advogada criminalista Janete, rogando-lhe verbalmente que verificasse as razões daquela prisão, bem como levantasse outras informações sobre a investigação contra si instaurada.\n\nAo se dirigir à autoridade policial responsável, Janete foi informada de que não poderia ter acesso aos autos do flagrante e nem aos do respectivo caderno apuratório, uma vez que não apresentou prova do mandato e os autos estão integralmente submetidos a sigilo.\n\nCom base nessas informações, e considerados os direitos da advocacia, assinale a afirmativa correta.\n\n- (A) A negativa de acesso aos autos, na hipótese, possui respaldo legal, uma vez que, estando os autos submetidos a sigilo, o acesso de Janete dependeria da apresentação de procuração.\n\n- (B) O Estatuto da Advocacia e da OAB assegura o direito de Janete de examinar os autos do flagrante e do respectivo caderno apuratório, mesmo sem procuração, ainda que submetidos a sigilo.\n\n- (C) Na hipótese de haver diligências em andamento, a negativa de acesso aos autos da investigação possui suporte legal, extensiva aos elementos de prova já documentados, oriundos de diligências finalizadas.\n\n- (D) É vedado o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças relacionadas a diligências sigilosas em andamento, sob pena de responsabilização criminal e funcional.",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "41º Exame OAB",
@@ -126,13 +106,8 @@
   },
   {
     "num": 7,
-    "enunciado": "A sociedade empresária Alfa contratou o advogado João Carlos para propor ação de repetição de indébito tributário contra a Fazenda Nacional. Foi outorgado mandato específico para a referida demanda e celebrado o respectivo contrato de honorários. No decorrer da prestação dos serviços, devido ao grande conhecimento de João Carlos em outras áreas do direito, bem como à sua pronta disponibilidade, os responsáveis pela Alfa passaram a consultá-lo informalmente sobre diversos assuntos da empresa, inclusive adotando medidas e tomando decisões a partir das orientações verbais prestadas. Seis meses após o início dessas consultas, a empresa Alfa e João Carlos formalizaram outro contrato de honorários advocatícios, com efeitos prospectivos, desta feita para a prestação da atividade consultiva em cur",
-    "alternativas": {
-      "A": "Não há como reconhecer as atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários, pois a atuação do advogado, salvo em situações urgentes, exige a prova do mandato.",
-      "B": "A outorga de mandato para as atividades de consultoria jurídica é prescindível, porém a falta de formalização dos serviços prestados, por meio de contrato de honorários, torna o período anterior insuscetível de reconhecimento.",
-      "C": "As atividades prestadas por João Carlos no período podem ser reconhecidas, uma vez que a consultoria jurídica independe de outorga de mandato ou formalização por contrato de honorários, sendo desinfluente o modo pelo qual foram prestados os serviços.",
-      "D": "O não reconhecimento das atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários decorre do fato de que a atuação se deu de forma verbal, de tal modo que, se a atuação tivesse se dado por escrito, as atividades prestadas poderiam ser reconhecidas."
-    },
+    "enunciado": "A sociedade empresária Alfa contratou o advogado João Carlos para propor ação de repetição de indébito tributário contra a Fazenda Nacional. Foi outorgado mandato específico para a referida demanda e celebrado o respectivo contrato de honorários.\n\nNo decorrer da prestação dos serviços, devido ao grande conhecimento de João Carlos em outras áreas do direito, bem como à sua pronta disponibilidade, os responsáveis pela Alfa passaram a consultá-lo informalmente sobre diversos assuntos da empresa, inclusive adotando medidas e tomando decisões a partir das orientações verbais prestadas. Seis meses após o início dessas consultas, a empresa Alfa e João Carlos formalizaram outro contrato de honorários advocatícios, com efeitos prospectivos, desta feita para a prestação da atividade consultiva em curso.\n\nAcerca da atuação profissional de João Carlos durante o período anterior à formalização do contrato de honorários, assinale a afirmativa correta.\n\n- A) Não há como reconhecer as atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários, pois a atuação do advogado, salvo em situações urgentes, exige a prova do mandato.\n- B) A outorga de mandato para as atividades de consultoria jurídica é prescindível, porém a falta de formalização dos serviços prestados, por meio de contrato de honorários, torna o período anterior insuscetível de reconhecimento.\n- C) As atividades prestadas por João Carlos no período podem ser reconhecidas, uma vez que a consultoria jurídica independe de outorga de mandato ou formalização por contrato de honorários, sendo desinfluente o modo pelo qual foram prestados os serviços.\n- D) O não reconhecimento das atividades prestadas por João Carlos no período anterior à formalização do contrato de honorários decorre do fato de que a atuação se deu de forma verbal, de tal modo que, se a atuação tivesse se dado por escrito, as atividades prestadas poderiam ser reconhecidas.\n\n#",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "42º Exame OAB",
@@ -151,13 +126,8 @@
   },
   {
     "num": 6,
-    "enunciado": "Afonso, condenado por tráfico de drogas, cumpre pena dividindo cela com Rodrigo, preso preventivamente há mais de dois anos, sem que a instrução do processo por roubo a que responde tenha sido concluída. Indignado com a situação de Rodrigo, Afonso, que não tem formação jurídica, mas sempre foi habilidoso com a escrita, decide redigir um pedido de habeas corpus em folha de caderno, à mão, em favor de seu companheiro de cela. Considerando o disposto no Estatuto da Ordem dos Advogados do Brasil (EOAB), assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "A impetração de habeas corpus é atividade privativa de advogado regularmente inscrito na OAB, não podendo ser realizada por um leigo, ainda que em defesa de direitos fundamentais.",
-      "B": "Afonso poderá redigir e impetrar o habeas corpus em favor de Rodrigo, pois a impetração desse remédio constitucional não está incluída entre as atividades privativas da advocacia.",
-      "C": "Afonso somente poderia impetrar o habeas corpus se comprovasse que não havia advogado disponível para atuar no caso de Rodrigo.",
-      "D": "A impetração de habeas corpus é vedada para leigos quando se trata de crimes graves, como roubo, exigindo obrigatoriamente a atuação de advogado."
-    },
+    "enunciado": "Afonso, condenado por tráfico de drogas, cumpre pena dividindo cela com Rodrigo, preso preventivamente há mais de dois anos, sem que a instrução do processo por roubo a que responde tenha sido concluída. Indignado com a situação de Rodrigo, Afonso, que não tem formação jurídica, mas sempre foi habilidoso com a escrita, decide redigir um pedido de habeas corpus em folha de caderno, à mão, em favor de seu companheiro de cela.\n\nConsiderando o disposto no Estatuto da Ordem dos Advogados do Brasil (EOAB), assinale a afirmativa correta.\n\n- (A) A impetração de habeas corpus é atividade privativa de advogado regularmente inscrito na OAB, não podendo ser realizada por um leigo, ainda que em defesa de direitos fundamentais.\n\n- (B) Afonso poderá redigir e impetrar o habeas corpus em favor de Rodrigo, pois a impetração desse remédio constitucional não está incluída entre as atividades privativas da advocacia.\n\n- (C) Afonso somente poderia impetrar o habeas corpus se comprovasse que não havia advogado disponível para atuar no caso de Rodrigo.\n\n- (D) A impetração de habeas corpus é vedada para leigos quando se trata de crimes graves, como roubo, exigindo obrigatoriamente a atuação de advogado.\n\n##",
+    "alternativas": {},
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
@@ -176,13 +146,8 @@
   },
   {
     "num": 8,
-    "enunciado": "Antônio, advogado experiente e com extensa carteira de clientes, decidiu fazer uso de instrumentos de inteligência artificial generativa para auxiliá-lo na elaboração de peças processuais. Apesar da revisão posterior, com assessoramento de seu estagiário, dos textos produzidos pela nova tecnologia, determinado Magistrado notifica-o para prestar esclarecimentos acerca de recurso interposto de forma manifestamente incabível. Ao ler a peça, Antônio identifica que foram citadas DOU_Doutrina e jurisprudência de forma deturpada, em situação que poderia confundir o adversário ou iludir o Juiz da causa. Sobre esse contexto, de acordo com o Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Por não ter agido de forma dolosa, Antônio não poderá sofrer qualquer sanção disciplinar, uma vez que o advogado não é responsável pelos atos praticados com culpa.",
-      "B": "Em razão da gravidade da situação, após o devido processo disciplinar, Antônio poderá ser apenado com a suspensão do exercício da advocacia por período que poderá variar de 30 dias a 12 meses.",
-      "C": "A Antônio poderá ser aplicada a pena de censura, a qual pode ser convertida em advertência, em ofício reservado, sem registro nos seus assentamentos, quando estiver presente circunstância atenuante.",
-      "D": "Caso se trate de situação reincidente, Antônio poderá ser apenado com a sanção de exclusão, devendo ser cancelada sua inscrição na Ordem dos Advogados do Brasil."
-    },
+    "enunciado": "Antônio, advogado experiente e com extensa carteira de clientes, decidiu fazer uso de instrumentos de inteligência artificial generativa para auxiliá-lo na elaboração de peças processuais.\n\nApesar da revisão posterior, com assessoramento de seu estagiário, dos textos produzidos pela nova tecnologia, determinado Magistrado notifica-o para prestar esclarecimentos acerca de recurso interposto de forma manifestamente incabível. Ao ler a peça, Antônio identifica que foram citadas DOU_Doutrina e jurisprudência de forma deturpada, em situação que poderia confundir o adversário ou iludir o Juiz da causa.\n\nSobre esse contexto, de acordo com o Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.\n\n- (A) Por não ter agido de forma dolosa, Antônio não poderá sofrer qualquer sanção disciplinar, uma vez que o advogado não é responsável pelos atos praticados com culpa.\n\n- (B) Em razão da gravidade da situação, após o devido processo disciplinar, Antônio poderá ser apenado com a suspensão do exercício da advocacia por período que poderá variar de 30 dias a 12 meses.\n\n- (C) A Antônio poderá ser aplicada a pena de censura, a qual pode ser convertida em advertência, em ofício reservado, sem registro nos seus assentamentos, quando estiver presente circunstância atenuante.\n\n- (D) Caso se trate de situação reincidente, Antônio poderá ser apenado com a sanção de exclusão, devendo ser cancelada sua inscrição na Ordem dos Advogados do Brasil.\n\n##",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
@@ -201,13 +166,8 @@
   },
   {
     "num": 6,
-    "enunciado": "O advogado Ivan precisava embarcar em um voo doméstico de Recife para Curitiba, a fim de participar do Congresso Brasileiro de Direito de Família. Ao chegar ao balcão de check-in, percebeu que havia esquecido todos os seus DOC_Documentos de identificação em seu escritório, com exceção da carteira da Ordem dos Advogados do Brasil (OAB), na qual consta sua foto. A responsável pelo atendimento da companhia aérea informou que não aceitaria a carteira da OAB como documento de identidade e, por isso, Ivan estaria impedido de embarcar. Ivan argumentou que o documento deveria ser aceito como prova de identidade civil, uma vez que é o único documento de identidade profissional obrigatório para o exercício da advocacia. Sobre a hipótese, com base no Estatuto da Ordem dos Advogados do Brasil, assinale a ",
-    "alternativas": {
-      "A": "Ivan não poderá embarcar, pois a carteira da OAB não é considerada documento de identidade civil válido para viagens nacionais em aviões.",
-      "B": "Ivan poderá embarcar, pois a carteira da OAB constitui prova de identidade civil para todos os fins legais, inclusive para viagens nacionais em aviões.",
-      "C": "Ivan somente poderá embarcar se apresentar outro documento de identificação civil junto com a carteira da OAB, como medida de segurança adicional.",
-      "D": "Ivan não poderá embarcar, pois a carteira da OAB só é válida como documento de identificação quando utilizada em exercício da atividade profissional em fóruns e tribunais."
-    },
+    "enunciado": "O advogado Ivan precisava embarcar em um voo doméstico de Recife para Curitiba, a fim de participar do Congresso Brasileiro de Direito de Família. Ao chegar ao balcão de check-in, percebeu que havia esquecido todos os seus DOC_Documentos de identificação em seu escritório, com exceção da carteira da Ordem dos Advogados do Brasil (OAB), na qual consta sua foto.\n\nA responsável pelo atendimento da companhia aérea informou que não aceitaria a carteira da OAB como documento de identidade e, por isso, Ivan estaria impedido de embarcar. Ivan argumentou que o documento deveria ser aceito como prova de identidade civil, uma vez que é o único documento de identidade profissional obrigatório para o exercício da advocacia.\n\nSobre a hipótese, com base no Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.\n\n- (A) Ivan não poderá embarcar, pois a carteira da OAB não é considerada documento de identidade civil válido para viagens nacionais em aviões.\n\n- (B) Ivan poderá embarcar, pois a carteira da OAB constitui prova de identidade civil para todos os fins legais, inclusive para viagens nacionais em aviões.\n\n- (C) Ivan somente poderá embarcar se apresentar outro documento de identificação civil junto com a carteira da OAB, como medida de segurança adicional.\n\n- (D) Ivan não poderá embarcar, pois a carteira da OAB só é válida como documento de identificação quando utilizada em exercício da atividade profissional em fóruns e tribunais.\n\n#",
+    "alternativas": {},
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "44º Exame OAB",
@@ -226,13 +186,8 @@
   },
   {
     "num": 7,
-    "enunciado": "No âmbito de investigação sigilosa, o Magistrado competente decretou a prisão de João, amigo íntimo de Carlos. Carlos é advogado regularmente inscrito na Ordem dos Advogados do Brasil. Ao saber do cumprimento do mandado, com a consequente custódia de João, Carlos se dirigiu à delegacia e, em seguida, procurou o Magistrado plantonista para tratar do caso. Nesse contexto, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Carlos somente terá acesso aos autos da investigação que culminou na prisão de João se apresentar procuração para representá-lo. Nesse caso, deve lhe ser franqueado amplo acesso aos elementos de prova colhidos pela autoridade policial, não sendo possível a imposição de qualquer limitação.",
-      "B": "Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Ademais, deve lhe ser franqueado amplo acesso aos elementos de prova colhidos pela autoridade policial, não sendo possível a imposição de qualquer limitação.",
-      "C": "Carlos somente terá acesso aos autos da investigação que culminou na prisão de João se apresentar procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, desde que relacionados a diligências em andamento e ainda não documentados nos autos, desde que haja comprovado risco de comprometimento da eficiência, da eficácia ou da ",
-      "D": "Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, ainda que relacionados a diligências já encerradas e devidamente documentadas nos autos, desde que haja comprovado risco de comprometimento da efici"
-    },
+    "enunciado": "No âmbito de investigação sigilosa, o Magistrado competente decretou a prisão de João, amigo íntimo de Carlos. Carlos é advogado regularmente inscrito na Ordem dos Advogados do Brasil.\n\nAo saber do cumprimento do mandado, com a consequente custódia de João, Carlos se dirigiu à delegacia e, em seguida, procurou o Magistrado plantonista para tratar do caso.\n\nNesse contexto, assinale a afirmativa correta.\n\n- (A) Carlos somente terá acesso aos autos da investigação que culminou na prisão de João se apresentar procuração para representá-lo. Nesse caso, deve lhe ser franqueado amplo acesso aos elementos de prova colhidos pela autoridade policial, não sendo possível a imposição de qualquer limitação.\n\n- (B) Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Ademais, deve lhe ser franqueado amplo acesso aos elementos de prova colhidos pela autoridade policial, não sendo possível a imposição de qualquer limitação.\n\n- (C) Carlos somente terá acesso aos autos da investigação que culminou na prisão de João se apresentar procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, desde que relacionados a diligências em andamento e ainda não documentados nos autos, desde que haja comprovado risco de comprometimento da eficiência, da eficácia ou da finalidade da investigação.\n\n- (D) Carlos deverá ter acesso aos autos da investigação que culminou na prisão de João, independentemente da apresentação de procuração para representá-lo. Entretanto, o acesso aos elementos de prova colhidos pela autoridade policial poderá ser delimitado, ainda que relacionados a diligências já encerradas e devidamente documentadas nos autos, desde que haja comprovado risco de comprometimento da eficiência, da eficácia ou da finalidade da investigação.\n\n#",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "44º Exame OAB",
@@ -251,13 +206,8 @@
   },
   {
     "num": 8,
-    "enunciado": "O advogado Toledo atua na defesa de Tício, investigado por crimes de corrupção e lavagem de dinheiro. Durante as investigações, o próprio Toledo passou a ser investigado por suposta participação em atos ilícitos praticados por seu cliente. Em troca de benefícios penais, o Ministério Público ofereceu a possibilidade de firmar acordo de colaboração premiada ao advogado, desde que ele fornecesse informações sobre Tício e outros envolvidos. Com base no Estatuto da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "O advogado pode colaborar contra seu cliente se a colaboração resultar apenas em redução de pena, sendo vedada a extinção total da punibilidade em razão de delação premiada.",
-      "B": "O advogado não pode celebrar colaboração premiada contra o cliente atual, mas poderá fazê-lo em relação a um ex-cliente, desde que não mais exista vínculo profissional formal entre ambos.",
-      "C": "O advogado poderá firmar colaboração premiada em face de seu cliente, desde que o acordo seja autorizado judicialmente, hipótese em que ficará isento de punição administrativa perante o Tribunal de Ética e Disciplina.",
-      "D": "O advogado não pode efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância dessa regra poderá acarretar processo disciplinar com aplicação de uma sanção de exclusão dos quadros da OAB, sem prejuízo da responsabilização penal."
-    },
+    "enunciado": "O advogado Toledo atua na defesa de Tício, investigado por crimes de corrupção e lavagem de dinheiro. Durante as investigações, o próprio Toledo passou a ser investigado por suposta participação em atos ilícitos praticados por seu cliente.\n\nEm troca de benefícios penais, o Ministério Público ofereceu a possibilidade de firmar acordo de colaboração premiada ao advogado, desde que ele fornecesse informações sobre Tício e outros envolvidos.\n\nCom base no Estatuto da OAB, assinale a afirmativa correta.\n\n- (A) O advogado pode colaborar contra seu cliente se a colaboração resultar apenas em redução de pena, sendo vedada a extinção total da punibilidade em razão de delação premiada.\n\n- (B) O advogado não pode celebrar colaboração premiada contra o cliente atual, mas poderá fazê-lo em relação a um ex-cliente, desde que não mais exista vínculo profissional formal entre ambos.\n\n- (C) O advogado poderá firmar colaboração premiada em face de seu cliente, desde que o acordo seja autorizado judicialmente, hipótese em que ficará isento de punição administrativa perante o Tribunal de Ética e Disciplina.\n\n- (D) O advogado não pode efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância dessa regra poderá acarretar processo disciplinar com aplicação de uma sanção de exclusão dos quadros da OAB, sem prejuízo da responsabilização penal.\n\n#",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "46º Exame OAB",

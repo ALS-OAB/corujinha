@@ -1,12 +1,12 @@
 [
   {
     "num": 7,
-    "enunciado": "Pedro, advogado, é investigado criminalmente, em conjunto com Antônio, seu ex-cliente, e Matheus, juiz da comarca, em razão de sua suposta participação em atos fraudulentos que importaram o pagamento de benefícios previdenciários indevidos. No âmbito das investigações, a autoridade judiciária competente determina medida cautelar de busca e apreensão que importa violação do local de trabalho de Pedro. Posteriormente, Pedro é consultado pelo órgão encarregado da investigação criminal acerca de seu interesse na celebração de acordo de colaboração premiada. Sobre essas medidas, assinale a afirmativa correta.",
+    "enunciado": "Pedro, advogado, é investigado criminalmente, em conjunto com\nAntônio, seu ex-cliente, e Matheus, juiz da comarca, em razão de sua\nsuposta participação em atos fraudulentos que importaram o\npagamento de benefícios previdenciários indevidos.\nNo âmbito das investigações, a autoridade judiciária competente\ndetermina medida cautelar de busca e apreensão que importa\nviolação do local de trabalho de Pedro. Posteriormente, Pedro é\nconsultado pelo órgão encarregado da investigação criminal acerca\nde seu interesse na celebração de acordo de colaboração premiada.\nSobre essas medidas, assinale a afirmativa correta.",
     "alternativas": {
-      "A": "É válida a medida de busca e apreensão executada no local de trabalho de Pedro se fundada exclusivamente em declarações de outro colaborador, sem confirmação por outros meios de prova.",
-      "B": "Em hipótese excepcional, podem ser usados na investigação DOC_Documentos, mídias e objetos pertencentes a outros clientes de Pedro.",
-      "C": "Se Pedro efetuar colaboração premiada contra Antônio, tal ato importará em processo disciplinar, que poderá culminar com a aplicação da sanção de exclusão.",
-      "D": "Se Pedro efetuar colaboração premiada contra Matheus, não estará sujeito às penas relativas ao crime de violação do segredo profissional."
+      "A": "É válida a medida de busca e apreensão executada no local de\ntrabalho de Pedro se fundada exclusivamente em declarações de\noutro colaborador, sem confirmação por outros meios de prova.",
+      "B": "Em hipótese excepcional, podem ser usados na investigação\nDOC_Documentos, mídias e objetos pertencentes a outros clientes de\nPedro.",
+      "C": "Se Pedro efetuar colaboração premiada contra Antônio, tal ato\nimportará em processo disciplinar, que poderá culminar com a\naplicação da sanção de exclusão.",
+      "D": "Se Pedro efetuar colaboração premiada contra Matheus, não\nestará sujeito às penas relativas ao crime de violação do segredo\nprofissional."
     },
     "gabarito": "*",
     "disciplina": "Ética Profissional",
@@ -26,13 +26,8 @@
   },
   {
     "num": 3,
-    "enunciado": "O advogado Luís Santos, regularmente inscrito na OAB, está em início de carreira. Luís presta serviços jurídicos a determinada instituição social sem fins econômicos, consistentes em patrocinar seus interesses em demanda judicial em curso. Sobre a atuação de Luís, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Não poderá ser considerada advocacia pro bono a atuação gratuita de Luís como advogado das pessoas naturais, hipossuficientes econômicas, beneficiárias da instituição social.",
-      "B": "É ilícito que Luís preste gratuitamente tais serviços jurídicos, se o objetivo é valer-se de sua atuação como instrumento de publicidade da sua atividade profissional.",
-      "C": "A atuação gratuita de Luís, ainda que não seja eventual, na defesa em Juízo da mencionada instituição social, pode ser considerada advocacia pro bono.",
-      "D": "É admitida a prestação por Luís, sob a forma de advocacia pro bono voluntária, de serviços jurídicos para uma instituição social cobrando preços simbólicos, haja vista a ausência de fins econômicos."
-    },
+    "enunciado": "O advogado Luís Santos, regularmente inscrito na OAB, está em início de carreira. Luís presta serviços jurídicos a determinada instituição social sem fins econômicos, consistentes em patrocinar seus interesses em demanda judicial em curso.\n\nSobre a atuação de Luís, assinale a afirmativa correta.\n\n- (A) Não poderá ser considerada advocacia pro bono a atuação gratuita de Luís como advogado das pessoas naturais, hipossuficientes econômicas, beneficiárias da instituição social.\n\n- (B) É ilícito que Luís preste gratuitamente tais serviços jurídicos, se o objetivo é valer-se de sua atuação como instrumento de publicidade da sua atividade profissional.\n\n- (C) A atuação gratuita de Luís, ainda que não seja eventual, na defesa em Juízo da mencionada instituição social, pode ser considerada advocacia pro bono.\n\n- (D) É admitida a prestação por Luís, sob a forma de advocacia pro bono voluntária, de serviços jurídicos para uma instituição social cobrando preços simbólicos, haja vista a ausência de fins econômicos.\n\n#",
+    "alternativas": {},
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "38º Exame OAB",
@@ -51,13 +46,8 @@
   },
   {
     "num": 4,
-    "enunciado": "Maria, advogada regularmente inscrita na OAB, encontra-se gestante. Em razão de sua condição, Maria tem direitos específicos previstos no Estatuto da Advocacia e da OAB. Assinale a opção que apresenta, corretamente um desses direitos.",
-    "alternativas": {
-      "A": "Durante a gravidez, ela terá direito a uma vaga garantida nas garagens dos fóruns de todos os tribunais.",
-      "B": "Durante a gravidez ela terá preferência na realização das audiências a serem realizadas no dia, independentemente de comprovação de sua condição.",
-      "C": "Após dar à luz, ela terá direito à suspensão dos prazos processuais por 60 (sessenta) dias, contados a partir da data do parto, se for a única patrona da causa.",
-      "D": "Após dar à luz, ela terá preferência na ordem das sustentações orais, mediante comprovação de sua condição, pelo período de 90 (noventa) dias, contados a partir da data do parto."
-    },
+    "enunciado": "Maria, advogada regularmente inscrita na OAB, encontra-se gestante. Em razão de sua condição, Maria tem direitos específicos previstos no Estatuto da Advocacia e da OAB.\n\nAssinale a opção que apresenta, corretamente um desses direitos.\n\n- (A) Durante a gravidez, ela terá direito a uma vaga garantida nas garagens dos fóruns de todos os tribunais.\n\n- (B) Durante a gravidez ela terá preferência na realização das audiências a serem realizadas no dia, independentemente de comprovação de sua condição.\n\n- (C) Após dar à luz, ela terá direito à suspensão dos prazos processuais por 60 (sessenta) dias, contados a partir da data do parto, se for a única patrona da causa.\n\n- (D) Após dar à luz, ela terá preferência na ordem das sustentações orais, mediante comprovação de sua condição, pelo período de 90 (noventa) dias, contados a partir da data do parto.\n\n#",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "38º Exame OAB",
@@ -76,13 +66,8 @@
   },
   {
     "num": 5,
-    "enunciado": "Lucas, estagiário de Direito, descobre que Patrícia, advogada que o supervisiona, teve sua inscrição na OAB cancelada. Na intenção de auxiliar Patrícia a restabelecer o exercício da advocacia, Lucas passa a estudar a legislação que disciplina o tema. Sobre o cancelamento da inscrição, Lucas concluiu, corretamente, que",
-    "alternativas": {
-      "A": "deve ter motivo justificado, caso seja solicitada pelo profissional.",
-      "B": "a aplicação de penalidade de exclusão impossibilita um novo pedido de inscrição.",
-      "C": "deve ser promovido, de ofício, pelo conselho competente, caso decorra do exercício de atividade incompatível com a advocacia.",
-      "D": "será restaurado o número cancelado, caso seja feito um novo pedido de inscrição."
-    },
+    "enunciado": "Lucas, estagiário de Direito, descobre que Patrícia, advogada que o supervisiona, teve sua inscrição na OAB cancelada. Na intenção de auxiliar Patrícia a restabelecer o exercício da advocacia, Lucas passa a estudar a legislação que disciplina o tema.\n\nSobre o cancelamento da inscrição, Lucas concluiu, corretamente, que\n\n- (A) deve ter motivo justificado, caso seja solicitada pelo profissional.\n\n- (B) a aplicação de penalidade de exclusão impossibilita um novo pedido de inscrição.\n\n- (C) deve ser promovido, de ofício, pelo conselho competente, caso decorra do exercício de atividade incompatível com a advocacia.\n\n- (D) será restaurado o número cancelado, caso seja feito um novo pedido de inscrição.\n\n#",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "38º Exame OAB",
@@ -101,13 +86,8 @@
   },
   {
     "num": 6,
-    "enunciado": "Teresa Silva, advogada atuante na área criminal, tem como clientes Luiz, acusado de tráfico ilícito de drogas, e Roberto, acusado de crimes contra o sistema financeiro nacional. Após serem proferidas decisões judiciais que determinam o bloqueio universal dos patrimônios de Luiz e Roberto, Teresa se indaga a respeito dos meios disponíveis para obter os valores necessários ao reembolso de gastos com a defesa e ao recebimento de honorários desses clientes. Sobre esse assunto, é correto concluir que",
-    "alternativas": {
-      "A": "garantir-se-á a Teresa a liberação de 20% (vinte por cent o) dos bens bloqueados de Luiz para o fim de reembolso de gastos com a defesa, vedado o recebimento de honorários.",
-      "B": "garantir-se-á a Teresa a liberação de 20% (vinte por cent o) dos bens bloqueados de Roberto para o fim de reembolso de gastos com a defesa e o recebimento de honorários.",
-      "C": "Teresa poderá optar pela venda de bens de Luiz em hasta pública para o reembolso de gastos com a defesa.",
-      "D": "Teresa não poderá realizar a adjudicação de bens de Roberto para a satisfação dos honorários devidos."
-    },
+    "enunciado": "Teresa Silva, advogada atuante na área criminal, tem como clientes Luiz, acusado de tráfico ilícito de drogas, e Roberto, acusado de crimes contra o sistema financeiro nacional.\n\nApós serem proferidas decisões judiciais que determinam o bloqueio universal dos patrimônios de Luiz e Roberto, Teresa se indaga a respeito dos meios disponíveis para obter os valores necessários ao reembolso de gastos com a defesa e ao recebimento de honorários desses clientes.\n\nSobre esse assunto, é correto concluir que\n\n- (A) garantir-se-á a Teresa a liberação de 20% (vinte por cent\n\no) dos bens bloqueados de Luiz para o fim de reembolso de gastos com a defesa, vedado o recebimento de honorários.\n\n- (B) garantir-se-á a Teresa a liberação de 20% (vinte por cent\n\no) dos bens bloqueados de Roberto para o fim de reembolso de gastos com a defesa e o recebimento de honorários.\n\n- (C) Teresa poderá optar pela venda de bens de Luiz em hasta pública para o reembolso de gastos com a defesa.\n\n- (D) Teresa não poderá realizar a adjudicação de bens de Roberto para a satisfação dos honorários devidos.\n\n#",
+    "alternativas": {},
     "gabarito": "B",
     "disciplina": "Ética Profissional",
     "exame": "38º Exame OAB",
@@ -126,13 +106,8 @@
   },
   {
     "num": 1,
-    "enunciado": "Mariana deseja ingressar no quadro da Sociedade de Advogados XYZ, na qualidade de associada, sem vínculo de emprego. Ao pesquisar a legislação que rege a parceria em questão, Mariana descobriu que constitui cláusula essencial do contrato de associação",
-    "alternativas": {
-      "A": "a qualificação das partes, com referência expressa à inscrição no Conselho Seccional da OAB competente.",
-      "B": "a identificação da parte que terá a responsabilidade exclusiva pelos riscos e pelas receitas decorrentes da prestação do serviço.",
-      "C": "a forma de repartição da responsabilidade pelo fornecimento de condições materiais necessárias à execução dos serviços entre as partes, vedada a atribuição da totalidade das despesas exclusivamente a uma delas.",
-      "D": "a estabilidade da parceria, materializada na ausência de prazo determinado para a duração do contrato."
-    },
+    "enunciado": "Mariana deseja ingressar no quadro da Sociedade de Advogados XYZ, na qualidade de associada, sem vínculo de emprego. Ao pesquisar a legislação que rege a parceria em questão, Mariana descobriu que constitui cláusula essencial do contrato de associação\n\n- A) a qualificação das partes, com referência expressa à inscrição no Conselho Seccional da OAB competente.\n\n- B) a identificação da parte que terá a responsabilidade exclusiva pelos riscos e pelas receitas decorrentes da prestação do serviço.\n\n- C) a forma de repartição da responsabilidade pelo fornecimento de condições materiais necessárias à execução dos serviços entre as partes, vedada a atribuição da totalidade das despesas exclusivamente a uma delas.\n\n- D) a estabilidade da parceria, materializada na ausência de prazo determinado para a duração do contrato.",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -151,13 +126,8 @@
   },
   {
     "num": 6,
-    "enunciado": "Luana, advogada especialista em Direito Civil, é procurada por Carla, que busca ajuizar demanda para obtenção de indenização por danos morais e materiais em face de seu vizinho. Ao tomar conhecimento dos fatos, Luana percebe que aquele era o último dia possível para o ajuizamento da ação, visto que a prescrição da pretensão de sua cliente se consumaria no dia seguinte. Luana, então, peticionou, perante o juízo competente, sem, contudo, ter tido tempo hábil para anexar aos autos a procuração de sua cliente, em razão da urgência decorrente da iminente prescrição. Nesse contexto, considerando as disposições do Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "A advogada Luana não pode postular em juízo ou fora dele sem procuração, ainda que em situação de alegada urgência.",
-      "B": "A urgência, por si só, não é suficiente para justificar a não apresentação da procuração, devendo ser conjugada com iminente risco à integridade física ou à vida do cliente.",
-      "C": "Luana não está obrigada a apresentar procuração, visto que o mandato conferido por seus clientes é presumido pelos fatos narrados na inicial e pela documentação que a instrui.",
-      "D": "No contexto da iminente prescrição da pretensão de sua cliente, Luana, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período."
-    },
+    "enunciado": "Luana, advogada especialista em Direito Civil, é procurada por Carla, que busca ajuizar demanda para obtenção de indenização por danos morais e materiais em face de seu vizinho. Ao tomar conhecimento dos fatos, Luana percebe que aquele era o último dia possível para o ajuizamento da ação, visto que a prescrição da pretensão de sua cliente se consumaria no dia seguinte.\n\nLuana, então, peticionou, perante o juízo competente, sem, contudo, ter tido tempo hábil para anexar aos autos a procuração de sua cliente, em razão da urgência decorrente da iminente prescrição.\n\nNesse contexto, considerando as disposições do Estatuto da Ordem dos Advogados do Brasil, assinale a afirmativa correta.\n\n- A) A advogada Luana não pode postular em juízo ou fora dele sem procuração, ainda que em situação de alegada urgência.\n\n- B) A urgência, por si só, não é suficiente para justificar a não apresentação da procuração, devendo ser conjugada com iminente risco à integridade física ou à vida do cliente.\n\n- C) Luana não está obrigada a apresentar procuração, visto que o mandato conferido por seus clientes é presumido pelos fatos narrados na inicial e pela documentação que a instrui.\n\n- D) No contexto da iminente prescrição da pretensão de sua cliente, Luana, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período.",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "39º Exame OAB",
@@ -176,13 +146,8 @@
   },
   {
     "num": 2,
-    "enunciado": "Sebastião, advogado, celebrou contrato de mandato com o cliente Amir, para representá-lo extrajudicialmente, tendo realizado diligências em prol da resolução do imbróglio. Desde a celebração do mandato, passaram-se mais de 20 (vinte) anos, mas as atividades para as quais Amir contratou Sebastião, por sua própria natureza, se protraíram no tempo, sendo ainda necessárias a Amir. Sobre a hipótese apresentada, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "O mandato extinguiu-se pelo decurso do tempo, salvo se previsto prazo diverso no respectivo instrumento.",
-      "B": "O mandato extinguiu-se pelo decurso do tempo, sendo vedada a previsão de prazo diverso no respectivo instrumento.",
-      "C": "O mandato não se extinguiu pelo decurso do tempo, salvo se foi consignado prazo no respectivo instrumento.",
-      "D": "O mandato não se extinguiu pelo decurso do tempo, sendo vedada a estipulação de prazo no respectivo instrumento."
-    },
+    "enunciado": "Sebastião, advogado, celebrou contrato de mandato com o cliente Amir, para representá-lo extrajudicialmente, tendo realizado diligências em prol da resolução do imbróglio.\n\nDesde a celebração do mandato, passaram-se mais de 20 (vinte) anos, mas as atividades para as quais Amir contratou Sebastião, por sua própria natureza, se protraíram no tempo, sendo ainda necessárias a Amir.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.\n\n- A) O mandato extinguiu-se pelo decurso do tempo, salvo se previsto prazo diverso no respectivo instrumento.\n\n- B) O mandato extinguiu-se pelo decurso do tempo, sendo vedada a previsão de prazo diverso no respectivo instrumento.\n\n- C) O mandato não se extinguiu pelo decurso do tempo, salvo se foi consignado prazo no respectivo instrumento.\n\n- D) O mandato não se extinguiu pelo decurso do tempo, sendo vedada a estipulação de prazo no respectivo instrumento.\n\n##",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "40º Exame OAB",
@@ -201,13 +166,8 @@
   },
   {
     "num": 4,
-    "enunciado": "Ana Júlia, recentemente aprovada no Exame da Ordem dos Advogados do Brasil, aspira exercer sua nova atividade profissional de maneira comprometida com os deveres éticos e valores inerentes à elevada função pública da profissão. Nesse sentido, assinale a afirmativa que corretamente descreve a hipótese de cumprimento de dever ético por Ana Júlia.",
-    "alternativas": {
-      "A": "Ana Júlia deverá, sempre que possível, estimular a conciliação e a mediação entre os litigantes, entendendo-se diretamente com a parte adversa, cujo eventual patrono constituído, na hipótese de haver a solução do conflito, deverá ser ulteriormente comunicado.",
-      "B": "Nos pleitos administrativos ou judiciais em que ingressar, Ana Júlia deverá atuar com destemor e independência, especialmente perante aquelas autoridades com as quais tenha vínculos negociais ou familiares.",
-      "C": "Ana Júlia deverá pugnar pela solução dos problemas da cidadania e pela efetivação dos direitos individuais, coletivos e difusos, dever que pode ser cumprido, por exemplo, com a adoção de política permanente de contratação de honorários advocatícios em valores abaixo da tabela da OAB.",
-      "D": "No exercício do seu mandato, Ana Júlia deverá atuar como patrona da parte e, portanto, imprimir à causa orientação que lhe pareça mais adequada, procurando esclarecer a estratégia traçada ao cliente, mas sem se subordinar às suas intenções contrárias."
-    },
+    "enunciado": "Ana Júlia, recentemente aprovada no Exame da Ordem dos Advogados do Brasil, aspira exercer sua nova atividade profissional de maneira comprometida com os deveres éticos e valores inerentes à elevada função pública da profissão.\n\nNesse sentido, assinale a afirmativa que corretamente descreve a hipótese de cumprimento de dever ético por Ana Júlia.\n\n- (A) Ana Júlia deverá, sempre que possível, estimular a conciliação e a mediação entre os litigantes, entendendo-se diretamente com a parte adversa, cujo eventual patrono constituído, na hipótese de haver a solução do conflito, deverá ser ulteriormente comunicado.\n\n- (B) Nos pleitos administrativos ou judiciais em que ingressar, Ana Júlia deverá atuar com destemor e independência, especialmente perante aquelas autoridades com as quais tenha vínculos negociais ou familiares.\n\n- (C) Ana Júlia deverá pugnar pela solução dos problemas da cidadania e pela efetivação dos direitos individuais, coletivos e difusos, dever que pode ser cumprido, por exemplo, com a adoção de política permanente de contratação de honorários advocatícios em valores abaixo da tabela da OAB.\n\n- (D) No exercício do seu mandato, Ana Júlia deverá atuar como patrona da parte e, portanto, imprimir à causa orientação que lhe pareça mais adequada, procurando esclarecer a estratégia traçada ao cliente, mas sem se subordinar às suas intenções contrárias.",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "41º Exame OAB",
@@ -226,13 +186,8 @@
   },
   {
     "num": 1,
-    "enunciado": "Determinada operação de combate à corrupção conduzida pela Polícia Federal reuniu elementos indicativos de autoria e materialidade da prática de crime por parte de Cláudio, advogado regularmente inscrito na Ordem dos Advogados do Brasil. Com base nesses elementos, a Justiça Federal expediu mandado de busca e apreensão, específico e pormenorizado, o qual foi cumprido, na presença de representante da OAB, no endereço residencial de Cláudio, o qual também lhe servia como local de trabalho. Foram apreendidos e periciados um notebook e dois aparelhos de telefone celular, todos contendo informações sobre diversos processos de clientes patrocinados por Cláudio. A respeito da validade jurídica da diligência realizada e da utilização das informações encontradas nas mídias apreendidas, assinale a af",
-    "alternativas": {
-      "A": "A medida cautelar decretada é inválida, uma vez que o Estatuto da Advocacia assegura a inviolabilidade absoluta do escritório ou local de trabalho do advogado, e, portanto, as informações encontradas sobre os clientes de Cláudio não podem ser utilizadas.",
-      "B": "A medida cautelar decretada é válida, porque não foi cumprida no escritório de Cláudio, mas na sua residência, porém as informações encontradas sobre os clientes de Cláudio estão protegidas de modo insuperável pelo Estatuto da Advocacia e, portanto, não podem ser utilizadas.",
-      "C": "A medida cautelar decretada é inválida, tendo em vista a inviolabilidade do escritório ou local de trabalho do advogado, mas as informações encontradas sobre os clientes de Cláudio podem ser utilizadas, caso esses clientes também figurem formalmente como investigados.",
-      "D": "A medida cautelar decretada é válida, e as informações encontradas sobre os clientes de Cláudio poderão ser utilizadas se esses clientes forem formalmente investigados como partícipes ou coautores pela prática do mesmo crime que deu causa à decretação da medida."
-    },
+    "enunciado": "Determinada operação de combate à corrupção conduzida pela Polícia Federal reuniu elementos indicativos de autoria e materialidade da prática de crime por parte de Cláudio, advogado regularmente inscrito na Ordem dos Advogados do Brasil.\n\nCom base nesses elementos, a Justiça Federal expediu mandado de busca e apreensão, específico e pormenorizado, o qual foi cumprido, na presença de representante da OAB, no endereço residencial de Cláudio, o qual também lhe servia como local de trabalho. Foram apreendidos e periciados um notebook e dois aparelhos de telefone celular, todos contendo informações sobre diversos processos de clientes patrocinados por Cláudio.\n\nA respeito da validade jurídica da diligência realizada e da utilização das informações encontradas nas mídias apreendidas, assinale a afirmativa correta.\n\n- A) A medida cautelar decretada é inválida, uma vez que o Estatuto da Advocacia assegura a inviolabilidade absoluta do escritório ou local de trabalho do advogado, e, portanto, as informações encontradas sobre os clientes de Cláudio não podem ser utilizadas.\n- B) A medida cautelar decretada é válida, porque não foi cumprida no escritório de Cláudio, mas na sua residência, porém as informações encontradas sobre os clientes de Cláudio estão protegidas de modo insuperável pelo Estatuto da Advocacia e, portanto, não podem ser utilizadas.\n- C) A medida cautelar decretada é inválida, tendo em vista a inviolabilidade do escritório ou local de trabalho do advogado, mas as informações encontradas sobre os clientes de Cláudio podem ser utilizadas, caso esses clientes também figurem formalmente como investigados.\n- D) A medida cautelar decretada é válida, e as informações encontradas sobre os clientes de Cláudio poderão ser utilizadas se esses clientes forem formalmente investigados como partícipes ou coautores pela prática do mesmo crime que deu causa à decretação da medida.\n\n#",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "42º Exame OAB",
@@ -251,13 +206,8 @@
   },
   {
     "num": 3,
-    "enunciado": "Roberto Silva, advogado e sócio fundador da sociedade de advogados Silva e Souza Advogados Associados, foi eleito para o cargo de Prefeito do Município Ômega. Embora feliz e motivado com o mandato que lhe foi confiado pela população, Roberto Silva não gostaria de se retirar da sociedade de advogados por ele fundada. Considerando o Estatuto da Advocacia e da OAB, assinale a afirmativa que descreve corretamente a situação societária e a eventual atuação de Roberto Silva como advogado após assumir o cargo de Prefeito de Ômega:",
-    "alternativas": {
-      "A": "É impositiva a exclusão de Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, dada a incompatibilidade do cargo de Prefeito Municipal com a advocacia.",
-      "B": "O exercício do mandato de Prefeito de Ômega impede apenas que Roberto Silva advogue contra a Fazenda Pública que o remunera, no caso o Município Ômega, não havendo óbice para que continue integrando a sociedade de advogados e atuando em causas diversas.",
-      "C": "O exercício do mandato de Prefeito de Ômega é incompatível com a advocacia, mas, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, a qual poderá continuar explorando o nome e a imagem do seu fundador em benefício da sociedade.",
-      "D": "Embora incompatível com a advocacia, o exercício do cargo de Prefeito de Ômega, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados. Contudo, deve o fato ser averbado no registro da sociedade, bem como observada a incompatibilidade temporária."
-    },
+    "enunciado": "Roberto Silva, advogado e sócio fundador da sociedade de advogados Silva e Souza Advogados Associados, foi eleito para o cargo de Prefeito do Município Ômega. Embora feliz e motivado com o mandato que lhe foi confiado pela população, Roberto Silva não gostaria de se retirar da sociedade de advogados por ele fundada.\n\nConsiderando o Estatuto da Advocacia e da OAB, assinale a afirmativa que descreve corretamente a situação societária e a eventual atuação de Roberto Silva como advogado após assumir o cargo de Prefeito de Ômega:\n\n- A) É impositiva a exclusão de Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, dada a incompatibilidade do cargo de Prefeito Municipal com a advocacia.\n- B) O exercício do mandato de Prefeito de Ômega impede apenas que Roberto Silva advogue contra a Fazenda Pública que o remunera, no caso o Município Ômega, não havendo óbice para que continue integrando a sociedade de advogados e atuando em causas diversas.\n- C) O exercício do mandato de Prefeito de Ômega é incompatível com a advocacia, mas, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados, a qual poderá continuar explorando o nome e a imagem do seu fundador em benefício da sociedade.\n- D) Embora incompatível com a advocacia, o exercício do cargo de Prefeito de Ômega, por si só, não excluirá Roberto Silva da sociedade de advogados Silva e Souza Advogados Associados. Contudo, deve o fato ser averbado no registro da sociedade, bem como observada a incompatibilidade temporária.\n\n#",
+    "alternativas": {},
     "gabarito": "D",
     "disciplina": "Ética Profissional",
     "exame": "42º Exame OAB",
@@ -276,13 +226,8 @@
   },
   {
     "num": 3,
-    "enunciado": "João Pedro, destacado aluno do último semestre do curso de Direito, logrou êxito no Exame da Ordem dos Advogados do Brasil, sendo então convidado a integrar, assim que formado, uma renomada sociedade de advogados da sua cidade. Apesar de ter ficado honrado com o convite, João Pedro está em dúvida, pois em seus estudos para o Exame da OAB verificou ser possível constituir sociedade unipessoal de advocacia, opção que lhe pareceu mais atrativa. Considerando o enunciado, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "A sociedade unipessoal de advocacia de João Pedro poderá ter como sede, filial ou local de trabalho, um espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas na legislação.",
-      "B": "João Pedro poderá integrar a sociedade de advogados e, simultaneamente, constituir uma sociedade unipessoal de advocacia, ambas com sede ou filial na mesma área territorial do respectivo Conselho Seccional.",
-      "C": "João Pedro poderá escolher livremente a denominação da sociedade unipessoal de advocacia que vier a constituir, desde que complemente com a expressão “Sociedade Individual de Advocacia”.",
-      "D": "A sociedade unipessoal de advocacia de João Pedro adquirirá personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Federal da OAB."
-    },
+    "enunciado": "João Pedro, destacado aluno do último semestre do curso de Direito, logrou êxito no Exame da Ordem dos Advogados do Brasil, sendo então convidado a integrar, assim que formado, uma renomada sociedade de advogados da sua cidade. Apesar de ter ficado honrado com o convite, João Pedro está em dúvida, pois em seus estudos para o Exame da OAB verificou ser possível constituir sociedade unipessoal de advocacia, opção que lhe pareceu mais atrativa.\n\nConsiderando o enunciado, assinale a afirmativa correta.\n\n- (A) A sociedade unipessoal de advocacia de João Pedro poderá ter como sede, filial ou local de trabalho, um espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas na legislação.\n\n- (B) João Pedro poderá integrar a sociedade de advogados e, simultaneamente, constituir uma sociedade unipessoal de advocacia, ambas com sede ou filial na mesma área territorial do respectivo Conselho Seccional.\n\n- (C) João Pedro poderá escolher livremente a denominação da sociedade unipessoal de advocacia que vier a constituir, desde que complemente com a expressão “Sociedade Individual de Advocacia”.\n\n- (D) A sociedade unipessoal de advocacia de João Pedro adquirirá personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Federal da OAB.\n\n##",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "43º Exame OAB",
@@ -301,13 +246,8 @@
   },
   {
     "num": 5,
-    "enunciado": "O advogado Gomes representou Dênis em uma ação de responsabilidade civil contra o Banco Alfa, tendo firmado contrato escrito com Dênis, no qual foi estipulado que Gomes receberia honorários convencionais de 20% sobre o proveito econômico obtido, além dos honorários sucumbenciais que fossem concedidos. No entanto, Dênis entrou em contato diretamente com o advogado do Banco Alfa e firmou um acordo extrajudicial para receber R$ 5.000,00 de indenização por danos morais, sem a participação de Gomes e renunciando aos direitos aos honorários advocatícios. Gomes foi informado do acordo posteriormente. Sobre o caso relatado, com base no **Art. 24** do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Dênis tem o direito de renunciar aos honorários advocatícios convencionados e sucumbenciais, desde que tenha feito isso expressamente no acordo com o Banco Alfa, e isso prejudica o direito de Gomes de receber qualquer valor.",
-      "B": "O acordo firmado por Dênis com o Banco Alfa retira o direito de Gomes aos honorários convencionados, mas Gomes ainda pode pleitear apenas os honorários sucumbenciais, desde que haja condenação judicial.",
-      "C": "Gomes mantém o direito aos honorários convencionados e sucumbenciais, independentemente do acordo realizado por Dênis com o Banco Alfa, uma vez que o acordo não prejudica o advogado sem sua aquiescência.",
-      "D": "Gomes somente poderá cobrar os honorários convencionados se houver uma decisão judicial declarando nulo o acordo firmado entre Dênis e o Banco Alfa."
-    },
+    "enunciado": "O advogado Gomes representou Dênis em uma ação de responsabilidade civil contra o Banco Alfa, tendo firmado contrato escrito com Dênis, no qual foi estipulado que Gomes receberia honorários convencionais de 20% sobre o proveito econômico obtido, além dos honorários sucumbenciais que fossem concedidos.\n\nNo entanto, Dênis entrou em contato diretamente com o advogado do Banco Alfa e firmou um acordo extrajudicial para receber R$ 5.000,00 de indenização por danos morais, sem a participação de Gomes e renunciando aos direitos aos honorários advocatícios. Gomes foi informado do acordo posteriormente.\n\nSobre o caso relatado, com base no \n\n**Art. 24**\n do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.\n\n- (A) Dênis tem o direito de renunciar aos honorários advocatícios convencionados e sucumbenciais, desde que tenha feito isso expressamente no acordo com o Banco Alfa, e isso prejudica o direito de Gomes de receber qualquer valor.\n\n- (B) O acordo firmado por Dênis com o Banco Alfa retira o direito de Gomes aos honorários convencionados, mas Gomes ainda pode pleitear apenas os honorários sucumbenciais, desde que haja condenação judicial.\n\n- (C) Gomes mantém o direito aos honorários convencionados e sucumbenciais, independentemente do acordo realizado por Dênis com o Banco Alfa, uma vez que o acordo não prejudica o advogado sem sua aquiescência.\n\n- (D) Gomes somente poderá cobrar os honorários convencionados se houver uma decisão judicial declarando nulo o acordo firmado entre Dênis e o Banco Alfa.\n\n#",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "44º Exame OAB",
@@ -326,13 +266,8 @@
   },
   {
     "num": 3,
-    "enunciado": "Tarcísio, advogado trabalhista com mais de 20 anos de experiência, prestou concurso público para a Outorga de Delegações de Serventias Notariais e Registrais e, após aprovação, assumiu um Tabelionato de Notas e Ofício de Registro Civil em uma comarca do mesmo Estado. Ele deseja saber se poderá continuar exercendo a advocacia em causa própria e, além disso, pretende patrocinar uma ação contra a empresa pública estadual responsável pelo fornecimento de água. Sobre incompatibilidades e impedimentos, com base nas disposições do Estatuto da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Tarcísio poderá exercer a advocacia apenas em causa própria, conforme prevê o Estatuto da OAB, mas estará impedido de advogar contra a empresa pública estadual de fornecimento de água.",
-      "B": "Tarcísio poderá advogar livremente, inclusive contra a empresa pública estadual de fornecimento de água, uma vez que o exercício da atividade notarial não gera impedimento para o exercício da advocacia.",
-      "C": "Tarcísio está em situação de incompatibilidade total com o exercício da advocacia, sendo vedada a atuação em qualquer causa, inclusive em causa própria, em razão de seu cargo como titular de serventia notarial e registral.",
-      "D": "Tarcísio poderá continuar exercendo a advocacia, desde que em causas particulares que não envolvam empresas públicas ou concessionárias de serviço público, estando livre de impedimentos em ações de interesse pessoal."
-    },
+    "enunciado": "Tarcísio, advogado trabalhista com mais de 20 anos de experiência, prestou concurso público para a Outorga de Delegações de Serventias Notariais e Registrais e, após aprovação, assumiu um Tabelionato de Notas e Ofício de Registro Civil em uma comarca do mesmo Estado. Ele deseja saber se poderá continuar exercendo a advocacia em causa própria e, além disso, pretende patrocinar uma ação contra a empresa pública estadual responsável pelo fornecimento de água.\n\nSobre incompatibilidades e impedimentos, com base nas disposições do Estatuto da OAB, assinale a afirmativa correta.\n\n- (A) Tarcísio poderá exercer a advocacia apenas em causa própria, conforme prevê o Estatuto da OAB, mas estará impedido de advogar contra a empresa pública estadual de fornecimento de água.\n\n- (B) Tarcísio poderá advogar livremente, inclusive contra a empresa pública estadual de fornecimento de água, uma vez que o exercício da atividade notarial não gera impedimento para o exercício da advocacia.\n\n- (C) Tarcísio está em situação de incompatibilidade total com o exercício da advocacia, sendo vedada a atuação em qualquer causa, inclusive em causa própria, em razão de seu cargo como titular de serventia notarial e registral.\n\n- (D) Tarcísio poderá continuar exercendo a advocacia, desde que em causas particulares que não envolvam empresas públicas ou concessionárias de serviço público, estando livre de impedimentos em ações de interesse pessoal.\n\n#",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "45º Exame OAB",
@@ -351,13 +286,8 @@
   },
   {
     "num": 6,
-    "enunciado": "Durante muitos anos, João representou Pedro, na condição de seu advogado, em diversas causas. Recentemente, após encerrados todos os vínculos contratuais existentes entre si, Pedro passou a ser investigado pelo suposto cometimento de ilícitos tributários. Sobre esse contexto, de acordo com o Estatuto da Ordem e com o Código de Ética e Disciplina da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, ainda que este expressamente o autorize ou solicite o depoimento do ex-advogado.",
-      "B": "João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, exceto se este expressamente o autorizar, ou no caso de solicitação do próprio ex-constituinte.",
-      "C": "João poderá ser obrigado a depor sobre fatos que constituam sigilo profissional caso seu depoimento seja considerado imprescindível para a instrução em processos criminais que apurem a prática de crimes dolosos contra a vida.",
-      "D": "Considerando que a investigação se iniciou após a extinção da relação profissional existente entre João e Pedro, não há qualquer prerrogativa em favor de João que o escuse da obrigação de depor como testemunha no curso de processo judicial sobre fato relacionado com pessoa de quem já foi advogado."
-    },
+    "enunciado": "Durante muitos anos, João representou Pedro, na condição de seu advogado, em diversas causas. Recentemente, após encerrados todos os vínculos contratuais existentes entre si, Pedro passou a ser investigado pelo suposto cometimento de ilícitos tributários.\n\nSobre esse contexto, de acordo com o Estatuto da Ordem e com o Código de Ética e Disciplina da Ordem dos Advogados do Brasil, assinale a afirmativa correta.\n\n- (A) João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, ainda que este expressamente o autorize ou solicite o depoimento do ex-advogado.\n\n- (B) João não poderá ser obrigado a depor como testemunha no curso de eventual processo judicial em face de Pedro, exceto se este expressamente o autorizar, ou no caso de solicitação do próprio ex-constituinte.\n\n- (C) João poderá ser obrigado a depor sobre fatos que constituam sigilo profissional caso seu depoimento seja considerado imprescindível para a instrução em processos criminais que apurem a prática de crimes dolosos contra a vida.\n\n- (D) Considerando que a investigação se iniciou após a extinção da relação profissional existente entre João e Pedro, não há qualquer prerrogativa em favor de João que o escuse da obrigação de depor como testemunha no curso de processo judicial sobre fato relacionado com pessoa de quem já foi advogado.\n\n#",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "45º Exame OAB",
@@ -376,13 +306,8 @@
   },
   {
     "num": 1,
-    "enunciado": "Paloma, advogada gestante, compareceu ao Fórum da Comarca de Itaporanga, PB, para participar de uma audiência. Ao tentar estacionar no local, foi impedida de acessar a garagem sob a justificativa de que não havia vagas reservadas para gestantes. Além disso, foi obrigada a passar por um detector de metais, mesmo tendo informado de sua condição de gestante. Indignada, Paloma buscou esclarecer os seus direitos. Sobre a hipótese narrada, com base no Estatuto da OAB, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Paloma, por ser advogada gestante, tem o direito de não ser submetida a detectores de metais, mas o estacionamento exclusivo só é garantido em Tribunais e Fóruns Federais, não nos Fóruns Estaduais.",
-      "B": "Os direitos de Paloma, como o de não ser submetida aos detectores de metais e à reserva de vagas, são aplicáveis apenas em Tribunais Superiores, e não se estendem a Fóruns de Comarcas Estaduais.",
-      "C": "Paloma, por ser advogada gestante, tem o direito de entrar em Fóruns e Tribunais sem ser submetida a detectores de metais e tem direito à reserva de vagas nas garagens dos Fóruns dos Tribunais.",
-      "D": "Paloma tem o direito de entrada no Fórum sem ser submetida a detectores de metais, mas o direito à reserva de vagas em garagens para gestantes é uma mera liberalidade do Tribunal e não é garantido por lei."
-    },
+    "enunciado": "Paloma, advogada gestante, compareceu ao Fórum da Comarca de Itaporanga, PB, para participar de uma audiência. Ao tentar estacionar no local, foi impedida de acessar a garagem sob a justificativa de que não havia vagas reservadas para gestantes. Além disso, foi obrigada a passar por um detector de metais, mesmo tendo informado de sua condição de gestante. Indignada, Paloma buscou esclarecer os seus direitos.\n\nSobre a hipótese narrada, com base no Estatuto da OAB, assinale a afirmativa correta.\n\n- (A) Paloma, por ser advogada gestante, tem o direito de não ser submetida a detectores de metais, mas o estacionamento exclusivo só é garantido em Tribunais e Fóruns Federais, não nos Fóruns Estaduais.\n\n- (B) Os direitos de Paloma, como o de não ser submetida aos detectores de metais e à reserva de vagas, são aplicáveis apenas em Tribunais Superiores, e não se estendem a Fóruns de Comarcas Estaduais.\n\n- (C) Paloma, por ser advogada gestante, tem o direito de entrar em Fóruns e Tribunais sem ser submetida a detectores de metais e tem direito à reserva de vagas nas garagens dos Fóruns dos Tribunais.\n\n- (D) Paloma tem o direito de entrada no Fórum sem ser submetida a detectores de metais, mas o direito à reserva de vagas em garagens para gestantes é uma mera liberalidade do Tribunal e não é garantido por lei.\n\n#",
+    "alternativas": {},
     "gabarito": "C",
     "disciplina": "Ética Profissional",
     "exame": "46º Exame OAB",
@@ -401,13 +326,8 @@
   },
   {
     "num": 6,
-    "enunciado": "Abelardo é contratado para representar o milionário Everardo em uma causa cível de importante vulto. Ficou combinado que, em caso de êxito, Abelardo fará jus a uma joia de elevadíssimo valor, a título de honorários. Sucede que, depois de ganhar a causa, Everardo sofreu revés na justiça criminal, quando uma decisão judicial determinou o bloqueio de todo o seu patrimônio pela suspeita de crimes financeiros. Nesse caso, à luz do Estatuto da Ordem dos Advogados do Brasil e do Código de Ética e Disciplina, assinale a afirmativa correta.",
-    "alternativas": {
-      "A": "Abelardo poderá requerer ao Juiz Criminal o desbloqueio de até 20% dos bens de Everardo para o pagamento de seus honorários e dos demais custos com a defesa.",
-      "B": "Abelardo poderá, diante do bloqueio, participar dos bens particulares de Everardo, de forma excepcional, considerada a impossibilidade de pagamento por outro meio, ainda que tal forma de pagamento não tenha sido pactuada.",
-      "C": "A cláusula de honorários de êxito ou quota litis não é vedada, mas deve necessariamente ser expressa em pecúnia, de modo que, prevendo-se a entrega de uma joia, constata-se a nulidade que determina que Abelardo só fará jus aos honorários de sucumbência, se houver.",
-      "D": "A cláusula de honorários de êxito ou quota litis é vedada, de sorte que será necessário proceder ao arbitramento dos honorários de Abelardo, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto no **Art. 85** do Código de Processo Civil."
-    },
+    "enunciado": "Abelardo é contratado para representar o milionário Everardo em uma causa cível de importante vulto. Ficou combinado que, em caso de êxito, Abelardo fará jus a uma joia de elevadíssimo valor, a título de honorários. Sucede que, depois de ganhar a causa, Everardo sofreu revés na justiça criminal, quando uma decisão judicial determinou o bloqueio de todo o seu patrimônio pela suspeita de crimes financeiros.\n\nNesse caso, à luz do Estatuto da Ordem dos Advogados do Brasil e do Código de Ética e Disciplina, assinale a afirmativa correta.\n\n- (A) Abelardo poderá requerer ao Juiz Criminal o desbloqueio de até 20% dos bens de Everardo para o pagamento de seus honorários e dos demais custos com a defesa.\n\n- (B) Abelardo poderá, diante do bloqueio, participar dos bens particulares de Everardo, de forma excepcional, considerada a impossibilidade de pagamento por outro meio, ainda que tal forma de pagamento não tenha sido pactuada.\n\n- (C) A cláusula de honorários de êxito ou quota litis não é vedada, mas deve necessariamente ser expressa em pecúnia, de modo que, prevendo-se a entrega de uma joia, constata-se a nulidade que determina que Abelardo só fará jus aos honorários de sucumbência, se houver.\n\n- (D) A cláusula de honorários de êxito ou quota litis é vedada, de sorte que será necessário proceder ao arbitramento dos honorários de Abelardo, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto no \n\n**Art. 85**\n do Código de Processo Civil.\n\n#",
+    "alternativas": {},
     "gabarito": "A",
     "disciplina": "Ética Profissional",
     "exame": "46º Exame OAB",
