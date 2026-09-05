@@ -1084,14 +1084,14 @@ def build_module(prefix, title, out_filename):
 
 if __name__ == '__main__':
     modulos = [
-        ("01_teoria_constituicao", "Teoria da Constituição e Poder Constitucional", "Const_01_TeoriaConstituicao_Premium.html"),
-        ("02_direitos_fundamentais", "Direitos e Garantias Fundamentais", "Const_02_DireitosFundamentais_Premium.html"),
-        ("03_remedios_constitucionais", "Remédios Constitucionais", "Const_03_RemediosConstitucionais_Premium.html"),
-        ("04_organizacao_estado", "Organização do Estado e Competências", "Const_04_OrganizacaoEstado_Premium.html"),
-        ("05_organizacao_poderes", "Organização dos Poderes", "Const_05_OrganizacaoPoderes_Premium.html"),
+        ("01_direitos_fundamentais", "Direitos e Garantias Fundamentais", "Const_01_TeoriaConstituicao_Premium.html"),
+        ("02_organizacao_estado", "Organização do Estado e Competências", "Const_02_DireitosFundamentais_Premium.html"),
+        ("03_poder_legislativo", "Poder Legislativo", "Const_03_RemediosConstitucionais_Premium.html"),
+        ("04_poder_executivo", "Poder Executivo", "Const_04_OrganizacaoEstado_Premium.html"),
+        ("05_poder_judiciario", "Poder Judiciário", "Const_05_OrganizacaoPoderes_Premium.html"),
         ("06_controle_constitucionalidade", "Controle de Constitucionalidade", "Const_06_ControleConstitucionalidade_Premium.html"),
         ("07_defesa_estado", "Defesa do Estado e das Instituições", "Const_07_DefesaEstado_Premium.html"),
-        ("08_ordem_economica_social", "Ordem Econômica, Financeira e Social", "Const_08_OrdemEconomicaSocial_Premium.html"),
+        ("08_ordem_social_economica", "Ordem Social e Econômica", "Const_08_OrdemEconomicaSocial_Premium.html"),
     ]
     
     print("🚀 Compilando o ecossistema de Direito Constitucional (CF/88)...")
