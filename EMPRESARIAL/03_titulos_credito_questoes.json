@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_titulos_credito",
     "modulo_nome": "Títulos de Crédito (Cheque, Duplicata, Nota Promissória)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 990 ss. (sociedade em comum — irregular):</strong> Lauro e Moysés constituíram sociedade por contrato escrito, mas sem registro — sociedade em comum (irregular). <strong>Art. 990:</strong> \"Todos os sócios respondem solidária e ilimitadamente pelas obrigações sociais, excluído do benefício de ordem, previsto no Art. 1.024, aquele que contratou pela sociedade.\"</p>",
+    "dica": "<p>Sociedade em comum/irregular (CC Art. 986 ss.): sem registro na Junta Comercial. Responsabilidade: solidária e ilimitada de todos os sócios. Gabarito A: Lauro e Moysés, sócios de sociedade em comum (sem registro), respondem solidária e ilimitadamente pelas obrigações — não têm a proteção da responsabilidade limitada.</p>"
   },
   {
     "num": 48,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "03_titulos_credito",
     "modulo_nome": "Títulos de Crédito (Cheque, Duplicata, Nota Promissória)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 968, §3º:</strong> o empresário individual pode solicitar a transformação de sua inscrição em EIRELI ou, agora, em LTDA unipessoal (após 2019). <strong>CC Art. 980-A (EIRELI — revogada pela Lei 14.195/21):</strong> a EIRELI foi extinta; quem tinha EIRELI passou automaticamente para LTDA unipessoal. Valério quer transformar: pode transformar em LTDA unipessoal.</p>",
+    "dica": "<p>Transformação de empresário individual em LTDA unipessoal (CC Art. 968, §3º + Lei 14.195/21): possível desde 2021. EIRELI foi extinta — deve converter em LTDA unipessoal. Gabarito B: Valério pode transformar seu empresário individual em LTDA unipessoal, obtendo a proteção da responsabilidade limitada e mantendo a continuidade da empresa.</p>"
   },
   {
     "num": 48,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "03_titulos_credito",
     "modulo_nome": "Títulos de Crédito (Cheque, Duplicata, Nota Promissória)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.150:</strong> \"O empresário e a sociedade empresária vinculam-se ao Registro Público de Empresas Mercantis [...] para todos os atos relativos ao exercício da atividade empresarial.\" <strong>Art. 45 + 985:</strong> a sociedade adquire personalidade jurídica com a inscrição do ato constitutivo no registro competente. Ato constitutivo assinado em 17/04/2023: personalidade = data do registro na Junta Comercial.</p>",
+    "dica": "<p>Personalidade jurídica da sociedade (CC Art. 985 + 45): adquirida com o registro do ato constitutivo na Junta Comercial, não com a assinatura do contrato. Antes do registro: sociedade em comum (irregular). Gabarito D: a sociedade empresária adquire personalidade jurídica na data do registro do contrato social na Junta Comercial — não na data da assinatura.</p>"
   },
   {
     "num": 48,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_titulos_credito",
     "modulo_nome": "Títulos de Crédito (Cheque, Duplicata, Nota Promissória)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 986:</strong> sociedade que não tenha levado o contrato social a registro (antes das alterações de 2021): sociedade em comum. <strong>Art. 987:</strong> \"Os sócios, nas relações entre si ou com terceiros, somente por escrito podem provar a existência da sociedade, mas os terceiros podem prová-la de qualquer modo.\" Lucélia, Marília e Natividade: sociedade em comum.</p>",
+    "dica": "<p>Sociedade sem registro (CC Art. 986 — em comum): os sócios só podem provar a sociedade por escrito entre si; terceiros podem provar por qualquer meio. Responsabilidade: solidária e ilimitada (Art. 990). Gabarito B: Lucélia, Marília e Natividade têm sociedade em comum (irregular), com responsabilidade solidária e ilimitada perante terceiros credores.</p>"
   },
   {
     "num": 49,
@@ -92,6 +116,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_titulos_credito",
     "modulo_nome": "Títulos de Crédito (Cheque, Duplicata, Nota Promissória)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 49, §3º:</strong> \"Tratando-se de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis, de arrendador mercantil [...] seus créditos não se submetem aos efeitos da recuperação judicial.\" Brasilândia + Banco Figueirão (alienação fiduciária): crédito do banco não se sujeita à RJ (Art. 49, §3º).</p>",
+    "dica": "<p>Alienação fiduciária na recuperação judicial (LREF Art. 49, §3º): crédito do credor fiduciário não se sujeita à RJ — pode retomar o bem independentemente do processo. Gabarito A: o Banco Figueirão, como credor fiduciário, pode retomar os bens alienados fiduciariamente mesmo com a recuperação judicial da Brasilândia — seu crédito está fora dos efeitos da RJ.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 300 (tutela de urgência):</strong> elementos: probabilidade do direito + perigo de dano ou risco ao resultado útil do processo. <strong>Art. 301 (tutela cautelar):</strong> \"A tutela de urgência de natureza cautelar pode ser efetivada mediante arresto, sequestro, arrolamento de bens, registro de protesto contra alienação de bem e qualquer outra medida idônea para assegurar o direito.\" Olímpia x rede de academias.</p>",
+    "dica": "<p>Tutela de urgência (CPC Art. 300): probabilidade + perigo. Tutela cautelar: assegura o resultado útil. Tutela antecipada: antecipa os efeitos da decisão final. Gabarito C: Olímpia deve requerer tutela de urgência antecipada (satisfativa) para compelir a rede de academias a cumprir o contrato, demonstrando probabilidade do direito e urgência.</p>"
   },
   {
     "num": 54,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 5º:</strong> \"Aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé.\" <strong>Art. 77, I:</strong> dever de expor os fatos verdadeiramente. <strong>Art. 80:</strong> litigância de má-fé. Arthur e Felipe: árbitro escolhido pelas partes. <strong>Lei 9.307/96, Art. 21:</strong> as partes podem estabelecer as regras processuais da arbitragem.</p>",
+    "dica": "<p>Arbitragem (Lei 9.307/96 Art. 21): as partes podem escolher as regras do procedimento arbitral. Gabarito D: Arthur e Felipe podem escolher a câmara arbitral e as regras do procedimento na cláusula compromissória — o árbitro tem os mesmos poderes do juiz estatal para decidir o conflito.</p>"
   },
   {
     "num": 56,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 525, §1º, VII:</strong> na impugnação ao cumprimento de sentença: \"o excesso de execução ou cumulação indevida de execuções.\" <strong>CPC, Art. 916:</strong> no prazo para embargos à execução, o executado pode reconhecer o crédito e depositar 30%, prosseguindo no parcelamento. Stefano em fase de cumprimento de sentença: deve aguardar o prazo para impugnar (15 dias — Art. 525).</p>",
+    "dica": "<p>Impugnação ao cumprimento de sentença (CPC Art. 525): prazo de 15 dias após a intimação do auto de penhora e avaliação. Matérias: pagamento, novação, prescrição, ilegitimidade. Gabarito D: Stefano deve ser intimado do cumprimento de sentença e tem 15 dias para impugnar, podendo arguir matérias do Art. 525 — pagamento, prescrição ou qualquer causa extintiva da obrigação.</p>"
   },
   {
     "num": 53,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.245/91 (Lei do Inquilinato), Art. 59, §1º (despejo liminar):</strong> \"Conceder-se-á liminar para desocupação em quinze dias, independentemente da audiência da parte contrária e desde que prestada a caução no valor equivalente a três meses de aluguel:\" nas hipóteses do Art. 59, §1º. João locatário em RJ: réu na ação de despejo.</p>",
+    "dica": "<p>Despejo liminar sem audiência (Lei 8.245/91 Art. 59, §1º): nos casos expressamente previstos (falta de pagamento, término de locação por temporada etc.), o juiz concede liminar em 15 dias com caução de 3 meses. Gabarito B: Pedro pode obter a liminar de despejo sem ouvir João previamente, desde que preste caução de 3 meses de aluguel e o caso se enquadre nas hipóteses legais.</p>"
   },
   {
     "num": 55,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 301:</strong> tutela cautelar: arrolamento de bens, arresto, sequestro. <strong>Art. 305:</strong> tutela antecipada antecedente: autor pede tutela antes da petição inicial de mérito. <strong>Art. 308:</strong> efetivada a tutela antecedente, o autor deve formular o pedido principal em 30 dias. Joana em cumprimento de sentença: já tem título — não precisa de tutela antecedente.</p>",
+    "dica": "<p>Tutela provisória no cumprimento de sentença (CPC Art. 520 ss.): o juiz pode determinar medidas assecuratórias (penhora, arresto, bloqueio de bens) para garantir o cumprimento. Gabarito C: no cumprimento de sentença, Joana pode requerer ao juiz a adoção de medidas executivas como a penhora de bens de Regina, sem necessidade de tutela antecedente.</p>"
   },
   {
     "num": 51,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 784, XI:</strong> são títulos executivos extrajudiciais \"a certidão expedida por serventia notarial ou de registro relativa a valores de emolumentos e demais despesas devidos pelos atos por ela praticados.\" <strong>CPC, Art. 833, IV:</strong> impenhorável: os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria — até 50 salários mínimos. Isabela citada na execução.</p>",
+    "dica": "<p>Penhora de salário (CPC Art. 833, IV e §2º): impenhorável até 50 salários mínimos. Acima: penhorável o excedente. Execução fundada em título extrajudicial: citação para pagar em 3 dias (CPC Art. 829). Gabarito C: Isabela deve ser citada para pagar em 3 dias ou nomear bens à penhora — pode opor embargos à execução em 15 dias após a garantia do juízo (CPC Art. 914).</p>"
   },
   {
     "num": 53,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 528:</strong> no cumprimento de sentença de alimentos: o executado deve pagar em 3 dias ou provar que o fez. Se não pagar: decreto de prisão de 1 a 3 meses (Art. 528, §3º). <strong>Art. 528, §7º:</strong> o débito alimentar vence-se continuamente — reabre-se o prazo para nova prisão a cada período.</p>",
+    "dica": "<p>Execução de alimentos por prisão civil (CPC Art. 528): cabível pelo débito das últimas 3 parcelas vencidas + vincendas. Prazo para pagar ou provar: 3 dias. Prisão civil: 1 a 3 meses, em regime fechado. Gabarito D: Lucas pode requerer o cumprimento de sentença de alimentos com pedido de prisão civil de 1 a 3 meses, se o alimentante não pagar as últimas 3 parcelas no prazo de 3 dias.</p>"
   },
   {
     "num": 55,
@@ -149,7 +191,13 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 550 (ação de exigir contas):</strong> \"Na ação de exigir contas, a petição inicial deve especificar, detalhadamente, as razões pelas quais o autor acredita que o réu está obrigado a prestar contas.\" <strong>Art. 550, §2º:</strong> o réu pode, na contestação, alegar que não é obrigado a prestar contas. João x Vinícius (sócio administrador): deve prestar contas das verbas administradas.</p>",
+    "dica": "<p>Ação de exigir contas (CPC Art. 550): sócio tem direito de exigir contas do administrador. 1ª fase: condenação ou não de prestar contas. 2ª fase: análise e aprovação das contas. Gabarito A: João tem direito de ajuizar ação de exigir contas contra Vinícius — o administrador da sociedade tem obrigação legal de prestar contas (CC Art. 1.020 + CPC Art. 550).</p>"
   },
   {
     "num": 57,

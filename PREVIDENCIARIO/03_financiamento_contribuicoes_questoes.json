@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "03_financiamento_contribuicoes",
     "modulo_nome": "Financiamento da Seguridade Social e Contribuições",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 16, I:</strong> filhos menores de 21 anos são dependentes do segurado. <strong>Art. 77:</strong> pensão por morte dividida igualmente entre os dependentes habilitados. Marina (doméstica) e Pedro (trabalhador avulso): ambos são segurados obrigatórios. Filhos do casal: dependentes de ambos. Se Marina morrer, os filhos recebem pensão por ela; se Pedro morrer, pelos filhos também.</p>",
+    "dica": "<p>Dependentes (Lei 8.213/91 Art. 16, I): filhos menores de 21 anos são dependentes do segurado com dependência presumida. Pensão por morte: valor dividido entre os dependentes. Gabarito C: os dois filhos de Marina e Pedro são dependentes de ambos os segurados — cada filho recebe cota da pensão por morte do genitor que falecer.</p>"
   },
   {
     "num": 69,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_financiamento_contribuicoes",
     "modulo_nome": "Financiamento da Seguridade Social e Contribuições",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 21:</strong> \"Equiparam-se ao acidente do trabalho [...] o acidente sofrido pelo segurado no local e no horário do trabalho.\" <strong>Art. 21, IV, d:</strong> acidente no percurso do trabalho (acidente de trajeto) equipara-se a acidente do trabalho. Maria, doméstica, acidente no trajeto: acidente de trabalho. Estabilidade: 12 meses após alta médica (Art. 118).</p>",
+    "dica": "<p>Acidente de trajeto (Lei 8.213/91 Art. 21, IV, d): equipara-se ao acidente de trabalho. Doméstica: coberta pelo RGPS + LC 150/15. Benefícios: auxílio por incapacidade temporária (acidentário) + estabilidade de 12 meses após a alta. Gabarito B: Maria tem direito ao auxílio por incapacidade temporária acidentário e à estabilidade de 12 meses após a alta médica.</p>"
   }
 ]

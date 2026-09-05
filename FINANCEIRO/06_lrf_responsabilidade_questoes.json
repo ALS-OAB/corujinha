@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_lrf_responsabilidade",
     "modulo_nome": "Lei de Responsabilidade Fiscal (LRF - LC nº 101/00)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LRF, Art. 26:</strong> \"A destinação de recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas ou déficits de pessoas jurídicas deverá ser autorizada por lei específica, atender às condições estabelecidas na LDO e estar prevista no orçamento.\" Subvenção social para ONG: necessita de lei específica + previsão na LDO e na LOA.</p>",
+    "dica": "<p>Subvenção social a entidade privada sem fins lucrativos (LRF Art. 26): precisa de: (1) lei específica; (2) previsão na LDO; (3) previsão na LOA. Gabarito A: a Escolinha do Gol só pode receber subvenção social se houver lei específica que a autorize + previsão na LDO e na LOA.</p>"
   },
   {
     "num": 24,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_lrf_responsabilidade",
     "modulo_nome": "Lei de Responsabilidade Fiscal (LRF - LC nº 101/00)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LRF, Art. 14:</strong> a concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro + medida compensatória. <strong>CF/88, Art. 150, §6º:</strong> isenção por lei específica. Revogação de IPTU: renúncia de receita que exige compensação.</p>",
+    "dica": "<p>Renúncia de receita (LRF Art. 14): exige estimativa do impacto + compensação (aumento de outro tributo ou redução de despesa equivalente). Gabarito C: o Município Alfa, ao revogar o IPTU, praticou renúncia de receita sem compensação — viola a LRF e deve adotar medidas para compensar a perda de arrecadação.</p>"
   }
 ]

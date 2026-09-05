@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_empresario_sociedades",
     "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.078/90 (CDC), Art. 52, §1º:</strong> multa de mora nos contratos de crédito: máximo de 2%. <strong>Lei 10.406/02 (CC), Art. 591:</strong> juros em contratos de empréstimo: até a taxa legal (Selic). MEI como consumidor em contrato de crédito pessoal: aplica-se o CDC (destinatário final). Cláusulas abusivas: nulas de pleno direito (CDC Art. 51).</p>",
+    "dica": "<p>MEI como consumidor: pode ser considerado destinatário final (CDC). Multa de mora em contrato de crédito consignado: máximo 2% (CDC Art. 52, §1º). Gabarito D: cláusula de multa de mora superior a 2% em contrato de crédito do MEI é abusiva — o CDC se aplica ao MEI que é destinatário final do crédito.</p>"
   },
   {
     "num": 50,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_empresario_sociedades",
     "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.934/94 (Registro Público de Empresas — RPEM), Art. 40:</strong> o registro público não examina o mérito dos atos constitutivos (legalidade formal). <strong>CC, Art. 1.150:</strong> o empresário e a sociedade empresária vinculam-se ao Registro Público de Empresas Mercantis (Junta Comercial). <strong>CC Art. 47:</strong> os atos da administração da pessoa jurídica obrigam-na desde que realizados nos limites dos poderes estabelecidos no ato constitutivo.</p>",
+    "dica": "<p>Junta Comercial (Lei 8.934/94 Art. 40): examina a legalidade formal dos documentos, não o mérito. O ato registrado tem presunção relativa de validade. Gabarito A: a Junta Comercial deve registrar o ato constitutivo que cumpra os requisitos legais formais, sem examinar o mérito das disposições — a validade material pode ser questionada judicialmente.</p>"
   },
   {
     "num": 50,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_empresario_sociedades",
     "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.142-A (estabelecimento virtual — Lei 14.382/22):</strong> desde 2022, o endereço virtual é permitido como local de exercício da atividade. <strong>CC Art. 1.142:</strong> estabelecimento é o conjunto de bens organizados pelo empresário para exercício da empresa. Estabelecimento virtual: possível para determinadas atividades.</p>",
+    "dica": "<p>Estabelecimento virtual (CC Art. 1.142-A, incluído pela Lei 14.382/22): a empresa pode ter endereço virtual como sede, dispensando espaço físico para certas atividades. Gabarito C: a partir de 2022, o empresário pode ter estabelecimento exclusivamente virtual, conforme a Lei 14.382/22 que incluiu o Art. 1.142-A no CC.</p>"
   },
   {
     "num": 50,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_empresario_sociedades",
     "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05 (LREF), Art. 6º, §4º:</strong> deferido o processamento da recuperação judicial: suspensão das ações e execuções por 180 dias (stay period). <strong>Art. 49:</strong> sujeitos à recuperação judicial: créditos existentes na data do pedido. Credores anteriores ao pedido: submetem-se ao processo. Drogaria Ponto dos Volantes: credores habilitam seus créditos no processo.</p>",
+    "dica": "<p>Stay period (LREF Art. 6º, §4º): após o deferimento do processamento da RJ, suspensão de 180 dias de ações e execuções contra o devedor. Credores anteriores ao pedido: submetidos ao processo de RJ (Art. 49). Gabarito D: com o deferimento do processamento da RJ, os credores da Drogaria têm suas ações individuais suspensas por 180 dias e devem habilitar seus créditos no processo.</p>"
   },
   {
     "num": 47,
@@ -92,6 +116,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_empresario_sociedades",
     "modulo_nome": "Teoria Geral da Empresa e Sociedades Personificadas",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 45:</strong> aprovação do plano de recuperação judicial na Assembleia de Credores: quóruns por classe. <strong>Art. 41:</strong> classes de credores: I (trabalhistas/acidentários), II (com garantia real), III (quirografários/privilégios especiais), IV (ME/EPP). <strong>Art. 42:</strong> aprovação por maioria dos credores presentes.</p>",
+    "dica": "<p>Aprovação do plano de RJ (LREF Art. 45): por classe (quórum duplo: maioria dos credores + maioria do valor dos créditos da classe). Cram down (Art. 58, §1º): plano pode ser aprovado pelo juiz mesmo sem aprovação de todas as classes se cumpridos os requisitos. Gabarito B: a Assembleia de Credores aprova o plano por votação em classes; o juiz pode aprovar o plano pelo cram down se uma classe rejeitar, mas os requisitos do Art. 58, §1º forem cumpridos.</p>"
   }
 ]

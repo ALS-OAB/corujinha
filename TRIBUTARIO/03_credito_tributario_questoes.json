@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_credito_tributario",
     "modulo_nome": "Lançamento, Crédito Tributário, Suspensão e Extinção",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 135, III:</strong> sócios gerentes respondem pessoalmente pelos créditos tributários decorrentes de atos praticados com excesso de poderes ou infração de lei. <strong>Art. 134, VII:</strong> sócios de sociedade de pessoas são solidariamente responsáveis, nos atos em que intervierem. Dissolução irregular da empresa = infração de lei = sócio-gerente responde.</p>",
+    "dica": "<p>Responsabilidade pessoal do sócio-gerente (CTN Art. 135, III): por atos com excesso de poder ou infração de lei/contrato. Dissolução irregular da empresa = o sócio-gerente que praticou o ato responde pessoalmente. Gabarito B: João responde pessoalmente pelos débitos tributários da empresa se tiver praticado atos com excesso de poderes ou infração de lei/contrato social.</p>"
   },
   {
     "num": 25,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "03_credito_tributario",
     "modulo_nome": "Lançamento, Crédito Tributário, Suspensão e Extinção",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 130:</strong> \"Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis [...] sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.\" IPTU do imóvel herdado: João e José adquirem o imóvel por herança. Sub-rogação do crédito tributário.</p>",
+    "dica": "<p>Sub-rogação tributária na aquisição de imóvel (CTN Art. 130): adquirente assume os débitos de IPTU, ITR etc. do imóvel adquirido, salvo prova de quitação. Por herança: mesma regra — herdeiros respondem pelos débitos do imóvel herdado até o valor do monte. Gabarito C: João e José, como herdeiros do imóvel, são responsáveis pelos créditos tributários de IPTU referentes ao imóvel — sub-rogação na aquisição.</p>"
   },
   {
     "num": 28,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_credito_tributario",
     "modulo_nome": "Lançamento, Crédito Tributário, Suspensão e Extinção",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 154, II:</strong> \"A União pode instituir [...] na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária, suprimidos gradativamente, cessadas as causas de sua criação.\" Imposto extraordinário de guerra: pode ser criado por lei ordinária; não está sujeito à anterioridade; suprimido após o fim da guerra.</p>",
+    "dica": "<p>Imposto extraordinário de guerra (CF Art. 154, II): só a União pode criar; por lei ordinária; sem anterioridade; suprimido gradualmente após o fim da guerra. Pode incidir sobre fato gerador de impostos estaduais ou municipais. Gabarito D: a União pode instituir imposto extraordinário de guerra por lei ordinária, sem anterioridade, compreendendo fatos geradores de impostos estaduais/municipais.</p>"
   },
   {
     "num": 26,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_credito_tributario",
     "modulo_nome": "Lançamento, Crédito Tributário, Suspensão e Extinção",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 111:</strong> interpreta-se literalmente a legislação tributária que disponha sobre outorga de isenção. <strong>CTN, Art. 176:</strong> isenção decorre de lei. Isenção de IPVA para PcD: somente pode ser aproveitada pelo beneficiário que preencha os requisitos legais. João com deficiência física: deve comprovar os requisitos da lei estadual.</p>",
+    "dica": "<p>Isenção tributária (CTN Art. 111, II): interpreta-se literalmente. Isenção de IPVA para PcD: válida se lei estadual a concedeu (CF Art. 150 + CF Art. 150, §6º exige lei específica para isenção). Gabarito C: João tem direito à isenção de IPVA se a Lei nº XXX do Estado Alfa estabelece a isenção e ele preenche os requisitos de deficiência física — a isenção deve ser interpretada literalmente.</p>"
   },
   {
     "num": 29,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_credito_tributario",
     "modulo_nome": "Lançamento, Crédito Tributário, Suspensão e Extinção",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 138:</strong> denúncia espontânea: \"A responsabilidade é excluída pela denúncia espontânea da infração [...] acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa.\" Excluída: multa de mora. Não excluída: tributo + juros.</p>",
+    "dica": "<p>Denúncia espontânea (CTN Art. 138): exclui a multa de mora (e as sanções) se feita antes de qualquer procedimento administrativo + pagamento do tributo + juros. Não exclui: tributo + juros de mora. Gabarito A: a ABC Ltda. pode se beneficiar da denúncia espontânea, pagando o tributo + juros — excluindo a multa, desde que não haja ainda procedimento fiscalizatório.</p>"
   },
   {
     "num": 27,
@@ -111,6 +141,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_credito_tributario",
     "modulo_nome": "Lançamento, Crédito Tributário, Suspensão e Extinção",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 155, §1º, III (ITCMD):</strong> se o doador/de cujus tiver domicílio ou residência no exterior, cabe à lei complementar regulamentar o ITCMD. Ausência de LC: os Estados não podem cobrar o ITCMD nessa situação (STF — ADI). ITCMD sobre herança com de cujus no exterior: aguardar lei complementar federal.</p>",
+    "dica": "<p>ITCMD com de cujus no exterior (CF Art. 155, §1º, III, a/b): exige regulamentação por lei complementar federal. Sem LC federal: STF declarou inconstitucional a cobrança estadual (ADI 309, ADI 8092). Gabarito B: o Estado Alfa não pode cobrar ITCMD sobre herança do de cujus domiciliado no exterior sem lei complementar federal que o autorize.</p>"
   }
 ]

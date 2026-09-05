@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "03_elegibilidade_inelegibilidades",
     "modulo_nome": "Elegibilidade e Inelegibilidades (LC nº 64/90)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 6º:</strong> nas eleições proporcionais, a coligação apresenta lista única de candidatos. <strong>TSE:</strong> nas eleições majoritárias, cada partido/coligação apresenta chapa (candidato titular + vice). Alfa, Beta e Gama coligados para eleição majoritária municipal: apresentam candidato e vice conjuntos.</p>",
+    "dica": "<p>Coligação para eleição majoritária municipal (Lei 9.504/97 Art. 6º): partidos se unem para apresentar chapa única (prefeito + vice-prefeito). Gabarito A: a coligação deve apresentar candidato ao cargo principal e candidato a vice em chapa conjunta, com denominação própria da coligação.</p>"
   },
   {
     "num": 19,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_elegibilidade_inelegibilidades",
     "modulo_nome": "Elegibilidade e Inelegibilidades (LC nº 64/90)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 41-A:</strong> captação ilícita de sufrágio. <strong>LC 64/90, Art. 22:</strong> investigação judicial eleitoral (AIJE) por abuso de poder. Maria, candidata a governadora, obteve prova de captação ilícita de sufrágio contra adversário: pode representar à Justiça Eleitoral.</p>",
+    "dica": "<p>Captação ilícita de sufrágio (Lei 9.504/97 Art. 41-A): promessa de vantagem em troca de voto. Sanção: cassação do registro/diploma + multa. Gabarito D: Maria deve representar à Justiça Eleitoral contra o adversário que pratica captação ilícita de sufrágio — remédio cabível: representação por captação ilícita + eventual AIJE.</p>"
   }
 ]

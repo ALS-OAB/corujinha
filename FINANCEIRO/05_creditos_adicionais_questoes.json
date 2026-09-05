@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_creditos_adicionais",
     "modulo_nome": "Créditos Adicionais (Suplementares, Especiais, Extraordinários)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 66 + Art. 35 ADCT, §2º, III:</strong> se o Presidente não enviar o PLOA até 31/08: configura crime de responsabilidade (LRF). <strong>CF Art. 166, §8º:</strong> \"Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados [...] mediante créditos especiais ou suplementares.\" Inércia total: prorrogação do orçamento anterior.</p>",
+    "dica": "<p>Presidente que não envia PLOA: crime de responsabilidade (Lei 1.079/50 Art. 10, item 6). Congresso pode elaborar o orçamento por conta própria (iniciativa subsidiária). Gabarito A: sem o envio do PLOA pelo Presidente, o Congresso pode elaborar a LOA por iniciativa própria com base nas metas do PPA e da LDO.</p>"
   },
   {
     "num": 23,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_creditos_adicionais",
     "modulo_nome": "Créditos Adicionais (Suplementares, Especiais, Extraordinários)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 165, §8º:</strong> \"A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa [...].\" <strong>Princípio da exclusividade:</strong> a LOA não pode ter cavaleiros (riders). <strong>Exceção:</strong> autorização para abertura de créditos suplementares e contratação de operações de crédito. Projeto da LOA com matéria estranha = inconstitucional.</p>",
+    "dica": "<p>Princípio da exclusividade orçamentária (CF Art. 165, §8º): LOA não pode conter matéria estranha (salvo créditos suplementares e operações de crédito). PLOA com dispositivo sobre organização administrativa = \"cavaleiro\" = inconstitucional. Gabarito B: o PLOA que inclui dispositivos sobre organização da administração viola o princípio da exclusividade orçamentária.</p>"
   }
 ]

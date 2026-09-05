@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_reforma_ec103",
     "modulo_nome": "Regras de Transição da Reforma Previdenciária (EC nº 103/19)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>EC 103/19, Art. 9º (regras de transição) + Lei 8.213/91, Art. 9-A:</strong> servidor público que migra do RPPS para o RGPS durante a carreira: conta o tempo anterior para fins de carência no RGPS. <strong>Lei 9.717/98:</strong> RPPS e RGPS são regimes distintos. Humberto, advogado autônomo (RGPS) → AGU (RPPS): mudança de regime.</p>",
+    "dica": "<p>Mudança do RGPS para o RPPS: o tempo de contribuição no RGPS conta para fins de aposentadoria no RPPS (compensação financeira — LC 9.796/99). Gabarito D: Humberto pode computar o tempo de contribuição como advogado autônomo (RGPS) para fins de aposentadoria no RPPS da AGU, mediante compensação financeira entre os regimes.</p>"
   },
   {
     "num": 69,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "07_reforma_ec103",
     "modulo_nome": "Regras de Transição da Reforma Previdenciária (EC nº 103/19)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 72, §1º:</strong> \"O salário-maternidade para a segurada desempregada será concedido a partir da data do parto ou da adoção.\" <strong>Art. 71, §5º:</strong> demissão sem justa causa durante gravidez: mantém o salário-maternidade. Joana demitida: se a demissão ocorreu durante a gravidez sem justa causa, tem direito ao salário-maternidade mesmo desempregada.</p>",
+    "dica": "<p>Salário-maternidade de segurada demitida sem justa causa (Lei 8.213/91 Art. 72, §1º): pago pelo INSS a partir do parto. Gabarito A: Joana tem direito ao salário-maternidade pelo INSS, pois foi demitida sem justa causa durante a gravidez — o benefício é pago desde o parto pelo INSS diretamente.</p>"
   }
 ]

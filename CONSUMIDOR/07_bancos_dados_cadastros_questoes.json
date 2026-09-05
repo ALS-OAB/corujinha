@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_bancos_dados_cadastros",
     "modulo_nome": "Bancos de Dados, Cadastros de Consumidores e SPC/Serasa",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 43, §3º:</strong> \"O consumidor, sempre que encontrar inexatidão nos seus dados e cadastros, poderá exigir sua imediata correção, devendo o arquivista, no prazo de cinco dias úteis, comunicar a alteração aos eventuais destinatários das informações incorretas.\" Magda tem direito à informação e retificação de dados cadastrais.</p>",
+    "dica": "<p>Direito de retificação de dados (CDC Art. 43): consumidora pode exigir correção de dados inexatos em cadastro em 5 dias úteis. Gabarito C: Magda pode exigir a imediata correção dos dados inexatos em seu cadastro e o fornecedor tem 5 dias para comunicar a correção.</p>"
   },
   {
     "num": 45,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "07_bancos_dados_cadastros",
     "modulo_nome": "Bancos de Dados, Cadastros de Consumidores e SPC/Serasa",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 54:</strong> contrato de adesão — o consumidor não negocia cláusulas. <strong>Art. 46:</strong> \"Os contratos que regulam as relações de consumo [...] obrigarão o consumidor, exceto aqueles que não lhe der oportunidade de tomar conhecimento prévio de seu conteúdo.\" Cláusula de releitura obrigatória em contrato de adesão com fornecedora de água/esgoto: consumidor pode questionar.</p>",
+    "dica": "<p>Contrato de adesão com concessionária de serviço público: consumidor sujeito ao CDC. Cláusulas não permitidas ao consumidor conhecer previamente = não o obrigam (CDC Art. 46). Gabarito B: Augusto pode questionar as cláusulas que não teve oportunidade de conhecer previamente, sendo abusiva a que lhe causa desvantagem exagerada.</p>"
   }
 ]

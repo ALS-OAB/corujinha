@@ -1087,14 +1087,14 @@ def build_module(prefix, title, out_filename):
 
 if __name__ == '__main__':
     modulos = [
-        ("01_conceitos_fundamentais", "Conceitos de Consumidor e Fornecedor", "Cons_01_ConceitosFundamentais_Premium.html"),
-        ("02_principios_direitos", "Princípios e Direitos Básicos", "Cons_02_PrincipiosDireitosBasicos_Premium.html"),
+        ("01_relacao_consumo", "Relação de Consumo", "Cons_01_ConceitosFundamentais_Premium.html"),
+        ("02_direitos_basicos", "Direitos Básicos do Consumidor", "Cons_02_PrincipiosDireitosBasicos_Premium.html"),
         ("03_fato_vicio_produto", "Responsabilidade pelo Fato e Vício", "Cons_03_FatoEVicioProduto_Premium.html"),
-        ("04_praticas_comerciais", "Práticas Comerciais e Publicidade Enganosa", "Cons_04_PraticasComerciaisPublicidade_Premium.html"),
-        ("05_clausulas_abusivas", "Cláusulas Abusivas e Contratos", "Cons_05_ClausulasAbusivas_Premium.html"),
-        ("06_bancos_dados", "Cadastros de Inadimplentes e Superendividamento", "Cons_06_BancosDadosSuperendividamento_Premium.html"),
-        ("07_defesa_juizo", "Defesa em Juízo e Ações Coletivas", "Cons_07_DefesaEmJuizoAcoesColetivas_Premium.html"),
-        ("08_sancoes_crimes", "Sanções Administrativas e Crimes de Consumo", "Cons_08_SancoesCrimesConsumo_Premium.html"),
+        ("04_praticas_comerciais", "Práticas Comerciais e Publicidade", "Cons_04_PraticasComerciaisPublicidade_Premium.html"),
+        ("05_protecao_contratual", "Proteção Contratual do Consumidor", "Cons_05_ClausulasAbusivas_Premium.html"),
+        ("06_superendividamento", "Superendividamento", "Cons_06_BancosDadosSuperendividamento_Premium.html"),
+        ("07_bancos_dados_cadastros", "Bancos de Dados e Cadastros", "Cons_07_DefesaEmJuizoAcoesColetivas_Premium.html"),
+        ("08_defesa_coletiva", "Defesa Coletiva do Consumidor", "Cons_08_SancoesCrimesConsumo_Premium.html"),
     ]
     
     print("🚀 Compilando o ecossistema de Direito do Consumidor · CDC (Lei nº 8.078/1990)...")

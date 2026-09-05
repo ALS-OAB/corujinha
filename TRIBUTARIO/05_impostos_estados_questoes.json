@@ -17,7 +17,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_impostos_estados",
     "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.784/99 (Processo Administrativo Federal) + CTN Art. 151, III:</strong> recurso administrativo suspende a exigibilidade do crédito tributário. Auto de infração da Secretaria da Fazenda: ABCJ Ltda. tem direito de impugnar administrativamente. Processo administrativo tributário: prazo de impugnação de 30 dias (regulamentos estaduais).</p>",
+    "dica": "<p>Suspensão da exigibilidade do crédito tributário (CTN Art. 151, III): recurso administrativo suspende a exigibilidade enquanto pendente. Gabarito C: ao receber o auto de infração, a ABCJ deve apresentar impugnação administrativa no prazo legal — enquanto pendente o recurso, o crédito tributário é inexigível (sem protesto, inscrição em dívida ativa etc.).</p>"
   },
   {
     "num": 27,
@@ -37,7 +43,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_impostos_estados",
     "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 96 + CF Art. 149:</strong> contribuição sindical: antes tributo, agora facultativa (Lei 13.467/17). Criação de sindicato: Lei 9.615/98 + CLT Art. 511. Unicidade sindical (CF Art. 8º, II): proibida a criação de mais de um sindicato da mesma categoria na mesma base territorial. Empresários têxteis criando sindicato patronal: contribuição sindical = facultativa.</p>",
+    "dica": "<p>Contribuição sindical patronal: facultativa após a Reforma Trabalhista (CLT Art. 578, redação Lei 13.467/17). Unicidade sindical (CF Art. 8º, II): não pode haver mais de um sindicato da mesma categoria na mesma base territorial. Gabarito A: o sindicato patronal dos empresários têxteis pode ser criado, mas a contribuição sindical é facultativa — necessária autorização expressa de cada empresa.</p>"
   },
   {
     "num": 25,
@@ -56,7 +68,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "05_impostos_estados",
     "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 77 (taxa):</strong> \"As taxas cobradas pela União, pelos Estados, pelo DF ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o exercício do poder de polícia ou a utilização, efetiva ou potencial, de serviço público específico e divisível.\" Taxa de Fiscalização de Semáforos: exercício do poder de polícia? STF — taxa de fiscalização de serviço não prestado = inconstitucional.</p>",
+    "dica": "<p>Taxa de polícia (CF Art. 145, II + CTN Art. 78): válida se há efetivo exercício do poder de polícia. Não pode ter base de cálculo própria de imposto. Gabarito D: a taxa municipal de fiscalização de semáforos só é constitucional se houver efetivo exercício do poder de polícia (fiscalização real) — se cobrada sem atividade fiscalizatória efetiva, é inconstitucional.</p>"
   },
   {
     "num": 28,
@@ -75,7 +93,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "05_impostos_estados",
     "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 130 (sub-rogação) + Lei 9.611/98:</strong> mercadoria abandonada no porto: o fisco pode cobrar os tributos de importação. <strong>CTN, Art. 134, VI:</strong> tabeliães e escrivães são responsáveis pelos tributos devidos pelos atos praticados perante eles. Carga abandonada: ITI/II — responsabilidade do importador. Fisco pode executar o proprietário da carga.</p>",
+    "dica": "<p>Mercadoria abandonada em porto: tributos de importação (II, IPI, ICMS-importação) continuam devidos pelo importador. O abandono não extingue a obrigação tributária. Gabarito A: a Fazenda Federal pode cobrar o Imposto de Importação e demais tributos de Importação 100% Ltda., responsável pela carga abandonada no porto.</p>"
   },
   {
     "num": 26,
@@ -94,7 +118,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_impostos_estados",
     "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, VI, b (imunidade religiosa):</strong> \"É vedado [...] instituir impostos sobre: [...] templos de qualquer culto.\" <strong>Extensão da imunidade:</strong> somente ao imóvel onde se realizam os cultos? STF: imunidade abrange também o imóvel destinado à atividade religiosa (casa paroquial, seminário). Imóvel em que se realizam os cultos: imune.</p>",
+    "dica": "<p>Imunidade religiosa (CF Art. 150, VI, b): abrange templos e bens vinculados às atividades religiosas. STF: imunidade se estende ao imóvel desde que relacionado à finalidade religiosa (STF RE 578.562 — Súmula 724 STF). Gabarito C: a entidade ABC tem imunidade de IPTU sobre o imóvel onde realiza cultos — mas imóvel alugado para fins não religiosos pode perder a imunidade.</p>"
   },
   {
     "num": 29,
@@ -113,6 +143,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "05_impostos_estados",
     "modulo_nome": "Impostos dos Estados e Municípios (ICMS, IPVA, ITCMD, IPTU, ISS)",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 156, III + LC 116/03 (ISS):</strong> ISS — competência dos Municípios. <strong>LC 116/03, Art. 3º:</strong> o ISS é devido no Município do estabelecimento do prestador ou, nas exceções, no local da prestação. <strong>Lista de serviços:</strong> serviços sujeitos ao ISS são os da lista da LC 116/03. Município que quer tributar serviços com ISS: deve verificar a lista.</p>",
+    "dica": "<p>ISS (CF Art. 156, III + LC 116/03): competência municipal. Fato gerador: prestação de serviços da lista da LC 116/03. Local do ISS: estabelecimento do prestador (regra geral); exceções do Art. 3º: local da prestação. Gabarito D: para ampliar a arrecadação via ISS, o Município só pode tributar os serviços incluídos na lista da LC 116/03 — sem lista, sem ISS.</p>"
   }
 ]

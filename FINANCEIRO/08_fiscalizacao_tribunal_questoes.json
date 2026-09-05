@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_fiscalizacao_tribunal",
     "modulo_nome": "Fiscalização Financeira e Tribunal de Contas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 165, §2º:</strong> \"A lei de diretrizes orçamentárias compreenderá as metas e prioridades da administração pública federal, incluindo as despesas de capital para o exercício financeiro subsequente.\" LDO: prazo de envio = até 15/04 (CF Art. 35 ADCT, §2º, II). O Presidente deve enviar o PLDO ao Congresso até o dia 15/04 do exercício.</p>",
+    "dica": "<p>PLDO: prazo de envio ao Congresso = 15 de abril de cada ano (CF Art. 35 ADCT, §2º, II). Devolução sem votação até 30/06: sessão do Congresso não pode encerrar o 1º período sem votar o PLDO. Gabarito C: o Presidente deve enviar o PLDO até 15/04 — a LDO que não for votada impede o encerramento da sessão legislativa do 1º semestre.</p>"
   },
   {
     "num": 24,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_fiscalizacao_tribunal",
     "modulo_nome": "Fiscalização Financeira e Tribunal de Contas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LRF, Art. 9º:</strong> \"Se verificado, ao final de um bimestre, que a realização da receita poderá não comportar o cumprimento das metas de resultado primário ou nominal estabelecidas no Anexo de Metas Fiscais, os Poderes e o Ministério Público promoverão, por ato próprio e nos montantes necessários, nos trinta dias subsequentes, limitação de empenho e movimentação financeira.\" Contingenciamento.</p>",
+    "dica": "<p>Contingenciamento (LRF Art. 9º): se receita ficar abaixo do previsto ao final de bimestre: obrigação de limitar empenho e movimentação financeira nos 30 dias seguintes. Gabarito D: o Estado Alfa deve contingenciar (limitar empenhos) para adequar as despesas à receita efetivamente realizada, preservando as metas fiscais da LDO.</p>"
   }
 ]

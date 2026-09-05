@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_conceito_direito_hart",
     "modulo_nome": "O Conceito de Direito (H.L.A. Hart)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Codificação napoleônica e positivismo:</strong> \"O Código Civil de Napoleão representou grande expectativa...\" — o Código de 1804 concretizou o ideal iluminista de sistematizar o direito em leis claras e racionais. O positivismo jurídico do séc. XIX confiava que a codificação esgotaria o direito. A crise das lacunas (Gény, Savigny) mostrou os limites desse modelo.</p>",
+    "dica": "<p>Codificação e positivismo legalista: o Código de Napoleão = símbolo do positivismo legalista. Crítica (Savigny, Escola Histórica): o direito não é produto racional abstrato, mas da cultura de um povo (Volksgeist). Gabarito D: o fragmento critica o positivismo legalista excessivo da Escola da Exegese que via no Código a expressão completa do direito.</p>"
   },
   {
     "num": 10,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_conceito_direito_hart",
     "modulo_nome": "O Conceito de Direito (H.L.A. Hart)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Kant — Fundamentação da Metafísica dos Costumes:</strong> cada indivíduo, como ser racional, é um fim em si mesmo — fundamento da <strong>dignidade humana</strong>. Imperativo prático: \"Age de tal maneira que trates a humanidade, tanto na tua pessoa como na de qualquer outro, sempre como um fim e nunca meramente como um meio.\" CF/88, Art. 1º, III: dignidade da pessoa humana.</p>",
+    "dica": "<p>Kant — dignidade como valor absoluto: todo ser racional é fim em si mesmo, nunca mero meio. Imperativo categórico: universalidade + dignidade. Gabarito D: a afirmativa que melhor representa Kant é a que funda a dignidade na autonomia racional — o ser humano não tem preço, tem dignidade.</p>"
   }
 ]

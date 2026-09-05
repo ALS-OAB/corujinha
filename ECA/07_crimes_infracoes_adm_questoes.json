@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_crimes_infracoes_adm",
     "modulo_nome": "Crimes e Infrações Administrativas contra a Criança",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 112:</strong> medidas socioeducativas. <strong>Art. 122, I:</strong> internação por violência/grave ameaça. Rafael, 16 anos, invadiu loja e usou arma de fogo (roubo qualificado): violência + grave ameaça + uso de arma. Internação: cabível e proporcional. <strong>Art. 121, §3º:</strong> limite de 3 anos.</p>",
+    "dica": "<p>Roubo qualificado com arma de fogo por adolescente: internação cabível (ECA Art. 122, I). Circunstâncias agravantes (uso de arma): considerar na dosimetria da medida. Gabarito C: Rafael pode ser internado — o ato com uso de arma de fogo é grave e a internação é proporcional.</p>"
   },
   {
     "num": 44,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_crimes_infracoes_adm",
     "modulo_nome": "Crimes e Infrações Administrativas contra a Criança",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 27:</strong> \"O reconhecimento do estado de filiação é direito personalíssimo, indisponível e imprescritível, podendo ser exercitado contra os pais ou seus herdeiros, sem qualquer restrição, observado o segredo de Justiça.\" Ricardo (13 anos), não registrado pelo pai: tem direito à busca de reconhecimento de paternidade a qualquer tempo.</p>",
+    "dica": "<p>Reconhecimento de paternidade (ECA Art. 27 + CC Art. 1.606): direito indisponível e imprescritível do filho. Pode ser buscado a qualquer tempo. Gabarito A: Ricardo tem direito ao reconhecimento de paternidade, podendo acionar o pai biológico judicialmente para investigação de paternidade + registro.</p>"
   }
 ]

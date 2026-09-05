@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_pensao_morte_auxilios",
     "modulo_nome": "Pensão por Morte, Auxílio-Reclusão e Salário-Família",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 78 (auxílio-reclusão):</strong> Manoel, preso em regime fechado em 01/01/2022: benefício para dependentes se for segurado de baixa renda. <strong>Art. 78, §2º:</strong> com saída temporária ou em regime semiaberto: suspende-se o benefício. Esposa de Manoel: dependente de Classe I — tem direito ao auxílio-reclusão enquanto ele estiver preso.</p>",
+    "dica": "<p>Auxílio-reclusão (Lei 8.213/91 Art. 78): pago aos dependentes do segurado de baixa renda preso em regime fechado. Suspensão: se houver saída temporária (regime semiaberto/aberto). Gabarito A: a esposa de Manoel tem direito ao auxílio-reclusão enquanto ele estiver preso em regime fechado e cumpridos os requisitos de baixa renda.</p>"
   },
   {
     "num": 70,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_pensao_morte_auxilios",
     "modulo_nome": "Pensão por Morte, Auxílio-Reclusão e Salário-Família",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 11, V, h (contribuinte individual):</strong> eletricista autônomo prestando serviço a pessoa física: segurado como contribuinte individual. <strong>Art. 21, II:</strong> acidente equiparado ao do trabalho: acidente que, ligado ao trabalho, seja causa imediata ou contributória da incapacidade. Prestando serviço para empresa: a empresa deve reter e recolher contribuição (20%).</p>",
+    "dica": "<p>Contribuinte individual que presta serviço a pessoas físicas (Lei 8.213/91 Art. 11, V, h): contribuição de 20% sobre remuneração recebida. Acidente durante a atividade: benefício por incapacidade temporária a partir do 1º dia após o acidente (sem os 15 dias de carência do empregado). Gabarito A: Humberto, como contribuinte individual, tem direito ao auxílio por incapacidade temporária desde o 1º dia de afastamento após o acidente.</p>"
   }
 ]

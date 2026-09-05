@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "07_administracao_tributaria",
     "modulo_nome": "Fiscalização, Certidões e Dívida Ativa",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 153, I (Imposto de Importação — II) + Art. 153, IV (IPI):</strong> perfume francês importado: incide II (alíquota ad valorem) + IPI na importação. <strong>CF Art. 155, §2º, IX, a (ICMS-importação):</strong> ICMS incide na importação. <strong>CF Art. 149-A:</strong> não incide COSIP na importação. Cumulação de tributos na importação: II + IPI + ICMS + PIS/COFINS-importação.</p>",
+    "dica": "<p>Importação de perfumes: II + IPI + ICMS-importação + PIS/COFINS-importação + IOF (se houver operação de câmbio). Gabarito D: a ABC Ltda. deve recolher todos os tributos incidentes sobre a importação: II, IPI, ICMS-importação, PIS/COFINS-importação — a ausência de qualquer deles configura sonegação/descaminho.</p>"
   },
   {
     "num": 29,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_administracao_tributaria",
     "modulo_nome": "Fiscalização, Certidões e Dívida Ativa",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 174:</strong> prescrição tributária = 5 anos. <strong>Interrupção (parágrafo único, I):</strong> pela citação pessoal feita ao devedor. <strong>Art. 174, parágrafo único, II:</strong> pelo protesto judicial. <strong>Art. 151:</strong> suspendem a exigibilidade: moratória, depósito, impugnação, recurso, liminar, tutela antecipada. João notificado em 05/05/2022: prazo para impugnação ou pagamento.</p>",
+    "dica": "<p>Auto de infração de IPVA notificado em 05/05/2022: João tem 30 dias para impugnar. Se impugnar: suspende a exigibilidade (CTN Art. 151, III). Prescrição começa após o lançamento definitivo. Gabarito C: João deve impugnar administrativamente no prazo de 30 dias, o que suspende a exigibilidade e evita a inscrição em dívida ativa enquanto pendente o recurso.</p>"
   },
   {
     "num": 27,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_administracao_tributaria",
     "modulo_nome": "Fiscalização, Certidões e Dívida Ativa",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, VI, b (imunidade religiosa):</strong> imunidade de impostos sobre templos de qualquer culto. <strong>Extensão (STF RE 578.562 e Súmula 724):</strong> imunidade se estende aos bens relacionados com a finalidade religiosa. Imóveis alugados com renda revertida para a atividade religiosa: imunes. Organização Religiosa ABC que recebe lojas para alugar: renda do aluguel → atividade religiosa → imune.</p>",
+    "dica": "<p>Imunidade religiosa de imóvel alugado (STF Súmula 724 e RE 325.822): se a renda for revertida para as finalidades da entidade religiosa, o imóvel alugado é imune ao IPTU e a renda à tributação. Gabarito D: a renda dos aluguéis das lojas doadas à Organização Religiosa ABC é imune ao IRPJ e ao IPTU sobre os imóveis, desde que a renda seja integralmente revertida para a atividade religiosa.</p>"
   },
   {
     "num": 25,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_administracao_tributaria",
     "modulo_nome": "Fiscalização, Certidões e Dívida Ativa",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 197:</strong> obrigação de prestar informações à autoridade tributária: não viola o sigilo profissional de médicos, advogados (art. 197, parágrafo único). <strong>CF Art. 5º, XIV:</strong> sigilo profissional protegido. <strong>CTN Art. 195:</strong> \"Para os efeitos da legislação tributária, não têm aplicação quaisquer disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos [...] dos comerciantes.\" Profissional liberal tem limites.</p>",
+    "dica": "<p>Sigilo profissional vs. obrigação tributária (CTN Art. 197, parágrafo único): o sigilo do advogado/médico prevalece sobre a obrigação de informar dados ao Fisco — não podem ser obrigados a fornecer informações protegidas pelo sigilo profissional. Gabarito C: João da Silva, profissional liberal, não está obrigado a revelar informações protegidas pelo sigilo profissional, mesmo que notificado pela Receita Federal.</p>"
   },
   {
     "num": 28,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_administracao_tributaria",
     "modulo_nome": "Fiscalização, Certidões e Dívida Ativa",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 151, III:</strong> recurso administrativo suspende a exigibilidade do crédito tributário. José notificado de lançamento tributário: deve apresentar impugnação/recurso administrativo no prazo legal para suspender a exigibilidade. Enquanto suspensa: não há inscrição em dívida ativa nem ajuizamento de execução fiscal.</p>",
+    "dica": "<p>Recurso administrativo fiscal (CTN Art. 151, III): suspende a exigibilidade do crédito enquanto pendente. Gabarito B: José deve apresentar recurso administrativo tempestivamente — enquanto pendente o julgamento, o crédito é inexigível (sem inscrição em DA, sem execução fiscal, sem protesto).</p>"
   },
   {
     "num": 26,
@@ -111,6 +141,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_administracao_tributaria",
     "modulo_nome": "Fiscalização, Certidões e Dívida Ativa",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 156 (extinção do crédito tributário):</strong> \"Extinguem o crédito tributário: [...] IV — prescrição e decadência; [...] XI — a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.\" Mateus deve valores elevados: pode requerer: parcelamento (CTN 151), compensação (CTN 170), dação em pagamento de bens imóveis.</p>",
+    "dica": "<p>Extinção do crédito tributário por dação em pagamento de bens imóveis (CTN Art. 156, XI): possível se houver lei específica do ente tributante que a autorize. Gabarito D: se houver lei federal que autorize, Mateus pode oferecer bens imóveis em dação em pagamento para extinguir o crédito tributário federal.</p>"
   }
 ]

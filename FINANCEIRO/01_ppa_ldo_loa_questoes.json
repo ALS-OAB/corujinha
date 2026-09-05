@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_ppa_ldo_loa",
     "modulo_nome": "Planejamento Orçamentário: PPA, LDO e LOA",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 165, I:</strong> \"Leis de iniciativa do Poder Executivo estabelecerão: I — o plano plurianual.\" O PPA \"estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.\" Prazo: 4 anos (vige do 2º ano do mandato ao 1º do mandato seguinte).</p>",
+    "dica": "<p>PPA (CF Art. 165, I): plano plurianual, iniciativa do Executivo, 4 anos de vigência. Estabelece diretrizes/objetivos/metas de forma <strong>regionalizada</strong>. Gabarito D: o projeto descrito é o PPA — plano plurianual que estabelece de forma regionalizada as diretrizes, objetivos e metas da administração.</p>"
   },
   {
     "num": 23,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_ppa_ldo_loa",
     "modulo_nome": "Planejamento Orçamentário: PPA, LDO e LOA",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 35, §2º, I (ADCT):</strong> o Município deve enviar o PPA até 31/08/2021 (no 1º mandato do Prefeito). <strong>Art. 165, §5º:</strong> \"A lei orçamentária anual compreenderá: [...] II — o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto.\" Emendas parlamentares ao PLOA: sujeitas à CF Art. 166.</p>",
+    "dica": "<p>Emendas ao PLOA pelo Poder Legislativo: possíveis, desde que compatíveis com o PPA e a LDO e indicada a fonte de recursos (CF Art. 166, §3º). Gabarito C: a Câmara Municipal pode emendar o PLOA do prefeito, desde que respeitados os limites constitucionais (compatibilidade com PPA e LDO + indicação de fonte de recursos).</p>"
   },
   {
     "num": 23,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_ppa_ldo_loa",
     "modulo_nome": "Planejamento Orçamentário: PPA, LDO e LOA",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 169:</strong> a despesa com pessoal ativo e inativo não pode exceder os limites estabelecidos em lei complementar (LRF). <strong>Art. 7º LRF:</strong> vedado pagar remuneração de servidor com receita de operação de crédito. <strong>LRF, Art. 44:</strong> vedada a aplicação de receita de capital em despesa corrente (como salários), salvo exceções.</p>",
+    "dica": "<p>Vedação de aplicação de receitas de capital em despesas correntes (LRF Art. 44): a contratação de operação de crédito para pagar salários de servidores é vedada. Gabarito A: o Município Alfa não pode contratar operação de crédito para pagar remuneração dos servidores — isso viola a LRF (Art. 44).</p>"
   }
 ]

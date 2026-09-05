@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_propriedade_intelectual",
     "modulo_nome": "Propriedade Intelectual e Marcas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.052, §2º:</strong> \"O número de sócios não pode ser inferior a dois.\" LTDA com 2 sócios + um transfere sua quota: se fica com 1 sócio, tem 180 dias para incorporar sócio ou transformar em LTDA unipessoal (CC Art. 1.033, IV + Lei 13.874/19). Cambira e Mallet compraram 1 quota cada de Imbaú LTDA: como ficam as cotas?</p>",
+    "dica": "<p>LTDA unipessoal (CC Art. 1.052, §1º): pode ter apenas 1 sócio. Se LTDA regular perde sócios e fica com 1: pode ser transformada em LTDA unipessoal. Gabarito B: Cambira e Mallet, ao comprar quotas da Imbaú LTDA, tornam-se sócios com todos os direitos e obrigações — a transferência de quotas deve ser averbada no contrato social e registrada na Junta Comercial.</p>"
   },
   {
     "num": 49,
@@ -35,7 +41,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_propriedade_intelectual",
     "modulo_nome": "Propriedade Intelectual e Marcas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 966 + Art. 982:</strong> entrega de produtos por pessoas naturais: se explorada economicamente de forma organizada = atividade empresária. Quatro pessoas constituíram sociedade para entrega domiciliar: verifica-se se é atividade simples ou empresária. Serviço de entrega organizado = atividade empresária (empresa) = sociedade empresária.</p>",
+    "dica": "<p>Serviço de entrega organizado economicamente (CC Art. 966): atividade empresária → sociedade empresária. Registro: Junta Comercial. Gabarito A: as quatro pessoas que constituíram sociedade para prestação de serviços de entrega organizada economicamente exercem atividade empresária — devem registrar a sociedade na Junta Comercial.</p>"
   },
   {
     "num": 49,
@@ -54,7 +66,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "08_propriedade_intelectual",
     "modulo_nome": "Propriedade Intelectual e Marcas",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.010:</strong> administradora de LTDA. <strong>Art. 1.013:</strong> \"O exercício da administração compete a todos os sócios, se o contrato social não dispuser de modo diverso.\" Maura Chalé, sócia administradora: pode representar a sociedade nos limites dos poderes. Ato ultra vires (além dos poderes): responsabilidade pessoal da administradora (CC Art. 1.015).</p>",
+    "dica": "<p>Responsabilidade da sócia administradora (CC Art. 1.015 + 1.017): atos dentro dos poderes = obrigam a sociedade; atos com excesso de poderes = responsabilidade pessoal da administradora + possível responsabilização da sociedade perante terceiros de boa-fé. Gabarito A: Maura Chalé responde pessoalmente pelos atos praticados além dos poderes que lhe foram conferidos no contrato social.</p>"
   },
   {
     "num": 50,
@@ -73,7 +91,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_propriedade_intelectual",
     "modulo_nome": "Propriedade Intelectual e Marcas",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LC 123/06, Art. 18-A (MEI — Microempreendedor Individual):</strong> pode ter 1 empregado que ganhe o salário mínimo ou o piso da categoria. <strong>Art. 18-C:</strong> o MEI enquadrado paga contribuição previdenciária simplificada (SIMEI). Nísia MEI com funcionário: pode ter 1 empregado com benefícios trabalhistas normais (CLT aplicável ao empregado).</p>",
+    "dica": "<p>MEI com empregado (LC 123/06 Art. 18-A, §1º): pode ter 1 único empregado. Contribuição do MEI ao INSS pelo empregado: 3% do salário (patronal) + 8% do empregado (desconta e recolhe). Gabarito A: Nísia pode contratar 1 empregado, que terá todos os direitos trabalhistas (CLT) e previdenciários normais — a condição de MEI não afasta a CLT do empregado.</p>"
   },
   {
     "num": 50,
@@ -92,6 +116,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_propriedade_intelectual",
     "modulo_nome": "Propriedade Intelectual e Marcas",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 966:</strong> \"Considera-se empresário quem exerce profissionalmente atividade econômica organizada para a produção ou circulação de bens ou de serviços.\" Elementos: (1) profissionalidade; (2) atividade econômica; (3) organização dos fatores de produção. <strong>Art. 966, parágrafo único:</strong> não é empresário quem exerce profissão intelectual (salvo elemento de empresa).</p>",
+    "dica": "<p>Conceito de empresário (CC Art. 966): profissionalidade + atividade econômica organizada. Gabarito C: o empresário é caracterizado pelo exercício profissional de atividade econômica organizada para produção ou circulação de bens/serviços — não inclui quem exerce profissão intelectual por conta própria sem organização empresarial.</p>"
   }
 ]

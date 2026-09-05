@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_declaracao_universal",
     "modulo_nome": "Declaração Universal dos Direitos Humanos (DUDH)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CADH, Art. 27, §2º:</strong> em estado de emergência, os direitos não derrogáveis permanecem intocáveis: vida, integridade, legalidade, nome, família, criança, consciência + garantias judiciais indispensáveis (habeas corpus, amparo). A suspensão de garantias judiciais essenciais viola a CADH mesmo em emergência.</p>",
+    "dica": "<p>Estado de Emergência e CADH: Art. 27 permite suspensão de alguns direitos, mas NUNCA dos não derrogáveis (Art. 27, §2º). Habeas corpus e mandado de segurança = garantias judiciais indispensáveis = não suspensos. Gabarito C: a suspensão das garantias judiciais (habeas corpus etc.) em estado de emergência viola a CADH — são direitos não derrogáveis.</p>"
   },
   {
     "num": 18,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_declaracao_universal",
     "modulo_nome": "Declaração Universal dos Direitos Humanos (DUDH)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXX + CADH, Art. 7º (liberdade):</strong> cidadão estrangeiro irregular no Brasil tem direitos fundamentais (CF Art. 5º caput). <strong>Lei de Migração (Lei 13.445/17), Art. 3º:</strong> princípio da não discriminação e universalidade dos direitos humanos para todos os migrantes, independentemente da situação regular.</p>",
+    "dica": "<p>Migrante irregular: tem direitos humanos fundamentais (CF Art. 5º + Lei 13.445/17). Não pode ser deportado imediatamente sem o devido processo legal. Gabarito B: o cidadão venezuelano, mesmo irregular, tem direito ao devido processo legal antes de qualquer deportação ou expulsão — a Lei de Migração garante o contraditório.</p>"
   },
   {
     "num": 18,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "04_declaracao_universal",
     "modulo_nome": "Declaração Universal dos Direitos Humanos (DUDH)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, §3º (EC 45/2004):</strong> tratados de DH aprovados com quórum de emenda (3/5 em 2 turnos em cada Casa) = equivalentes a emenda constitucional. Convenção da ONU sobre Pessoas com Deficiência + Protocolo Facultativo: único tratado aprovado com esse rito. Status constitucional.</p>",
+    "dica": "<p>Tratados de DH aprovados pelo rito do Art. 5º, §3º CF (3/5 + 2 turnos em cada Casa): status de emenda constitucional. Apenas a Convenção da ONU sobre PcD (Decreto 6.949/09) tem esse status. Gabarito D: após a EC 45/2004, os tratados de DH aprovados pelo rito especial têm hierarquia constitucional, não apenas supralegal.</p>"
   }
 ]

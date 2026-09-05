@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_principios_constitucional",
     "modulo_nome": "Princípios de Direito Ambiental e Proteção Constitucional",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 225, §3º:</strong> \"As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados.\" <strong>Lei 7.347/85 (ACP), Art. 5º:</strong> MP tem legitimidade para propor ACP. Tomada de providências sobre política pública ambiental: cabe ACP pela omissão do poder público (princípio da prevenção + dever estatal).</p>",
+    "dica": "<p>Responsabilidade ambiental: objetiva + solidária (CF Art. 225, §3º + Lei 6.938/81 Art. 14, §1º). MP pode propor ACP ambiental. Gabarito D: MP tem legitimidade para propor ACP para compelir o Estado a adotar a política pública ambiental omitida.</p>"
   },
   {
     "num": 36,
@@ -35,7 +41,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_principios_constitucional",
     "modulo_nome": "Princípios de Direito Ambiental e Proteção Constitucional",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 225, §1º, III:</strong> incumbe ao poder público \"definir, em todas as unidades da federação, espaços territoriais e seus componentes a serem especialmente protegidos, sendo a alteração e a supressão permitidas somente através de lei.\" UC criada por decreto do Prefeito: válido (art. 22 Lei 9.985/00 = por ato do Poder Público). Supressão ou redução: <strong>somente por lei</strong>.</p>",
+    "dica": "<p>UC criada por decreto: válido (Lei 9.985/00 Art. 22). Mas para suprimir ou reduzir: exige <strong>lei</strong> (CF Art. 225, §1º, III). Município não pode reduzir UC por decreto. Gabarito C: a redução da UC pelo Prefeito via decreto é inconstitucional — exige lei.</p>"
   },
   {
     "num": 36,
@@ -54,6 +66,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "01_principios_constitucional",
     "modulo_nome": "Princípios de Direito Ambiental e Proteção Constitucional",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 225 + Lei 6.938/81, Art. 14, §1º:</strong> responsabilidade civil ambiental é <strong>objetiva</strong> (independe de culpa) e admite teoria do <strong>risco integral</strong> (STJ: sem excludentes). Pessoa jurídica responde objetivamente por danos ambientais causados por sua atividade. Não se exige ilicitude — basta o nexo causal entre a atividade e o dano.</p>",
+    "dica": "<p>Responsabilidade civil ambiental: <strong>objetiva + risco integral</strong> (STJ Súmula 618 implícita). Independe de culpa, licitude da atividade ou caso fortuito. Gabarito A: Aurora responde objetivamente pelo dano ambiental decorrente de sua atividade, mesmo que regular.</p>"
   }
 ]

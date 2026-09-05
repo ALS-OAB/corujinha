@@ -1087,14 +1087,14 @@ def build_module(prefix, title, out_filename):
 
 if __name__ == '__main__':
     modulos = [
-        ("01_protecao_integral", "Proteção Integral e Prioridade Absoluta", "ECA_01_ProtecaoIntegral_Premium.html"),
-        ("02_direitos_fundamentais", "Direitos Fundamentais da Criança", "ECA_02_DireitosFundamentais_Premium.html"),
-        ("03_convivencia_familiar", "Convivência Familiar e Comunitária", "ECA_03_ConvivenciaFamiliarAdocao_Premium.html"),
-        ("04_guarda_tutela_adocao", "Guarda, Tutela e Adoção", "ECA_04_GuardaTutelaAdocao_Premium.html"),
-        ("05_ato_infracional", "Ato Infracional e Medidas Socioeducativas", "ECA_05_AtoInfracionalMedidas_Premium.html"),
-        ("06_medidas_protecao", "Medidas de Proteção e Conselho Tutelar", "ECA_06_MedidasProtecaoConselho_Premium.html"),
-        ("07_crimes_infracoes", "Crimes e Infrações no ECA", "ECA_07_CrimesInfracoesECA_Premium.html"),
-        ("08_justica_infancia", "Justiça da Infância e da Juventude", "ECA_08_JusticaInfanciaJuventude_Premium.html"),
+        ("01_doutrina_protecao", "Doutrina da Proteção Integral", "ECA_01_ProtecaoIntegral_Premium.html"),
+        ("02_direito_convivencia", "Direito à Convivência Familiar", "ECA_02_DireitosFundamentais_Premium.html"),
+        ("03_autorizacao_viagem", "Autorização de Viagem e Adoção", "ECA_03_ConvivenciaFamiliarAdocao_Premium.html"),
+        ("04_atos_infracionais", "Atos Infracionais", "ECA_04_GuardaTutelaAdocao_Premium.html"),
+        ("05_medidas_socioeducativas", "Medidas Socioeducativas", "ECA_05_AtoInfracionalMedidas_Premium.html"),
+        ("06_medidas_protecao", "Medidas de Proteção", "ECA_06_MedidasProtecaoConselho_Premium.html"),
+        ("07_crimes_infracoes_adm", "Crimes e Infrações Administrativas ECA", "ECA_07_CrimesInfracoesECA_Premium.html"),
+        ("08_justica_infancia", "Justiça da Infância e Juventude", "ECA_08_JusticaInfanciaJuventude_Premium.html"),
     ]
     
     print("🚀 Compilando o ecossistema de ECA · Lei nº 8.069/1990...")

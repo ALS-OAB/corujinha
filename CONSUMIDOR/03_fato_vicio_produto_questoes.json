@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_fato_vicio_produto",
     "modulo_nome": "Responsabilidade pelo Fato e Vício do Produto/Serviço",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 12:</strong> responsabilidade pelo fato do produto: fabricante responde objetivamente pelos danos causados por defeito de segurança. Papinha industrializada que causa diarreia e vômito em bebê = fato do produto (evento danoso). Fornecedor deve provar: não colocou o produto no mercado, não há defeito, ou culpa exclusiva do consumidor (Art. 12, §3º).</p>",
+    "dica": "<p>Fato do produto (CDC Art. 12): dano físico causado pelo produto defeituoso. Responsabilidade objetiva do fabricante. Excludentes: I - não colocou o produto no mercado; II - inexiste defeito; III - culpa exclusiva do consumidor. Prazo prescricional: 5 anos (CDC Art. 27). Diego pode pleitear danos materiais e morais.</p>"
   },
   {
     "num": 46,
@@ -35,6 +41,12 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_fato_vicio_produto",
     "modulo_nome": "Responsabilidade pelo Fato e Vício do Produto/Serviço",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 34:</strong> \"O fornecedor do produto ou serviço é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos.\" Representante empresarial autônomo do site: XYZ é solidariamente responsável pelos problemas na entrega. <strong>CDC Art. 18 + 19:</strong> vício de produto = responsabilidade solidária de todos da cadeia.</p>",
+    "dica": "<p>CDC Art. 34: fornecedor responde solidariamente pelos atos de representantes autônomos. Gabarito B: XYZ responde solidariamente pelos danos causados pelo representante autônomo que vendeu pelo site — consumidor pode acionar diretamente a fabricante/vendedora.</p>"
   }
 ]

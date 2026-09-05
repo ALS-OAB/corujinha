@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_propaganda_eleitoral",
     "modulo_nome": "Propaganda Eleitoral e Direito de Resposta",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 36, §3º:</strong> veiculação de propaganda eleitoral antes do prazo legal: multa. <strong>Art. 36-A:</strong> permitida menção de nome do pré-candidato em atos de propaganda intrapartidária até a janela eleitoral. Dois pré-candidatos do partido Alfa: podem participar de atos internos sem configurar propaganda eleitoral antecipada.</p>",
+    "dica": "<p>Propaganda eleitoral antecipada (Lei 9.504/97 Art. 36): proibida antes do prazo (15 de agosto do ano da eleição). Pré-campanha intrapartidária: permitida até certo limite. Gabarito D: os pré-candidatos podem participar de atos internos do partido sem configurar propaganda eleitoral antecipada — desde que não usem meios de comunicação social com fins eleitorais.</p>"
   },
   {
     "num": 19,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_propaganda_eleitoral",
     "modulo_nome": "Propaganda Eleitoral e Direito de Resposta",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 74:</strong> propaganda em rádio e TV: distribuída proporcionalmente ao número de representantes. <strong>Ação de Impugnação de Mandato Eletivo (AIME — CF Art. 14, §10):</strong> prazo de 15 dias após diplomação. Eleição com poucos votos de vantagem + suspeita de fraude: candidata prejudicada pode entrar com AIME.</p>",
+    "dica": "<p>AIME (CF Art. 14, §10): cabe por abuso de poder econômico, corrupção ou fraude na eleição. Prazo: 15 dias após diplomação. Gabarito D: o candidato prejudicado por abuso de poder ou fraude deve ingressar com AIME no prazo de 15 dias após a diplomação dos eleitos.</p>"
   }
 ]

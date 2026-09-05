@@ -1087,14 +1087,14 @@ def build_module(prefix, title, out_filename):
 
 if __name__ == '__main__':
     modulos = [
-        ("01_conceitos_fundamentais", "Conceitos Fundamentais e Sistema Global", "DH_01_ConceitosFundamentais_Premium.html"),
-        ("02_sistema_interamericano", "Sistema Interamericano de Direitos Humanos", "DH_02_SistemaInteramericano_Premium.html"),
-        ("03_incorporacao_tratados", "Incorporação de Tratados (Art. 5º, §3º CF)", "DH_03_IncorporacaoTratados_Premium.html"),
-        ("04_protecao_vulneraveis", "Proteção a Grupos Vulneráveis e Minorias", "DH_04_ProtecaoVulneraveis_Premium.html"),
-        ("05_combate_tortura_discriminacao", "Combate à Tortura e Discriminação", "DH_05_CombateTortura_Premium.html"),
-        ("06_pacto_san_jose", "Pacto de San José da Costa Rica (CADH)", "DH_06_PactoSanJose_Premium.html"),
-        ("07_cortes_internacionais", "Corte Interamericana e Jurisprudência", "DH_07_CortesInternacionais_Premium.html"),
-        ("08_direitos_humanos_brasil", "Direitos Humanos na Ordem Constitucional", "DH_08_DHNoBrasil_Premium.html"),
+        ("01_teoria_geral_dh", "Teoria Geral dos Direitos Humanos", "DH_01_ConceitosFundamentais_Premium.html"),
+        ("02_sistema_interamericano", "Sistema Interamericano de DH", "DH_02_SistemaInteramericano_Premium.html"),
+        ("03_corte_interamericana", "Corte Interamericana", "DH_03_IncorporacaoTratados_Premium.html"),
+        ("04_declaracao_universal", "Declaração Universal dos DH", "DH_04_ProtecaoVulneraveis_Premium.html"),
+        ("05_protecao_minorias", "Proteção de Minorias", "DH_05_CombateTortura_Premium.html"),
+        ("06_mecanismos_nacionais", "Mecanismos Nacionais de DH", "DH_06_PactoSanJose_Premium.html"),
+        ("07_tratados_internacionais", "Tratados Internacionais de DH", "DH_07_CortesInternacionais_Premium.html"),
+        ("08_combate_discriminacao", "Combate à Discriminação", "DH_08_DHNoBrasil_Premium.html"),
     ]
     
     print("🚀 Compilando o ecossistema de Direitos Humanos · CADH e CF/1988...")

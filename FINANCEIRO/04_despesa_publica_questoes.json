@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "04_despesa_publica",
     "modulo_nome": "Despesa Pública e Empenho",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 166, §9º:</strong> \"As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo.\" Emendas impositivas: <strong>CF Art. 166, §11º:</strong> execução obrigatória no mínimo de 50% até 31/07 e o restante até 31/12.</p>",
+    "dica": "<p>Emendas individuais impositivas (CF Art. 166, §9º e §11º): até 1,2% da RCL; execução obrigatória (mínimo 50% até 31/07). O Executivo não pode simplesmente contingenciar emendas impositivas. Gabarito A: o deputado pode indicar a destinação da emenda impositiva e o Executivo é obrigado a executá-la nos prazos constitucionais.</p>"
   },
   {
     "num": 24,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "04_despesa_publica",
     "modulo_nome": "Despesa Pública e Empenho",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 165, §5º, III:</strong> LOA: orçamento fiscal + orçamento de investimento das empresas estatais + orçamento seguridade social. <strong>Art. 166, §3º:</strong> emendas ao PLOA: compatíveis com o PPA e a LDO + indicação de fonte de recursos. Emenda que cria despesa nova: deve indicar cancelamento de outra despesa.</p>",
+    "dica": "<p>Emenda ao PLOA que cria despesa (CF Art. 166, §3º, II): deve indicar a redução de outra despesa para compensar. Gabarito B: o projeto de emenda da oposição ao PLOA é possível se indicar a fonte compensatória compatível com o PPA e a LDO.</p>"
   }
 ]

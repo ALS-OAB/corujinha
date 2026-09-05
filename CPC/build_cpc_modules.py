@@ -1087,14 +1087,14 @@ def build_module(prefix, title, out_filename):
 
 if __name__ == '__main__':
     modulos = [
-        ("01_normas_fundamentais", "Normas Fundamentais e Jurisdição", "CPC_01_NormasFundamentais_Premium.html"),
-        ("02_partes_litisconsorcio", "Partes, Procuradores e Litisconsórcio", "CPC_02_PartesLitisconsorcio_Premium.html"),
-        ("03_competencia_atos", "Competência e Atos Processuais", "CPC_03_CompetenciaAtos_Premium.html"),
-        ("04_tutela_provisoria", "Tutela Provisória (Urgência e Evidência)", "CPC_04_TutelaProvisoria_Premium.html"),
-        ("05_procedimento_comum", "Procedimento Comum", "CPC_05_ProcedimentoComum_Premium.html"),
-        ("06_execucao_cumprimento", "Cumprimento de Sentença e Execução", "CPC_06_ExecucaoCumprimento_Premium.html"),
-        ("07_recursos_tribunais", "Processo nos Tribunais e Recursos", "CPC_07_RecursosTribunais_Premium.html"),
-        ("08_procedimentos_especiais", "Procedimentos Especiais e Juizados", "CPC_08_ProcedimentosEspeciais_Premium.html"),
+        ("01_principios_normas", "Princípios e Normas Fundamentais", "CPC_01_NormasFundamentais_Premium.html"),
+        ("02_jurisdicao_competencia", "Jurisdição e Competência", "CPC_02_PartesLitisconsorcio_Premium.html"),
+        ("03_peticao_inicial_tutelas", "Petição Inicial e Tutelas Provisórias", "CPC_03_CompetenciaAtos_Premium.html"),
+        ("04_contestacao_resposta", "Contestação e Resposta do Réu", "CPC_04_TutelaProvisoria_Premium.html"),
+        ("05_provas_sentenca", "Provas e Sentença", "CPC_05_ProcedimentoComum_Premium.html"),
+        ("06_recursos_civeis", "Recursos Cíveis", "CPC_06_ExecucaoCumprimento_Premium.html"),
+        ("07_execucao_cumprimento", "Cumprimento de Sentença e Execução", "CPC_07_RecursosTribunais_Premium.html"),
+        ("08_procedimentos_especiais", "Procedimentos Especiais", "CPC_08_ProcedimentosEspeciais_Premium.html"),
     ]
     
     print("🚀 Compilando o ecossistema de Direito Processual Civil (CPC)...")

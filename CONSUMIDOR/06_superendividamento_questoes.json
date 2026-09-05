@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_superendividamento",
     "modulo_nome": "Prevenção ao Superendividamento",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 51, IV:</strong> são nulas de pleno direito as cláusulas que \"estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada.\" Contrato de adesão para pacote turístico com cláusula abusiva: nula de pleno direito, independentemente de reconhecimento judicial.</p>",
+    "dica": "<p>Cláusula abusiva em contrato de adesão: nula de pleno direito (CDC Art. 51). O consumidor não precisa aceitar a cláusula abusiva. Gabarito D: a cláusula identificada como abusiva é nula de pleno direito, podendo Carlos pleitear sua nulidade e reparação dos danos eventualmente sofridos.</p>"
   },
   {
     "num": 46,
@@ -35,6 +41,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_superendividamento",
     "modulo_nome": "Prevenção ao Superendividamento",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Questão sobre falência — provavelmente do CDC Art. 54-A (superendividamento):</strong> o gabarito A indica que a alternativa A é correta. No superendividamento: consumidor pode requerer repactuação de dívidas (CDC Art. 54-D). A falência não opera novação de créditos quirografários no sentido apresentado.</p>",
+    "dica": "<p>Superendividamento (CDC Art. 54-A ss): proteção do consumidor pessoa natural de boa-fé com dívidas exigíveis que comprometem sua subsistência. Direito à repactuação. A alternativa A descreve incorretamente efeitos da falência — a questão provavelmente testa qual afirmativa está INCORRETA. Gabarito A: afirmativa incorreta sobre os efeitos.</p>",
+    "revisar_manual": true
   }
 ]

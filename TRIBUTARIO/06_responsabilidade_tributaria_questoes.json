@@ -17,7 +17,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "06_responsabilidade_tributaria",
     "modulo_nome": "Responsabilidade Tributária e Substituição",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 150 (lançamento por homologação):</strong> o contribuinte antecipa o pagamento sem prévio exame. A Fazenda tem 5 anos para homologar. <strong>CTN, Art. 151, II:</strong> depósito do montante integral suspende a exigibilidade. Aguardente 100%, com advogada: pode impugnar o crédito + depositar o montante integral para suspender a exigibilidade.</p>",
+    "dica": "<p>Suspensão da exigibilidade do crédito tributário (CTN Art. 151): MELD (Moratória, Elaboração de recurso, Liminar/tutela, Depósito). Depósito do montante integral suspende a exigibilidade sem prejuízo de contestar o crédito. Gabarito C: a advogada deve orientar a empresa a depositar o montante integral em juízo para suspender a exigibilidade, preservando o direito de contestar o lançamento.</p>"
   },
   {
     "num": 28,
@@ -36,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_responsabilidade_tributaria",
     "modulo_nome": "Responsabilidade Tributária e Substituição",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, I (legalidade tributária):</strong> tributo só pode ser criado por lei. <strong>Art. 154, I:</strong> impostos residuais: lei complementar. <strong>Medida Provisória:</strong> pode criar tributo (Art. 62, §2º CF), exceto os exigidos por lei complementar. Lei ordinária que concede isenção: válida (Art. 111 CTN — interpreta-se literalmente). MP de desoneração: válida se publicada e convertida em lei dentro do prazo.</p>",
+    "dica": "<p>MP para redução/isenção de tributo (CF Art. 62, §2º): vedada para certos tributos (IR: §2º parte). Gabarito D: a MP de calamidade que concede isenção de tributos é válida se observados os requisitos constitucionais (relevância + urgência + conversão em lei). A isenção tem efeito imediato (favorável ao contribuinte = sem anterioridade).</p>"
   },
   {
     "num": 26,
@@ -55,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_responsabilidade_tributaria",
     "modulo_nome": "Responsabilidade Tributária e Substituição",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 155, §2º, XII, g (ICMS):</strong> \"Cabe à lei complementar: [...] g) regular a forma como, mediante deliberação dos Estados e do DF, isenções, incentivos e benefícios fiscais serão concedidos e revogados.\" CONFAZ: Conselho Nacional de Política Fazendária. Crédito presumido de ICMS: exige convênio CONFAZ (não pode ser concedido unilateralmente por lei estadual).</p>",
+    "dica": "<p>Incentivos fiscais de ICMS (CF Art. 155, §2º, XII, g + LC 24/75): exigem convênio CONFAZ (aprovação unânime dos Estados). Lei estadual unilateral que concede crédito presumido de ICMS sem convênio CONFAZ = inconstitucional (guerra fiscal). Gabarito C: o projeto de lei estadual que concede crédito presumido de ICMS sem convênio CONFAZ é inconstitucional — viola a CF e a LC 24/75.</p>"
   },
   {
     "num": 29,
@@ -74,7 +92,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "06_responsabilidade_tributaria",
     "modulo_nome": "Responsabilidade Tributária e Substituição",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, §6º:</strong> \"Qualquer subsídio ou isenção [...] somente poderá ser concedido mediante lei específica.\" Revogação de isenção por lei: possível. <strong>STF:</strong> isenção condicionada e por prazo certo: direito adquirido (STF Súmula 544). Isenção incondicionada: pode ser revogada a qualquer tempo por lei posterior.</p>",
+    "dica": "<p>Revogação de isenção (CTN Art. 178): isenção incondicionada e por tempo indeterminado: revogável a qualquer tempo por lei. Isenção condicionada ou por prazo certo: direito adquirido — não pode ser revogada antes do prazo (STF Súmula 544). Gabarito C: se a isenção era incondicionada e por tempo indeterminado, a lei que a revogou é válida — não há direito adquirido a isenção indefinida.</p>"
   },
   {
     "num": 27,
@@ -93,7 +117,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_responsabilidade_tributaria",
     "modulo_nome": "Responsabilidade Tributária e Substituição",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 155, III (IPVA):</strong> IPVA incide sobre veículos automotores terrestres. Embarcação (FPSO): não é veículo automotor terrestre. <strong>CF/88, Art. 147:</strong> em mar territorial: jurisdição federal. IPVA sobre plataforma flutuante: inconstitucional (STF RE 379.572 e RE 1016605).</p>",
+    "dica": "<p>IPVA sobre plataformas flutuantes/embarcações: inconstitucional (STF). IPVA = veículos automotores terrestres apenas. Gabarito D: a FPSO (embarcação de produção offshore) não é veículo automotor terrestre — não é fato gerador do IPVA. A empresa petrolífera não deve IPVA sobre a plataforma.</p>"
   },
   {
     "num": 25,
@@ -112,6 +142,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_responsabilidade_tributaria",
     "modulo_nome": "Responsabilidade Tributária e Substituição",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 195, I, a (contribuições da seguridade social):</strong> a União pode criar contribuições para a seguridade social. <strong>Art. 195, §4º:</strong> \"A lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social [...] obedecido o disposto no Art. 154, I.\" Exige: lei complementar + fato gerador não cumulativo com contribuições já existentes.</p>",
+    "dica": "<p>Nova contribuição de seguridade social (CF Art. 195, §4º + Art. 154, I): exige lei complementar + fato gerador/base de cálculo não cumulativos com os já existentes. Gabarito B: a nova contribuição de seguridade social criada por lei ordinária é inconstitucional — exige lei complementar e observância do Art. 154, I CF.</p>"
   }
 ]

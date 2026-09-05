@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_combate_discriminacao",
     "modulo_nome": "Combate ao Preconceito, Discriminação e Violência",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 109, V-A + §5º (EC 45/2004):</strong> incidente de deslocamento de competência (IDC): PGR pode requerer ao STJ o deslocamento de competência para a Justiça Federal quando houver grave violação de DH + risco de descumprimento de obrigação internacional. Assassinato de líderes rurais: pode configurar grave violação de DH.</p>",
+    "dica": "<p>Incidente de Deslocamento de Competência (IDC — CF Art. 109, §5º): STJ pode deslocar competência para JF quando: (1) grave violação de DH; (2) risco de descumprimento de tratado internacional; (3) inércia/incapacidade do estado. Gabarito B: o STJ pode determinar o deslocamento de competência para investigação dos assassinatos de líderes rurais.</p>"
   },
   {
     "num": 18,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_combate_discriminacao",
     "modulo_nome": "Combate ao Preconceito, Discriminação e Violência",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Regras de Mandela (ONU 2015) + CADH, Art. 5º (integridade pessoal):</strong> pessoa presa tem direito à integridade física e psicológica. <strong>CF/88, Art. 5º, XLIX:</strong> \"É assegurado aos presos o respeito à integridade física e moral.\" Proibição da tortura: CF Art. 5º, III + Convenção ONU contra a Tortura (Decreto 40/91).</p>",
+    "dica": "<p>Direitos das pessoas presas: integridade física/moral (CF Art. 5º, XLIX + CADH Art. 5º). Proibição absoluta de tortura (CF Art. 5º, III + Convenção ONU). Regras de Mandela: padrões mínimos de tratamento de presos. Gabarito A: presos têm direito ao respeito à integridade física e moral, sendo vedada qualquer forma de tratamento cruel, desumano ou degradante.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_aposentadorias_incapacidade",
     "modulo_nome": "Aposentadorias e Benefícios por Incapacidade",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 26, II:</strong> acidente de qualquer natureza: independe de carência. José tem 12 meses de contribuição e sofreu acidente de trabalho: sem carência exigida. <strong>Art. 59:</strong> auxílio por incapacidade temporária. <strong>Art. 71:</strong> o acidente de trabalho não exige carência para os benefícios previdenciários dele decorrentes.</p>",
+    "dica": "<p>Benefícios sem carência (Lei 8.213/91 Art. 26, II): auxílio por incapacidade temporária e aposentadoria por incapacidade decorrentes de acidente de trabalho — sem exigência de carência. Gabarito C: José, mesmo com apenas 12 meses de contribuição, tem direito ao auxílio por incapacidade temporária acidentário — o acidente de trabalho dispensa carência.</p>"
   },
   {
     "num": 69,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_aposentadorias_incapacidade",
     "modulo_nome": "Aposentadorias e Benefícios por Incapacidade",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 60:</strong> auxílio por incapacidade temporária: após 15 dias de afastamento (empregado) ou desde o 1º dia (contribuinte individual). <strong>Art. 43:</strong> aposentadoria por incapacidade permanente: segurado incapaz definitivamente para o trabalho. Manoel, mecânico, acidentado durante atividade: benefício por incapacidade temporária acidentário (pago pelo INSS, sem espera de 15 dias).</p>",
+    "dica": "<p>Acidente do trabalho — benefício por incapacidade temporária acidentário (Lei 8.213/91 Art. 60, §3º): pago pelo INSS desde o 1º dia de afastamento (sem os 15 dias de responsabilidade do empregador). Gabarito A: Manoel tem direito ao auxílio por incapacidade temporária acidentário pago pelo INSS desde o 1º dia de afastamento, em razão do acidente de trabalho.</p>"
   }
 ]

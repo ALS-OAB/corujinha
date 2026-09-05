@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_unidades_conservacao",
     "modulo_nome": "Unidades de Conservação (SNUC)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.985/00 (SNUC), Art. 36:</strong> \"Nos casos de licenciamento ambiental de empreendimentos de significativo impacto ambiental [...] o empreendedor é obrigado a apoiar a implantação e manutenção de unidade de conservação do Grupo de Proteção Integral.\" Compensação ambiental: mínimo de 0,5% dos custos totais previstos para o empreendimento.</p>",
+    "dica": "<p>Compensação ambiental (SNUC Art. 36): obrigatória para empreendimentos de <strong>significativo impacto ambiental</strong> sujeitos ao EIA. Mínimo: 0,5% do valor do empreendimento destinado a UC de proteção integral. Gabarito B: a indústria de cimento com significativo impacto deve pagar a compensação ambiental (SNUC Art. 36).</p>"
   },
   {
     "num": 35,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_unidades_conservacao",
     "modulo_nome": "Unidades de Conservação (SNUC)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 225 (direito ao meio ambiente equilibrado) + princípio da precaução:</strong> na dúvida sobre a possibilidade de dano ambiental, adota-se a precaução. A mudança climática (Lei 12.187/09 — PNMC) reconhece responsabilidades comuns mas diferenciadas. Litígios climáticos: tendência de reconhecimento da responsabilidade estatal e corporativa por emissões.</p>",
+    "dica": "<p>Direito ao clima estável = direito difuso (CF Art. 225). Princípio da precaução: na incerteza científica, evita-se o risco de dano grave e irreversível. Gabarito D: o princípio da precaução justifica medidas preventivas mesmo sem certeza absoluta dos efeitos das tragédias climáticas — o ônus da prova da segurança é do empreendedor.</p>"
   }
 ]

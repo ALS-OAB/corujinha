@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_medidas_socioeducativas",
     "modulo_nome": "Medidas Socioeducativas e Internação",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 1.584 CC (guardador):</strong> guarda unilateral ou compartilhada. Carlos e Joana, dissolvendo união estável: guarda de Paula. <strong>ECA, Art. 33:</strong> guarda confere ao guardador a possibilidade de opor-se a terceiros, inclusive aos pais. <strong>CC, Art. 1.589:</strong> direito de visita ao genitor que não tem a guarda.</p>",
+    "dica": "<p>Guarda na dissolução de união estável: preferência pela guarda compartilhada (CC Art. 1.584, §2º). Se Joana tem guarda unilateral: Carlos tem direito de visita (CC Art. 1.589). Gabarito B: Joana pode ter a guarda unilateral de Paula mas Carlos tem direito de visita regulamentado judicialmente.</p>"
   },
   {
     "num": 44,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_medidas_socioeducativas",
     "modulo_nome": "Medidas Socioeducativas e Internação",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 29 + Art. 42, §2º:</strong> \"Não podem adotar os ascendentes e os irmãos do adotando.\" Carlos e Mário (casal homoafetivo) podem adotar (STF ADI 4277 + Lei 12.010/09). <strong>Art. 39, §1º:</strong> adoção é irrevogável. Requisito: casal inscrito no cadastro de adoção (CEJA).</p>",
+    "dica": "<p>Adoção por casal homoafetivo: possível após ADI 4277 STF e CF Art. 226, §4º (interpretação). ECA Art. 42, §2º: casal (inclusive homoafetivo) pode adotar. Gabarito D: Carlos e Mário podem adotar conjuntamente, respeitados os requisitos do ECA (inscrição, período de adaptação etc.).</p>"
   }
 ]

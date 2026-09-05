@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_estabelecimento_nome",
     "modulo_nome": "Estabelecimento Empresarial e Nome Empresarial",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 966:</strong> considera-se empresário quem exerce profissionalmente atividade econômica organizada para a produção ou circulação de bens ou serviços. <strong>Art. 967:</strong> obrigação de registro. A empresa de persianas (Mota recebeu orçamento com nome da empresa): EIRELI ou Ltda. ou empresário individual. Verificar se é ME/EPP (LC 123/06).</p>",
+    "dica": "<p>Empresário individual: registro obrigatório na Junta Comercial (CC Art. 967). Inscrição = condição para validade dos atos empresariais. Gabarito C: Mota, ao contratar com empresa, deve verificar se ela está regularmente registrada — a ausência de registro impede a oposição de certos direitos e implica irregularidade da atividade empresarial.</p>"
   },
   {
     "num": 47,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "02_estabelecimento_nome",
     "modulo_nome": "Estabelecimento Empresarial e Nome Empresarial",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 47:</strong> recuperação judicial: \"A recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores.\" Pedreira Anitápolis com dificuldade de fluxo de caixa: pode pedir RJ se preencher requisitos do Art. 48.</p>",
+    "dica": "<p>Recuperação judicial (LREF Art. 48): requisitos — exercer atividade por mais de 2 anos; não ser falido; não ter obtido RJ nos últimos 5 anos; não ter sido condenado por crime falimentar. Gabarito A: Pedreira Anitápolis pode requerer recuperação judicial se preencher os requisitos do Art. 48 — a RJ visa a manutenção da atividade e dos empregos.</p>"
   },
   {
     "num": 47,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_estabelecimento_nome",
     "modulo_nome": "Estabelecimento Empresarial e Nome Empresarial",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.052, §1º:</strong> \"A sociedade limitada pode ser constituída por uma única pessoa\" (LTDA unipessoal — desde a MP 881/2019, convertida em Lei 13.874/19). <strong>Art. 1.052:</strong> responsabilidade limitada ao capital social. Nome: firma ou denominação. Vedação: não pode ter nome igual ao de outra empresa registrada.</p>",
+    "dica": "<p>Sociedade limitada unipessoal (CC Art. 1.052, §1º — desde 2019): um único sócio, responsabilidade limitada ao capital social. Vantagem: proteção do patrimônio pessoal do sócio único. Gabarito C: a constituição de sociedade limitada unipessoal (LTDA) é possível desde 2019 — o sócio único tem responsabilidade limitada ao capital social integralizado.</p>"
   },
   {
     "num": 47,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_estabelecimento_nome",
     "modulo_nome": "Estabelecimento Empresarial e Nome Empresarial",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.086 (sociedade em conta de participação — SCP):</strong> sócio ostensivo (Bento) + sócio participante (Bernardino). <strong>Art. 991:</strong> \"Na sociedade em conta de participação, a atividade constitutiva do objeto social é exercida unicamente pelo sócio ostensivo, em seu nome individual.\" Responsabilidade: sócio ostensivo responde perante terceiros; sócio participante: somente perante o ostensivo.</p>",
+    "dica": "<p>Sociedade em conta de participação (CC Art. 991 ss.): sócio ostensivo (Bento) = responsabilidade ilimitada perante terceiros. Sócio participante (Bernardino) = responsabilidade limitada perante o ostensivo (oculto). Não tem personalidade jurídica. Gabarito A: Bento, como sócio ostensivo, responde perante terceiros pelas obrigações da SCP — Bernardino não aparece perante os credores.</p>"
   },
   {
     "num": 48,
@@ -92,6 +116,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_estabelecimento_nome",
     "modulo_nome": "Estabelecimento Empresarial e Nome Empresarial",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 977:</strong> \"Faculta-se aos cônjuges contratar sociedade, entre si ou com terceiros, desde que não tenham casado no regime da comunhão universal de bens, ou no da separação obrigatória de bens.\" Pedro e Vitória (casados em comunhão parcial desde 2005): podem constituir sociedade entre si — comunhão parcial não é vedada pelo Art. 977.</p>",
+    "dica": "<p>Cônjuges como sócios (CC Art. 977): podem constituir sociedade, exceto nos regimes de: comunhão universal e separação obrigatória. Comunhão parcial: permitido. Gabarito C: Pedro e Vitória, casados em comunhão parcial, podem constituir sociedade entre si — regime não vedado pelo CC Art. 977.</p>"
   }
 ]

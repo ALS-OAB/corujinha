@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "06_falencia_recuperacao",
     "modulo_nome": "Recuperação Judicial e Falência (Lei nº 11.101/05)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 966:</strong> empresário individual com responsabilidade ilimitada. <strong>Art. 967:</strong> obrigação de registro. Marco Araripe quer iniciar empresa em nome próprio com responsabilidade ilimitada: é empresário individual (não EIRELI/LTDA, que têm limitação). <strong>Art. 972:</strong> capacidade civil plena + não estar impedido.</p>",
+    "dica": "<p>Empresário individual (CC Art. 966): exerce atividade econômica em nome próprio + responsabilidade ilimitada (patrimônio pessoal responde pelas dívidas). Alternativas de responsabilidade limitada: LTDA unipessoal (CC Art. 1.052, §1º). Gabarito A: Marco pode se inscrever como empresário individual, com responsabilidade ilimitada — mas deve ciente de que seu patrimônio pessoal responde pelas dívidas empresariais.</p>"
   },
   {
     "num": 47,
@@ -35,7 +41,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_falencia_recuperacao",
     "modulo_nome": "Recuperação Judicial e Falência (Lei nº 11.101/05)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 108 (falência) + Art. 99, XI:</strong> o administrador judicial na falência deve elaborar relatório sobre as causas e circunstâncias da falência. <strong>Art. 109:</strong> \"O administrador judicial é órgão auxiliar do juízo.\" <strong>Art. 150:</strong> encerrado o processo de falência, o juiz julgará as contas do administrador judicial.</p>",
+    "dica": "<p>Administrador judicial na falência (LREF Art. 21 ss.): nomeado pelo juiz, responsável pela administração da massa falida. Funções: arrecadar bens, verificar créditos, alienar ativo, prestar contas. Gabarito B: o administrador judicial deve elaborar o relatório indicando as causas da falência de Refrigeração Abaíra Ltda. — é função obrigatória do cargo (LREF Art. 22, III, e).</p>"
   },
   {
     "num": 47,
@@ -54,7 +66,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "06_falencia_recuperacao",
     "modulo_nome": "Recuperação Judicial e Falência (Lei nº 11.101/05)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 966, parágrafo único:</strong> não é empresário: quem exerce profissão intelectual (científica, literária, artística), salvo se o exercício constituir elemento de empresa. Médico, advogado, engenheiro como atividade intelectual: não são empresários. Arquiteto com escritório organizado empresarialmente: pode ser empresário (elemento de empresa).</p>",
+    "dica": "<p>Profissional intelectual (CC Art. 966, parágrafo único): não é empresário por si só. Exceção: se o exercício da atividade intelectual constituir \"elemento de empresa\" (organização empresarial para produção/circulação). Gabarito C: o CC afasta do conceito de empresário quem exerce profissão intelectual de natureza científica, literária ou artística — salvo quando a organização empresarial supera a atividade intelectual em si.</p>"
   },
   {
     "num": 47,
@@ -73,7 +91,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_falencia_recuperacao",
     "modulo_nome": "Recuperação Judicial e Falência (Lei nº 11.101/05)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.641, II (regime de separação obrigatória de bens):</strong> para maiores de 70 anos: regime de separação legal obrigatória. Joana, aposentada, tomou empréstimos consignados: se casou após os 70 anos, está no regime de separação obrigatória — cada cônjuge responde com seu próprio patrimônio. Superendividamento: CDC Art. 54-A.</p>",
+    "dica": "<p>Superendividamento (CDC Art. 54-A ss., Lei 14.181/21): pessoa natural de boa-fé com comprometimento de subsistência pelas dívidas pode requerer repactuação judicial com todos os credores. Gabarito C: Joana pode requerer processo de repactuação de dívidas perante o juizado especial, reunindo todos os credores para elaborar plano de pagamento que preserve sua subsistência.</p>"
   },
   {
     "num": 48,
@@ -92,6 +116,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_falencia_recuperacao",
     "modulo_nome": "Recuperação Judicial e Falência (Lei nº 11.101/05)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 94, I (falência por impontualidade):</strong> \"Será decretada a falência do devedor que [...] sem relevante razão de direito, não paga, no vencimento, obrigação líquida materializada em título ou títulos executivos protestados cuja soma ultrapasse o equivalente a 40 salários mínimos.\" Duplicata = título executivo. Padaria Jacaré: impontual.</p>",
+    "dica": "<p>Falência por impontualidade (LREF Art. 94, I): título executivo protestado superior a 40 salários mínimos + não pagamento no vencimento sem justa causa. Prazo de defesa: 10 dias (Art. 98). Gabarito B: a falência da Padaria Jacaré pode ser decretada por impontualidade no pagamento de duplicatas protestadas que superam 40 salários mínimos — desde que não haja justa causa para o não pagamento.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_pnma_sisnama",
     "modulo_nome": "Política Nacional do Meio Ambiente e SISNAMA",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 7.347/85 (ACP), Art. 5º, I:</strong> associação constituída há pelo menos 1 ano e que inclua em seus fins institucionais a proteção ao meio ambiente tem legitimidade para propor ACP. Requisito temporal: 1 ano de constituição. Associação de moradores com menos de 1 ano = sem legitimidade autônoma, mas pode pedir que o MP ajuíze.</p>",
+    "dica": "<p>Legitimidade ACP: MP, Defensoria, entes federados, autarquias, fundações públicas, sociedade de economia mista, <strong>associações civis com 1+ ano de constituição</strong> e fins ambientais (Lei 7.347/85 Art. 5º). Gabarito D: associação com menos de 1 ano não tem legitimidade autônoma para ACP ambiental — pode pedir ao MP para propor.</p>"
   },
   {
     "num": 35,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_pnma_sisnama",
     "modulo_nome": "Política Nacional do Meio Ambiente e SISNAMA",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.651/12 (Código Florestal), Art. 3º, IX:</strong> \"agricultura familiar\" tem regras diferenciadas. <strong>Art. 4º:</strong> APP protege cursos d'água. <strong>Art. 61-A:</strong> agricultores familiares em APPs consolidadas antes de 22/07/2008 podem fazer regularização. Aviário e criação de animais: atividade rural de baixo impacto pode ser exercida em APP consolidada com CAR.</p>",
+    "dica": "<p>Agricultor familiar em APP consolidada (antes de 22/07/2008): direito à regularização pelo CAR + PRA (Código Florestal Arts. 61-A e 59). Não é obrigado a remover toda a atividade imediatamente. Gabarito C: Gentil pode regularizar sua situação via CAR/PRA, pois é agricultor familiar com atividade consolidada.</p>"
   },
   {
     "num": 35,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_pnma_sisnama",
     "modulo_nome": "Política Nacional do Meio Ambiente e SISNAMA",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 6.938/81 (PNMA), Art. 14, §1º:</strong> \"É o poluidor obrigado, independentemente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros.\" Responsabilidade civil ambiental = <strong>objetiva</strong>. Causalidade alternativa / responsabilidade solidária: quando vários poluidores contribuem, todos respondem solidariamente (STJ).</p>",
+    "dica": "<p>Poluidor responde objetivamente pelo dano ambiental (PNMA Art. 14, §1º). Solidariedade entre copoluidores. Gabarito D: Algoz responde objetivamente pelo dano, independentemente de culpa — basta nexo causal entre sua atividade e o dano ambiental.</p>"
   }
 ]

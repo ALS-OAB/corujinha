@@ -15,7 +15,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_direitos_politicos",
     "modulo_nome": "Direitos Políticos (Alistamento e Votação)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei Complementar 64/90, Art. 1º, I, c:</strong> são inelegíveis para quaisquer cargos por 8 anos: \"os que tenham contra si representação julgada procedente pela Justiça Eleitoral, em decisão transitada em julgado, por abuso do poder econômico ou político.\" <strong>Lei 9.096/95:</strong> fidelidade partidária.</p>",
+    "dica": "<p>Inelegibilidade por abuso de poder: LC 64/90 Art. 1º, I, c. Helena, candidata a governadora, deve verificar se há inelegibilidades. Gabarito B: Helena tem inelegibilidade se tiver condenação por abuso de poder econômico/político transitada em julgado — deve ser declarada inelegível nesse caso.</p>"
   },
   {
     "num": 20,
@@ -34,7 +40,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_direitos_politicos",
     "modulo_nome": "Direitos Políticos (Alistamento e Votação)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 14, §1º, II, a:</strong> \"O alistamento eleitoral e o voto são: [...] facultativos para: os analfabetos.\" <strong>Art. 14, §1º, I:</strong> voto obrigatório para maiores de 18 anos. Pedro, 40 anos, decide não votar por convicção ideológica: voto obrigatório = sujeito à multa por ausência (CE Art. 7º, §1º).</p>",
+    "dica": "<p>Voto obrigatório (CF Art. 14, §1º, I): para maiores de 18 e menores de 70 anos alfabetizados. Ausência sem justificativa: multa de 3,5% do salário mínimo (CE Art. 7º). Pedro, 40 anos, não tem direito de se recusar por razões ideológicas — voto obrigatório. Gabarito D: Pedro está sujeito à multa por abstenção, pois o voto é obrigatório para sua faixa etária.</p>"
   },
   {
     "num": 20,
@@ -53,6 +65,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_direitos_politicos",
     "modulo_nome": "Direitos Políticos (Alistamento e Votação)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 41-A (captação ilícita de sufrágio):</strong> proibida a promessa de vantagem pessoal ao eleitor em troca de voto, nos 3 meses anteriores à eleição. <strong>AIJE/AIME:</strong> ação de impugnação de mandato eletivo por abuso de poder. Ana, após diplomação de Maria: ação de impugnação de mandato eletivo.</p>",
+    "dica": "<p>Impugnação de mandato eletivo (CF Art. 14, §10 + CE Art. 262): prazo de 15 dias após diplomação para AIME. Abuso de poder econômico durante campanha: fundamento para AIME. Gabarito A: Ana deve ingressar com AIME no prazo de 15 dias após a diplomação de Maria, com fundamento em abuso do poder econômico.</p>"
   }
 ]

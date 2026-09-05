@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_recursos_hidricos_residuos",
     "modulo_nome": "Recursos Hídricos e Resíduos Sólidos",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CONAMA Res. 1/86, Art. 9º:</strong> o EIA deve ser elaborado por equipe multidisciplinar independente do proponente. <strong>Art. 5º:</strong> o EIA deve contemplar alternativas tecnológicas e de localização. O coordenador da equipe (engenheiro ambiental João) tem responsabilidade técnica pelo estudo. O proponente (empreendedor) arca com os custos do EIA.</p>",
+    "dica": "<p>EIA: elaborado por equipe multidisciplinar independente, custeado pelo empreendedor (CONAMA 1/86). O coordenador técnico (João) tem responsabilidade profissional pelo estudo. Gabarito C: João, como coordenador da equipe multidisciplinar do EIA, tem responsabilidade técnica pelo conteúdo do estudo.</p>"
   },
   {
     "num": 36,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_recursos_hidricos_residuos",
     "modulo_nome": "Recursos Hídricos e Resíduos Sólidos",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.305/10 (PNRS), Art. 20:</strong> Plano de Gerenciamento de Resíduos Sólidos (PGRS) é obrigatório para geradores de resíduos perigosos ou em quantidade significativa. <strong>Art. 23:</strong> responsabilidade compartilhada pelo ciclo de vida dos produtos. XYZ, ao iniciar atividade econômica, deve elaborar PGRS antes de gerar resíduos.</p>",
+    "dica": "<p>PNRS (Lei 12.305/10): empresa que gera resíduos perigosos deve ter <strong>Plano de Gerenciamento de Resíduos Sólidos</strong> (PGRS) aprovado (Art. 20). Gabarito B: XYZ deve elaborar e implementar o PGRS antes ou concomitantemente ao início das atividades, como exigência do licenciamento ambiental.</p>"
   }
 ]

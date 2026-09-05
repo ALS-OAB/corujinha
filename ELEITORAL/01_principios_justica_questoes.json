@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_principios_justica",
     "modulo_nome": "Princípios de Direito Eleitoral e Justiça Eleitoral",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 73:</strong> proibições para agentes públicos no ano eleitoral. <strong>Art. 73, VI, b:</strong> \"É proibido ao agente público [...] fazer ou permitir uso promocional em favor de candidatos, partidos políticos ou coligações, de distribuição gratuita de bens, valores ou benefícios.\" Dirigentes de partido político no ano anterior às eleições: regras de pré-campanha.</p>",
+    "dica": "<p>Restrições no ano eleitoral (Lei 9.504/97 Art. 73): proibições para agentes públicos. Dirigentes de partidos: podem fazer pré-campanha com restrições (propaganda intrapartidária). Gabarito D: a realização de atos de pré-campanha por dirigentes partidários no ano anterior é permitida, desde que limitada ao ambiente interno do partido.</p>"
   },
   {
     "num": 19,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_principios_justica",
     "modulo_nome": "Princípios de Direito Eleitoral e Justiça Eleitoral",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 36, §3º:</strong> propaganda eleitoral irregular: cabe representação ao TRE/TSE. Joana veiculando propaganda irregular: partido Alfa pode representar ao juiz eleitoral para determinação de cessação da propaganda e multa. <strong>Art. 41:</strong> proibida propaganda antes do prazo legal.</p>",
+    "dica": "<p>Propaganda eleitoral irregular: cabe representação ao juízo eleitoral (Lei 9.504/97 Art. 96). O partido prejudicado pode representar pedindo cessação + multa. Gabarito B: o partido Alfa deve ingressar com representação perante o juízo eleitoral competente, pedindo a cessação da propaganda irregular de Joana e a aplicação de multa.</p>"
   },
   {
     "num": 19,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_principios_justica",
     "modulo_nome": "Princípios de Direito Eleitoral e Justiça Eleitoral",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 46:</strong> Senado Federal composto por representantes dos Estados e DF, 3 por unidade. <strong>Lei 9.504/97, Art. 9º:</strong> domicílio eleitoral no Estado ou circunscrição por pelo menos 6 meses antes da eleição. Maria nasceu no Estado Alfa mas mora em outro: domicílio = onde reside + tem vínculos.</p>",
+    "dica": "<p>Domicílio eleitoral (CE Art. 42 + Lei 9.504/97 Art. 9º): não é necessariamente o domicílio civil — é o local onde o eleitor tem vínculos políticos e afetivos. Gabarito A: Maria pode candidatar-se ao Senado pelo Estado Alfa se comprovar domicílio eleitoral nele com pelo menos 6 meses de antecedência.</p>"
   }
 ]

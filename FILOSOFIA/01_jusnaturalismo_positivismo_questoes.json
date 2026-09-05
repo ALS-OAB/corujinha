@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_jusnaturalismo_positivismo",
     "modulo_nome": "Jusnaturalismo vs. Positivismo Jurídico",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Dworkin vs. Positivismo (Hart):</strong> Dworkin critica o positivismo por não reconhecer os <em>princípios</em> como parte do direito. Para ele, o direito inclui não só regras, mas também princípios que os juízes devem aplicar. A frase \"a justiça tem papel na determinação do que é o direito\" resume a tese dworkiniana de que direito e moral estão intrinsecamente conectados — opondo-se ao positivismo de Kelsen e Hart.</p>",
+    "dica": "<p>Dworkin: direito não se esgota em regras — inclui <strong>princípios</strong> (morais) que os juízes devem usar ao decidir. Critica a discricionariedade judicial do positivismo. Gabarito D: a afirmativa que corresponde a Dworkin é a que reconhece o papel da justiça/moral na identificação do direito.</p>"
   },
   {
     "num": 9,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_jusnaturalismo_positivismo",
     "modulo_nome": "Jusnaturalismo vs. Positivismo Jurídico",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Rui Barbosa (paráfrase) — Oração aos Moços:</strong> a verdadeira igualdade consiste em tratar desigualmente os desiguais. Este é o princípio da <strong>igualdade material</strong> (isonomia substancial), distinto da igualdade formal (todos iguais perante a lei). Aristóteles já formulou: \"dar a cada um o que é seu\". CF/88, Art. 5º, caput: igualdade formal + instrumentos de igualdade material.</p>",
+    "dica": "<p>Igualdade material (Rui Barbosa / Aristóteles): tratar desigualmente os desiguais na medida de sua desigualdade. Gabarito B: a afirmação que corresponde a esse princípio é a que preconiza tratamento diferenciado para promover igualdade real — fundamento das ações afirmativas (cotas, reservas).</p>"
   },
   {
     "num": 9,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_jusnaturalismo_positivismo",
     "modulo_nome": "Jusnaturalismo vs. Positivismo Jurídico",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Contrato Social — Rousseau (Du Contrat Social, 1762):</strong> \"Encontrar uma forma de associação que defenda e proteja as pessoas e os bens de cada associado...\" — é o objetivo do contrato social: a origem do Estado pelo acordo de vontades. Rousseau fundamenta a soberania popular (vontade geral). Base do constitucionalismo democrático.</p>",
+    "dica": "<p>Contrato Social de Rousseau: fundamento do Estado democrático pela vontade geral. Distinção: vontade geral (interesse coletivo) ≠ vontade de todos (soma das vontades individuais). Gabarito B: o fragmento é de Rousseau, cujo contrato social fundamenta a soberania popular e a organização política democrática.</p>"
   }
 ]

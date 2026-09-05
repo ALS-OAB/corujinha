@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_segurados_rgps",
     "modulo_nome": "Segurados do RGPS (Obrigatórios e Facultativos)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 11, V, f:</strong> sócio-gerente e sócio-administrador de empresa: segurado obrigatório como contribuinte individual. <strong>Contribuição:</strong> alíquota de 20% sobre a remuneração recebida da empresa. A empresa desconta e recolhe. Manoel, empresário/sócio administrador: segurado obrigatório como contribuinte individual.</p>",
+    "dica": "<p>Sócio administrador de empresa (Lei 8.213/91 Art. 11, V, f): segurado obrigatório como <strong>contribuinte individual</strong>. A empresa desconta 11% + recolhe contribuição patronal de 20% sobre a remuneração. Gabarito B: Manoel é segurado obrigatório do RGPS na categoria de contribuinte individual por ser sócio administrador.</p>"
   },
   {
     "num": 70,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_segurados_rgps",
     "modulo_nome": "Segurados do RGPS (Obrigatórios e Facultativos)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 45:</strong> \"O valor da aposentadoria por incapacidade permanente do segurado que necessitar da assistência permanente de outra pessoa será acrescido de 25%.\" Acréscimo de 25% (Grande Invalidez): não está previsto para outros benefícios (apenas para aposentadoria por incapacidade permanente). Antônio: aposentado por incapacidade + dependente de cuidadores.</p>",
+    "dica": "<p>Acréscimo de 25% (Grande Invalidez — Lei 8.213/91 Art. 45): aplica-se apenas à aposentadoria por incapacidade permanente quando o segurado necessitar de assistência permanente. Limitação: o valor final pode ultrapassar o teto do RGPS. Gabarito B: Antônio tem direito ao acréscimo de 25% sobre sua aposentadoria por incapacidade permanente, pois necessita de assistência permanente de outra pessoa.</p>"
   },
   {
     "num": 70,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_segurados_rgps",
     "modulo_nome": "Segurados do RGPS (Obrigatórios e Facultativos)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LC 150/15 (Doméstica) + Lei 8.213/91:</strong> empregada doméstica segurada tem todos os benefícios do RGPS. <strong>LC 150/15, Art. 26:</strong> FGTS obrigatório para doméstica. Demissão sem justa causa: FGTS + aviso prévio + férias + décimo terceiro. Ação trabalhista: Justiça do Trabalho competente (CF Art. 114).</p>",
+    "dica": "<p>Empregada doméstica (LC 150/15): FGTS obrigatório + todos os direitos trabalhistas. Demissão sem justa causa: aviso prévio, férias + 1/3, 13º proporcional, FGTS + 40%. Gabarito A: Manuela tem direito ao FGTS (inclusive do período anterior à LC 150/15 se houver opção) e pode ajuizar reclamação na Justiça do Trabalho pela rescisão indireta ou dispensa sem justa causa.</p>"
   }
 ]

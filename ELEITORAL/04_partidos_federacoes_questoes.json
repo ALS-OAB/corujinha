@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "04_partidos_federacoes",
     "modulo_nome": "Partidos Políticos e Federações Partidárias",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.096/95, Art. 22-A:</strong> perda do mandato por desfiliação partidária (fidelidade partidária). Joana, deputada estadual, deixa o partido sem justa causa: perde o mandato (TSE Res. 22.526). Justa causa: criação/fusão/incorporação de partido, mudança substancial de orientação programática do partido.</p>",
+    "dica": "<p>Fidelidade partidária (Lei 9.096/95 Art. 22-A + TSE Res. 22.610): desfiliação sem justa causa = perda do mandato. Gabarito C: se Joana se desfilia do partido sem justa causa, perde o mandato de deputada estadual — o cargo pertence ao partido/coligação.</p>"
   },
   {
     "num": 20,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "04_partidos_federacoes",
     "modulo_nome": "Partidos Políticos e Federações Partidárias",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 41-A:</strong> captação ilícita de sufrágio: \"Ressalvado o disposto no Art. 26 e seus incisos, constitui captação de sufrágio [...] o candidato [...] que doar, oferecer, prometer, ou entregar, ao eleitor, com o fim de obter-lhe o voto, bem ou vantagem pessoal de qualquer natureza.\" João doou cimento a Pedro: configura captação ilícita.</p>",
+    "dica": "<p>Captação ilícita de sufrágio (Lei 9.504/97 Art. 41-A): doação de bem a eleitor individual para obter voto = crime eleitoral + cassação do registro/diploma. Gabarito D: João cometeu captação ilícita de sufrágio ao doar cimento a Pedro em troca de voto — sujeito à cassação do registro de candidatura.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_acoes_eleitorais",
     "modulo_nome": "Ações Eleitorais (AIJE, AIME, Representações)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LC 64/90, Art. 1º, I, e:</strong> inelegibilidade de condenados criminalmente com trânsito em julgado por crimes dolosos com pena privativa de liberdade. <strong>Lei 9.096/95:</strong> filiação partidária obrigatória (1 ano de antecedência). Antônio, preocupado com inelegibilidade: deve verificar se tem condenação criminal transitada em julgado.</p>",
+    "dica": "<p>Inelegibilidades (LC 64/90 Art. 1º): condenação criminal com trânsito em julgado = inelegibilidade por 8 anos após cumprimento da pena (Lei da Ficha Limpa). Gabarito C: se Antônio tem condenação transitada em julgado por crime doloso com pena privativa de liberdade, é inelegível — deve verificar sua situação antes de aceitar a candidatura.</p>"
   },
   {
     "num": 19,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "07_acoes_eleitorais",
     "modulo_nome": "Ações Eleitorais (AIJE, AIME, Representações)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 73, VI, c:</strong> proibição de uso de bens ou serviços públicos para fins de campanha. <strong>Art. 73, §4º:</strong> \"O descumprimento do disposto neste artigo acarretará a suspensão imediata da conduta vedada quando for possível, e sujeitará os responsáveis a multa no valor de cinco a cem mil UFIRs.\" João, prefeito, cedeu uso de bem público para campanha.</p>",
+    "dica": "<p>Uso de bens públicos para campanha eleitoral: vedado (Lei 9.504/97 Art. 73, VI, c). Sanção: multa + suspensão da conduta. Reincidência: pode configurar abuso de poder + AIJE. Gabarito C: João praticou conduta vedada ao ceder imóvel público para comício de candidato — sujeito à multa e representação eleitoral.</p>"
   }
 ]

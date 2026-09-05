@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_protecao_contratual",
     "modulo_nome": "Proteção Contratual e Cláusulas Abusivas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 26, II:</strong> prazo decadencial para reclamar vício de produto durável: <strong>90 dias</strong>. <strong>Art. 26, §2º, I:</strong> obsta a decadência: reclamação comprovadamente formulada pelo consumidor ao fornecedor. Eduardo adotou Bernardo: CDC protege o filho (consumidor) em contratos firmados para ele.</p>",
+    "dica": "<p>Prazo para reclamar vício de produto durável: <strong>90 dias</strong> (CDC Art. 26, II). Se há reclamação formal ao fornecedor dentro do prazo: obsta a decadência. Gabarito B: Eduardo deve reclamar o vício dentro de 90 dias do seu aparecimento — a reclamação formal suspende o prazo decadencial.</p>"
   },
   {
     "num": 46,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_protecao_contratual",
     "modulo_nome": "Proteção Contratual e Cláusulas Abusivas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 49:</strong> \"O consumidor pode desistir do contrato, no prazo de 7 dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço, sempre que a contratação de fornecimento de produtos e serviços ocorrer fora do estabelecimento comercial.\" Contrato de pacote de viagens pela loja virtual: fora do estabelecimento = direito de arrependimento em 7 dias.</p>",
+    "dica": "<p>Direito de arrependimento (CDC Art. 49): <strong>7 dias</strong> a partir da assinatura ou recebimento, para contratos celebrados fora do estabelecimento comercial (internet, telefone). Gabarito D: Ângela pode exercer o direito de arrependimento em 7 dias da compra online, sem qualquer ônus.</p>"
   }
 ]

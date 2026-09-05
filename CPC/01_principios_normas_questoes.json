@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.279/96 (LPI), Art. 8º:</strong> é patenteável a invenção que atenda: novidade, atividade inventiva e aplicação industrial. <strong>Art. 6º:</strong> patente pertence ao inventor ou seus sucessores. <strong>Art. 42:</strong> a patente confere ao titular o direito de impedir terceiros de usar sem sua autorização. Esta questão é de EMPRESARIAL (propriedade intelectual) inserida no módulo 01 do CPC.</p>",
+    "dica": "<p>Patente de invenção (LPI Art. 8-9): novidade + atividade inventiva + aplicação industrial. Proteção: 20 anos do depósito (invenção) / 15 anos (modelo de utilidade). Gabarito A: o titular da patente pode impedir terceiros de fabricar, usar, colocar à venda ou importar o produto patenteado sem sua autorização durante o prazo de proteção.</p>"
   },
   {
     "num": 52,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 3º:</strong> não se excluirá da apreciação jurisdicional ameaça ou lesão a direito. <strong>Art. 485, IV:</strong> extinção sem resolução do mérito por ausência de pressupostos processuais. <strong>Art. 485, §7º:</strong> na falta de requisito, o juiz deve dar oportunidade de emenda. Rafael ajuizou ação de despejo: se o fundamento do despejo for insubsistente, caberá sentença de improcedência.</p>",
+    "dica": "<p>Ação de despejo por falta de pagamento (Lei 8.245/91 Art. 9º, III): deve demonstrar o inadimplemento. Luiz pagou: fato extintivo do direito de Rafael. Gabarito C: Rafael não tem mais direito ao despejo se Luiz comprovou o pagamento — a ação deve ser julgada improcedente, pois o fato constitutivo do direito (inadimplemento) foi afastado pelo fato extintivo (pagamento).</p>"
   },
   {
     "num": 54,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 550:</strong> \"Na ação de exigir contas, a petição inicial deve especificar, detalhadamente, as razões pelas quais o autor acredita que o réu está obrigado a prestar contas.\" <strong>Art. 550, §5º:</strong> se o réu não apresentar as contas no prazo de 15 dias, o juiz imputará os fatos alegados pelo autor como verdadeiros. Samuel ajuizou: prazo para Maria prestar contas = 15 dias.</p>",
+    "dica": "<p>Ação de exigir contas (CPC Art. 550): procedimento especial bifásico. 1ª fase: juiz determina que o réu preste contas em 15 dias. Se não prestar: fatos do autor presumidamente verdadeiros. 2ª fase: análise das contas. Gabarito D: Samuel deve aguardar a 1ª fase — o juiz determinará a Maria que preste contas em 15 dias; se ela não o fizer, os fatos alegados por Samuel serão presumidos verdadeiros.</p>"
   },
   {
     "num": 56,
@@ -73,7 +91,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 217:</strong> \"Não se realizarão atos processuais no período de 1º a 31 de janeiro, salvo os urgentes.\" <strong>Art. 229, §2º:</strong> prazos em dobro para litisconsortes com advogados diferentes. <strong>CPC Art. 4º:</strong> as partes têm o direito de obter em prazo razoável a solução integral do mérito. Aline com investimento fraudulento: tutela de urgência cautelar ou antecipada.</p>",
+    "dica": "<p>Tutela de urgência (CPC Art. 300): requisitos — probabilidade do direito + perigo de dano ou risco ao resultado útil. Tutela antecipada antecedente (Art. 303): pode ser concedida antes da contestação. Gabarito C: Aline deve requerer tutela de urgência antecedente (CPC Art. 303-304) para bloquear os valores investidos na Gizé Ltda., demonstrando a probabilidade de fraude e o perigo de dano.</p>"
   },
   {
     "num": 53,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 516, parágrafo único:</strong> o exequente pode optar pelo juízo do local dos bens ou pelo foro do domicílio do executado. <strong>Art. 523:</strong> no cumprimento de sentença que reconhece obrigação de pagar, o devedor tem 15 dias para pagar voluntariamente. <strong>Lei 9.099/95 (JEC), Art. 3º:</strong> competência dos JEC: até 40 salários mínimos.</p>",
+    "dica": "<p>Competência para cumprimento de sentença (CPC Art. 516): juízo onde proferida a sentença (regra geral). JEC: sentença executada no próprio JEC (Lei 9.099/95 Art. 3º + CPC Art. 516, parágrafo único). Gabarito D: Gabriela deve executar a sentença do JEC no próprio juizado especial — o cumprimento de sentença proferida pelo JEC tramita no próprio JEC.</p>"
   },
   {
     "num": 55,
@@ -111,7 +141,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 496 (remessa necessária):</strong> está sujeita ao duplo grau de jurisdição obrigatório a sentença proferida contra a União, Estados, DF, Municípios e autarquias/fundações públicas. Exceções: Art. 496, §3º — sentença fundada em entendimento do STF/STJ em recursos repetitivos. Anacleto x sociedade de telefonia (pessoa jurídica privada): sem remessa necessária.</p>",
+    "dica": "<p>Remessa necessária (CPC Art. 496): obrigatória apenas para sentenças proferidas contra Fazenda Pública. Sociedade empresária privada (Alô) não é Fazenda Pública. Gabarito B: a sentença condenatória contra a Alô (PJ privada) não está sujeita à remessa necessária — o prazo para apelar é o ordinário de 15 dias, e a sentença transita em julgado normalmente.</p>"
   },
   {
     "num": 51,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 327:</strong> \"É lícita a cumulação, em um único processo, contra o mesmo réu, de vários pedidos, ainda que entre eles não haja conexão.\" Requisitos: mesma competência do juízo + compatibilidade dos pedidos + mesmo procedimento (ou conversão ao comum). José fez pedido de danos materiais + morais: cumulação simples válida.</p>",
+    "dica": "<p>Cumulação de pedidos (CPC Art. 327): lícita desde que: mesma competência do juízo + pedidos compatíveis entre si + mesmo tipo de procedimento. Gabarito B: José pode cumular o pedido de danos materiais e morais na mesma petição inicial, pois os requisitos do Art. 327 estão preenchidos — mesma competência e procedimento comum.</p>"
   },
   {
     "num": 53,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_principios_normas",
     "modulo_nome": "Princípios Processuais e Normas Fundamentais do CPC",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 51:</strong> \"Os juizados especiais cíveis têm competência para a conciliação, processo e julgamento das causas cíveis de menor complexidade.\" <strong>Lei 9.099/95, Art. 9º:</strong> nas causas de valor até 20 salários mínimos: desnecessária a assistência de advogado. Acima de 20 SM até 40 SM: obrigatória. Paula no JEC por atraso de voo.</p>",
+    "dica": "<p>Competência do JEC (Lei 9.099/95 Art. 3º): até 40 salários mínimos. Recurso no JEC: turma recursal (não TJ). Gabarito C: a ação de Paula no JEC por atraso de voo (desde que o valor da causa seja de até 40 SM) é corretamente proposta no JEC — mas o recurso vai à Turma Recursal, não ao TJ.</p>"
   }
 ]

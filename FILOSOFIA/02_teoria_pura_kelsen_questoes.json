@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_teoria_pura_kelsen",
     "modulo_nome": "Teoria Pura do Direito (Hans Kelsen)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Biodireito e Princípio da Dignidade Humana (CF Art. 1º, III):</strong> situações que envolvem a vida humana — eutanásia, ortotanásia, estado vegetativo — exigem ponderação de princípios: dignidade, autonomia, vida. <strong>Método da ponderação (Alexy):</strong> proporcionalidade (adequação + necessidade + proporcionalidade em sentido estrito). O advogado deve orientar com base nos princípios constitucionais e no biodireito.</p>",
+    "dica": "<p>Conflito entre princípios (vida x dignidade x autonomia): solução por ponderação (Alexy) — não há hierarquia prévia, aplica-se o princípio que pesa mais no caso concreto. Gabarito C: o operador do direito deve aplicar a ponderação de princípios constitucionais e as normas de biodireito para orientar o cliente.</p>"
   },
   {
     "num": 10,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_teoria_pura_kelsen",
     "modulo_nome": "Teoria Pura do Direito (Hans Kelsen)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Hans Kelsen — Teoria Pura do Direito:</strong> o direito é um sistema de normas escalonado (Stufenbau). A norma inferior retira sua validade da superior; a Constituição, da norma hipotética fundamental (grundnorm). Kelsen separa direito e moral (positivismo normativista). A ciência jurídica deve ser pura de elementos políticos, sociológicos e morais.</p>",
+    "dica": "<p>Kelsen: positivismo normativista + teoria escalonada (pirâmide normativa). Grundnorm (norma hipotética fundamental) valida a Constituição. Pureza metodológica: ciência jurídica não mistura direito com moral ou política. Gabarito B: Kelsen defende que a validade da norma é formal (critério hierárquico), não material (conteúdo justo/injusto).</p>"
   },
   {
     "num": 10,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_teoria_pura_kelsen",
     "modulo_nome": "Teoria Pura do Direito (Hans Kelsen)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Coerência do sistema jurídico — Kelsen e Dworkin:</strong> Kelsen admite lacunas (espaço de discricionariedade do intérprete dentro da moldura normativa). Dworkin defende que o direito tem resposta certa (\"one right answer\") — o juiz Hércules encontra a resposta por meio dos princípios. Hart: regra de reconhecimento unifica o sistema; lacunas = poder discricionário.</p>",
+    "dica": "<p>Três casos com decisões contraditórias em matéria idêntica: problema de coerência do sistema. Kelsen: intérprete tem discricionariedade na moldura. Dworkin: há uma resposta certa. Hart: nos casos difíceis, o juiz tem poder discricionário. Gabarito C: a análise dos casos ilumina o debate sobre integridade do direito (Dworkin) vs. discricionariedade (Hart/Kelsen).</p>"
   }
 ]

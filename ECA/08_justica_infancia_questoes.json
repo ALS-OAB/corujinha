@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_justica_infancia",
     "modulo_nome": "Justiça da Infância e da Juventude e Procedimentos",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 98 + Art. 101:</strong> medidas de proteção aplicáveis quando direitos da criança são violados (inclusive bullying escolar). <strong>Lei 13.185/15 (Combate ao Bullying):</strong> escola tem obrigação de intervir. Pedro, 12 anos, vítima de bullying: tem direito a medidas de proteção + a escola deve agir.</p>",
+    "dica": "<p>Bullying escolar (Lei 13.185/15 + ECA Art. 98): escola deve adotar medidas de combate e proteção. Gabarito A: Pedro tem direito a medidas de proteção (ECA Art. 101), e a escola é obrigada a intervir para cessar o bullying e proteger a criança vítima.</p>"
   },
   {
     "num": 43,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_justica_infancia",
     "modulo_nome": "Justiça da Infância e da Juventude e Procedimentos",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 1.641, II CC (regime de separação obrigatória para maiores de 70 anos):</strong> não é ECA. <strong>ECA, Art. 157:</strong> internação provisória pode ser decretada pelo juiz. Maria e José, Paulo (17 anos): situação de conflito familiar. <strong>ECA, Art. 129, II:</strong> pais podem ser encaminhados a programa de orientação.</p>",
+    "dica": "<p>Adolescente em conflito familiar: Conselho Tutelar e Juizado da Infância podem intervir. Medidas de proteção para Paulo + medidas para os pais (ECA Art. 129). Gabarito D: o juiz da Infância e Juventude é competente para aplicar medidas de proteção a Paulo e aos pais, incluindo acompanhamento familiar.</p>"
   }
 ]

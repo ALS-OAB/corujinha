@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_atos_infracionais",
     "modulo_nome": "Atos Infracionais e Responsabilidade do Adolescente",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 54, III:</strong> \"É dever do Estado assegurar à criança e ao adolescente: [...] atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino.\" <strong>Lei 13.146/15 (Lei Brasileira de Inclusão), Art. 28, IV:</strong> escola deve oferecer professor especializado como apoio pedagógico.</p>",
+    "dica": "<p>Educação inclusiva (ECA Art. 54, III + LBI Art. 28): é dever do Estado garantir atendimento educacional especializado (AEE) ao aluno com deficiência, preferencialmente na rede regular. Gabarito C: a mãe de Joaquim tem razão — a escola pública deve disponibilizar professor especializado como apoio ao aluno com necessidades especiais.</p>"
   },
   {
     "num": 43,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "04_atos_infracionais",
     "modulo_nome": "Atos Infracionais e Responsabilidade do Adolescente",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 18-B, parágrafo único:</strong> \"É vedado o uso de castigo físico, tratamento cruel ou degradante como formas de disciplina de crianças e adolescentes.\" <strong>Lei 13.010/14 (Lei Menino Bernardo):</strong> proibição expressa de palmada e qualquer tipo de punição física. Herminda que bate em Júlia (16 anos) comete crime e violação do ECA.</p>",
+    "dica": "<p>Punição corporal de adolescente: proibida (ECA Art. 18-B + Lei 13.010/14). Gabarito B: Herminda não pode usar castigo físico para disciplinar Júlia — a conduta viola o ECA e pode configurar crime de lesão corporal (CP Art. 129).</p>"
   }
 ]

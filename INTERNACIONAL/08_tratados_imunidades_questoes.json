@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_tratados_imunidades",
     "modulo_nome": "Tratados Internacionais e Imunidade de Jurisdição",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 11:</strong> \"As organizações destinadas a fins de interesse coletivo, como as sociedades e as fundações, obedecem à lei do Estado em que se constituíram.\" Fundação constituída no Brasil: lei brasileira. Reconhecimento por Portugal: lei portuguesa. <strong>Personnalité morale internationale:</strong> ONG pode ter personalidade em múltiplos Estados conforme suas leis internas.</p>",
+    "dica": "<p>Pessoa jurídica de direito privado estrangeira (LINDB Art. 11): constituída segundo a lei do Estado de origem. Para atuar no Brasil: deve solicitar autorização ao Poder Executivo (CC Art. 1.134). Gabarito B: a Fundação constituída no Brasil (1980) rege-se pela lei brasileira; para atuar regularmente em Portugal, deve observar o direito português e solicitar reconhecimento local.</p>"
   },
   {
     "num": 22,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_tratados_imunidades",
     "modulo_nome": "Tratados Internacionais e Imunidade de Jurisdição",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Convenção de Viena sobre o Direito dos Tratados (CVDT/1969), Art. 26:</strong> \"Todo tratado em vigor obriga as partes e deve ser cumprido por elas de boa-fé\" (pacta sunt servanda). <strong>Art. 27:</strong> \"Uma parte não pode invocar as disposições de seu direito interno como justificativa para o inadimplemento de um tratado.\" Princípio da boa-fé + primazia do direito internacional.</p>",
+    "dica": "<p>CVDT Art. 26 (pacta sunt servanda) + Art. 27: o direito interno não pode ser usado para justificar descumprimento de tratado. Gabarito A: a afirmativa correta é a que reconhece o princípio pacta sunt servanda e a vedação de invocar o direito interno para descumprir obrigação internacional.</p>"
   }
 ]

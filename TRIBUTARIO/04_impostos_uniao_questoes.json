@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_impostos_uniao",
     "modulo_nome": "Impostos da União (IR, IPI, II, IE, ITR)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 185-A (medida cautelar fiscal):</strong> citado em execução fiscal sem pagamento: o juiz pode determinar a indisponibilidade de bens e direitos do devedor. <strong>Lei 6.830/80 (LEF), Art. 8º:</strong> prazo de 5 dias para pagar ou garantir a execução. João citado e não pagou: penhora de bens (Art. 11 LEF), em ordem de preferência.</p>",
+    "dica": "<p>Execução fiscal (Lei 6.830/80): citação → 5 dias para pagar ou garantir a execução → penhora de bens na ordem do Art. 11. Sequência: dinheiro em depósito, título, ações, veículos, imóveis. Gabarito C: João deve pagar ou garantir a execução em 5 dias. Se não o fizer, o Fisco pode requerer penhora de bens na ordem legal (LEF Art. 11).</p>"
   },
   {
     "num": 26,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "04_impostos_uniao",
     "modulo_nome": "Impostos da União (IR, IPI, II, IE, ITR)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 149 + Art. 8º, I:</strong> contribuição sindical (antes obrigatória — agora facultativa após Reforma Trabalhista). <strong>Art. 149:</strong> contribuições sociais são tributos: exigência de lei para criação. <strong>CTN, Art. 96:</strong> legislação tributária inclui tratados, convenções, decretos e normas complementares. Contribuição sindical facultativa: não há mais obrigação de pagamento.</p>",
+    "dica": "<p>Contribuição sindical (CLT Art. 578, com redação da Lei 13.467/17): passou a ser facultativa. Antes era tributo (CF Art. 149). Gabarito D: após a Reforma Trabalhista (2017), a contribuição sindical é facultativa — o sindicato não pode cobrar compulsoriamente. A adesão exige autorização expressa e individual de cada trabalhador.</p>"
   },
   {
     "num": 29,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_impostos_uniao",
     "modulo_nome": "Impostos da União (IR, IPI, II, IE, ITR)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 153, IV (IPI) + Art. 155, §2º, XII, b (ICMS):</strong> Convênio CONFAZ para isenção de ICMS. O Município não pode administrar nem fiscalizar o IPI — competência exclusiva da União. <strong>CF Art. 37, XXII:</strong> administrações tributárias dos entes: podem ser delegadas? Lei complementar pode autorizar convênio de fiscalização.</p>",
+    "dica": "<p>Delegação de fiscalização tributária: CF Art. 37, XXII: administrações tributárias essenciais ao funcionamento do Estado — convênio de delegação da União ao Município para fiscalizar IPI: possível por lei complementar federal. Gabarito B: a celebração do convênio de delegação do IPI ao Município depende de autorização por lei complementar federal — não pode ser feito apenas por convênio administrativo.</p>"
   },
   {
     "num": 27,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_impostos_uniao",
     "modulo_nome": "Impostos da União (IR, IPI, II, IE, ITR)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, §4º (decadência do lançamento):</strong> \"Se a lei não fixar prazo à homologação, será ele de cinco anos, a contar da ocorrência do fato gerador; expirado esse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento.\" Auto de infração junho de 2022 por fato de 2016: verificar decadência.</p>",
+    "dica": "<p>Decadência tributária: lançamento por homologação (IRPJ/CSLL): 5 anos do fato gerador para a Fazenda homologar ou lavrar auto de infração. Fato de 2016 + auto de infração de junho de 2022 = 6 anos: decadência consumada. Gabarito A: o auto de infração lavrado em junho de 2022 por tributo sujeito a lançamento por homologação ocorrido em 2016 está caduco — passaram-se mais de 5 anos.</p>"
   },
   {
     "num": 25,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "04_impostos_uniao",
     "modulo_nome": "Impostos da União (IR, IPI, II, IE, ITR)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>STJ RE 379.572 + CF Art. 155, III:</strong> IPVA não incide sobre embarcações e aeronaves. Paulo, proprietário de lancha (embarcação): IPVA não cobrado pelo Estado de SP (Súmula STJ 296 implícita — embarcação não é veículo automotor para fins de IPVA). Decisão do STF: IPVA = veículos automotores terrestres.</p>",
+    "dica": "<p>IPVA sobre embarcações: inconstitucional (STF RE 379.572). O IPVA incide apenas sobre veículos automotores terrestres (STF). Gabarito C: Paulo não deve IPVA sobre a lancha — embarcações não estão sujeitas ao IPVA, conforme entendimento consolidado do STF.</p>"
   },
   {
     "num": 28,
@@ -111,6 +141,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_impostos_uniao",
     "modulo_nome": "Impostos da União (IR, IPI, II, IE, ITR)",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, VI, c:</strong> imunidade tributária das entidades beneficentes de assistência social: abrange o patrimônio, renda e serviços relacionados às finalidades essenciais. <strong>Educando 100% com CEBAS:</strong> imunidade de IPTU, IRPJ, CSLL, PIS, COFINS. Exige: não distribuição de lucros, aplicação no país, escrituração contábil.</p>",
+    "dica": "<p>Imunidade das entidades beneficentes (CF Art. 150, VI, c + Art. 195, §7º): abrange tributos sobre patrimônio, renda e serviços vinculados às finalidades essenciais. CEBAS: certifica a imunidade previdenciária. Gabarito B: Educando 100% com CEBAS faz jus à imunidade tributária ampla (IPTU, IRPJ etc.) para patrimônio e renda vinculados às suas atividades essenciais.</p>"
   }
 ]

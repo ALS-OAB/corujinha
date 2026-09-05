@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 407:</strong> o documento público faz prova plena quanto: à sua formação, ao fato que o tabelião declarar que ocorreu em sua presença e à declaração do oficial. <strong>Art. 408:</strong> o documento público faz prova da declaração de vontade das partes. Marcela cobra aluguéis de Gabriel: se houver contrato escrito, é prova documental (Art. 784, VIII — título executivo extrajudicial).</p>",
+    "dica": "<p>Contrato de locação como título executivo extrajudicial (CPC Art. 784, VIII): instrumento particular assinado pelas partes + duas testemunhas. Ação de cobrança: pode ajuizar ação de cobrança (conhecimento) ou execução de título extrajudicial. Gabarito B: Marcela pode ajuizar ação monitória (CPC Art. 700) ou execução de título extrajudicial se o contrato preencher os requisitos do Art. 784, VIII.</p>"
   },
   {
     "num": 56,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 600 (dissolução parcial de sociedade):</strong> Humberto, Paulo e Maria eram sócios da Incorporadora Ltda. Com o falecimento de Paulo: seus herdeiros podem ser chamados ao processo ou a sociedade é dissolvida parcialmente com apuração de haveres (CC Art. 1.028). <strong>CPC Art. 601:</strong> ação de dissolução parcial pode ser proposta pelos sócios ou pelos herdeiros do sócio falecido.</p>",
+    "dica": "<p>Dissolução parcial de sociedade por morte do sócio (CC Art. 1.028 + CPC Art. 600 ss.): os herdeiros do sócio falecido podem ser incorporados à sociedade (se o contrato social permitir) ou receber os haveres. Gabarito B: Humberto e Maria podem propor ação de dissolução parcial para apurar os haveres correspondentes à quota de Paulo, pagando aos seus herdeiros.</p>"
   },
   {
     "num": 52,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 700 (ação monitória):</strong> \"A ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz: I — o pagamento de quantia em dinheiro.\" Leonardo comprou televisão a prazo sem título executivo: prova escrita (nota fiscal, recibo parcial) permite propor monitória.</p>",
+    "dica": "<p>Ação monitória (CPC Art. 700): cabível quando há prova escrita sem eficácia de título executivo. Réu pode opor embargos monitórios em 15 dias (Art. 702). Se não opõe: mandado monitório torna-se título executivo. Gabarito D: Leonardo pode ajuizar ação monitória apresentando prova escrita da dívida — se o réu não opuser embargos em 15 dias, o mandado se torna executivo.</p>"
   },
   {
     "num": 55,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.245/91 (Inquilinato), Art. 58, II:</strong> no processo de locação, cabe o arrolamento de bens. <strong>Lei 9.099/95 + CPC:</strong> retificação de sentença. Maria Joana x Mariana (locação tranquila): renovatória de locação (Lei 8.245/91 Art. 51) para locação comercial, ou simples renovação para residencial. A questão envolve pretensão renovatória.</p>",
+    "dica": "<p>Renovação de locação comercial (Lei 8.245/91 Art. 51): locatário comercial com contrato de 5+ anos tem direito à renovação compulsória. Ação renovatória: proposta entre 1 ano e 6 meses antes do vencimento. Gabarito C: se Maria Joana tem locação comercial com os requisitos do Art. 51, pode propor ação renovatória para assegurar a renovação — mesmo que Mariana prefira não renovar.</p>"
   },
   {
     "num": 51,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.610/98 (Direitos Autorais) + CC Art. 186:</strong> show em arena com 10 mil pessoas = show de grande porte. Acidente no show: responsabilidade civil do organizador (risco da atividade — CC Art. 927, p.u.). <strong>CPC Art. 6º:</strong> celeridade na prestação jurisdicional. Rodrigo e Thaís vítimas de acidente no show: ação de indenização.</p>",
+    "dica": "<p>Responsabilidade civil do organizador de evento (CC Art. 927, parágrafo único): responsabilidade objetiva quando a atividade implica risco para terceiros. CDC aplicável se os espectadores são consumidores. Gabarito C: Rodrigo e Thaís podem ajuizar ação de indenização por danos materiais e morais contra o organizador do show, que responde objetivamente pelo acidente ocorrido nas instalações do evento.</p>"
   },
   {
     "num": 53,
@@ -110,7 +140,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 917 (embargos à execução):</strong> \"Nos embargos à execução, o executado poderá alegar: [...] III — inexequibilidade do título ou inexigibilidade da obrigação; IV — penhora incorreta ou avaliação errônea; V — excesso de execução.\" Murilo executou Marília: depois da penhora, Marília tem 15 dias para embargar.</p>",
+    "dica": "<p>Embargos à execução de título extrajudicial (CPC Art. 915): prazo de 15 dias após a intimação da penhora. Efeito suspensivo: não automático (depende de decisão judicial). Gabarito A: Marília deve opor embargos à execução no prazo de 15 dias após a intimação da penhora, alegando as matérias do Art. 917 CPC — incluindo excesso de execução ou inexequibilidade do título.</p>"
   },
   {
     "num": 55,
@@ -129,6 +165,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "05_provas_sentenca",
     "modulo_nome": "Instrução Probatória e Sentença",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 518 (coisa julgada + cumprimento de sentença):</strong> \"Julgada procedente a execução, transitada em julgado a sentença, o juiz determinará ao executado o cumprimento.\" <strong>Art. 525, §1º, VII:</strong> excesso de execução: matéria de impugnação. Glauco iniciou cumprimento de sentença após trânsito em julgado: Alex pode impugnar em 15 dias.</p>",
+    "dica": "<p>Cumprimento de sentença (CPC Art. 523): intimação para pagar em 15 dias. Se não pagar: multa de 10% + honorários de 10%. Impugnação (Art. 525): 15 dias após a intimação do auto de penhora. Gabarito B: Alex foi intimado do cumprimento de sentença — tem 15 dias para pagar voluntariamente; se não pagar, incide multa de 10% e honorários de 10%, e pode ser instaurada a fase de penhora.</p>"
   }
 ]

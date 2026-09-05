@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_financiamento_contas",
     "modulo_nome": "Financiamento de Campanha e Prestação de Contas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 30-A:</strong> prestação de contas obrigatória para todos os candidatos, eleitos ou não. <strong>CE, Art. 81, §1º:</strong> candidato eleito que não presta contas no prazo: fica inelegível até regularizar. João, eleito prefeito, não prestou contas regularmente: sujeito a sanção eleitoral.</p>",
+    "dica": "<p>Prestação de contas eleitorais (Lei 9.504/97 Art. 28 ss): obrigatória para todos os candidatos. Descumprimento: candidato fica com as contas desaprovadas → possível inelegibilidade (LC 64/90 Art. 1º, I, g). Gabarito A: João deve prestar contas mesmo sendo eleito — a desorganização financeira pode levá-lo à inelegibilidade se as contas forem rejeitadas.</p>"
   },
   {
     "num": 20,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_financiamento_contas",
     "modulo_nome": "Financiamento de Campanha e Prestação de Contas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LC 64/90, Art. 1º, I, g:</strong> inelegibilidade de quem tiver contas relativas ao exercício de cargo ou função pública rejeitadas por irregularidade insanável. <strong>Lei 9.504/97, Art. 30-A:</strong> arrecadação ou gasto ilícito = cassação do diploma. Pedro, candidato a prefeito com financiamento irregular: cassação do diploma + inelegibilidade.</p>",
+    "dica": "<p>Financiamento irregular de campanha (Lei 9.504/97 Art. 30-A): arrecadação ou gasto ilícito = cassação do diploma do eleito. Prazo: 15 dias após diplomação (AIME). Gabarito C: Pedro, com financiamento de campanha irregular confirmado, pode ter seu diploma cassado por infração ao Art. 30-A da Lei 9.504/97.</p>"
   }
 ]

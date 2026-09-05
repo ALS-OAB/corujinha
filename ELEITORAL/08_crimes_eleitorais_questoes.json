@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_crimes_eleitorais",
     "modulo_nome": "Crimes Eleitorais e Processo Penal Eleitoral",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 11 + Art. 13:</strong> registro de candidatura. <strong>LC 64/90, Art. 1º:</strong> inelegibilidades. Joana requereu registro em Município do Estado Alfa: deve comprovar domicílio eleitoral. <strong>CE, Art. 9º:</strong> o registro deve ser requerido na circunscrição eleitoral correspondente.</p>",
+    "dica": "<p>Registro de candidatura (Lei 9.504/97 Art. 11): pedido ao juízo eleitoral com documentação completa. Inelegibilidades: verificadas pelo MP e partidos adversários. Gabarito B: Joana deve comprovar domicílio eleitoral no Município Alfa + ausência de inelegibilidades para ter seu registro deferido.</p>"
   },
   {
     "num": 20,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_crimes_eleitorais",
     "modulo_nome": "Crimes Eleitorais e Processo Penal Eleitoral",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.504/97, Art. 22, XIV:</strong> o Fundo Especial de Financiamento de Campanha (FEFC) é distribuído aos partidos conforme critérios de representação. <strong>Art. 23-A + Art. 23:</strong> recursos do FEFC: destinados exclusivamente às campanhas. Tesoureiro do partido recebe os recursos: responsabilidade pela prestação de contas.</p>",
+    "dica": "<p>FEFC e financiamento público de campanha (Lei 9.504/97 Art. 22 ss): recursos distribuídos aos partidos e repassados às campanhas. Tesoureiro do partido: responsável pela gestão dos recursos e prestação de contas ao TRE/TSE. Gabarito A: o tesoureiro é responsável pela correta aplicação dos recursos do FEFC e pela prestação de contas das campanhas eleitorais do partido.</p>"
   }
 ]

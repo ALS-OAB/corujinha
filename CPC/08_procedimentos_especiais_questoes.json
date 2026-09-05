@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 784, I (título executivo extrajudicial):</strong> \"A letra de câmbio, a nota promissória, a duplicata, a debênture e o cheque.\" Contrato de compra e venda com força de título executivo (Art. 784, III): \"o documento particular assinado pelo devedor e por 2 (duas) testemunhas.\" Joaquim com contrato: verificar se é título executivo (Art. 784).</p>",
+    "dica": "<p>Título executivo extrajudicial (CPC Art. 784, III): documento particular + assinatura do devedor + 2 testemunhas. Se o contrato tem força de título executivo: Joaquim pode ajuizar execução diretamente. Gabarito B: Joaquim pode executar o contrato de compra e venda diretamente se ele for título executivo extrajudicial (Art. 784, III CPC) — sem necessidade de ação de conhecimento.</p>"
   },
   {
     "num": 53,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 292 (valor da causa):</strong> o valor da causa deve corresponder ao benefício econômico pretendido. <strong>CPC Art. 337, III:</strong> incorreção do valor da causa: matéria de contestação (preliminar). Martina ajuizou ação com valor excessivo: Marcela pode impugnar o valor da causa em preliminar de contestação (Art. 293).</p>",
+    "dica": "<p>Impugnação ao valor da causa (CPC Art. 293): o réu deve impugnar na contestação, em preliminar. O juiz decide de plano. Gabarito C: Marcela deve impugnar o valor da causa na contestação (Art. 293 CPC), em preliminar, apontando qual seria o valor correto — o juiz decidirá antes de prosseguir o processo.</p>"
   },
   {
     "num": 55,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 910 (execução contra Fazenda Pública):</strong> condenação da Fazenda: pagamento por precatório (CF Art. 100). <strong>CPC Art. 534:</strong> cumprimento de sentença contra a Fazenda: intimação para pagar via precatório. Marcos, servidor estadual, obteve sentença: deve requerer o cumprimento via precatório.</p>",
+    "dica": "<p>Cumprimento de sentença contra Fazenda Pública (CPC Art. 534 ss.): após o trânsito em julgado, o credor requer o cumprimento; a Fazenda é intimada para pagar por precatório (CF Art. 100). Gabarito D: Marcos deve requerer o cumprimento de sentença após o trânsito em julgado — o Estado será intimado a pagar via precatório ou RPV (se o valor for de até 60 SM para os Estados).</p>"
   },
   {
     "num": 52,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 1.015, I (agravo de instrumento):</strong> cabível contra decisão interlocutória que versa sobre tutelas provisórias. Neusa ajuizou ação condenatória: se o juiz conceder tutela de urgência em decisão interlocutória — o réu pode interpor agravo de instrumento. <strong>Art. 1.016:</strong> prazo = 15 dias.</p>",
+    "dica": "<p>Agravo de instrumento (CPC Art. 1.015, I): contra decisão interlocutória que concede/nega tutela provisória. Prazo: 15 dias. Gabarito C: Marcelo deve interpor agravo de instrumento em 15 dias contra a decisão interlocutória que concedeu tutela de urgência a Neusa — é o único recurso cabível contra decisões interlocutórias que concedem tutelas provisórias.</p>"
   },
   {
     "num": 54,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 528 (cumprimento de sentença de alimentos):</strong> quando o executado deve alimentos, o juiz manda pagar em 3 dias ou justificar. <strong>§3º:</strong> se não pagar nem justificar: prisão de 1 a 3 meses em regime fechado. Sentença de alimentos procedente: Juliano deve pagar a Henrique (filho). Execução: cumprimento pelo rito do Art. 528.</p>",
+    "dica": "<p>Cumprimento de sentença de alimentos (CPC Art. 528): prazo de 3 dias para pagar ou justificar. Não pagando nem justificando: prisão civil de 1 a 3 meses, em regime fechado. Gabarito A: Henrique pode iniciar o cumprimento de sentença de alimentos, com pedido de prisão civil de Juliano se ele não pagar as parcelas devidas em 3 dias.</p>"
   },
   {
     "num": 56,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 539 (consignação em pagamento):</strong> \"Requerer-se-á a consignação no lugar do pagamento, cessando para o devedor, tanto que se efetue o depósito, os juros e os riscos.\" <strong>Art. 540:</strong> réu (locadora) que recusa receber: locatário deposita em juízo. Pedro que consigna: cessa a mora.</p>",
+    "dica": "<p>Consignação em pagamento (CPC Art. 539-549): o devedor deposita a quantia devida em juízo quando o credor recusa receber. A consignação válida extingue a obrigação (CC Art. 336). Gabarito D: Pedro deve ajuizar ação de consignação em pagamento, depositando o valor do aluguel em juízo — a ação é proposta no local do pagamento (CPC Art. 540) e cessa a mora do locatário desde o depósito.</p>"
   },
   {
     "num": 52,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_procedimentos_especiais",
     "modulo_nome": "Procedimentos Especiais e Juizados Especiais Cíveis",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 1.021 (agravo interno):</strong> \"Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.\" Decisão monocrática do relator: agravo interno em 15 dias. Juciara vs. Carla (acidente de trânsito): se relator negou provimento monocraticamente.</p>",
+    "dica": "<p>Agravo interno (CPC Art. 1.021): contra decisão monocrática do relator, para o órgão colegiado do tribunal. Prazo: 15 dias. Gabarito C: Juciara deve interpor agravo interno (CPC Art. 1.021) em 15 dias contra a decisão monocrática do relator que negou provimento ao seu recurso — o colegiado irá reapreciar a decisão.</p>"
   }
 ]

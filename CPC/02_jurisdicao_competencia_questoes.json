@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 982 + Art. 966, parágrafo único:</strong> médicos que constituem sociedade cujo objeto é serviço intelectual (medicina): sociedade simples. Registro: Cartório de Registro de Pessoas Jurídicas (não Junta Comercial). LTDA de médicos: possível como tipo formal, mas objeto continua sendo atividade simples (intelectual).</p>",
+    "dica": "<p>Sociedade de médicos (CC Art. 966 p.u. + 982): objeto intelectual/científico = sociedade simples. Registro: CRPJ. Pode adotar tipo LTDA (CC Art. 1.040), mas continua sendo sociedade simples quanto ao regime jurídico. Gabarito C: a sociedade de três médicos com objeto de prestação de serviços médicos é sociedade simples, devendo ser registrada no Cartório de CRPJ.</p>"
   },
   {
     "num": 53,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 319, VII:</strong> a petição inicial deve indicar a opção do autor pela realização ou não da audiência de conciliação ou mediação. <strong>Art. 334:</strong> audiência de conciliação marcada no prazo de 20 a 60 dias. Luíza declarou que não tem interesse na conciliação: o juiz poderá dispensar a audiência se ambas as partes assim manifestarem (§4º, I).</p>",
+    "dica": "<p>Audiência de conciliação (CPC Art. 334): obrigatória, exceto se: ambas as partes manifestarem desinteresse (§4º, I) ou o direito não admitir autocomposição (§4º, II). Gabarito D: se Luíza manifestou desinteresse na conciliação na petição inicial e Ricardo também manifestar, o juiz dispensará a audiência — mas apenas a manifestação de uma das partes não é suficiente para a dispensa.</p>"
   },
   {
     "num": 55,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 75, IX:</strong> a pessoa jurídica estrangeira é representada em juízo pelo gerente, representante ou administrador de sua filial, agência ou sucursal aberta ou instalada no Brasil. General Food (britânica) com filial no Brasil: representada pela filial no Brasil. Presidente brasileiro da empresa-mãe: representa a empresa no exterior, não necessariamente a filial.</p>",
+    "dica": "<p>Representação processual de PJ estrangeira (CPC Art. 75, IX): pelo gerente/representante da filial no Brasil. Gabarito D: a General Food deve ser representada em juízo pelo representante de sua filial instalada no Brasil — o presidente brasileiro da empresa-mãe não é automaticamente o representante processual da filial brasileira.</p>"
   },
   {
     "num": 51,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 144 (impedimento) + Art. 145 (suspeição):</strong> Bernardo, ao tomar posse como juiz, atuou 2 anos como membro do MP, participando de ações na comarca. <strong>Art. 144, IV:</strong> o juiz é impedido quando: \"interveio como mandatário da parte, officiou como perito, funcionou como membro do Ministério Público.\" Impedimento se ele atuou como MP nos processos que agora julgará.</p>",
+    "dica": "<p>Impedimento do juiz (CPC Art. 144, IV): impossibilidade de julgar quando atuou como membro do MP no mesmo processo. Bernardo que atuou como MP em 2 anos: impedido de julgar processos em que participou como promotor. Gabarito D: Bernardo é impedido de julgar os processos nos quais atuou como membro do MP — impedimento absoluto (Art. 144, IV CPC).</p>"
   },
   {
     "num": 54,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 76:</strong> o advogado-réu que litiga em causa própria (jus postulandi) pode fazê-lo, mas sua qualidade processual é de parte, não de advogado. <strong>Art. 85, §17:</strong> \"São devidos honorários advocatícios quando o advogado atua em causa própria.\" João, advogado em causa própria, condenado: sucumbiu — tem que pagar honorários e pode receber honorários se a sentença reformada lhe for favorável.</p>",
+    "dica": "<p>Advogado em causa própria (CPC Art. 85, §17): faz jus a honorários de sucumbência se ganhar a causa. Gabarito B: João, ao litigar em causa própria e ser condenado, pode recorrer e, se tiver sucesso no recurso, terá direito aos honorários advocatícios advocatícios como sucumbência invertida — mesmo atuando em causa própria.</p>"
   },
   {
     "num": 56,
@@ -111,7 +141,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 3º, §1º:</strong> é permitida a arbitragem. <strong>Lei 9.307/96 (Arbitragem), Art. 7º:</strong> cláusula compromissória: se uma das partes recusar a arbitragem, a outra pode pleitear em juízo a instituição da arbitragem. João e Marina com cláusula compromissória arbitral: o contrato remete ao árbitro para resolver conflitos — juízo estatal é incompetente (Art. 485, VII CPC).</p>",
+    "dica": "<p>Cláusula compromissória (Lei 9.307/96 Art. 4º + CPC Art. 485, VII): se as partes pactuaram arbitragem, o juízo estatal é incompetente — deve extinguir sem resolução do mérito se suscitada a exceção. Gabarito B: o juiz deve extinguir o processo sem resolução do mérito (CPC Art. 485, VII) em razão da cláusula compromissória — João deve submeter o conflito ao árbitro.</p>"
   },
   {
     "num": 52,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 114 (litisconsórcio necessário) + Art. 115:</strong> litisconsórcio passivo necessário: \"quando, por imposição de lei ou pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.\" Joana x João e Regina: dolo praticado em conjunto — necessidade de citar todos os réus. Sentença ineficaz sem a citação de todos.</p>",
+    "dica": "<p>Litisconsórcio necessário (CPC Art. 114): quando a eficácia da sentença depender da presença de todos os réus. Nulidade da sentença proferida sem a citação de litisconsorte necessário (CPC Art. 115, I). Gabarito C: Joana deve citar João e Regina conjuntamente (litisconsórcio necessário) — a sentença proferida sem a citação de ambos é ineficaz perante o que não foi citado.</p>"
   },
   {
     "num": 54,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_jurisdicao_competencia",
     "modulo_nome": "Jurisdição, Competência e Sujeitos do Processo",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 516 (cumprimento de sentença): parágrafo único:</strong> o exequente pode optar pelo juízo: I — onde tramitou o processo de conhecimento; II — do local dos bens; III — do domicílio do executado. <strong>Art. 523:</strong> intimação para pagar em 15 dias. Aziz x Betina: sentença proferida pelo juízo X — execução no mesmo juízo (regra geral) ou opção do Art. 516.</p>",
+    "dica": "<p>Foro de cumprimento de sentença (CPC Art. 516, parágrafo único): exequente pode optar pelo juízo onde tramitou o processo, onde estão os bens ou o domicílio do executado. Gabarito C: Aziz pode optar pelo foro do domicílio de Betina para executar a sentença — CPC Art. 516, parágrafo único, III.</p>"
   }
 ]

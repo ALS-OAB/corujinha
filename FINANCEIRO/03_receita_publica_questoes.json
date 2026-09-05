@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "03_receita_publica",
     "modulo_nome": "Receita Pública e Estágios da Receita",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 66, §3º:</strong> se o Presidente não vetar nem sancionar no prazo de 15 dias úteis: promulgação tácita. <strong>Art. 66, §7º:</strong> \"Se a lei não for promulgada dentro de 48 horas pelo Presidente [...] o Presidente do Senado a promulgará.\" Impasse no LOA: se o Presidente não enviar o PLOA no prazo (31/08 — CF Art. 35 ADCT) e o Congresso não votar: prorrogado o orçamento anterior (CF Art. 35, §8º ADCT).</p>",
+    "dica": "<p>LOA: prazo do Executivo = até 31/08. Se não enviada + Congresso não delibera: reprodução do LOA do exercício anterior, no valor de 1/12 mensal. Gabarito C: diante da inércia do Executivo + impasse no Congresso, a LOA do ano anterior é automaticamente prorrogada pelo sistema constitucional.</p>"
   },
   {
     "num": 23,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_receita_publica",
     "modulo_nome": "Receita Pública e Estágios da Receita",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LRF, Art. 22, parágrafo único:</strong> se a despesa de pessoal do ente ultrapassar 90% do limite: vedado: novos concursos, nova admissão/contratação (salvo reposição de cargos de chefia/direção e assessoramento), criação de cargo, emprego ou função. <strong>Art. 23:</strong> ultrapassado o limite: reduzir nos dois quadrimestres seguintes.</p>",
+    "dica": "<p>Estado que ultrapassou o limite de pessoal (LRF Art. 22): vedações imediatas: novos concursos, contratações, aumento de remuneração, criação de cargos. Deve reduzir a despesa em até 2 quadrimestres. Gabarito D: o Estado Beta deve eliminar cargos em comissão e exonerar contratados temporários, além de vedar novos concursos.</p>"
   }
 ]

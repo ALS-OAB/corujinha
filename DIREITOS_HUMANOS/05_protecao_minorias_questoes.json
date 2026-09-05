@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_protecao_minorias",
     "modulo_nome": "Proteção aos Grupos Vulneráveis e Minorias",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.146/15 (LBI — Estatuto da Pessoa com Deficiência), Art. 84:</strong> \"A pessoa com deficiência tem assegurado o direito ao exercício de sua capacidade legal em igualdade de condições com as demais pessoas.\" <strong>Art. 85:</strong> curatela = medida extraordinária. Advogado deve orientar sobre curatela parcial.</p>",
+    "dica": "<p>Pessoa com deficiência (LBI Art. 84): capacidade legal plena como regra. Curatela: medida extraordinária, restrita a atos patrimoniais e negociais (Art. 85). Gabarito B: o filho com deficiência tem capacidade civil plena; curatela só se necessário para proteção em atos específicos — não elimina sua autonomia.</p>"
   },
   {
     "num": 17,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_protecao_minorias",
     "modulo_nome": "Proteção aos Grupos Vulneráveis e Minorias",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Protocolo de San Salvador (PSS), Art. 8º + Convenção 87 OIT:</strong> direito de sindicalização. <strong>CADH, Art. 16 (liberdade de associação):</strong> direito a fundar e filiar-se a sindicatos. ONG de defesa de LGBTQIA+: pode invocar proteção da CADH Art. 11 (honra e dignidade) + Art. 24 (igualdade).</p>",
+    "dica": "<p>Proteção de grupos LGBTQIA+ no SIDH: CADH Arts. 11 (vida privada/honra) + 24 (igualdade sem discriminação). Corte IDH: Opinião Consultiva OC-24/17 reconhece direitos das pessoas LGBTQIA+. Gabarito C: a ONG pode invocar a CADH (Arts. 11 e 24) e a OC-24/17 da Corte IDH para defender os direitos de seus membros.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_relacao_consumo",
     "modulo_nome": "Conceito de Consumidor, Fornecedor e Relação de Consumo",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 2º, parágrafo único:</strong> \"Equipara-se a consumidor a coletividade de pessoas, ainda que indetermináveis, que haja intervindo nas relações de consumo.\" <strong>Art. 22:</strong> \"Os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados.\" Entidade governamental que adquire produto: consumidora se destinatária final.</p>",
+    "dica": "<p>Entidade governamental pode ser consumidora (CDC) se for destinatária final de produto/serviço. Gabarito B: Casa dos Anjos, ao adquirir produto para uso interno (alimentação dos internos), é destinatária final = equipara-se a consumidora (CDC Art. 2º, parágrafo único).</p>"
   },
   {
     "num": 46,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_relacao_consumo",
     "modulo_nome": "Conceito de Consumidor, Fornecedor e Relação de Consumo",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 39, IV:</strong> prática abusiva: \"prevalecer-se da fraqueza ou ignorância do consumidor, tendo em vista sua idade, saúde, conhecimento ou condição social, para impingir-lhe seus produtos ou serviços.\" Idosa de 89 anos atraída por ligação telefônica para contratar crédito consignado: hipervulnerabilidade. <strong>Art. 54-B (superendividamento):</strong> proteção especial.</p>",
+    "dica": "<p>Hipervulnerabilidade de idoso (CDC Art. 39, IV): proibida a abordagem que explore a fraqueza/ignorância. Gabarito A: a prática de ligar para Jordana (89 anos) e induzi-la a contratar é abusiva. Solução: pleitear nulidade do contrato (CDC Art. 46 + 51) + reparação de danos.</p>"
   },
   {
     "num": 45,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_relacao_consumo",
     "modulo_nome": "Conceito de Consumidor, Fornecedor e Relação de Consumo",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 54-A ss (superendividamento — Lei 14.181/21):</strong> \"É direito do consumidor em situação de superendividamento [...] a instauração de processo de repactuação de dívidas.\" Art. 54-D: reunião de todos os credores para elaborar plano de pagamento. Banco Y é credor de Mário: deve participar do processo de repactuação.</p>",
+    "dica": "<p>Superendividamento (CDC Art. 54-A ss, Lei 14.181/21): consumidor pode requerer processo de repactuação judicial com todos os credores. Gabarito B: Mário tem direito à repactuação; o Banco Y, sendo credor, deve ser incluído no processo e participar da negociação do plano de pagamento.</p>"
   }
 ]

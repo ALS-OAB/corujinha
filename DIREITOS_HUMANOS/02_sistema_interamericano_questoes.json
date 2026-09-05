@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_sistema_interamericano",
     "modulo_nome": "Sistema Interamericano de Direitos Humanos (CADH / Pacto de San José)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CADH, Art. 63, §2º:</strong> medidas provisórias da Corte IDH: \"Em casos de extrema gravidade e urgência [...] poderá tomar as medidas provisórias que considerar pertinentes.\" Caso de extrema gravidade: advogado deve recorrer à Comissão IDH (Art. 44 CADH) para medidas cautelares urgentes, antes da Corte (que depende de esgotamento de recursos internos — Art. 46).</p>",
+    "dica": "<p>Medidas cautelares urgentes no Sistema Interamericano: Comissão IDH pode decretar medidas cautelares (Art. 25 Regulamento CIDH) sem esgotamento prévio de recursos internos, se houver urgência e gravidade. Gabarito D: o advogado deve requerer medidas cautelares à Comissão IDH — não é necessário esgotar recursos internos para medidas urgentes.</p>"
   },
   {
     "num": 18,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_sistema_interamericano",
     "modulo_nome": "Sistema Interamericano de Direitos Humanos (CADH / Pacto de San José)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CADH, Art. 1º + Art. 24 (igualdade):</strong> os Estados devem garantir os direitos da CADH a toda pessoa sujeita à sua jurisdição, sem discriminação. Imigrantes residentes no Brasil: têm os mesmos direitos fundamentais que os cidadãos brasileiros (CF Art. 5º + CADH). Exceção: direitos políticos.</p>",
+    "dica": "<p>Direitos dos imigrantes: CF Art. 5º, caput estende direitos a estrangeiros residentes. CADH protege toda pessoa sob jurisdição do Estado, sem discriminação. Gabarito B: os imigrantes residentes têm direito a todos os direitos fundamentais previstos na CF e na CADH, exceto direitos políticos (votar/ser votado).</p>"
   },
   {
     "num": 18,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_sistema_interamericano",
     "modulo_nome": "Sistema Interamericano de Direitos Humanos (CADH / Pacto de San José)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Corte IDH, Caso Castillo Petruzzi e outros vs. Peru (1999):</strong> proteção judicial não pode ser suspensa nem em estado de emergência. <strong>CADH, Art. 27, §2º:</strong> direitos não derrogáveis: Art. 3 (personalidade jurídica), 4 (vida), 5 (integridade), 6 (escravidão), 9 (legalidade), 12 (consciência), 17 (família), 18 (nome), 19 (criança), 20 (nacionalidade), 23 (direitos políticos) e as garantias judiciais indispensáveis.</p>",
+    "dica": "<p>Direitos não derrogáveis na CADH (Art. 27, §2º): vida, integridade, não escravidão, legalidade, nome, família, criança, consciência + garantias judiciais indispensáveis. Gabarito A: mesmo em estado de emergência, as garantias judiciais essenciais (habeas corpus, amparo) não podem ser suspensas — jurisprudência consolidada da Corte IDH.</p>"
   }
 ]

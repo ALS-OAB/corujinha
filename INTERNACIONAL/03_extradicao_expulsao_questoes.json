@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_extradicao_expulsao",
     "modulo_nome": "Extradição, Expulsão e Deportação",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 7º, §1º:</strong> \"Realizando-se o casamento no Brasil, será aplicada a lei brasileira quanto aos impedimentos dirimentes e às formalidades da celebração.\" <strong>Art. 10:</strong> \"A sucessão por morte ou por ausência obedece à lei do país em que domiciliado o defunto ou o desaparecido.\" Pierre, francês, domiciliado em Portugal, casado com espanhola: herdeiros = filhos.</p>",
+    "dica": "<p>Sucessão internacional (LINDB Art. 10): lei do domicílio do falecido. Pierre domiciliado em Portugal → lei portuguesa rege a sucessão. LINDB Art. 7º: estatuto pessoal = lei do domicílio. Gabarito B: a sucessão de Pierre é regida pela lei portuguesa (lei do domicílio do falecido), não pela lei francesa ou espanhola.</p>"
   },
   {
     "num": 21,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_extradicao_expulsao",
     "modulo_nome": "Extradição, Expulsão e Deportação",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.445/17, Art. 54:</strong> \"A deportação é medida decorrente de procedimento administrativo que consiste na retirada compulsória de pessoa que se encontre em situação migratória irregular no território nacional.\" Luka, croata, 65 anos, 6 anos no Brasil: pode ter direito à residência por tempo indeterminado (Art. 30). Deportação: após contraditório (Art. 58).</p>",
+    "dica": "<p>Deportação (Lei de Migração Art. 54): irregular no país → deportação após procedimento administrativo com contraditório. Residente de longa data pode requerer regularização. Gabarito B: Luka pode contestar a deportação requerendo a regularização de sua situação migratória com base no longo tempo de residência no Brasil e nos laços formados.</p>"
   },
   {
     "num": 21,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "03_extradicao_expulsao",
     "modulo_nome": "Extradição, Expulsão e Deportação",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 10:</strong> \"A sucessão por morte [...] obedece à lei do país em que domiciliado o defunto.\" Brasileiro domiciliado na Espanha: sucessão regida pela lei espanhola. <strong>Art. 10, §1º:</strong> \"A sucessão de bens de estrangeiros, situados no País, será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, ou de quem os represente, sempre que não lhes seja mais favorável a lei pessoal do de cujos.\" Exceção do Art. 10, §1º.</p>",
+    "dica": "<p>Sucessão de brasileiro domiciliado no exterior (LINDB Art. 10): lei espanhola (domicílio). Bens no Brasil + filhos/cônjuge brasileiro: aplica-se a lei que for mais favorável (LINDB Art. 10, §1º). Gabarito D: a sucessão dos bens situados no Brasil pode ser regida pela lei brasileira se for mais favorável ao cônjuge ou filhos brasileiros do falecido.</p>"
   }
 ]

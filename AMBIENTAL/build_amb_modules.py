@@ -1087,14 +1087,14 @@ def build_module(prefix, title, out_filename):
 
 if __name__ == '__main__':
     modulos = [
-        ("01_principios_ambientais", "Princípios do Direito Ambiental", "Amb_01_PrincipiosAmbientais_Premium.html"),
-        ("02_competencias_ambientais", "Competências Constitucionais Ambientais", "Amb_02_CompetenciasAmbientais_Premium.html"),
+        ("01_principios_constitucional", "Princípios do Direito Ambiental", "Amb_01_PrincipiosAmbientais_Premium.html"),
+        ("02_pnma_sisnama", "PNMA e SISNAMA", "Amb_02_CompetenciasAmbientais_Premium.html"),
         ("03_licenciamento_eia", "Licenciamento Ambiental e EIA/RIMA", "Amb_03_LicenciamentoEIA_Premium.html"),
-        ("04_responsabilidade_civil", "Responsabilidade Civil por Danos Ambientais", "Amb_04_ResponsabilidadeCivil_Premium.html"),
-        ("05_crimes_ambientais", "Crimes Ambientais (Lei 9.605/1998)", "Amb_05_CrimesAmbientais_Premium.html"),
-        ("06_codigo_florestal", "Código Florestal (Lei 12.651/2012)", "Amb_06_CodigoFlorestal_Premium.html"),
-        ("07_snuc_unidades", "Unidades de Conservação e SNUC", "Amb_07_SNUCUnidadesConservacao_Premium.html"),
-        ("08_recursos_hidricos", "Recursos Hídricos e Resíduos Sólidos", "Amb_08_RecursosHidricosResiduos_Premium.html"),
+        ("04_responsabilidade_dano", "Responsabilidade Civil por Danos Ambientais", "Amb_04_ResponsabilidadeCivil_Premium.html"),
+        ("05_codigo_florestal_app", "Código Florestal e APP", "Amb_05_CrimesAmbientais_Premium.html"),
+        ("06_unidades_conservacao", "Unidades de Conservação e SNUC", "Amb_06_CodigoFlorestal_Premium.html"),
+        ("07_recursos_hidricos_residuos", "Recursos Hídricos e Resíduos Sólidos", "Amb_07_SNUCUnidadesConservacao_Premium.html"),
+        ("08_crimes_ambientais", "Crimes Ambientais (Lei 9.605/1998)", "Amb_08_RecursosHidricosResiduos_Premium.html"),
     ]
     
     print("🚀 Compilando o ecossistema de Direito Ambiental · Lei nº 6.938/1981 e CF/1988...")

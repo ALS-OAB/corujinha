@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_cooperacao_juridica",
     "modulo_nome": "Cooperação Jurídica Internacional e Cartas Rogatórias",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Visto de trabalho (CF Art. 5º, caput):</strong> o estrangeiro tem direitos fundamentais assegurados. <strong>Convenção de Viena sobre Relações Consulares (CVRC), Art. 5º, i:</strong> função consular inclui expedir passaportes e documentos de viagem, bem como vistos. Recusa de visto: ato de soberania do Estado — não cabe ação no Brasil contra Estado estrangeiro por recusa de visto.</p>",
+    "dica": "<p>Recusa de visto por representação consular estrangeira: ato de soberania do Estado estrangeiro — não é passível de controle jurisdicional brasileiro. Gabarito A: o brasileiro não pode questionar judicialmente no Brasil a recusa de visto pelo consulado estrangeiro — a concessão de visto é ato soberano do Estado estrangeiro.</p>"
   },
   {
     "num": 22,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_cooperacao_juridica",
     "modulo_nome": "Cooperação Jurídica Internacional e Cartas Rogatórias",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.445/17, Art. 14:</strong> política de vistos por reciprocidade: o Brasil concede (ou dispensa) vistos com base no que o outro Estado concede aos brasileiros. <strong>Art. 18:</strong> o visto diplomático ou oficial é concedido a agentes em missão oficial. Reciprocidade: se o país X dispensa visto para brasileiros, o Brasil pode dispensar para cidadãos de X.</p>",
+    "dica": "<p>Reciprocidade em vistos (Lei de Migração Art. 14): Brasil concede vistos com base no tratamento dado pelo outro Estado aos brasileiros. Gabarito D: a política de reciprocidade permite ao Brasil exigir visto de cidadãos de países que exijam visto de brasileiros, independentemente de tratado formal.</p>"
   },
   {
     "num": 22,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "04_cooperacao_juridica",
     "modulo_nome": "Cooperação Jurídica Internacional e Cartas Rogatórias",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 7º:</strong> estatuto pessoal = lei do domicílio. <strong>Art. 9º:</strong> obrigações = lei do lugar da constituição. François (domiciliado Holanda) + Maria (domiciliada França): casamento celebrado na França. <strong>Art. 7º, §2º:</strong> \"O casamento de estrangeiros poderá celebrar-se perante autoridades diplomáticas ou consulares do país de ambos os nubentes.\"</p>",
+    "dica": "<p>Casamento entre estrangeiros no Brasil (LINDB Art. 7º, §2º): pode ser celebrado perante autoridade consular do país de ambos os nubentes. Lei aplicável ao casamento: lei do domicílio do casal. Gabarito C: o casamento entre François (Holanda) e Maria (França) pode ser celebrado perante o consulado holandês ou francês no Brasil.</p>"
   }
 ]

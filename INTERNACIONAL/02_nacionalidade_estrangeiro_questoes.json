@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_nacionalidade_estrangeiro",
     "modulo_nome": "Nacionalidade, Condição Jurídica do Estrangeiro e Lei de Migração",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Convenção de Viena sobre Relações Diplomáticas (1961), Arts. 22 e 31:</strong> agentes diplomáticos têm imunidade absoluta de jurisdição civil, penal e administrativa. <strong>Imunidade de veículo do Consulado:</strong> veículo consular (não diplomático) tem imunidade funcional limitada. <strong>CVRD Art. 41:</strong> dever de respeitar as leis do Estado receptor.</p>",
+    "dica": "<p>Imunidade diplomática (CVRD Art. 31): imunidade absoluta de jurisdição penal, civil e administrativa do Estado receptor. Veículo de serviço consular: imunidade funcional (apenas para atos oficiais). Gabarito A: veículo de serviço do consulado em acidente: o Estado acreditante (estrangeiro) é responsável pelo pagamento das indenizações — pode ser demandado diplomaticamente.</p>"
   },
   {
     "num": 22,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_nacionalidade_estrangeiro",
     "modulo_nome": "Nacionalidade, Condição Jurídica do Estrangeiro e Lei de Migração",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.445/17 (Lei de Migração), Art. 82:</strong> extradição ativa: o Brasil pode solicitar a outro Estado a extradição de pessoa que se encontre em seu território. <strong>CF/88, Art. 5º, LI:</strong> \"Nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes.\" Extradição de brasileiro nato: vedada pela CF.</p>",
+    "dica": "<p>Extradição (CF Art. 5º, LI e LII): brasileiro nato: nunca extraditável. Naturalizado: extraditável em caso de crime comum antes da naturalização ou tráfico. Estrangeiro: extraditável conforme tratado. Gabarito B: o Estado estrangeiro pode solicitar extradição via via diplomática ao MJSP, que encaminha ao STF para decisão — mas brasileiro nato não é extraditável.</p>"
   },
   {
     "num": 22,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_nacionalidade_estrangeiro",
     "modulo_nome": "Nacionalidade, Condição Jurídica do Estrangeiro e Lei de Migração",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.445/17, Art. 14 (vistos):</strong> vistos: turista, temporário, diplomático, oficial, de cortesia, de trânsito. <strong>CF/88, Art. 5º, caput:</strong> direitos fundamentais garantidos a estrangeiros residentes. <strong>Art. 12, §4º:</strong> brasileiros que adquirem outra nacionalidade: perda condicionada. Concessão de visto: ato discricionário do Estado.</p>",
+    "dica": "<p>Concessão de visto (Lei de Migração Art. 14): ato discricionário do Estado brasileiro — não é direito subjetivo do estrangeiro. Gabarito C: a afirmativa correta é que a concessão de visto é um ato discricionário do Estado brasileiro, que pode recusá-lo com fundamento em políticas migratórias, sem necessidade de motivação específica para cada caso.</p>"
   }
 ]

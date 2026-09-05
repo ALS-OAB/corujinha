@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_sujeitos_dip",
     "modulo_nome": "Sujeitos de Direito Internacional Público e Organizações",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 9º:</strong> \"Para qualificar e reger as obrigações, aplicar-se-á a lei do país em que se constituírem.\" Contrato celebrado na Inglaterra entre colombiana e alemã: lei inglesa rege o contrato. Execução no Brasil: possível se as partes escolheram foro brasileiro ou se há bens no Brasil. <strong>LINDB Art. 12:</strong> competência da Justiça brasileira.</p>",
+    "dica": "<p>Contratos internacionais (LINDB Art. 9º): lei do lugar da celebração rege o contrato (lex loci celebrationis). Contrato celebrado na Inglaterra: lei inglesa. Gabarito D: o contrato celebrado na Inglaterra é regido pela lei inglesa — mas se as partes elegeram foro brasileiro, a Justiça brasileira pode julgar a disputa, aplicando a lei inglesa ao mérito.</p>"
   },
   {
     "num": 21,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_sujeitos_dip",
     "modulo_nome": "Sujeitos de Direito Internacional Público e Organizações",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 7º:</strong> \"A lei do país em que for domiciliado o sujeito determina as regras sobre o começo e o fim da personalidade, o nome, a capacidade e os direitos de família.\" João, brasileiro domiciliado no Japão: estatuto pessoal = lei japonesa. Contrato no Japão com Adam (Brasil domicílio): lei do contrato = LINDB Art. 9º (lei japonesa, lugar da constituição).</p>",
+    "dica": "<p>Estatuto pessoal (LINDB Art. 7º): lei do domicílio. Obrigações contratuais (LINDB Art. 9º): lei do lugar da celebração. Gabarito D: o contrato celebrado no Japão entre João (domiciliado no Japão) e Adam (domiciliado no Brasil) é regido pela lei japonesa (LINDB Art. 9º — lex loci celebrationis).</p>"
   }
 ]

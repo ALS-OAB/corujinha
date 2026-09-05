@@ -16,7 +16,14 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_direito_convivencia",
     "modulo_nome": "Direito à Convivência Familiar e Comunitária (Guarda, Tutela, Adoção)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 2º:</strong> personalidade jurídica = nascimento com vida. <strong>ECA, Art. 7º:</strong> direito à vida e à saúde desde a concepção (para efeitos do ECA). Contrato de compra e venda de cavalos entre Rodrigo/Juliana e Márcia: relação civil comum (CC), não envolve proteção de criança/adolescente. Questão estranha para ECA — provavelmente testa o contexto.</p>",
+    "dica": "<p>ECA protege crianças (0-12) e adolescentes (12-18). Contrato entre adultos: regido pelo CC. Gabarito B: o contrato de compra e venda de cavalos entre Rodrigo, Juliana e Márcia é relação civil entre adultos, não envolvendo proteção do ECA — aplica-se o CC.</p>",
+    "revisar_manual": true
   },
   {
     "num": 43,
@@ -35,7 +42,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_direito_convivencia",
     "modulo_nome": "Direito à Convivência Familiar e Comunitária (Guarda, Tutela, Adoção)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 76:</strong> \"As emissoras de rádio e televisão somente exibirão, no horário recomendado para o público infanto-juvenil, programas com finalidades educativas, artísticas, culturais e informativas.\" Jogos de apostas: proibidos para menores (Lei 14.790/23). João, 14 anos, realizou apostas sozinho: responsabilidade dos pais/responsáveis (ECA Art. 129) e da plataforma (responsabilidade civil).</p>",
+    "dica": "<p>Jogos de apostas para menores: proibidos (Lei 14.790/23 + ECA). Plataforma que permite acesso de menor responde pelos danos. Pais/responsáveis: devem supervisionar. Gabarito: a plataforma tem responsabilidade civil por permitir apostas de menor de idade; João não pode ser responsabilizado penalmente (inimputável).</p>"
   },
   {
     "num": 43,
@@ -54,6 +67,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_direito_convivencia",
     "modulo_nome": "Direito à Convivência Familiar e Comunitária (Guarda, Tutela, Adoção)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 122, I:</strong> internação por ato análogo ao roubo (grave ameaça). Enzo, 16 anos: subtraiu picanha mediante violência implícita (furtou em supermercado sem uso de força/ameaça direta). Subtração em supermercado sem violência = ato análogo ao furto (não roubo). Internação: apenas para violência/grave ameaça (Art. 122, I).</p>",
+    "dica": "<p>Subtração sem violência = análogo ao furto (não roubo). Internação: somente se houver violência ou grave ameaça (ECA Art. 122, I). Gabarito D: Enzo praticou ato análogo ao furto — a internação não é medida adequada; deve receber medida menos gravosa (LA, PSC, liberdade assistida).</p>"
   }
 ]

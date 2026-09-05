@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_teorias_justica",
     "modulo_nome": "Teorias da Justiça (John Rawls, Aristóteles)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Sófocles — Antígona:</strong> \"Não foi Zeus que promulgou...\" — Antígona invoca o direito natural (leis dos deuses, eternas) contra o direito positivo (decreto de Creonte). Conflito jusnaturalismo x positivismo jurídico. Antígona é o símbolo do direito natural como superior ao positivo injusto — base da resistência à lei injusta (desobediência civil).</p>",
+    "dica": "<p>Antígona (Sófocles): conflito entre lei natural (divina, eterna) e lei positiva (humana, temporal). Fundamento do jusnaturalismo: há leis superiores às do Estado. Gabarito D: Antígona representa a tese jusnaturalista — a lei positiva injusta não obriga, pois o direito natural lhe é superior.</p>"
   },
   {
     "num": 9,
@@ -35,7 +41,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_teorias_justica",
     "modulo_nome": "Teorias da Justiça (John Rawls, Aristóteles)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Escola da Exegese (França, séc. XIX):</strong> após o Código de Napoleão (1804), os juristas franceses (Demolombe, Mourlon) adotaram a interpretação literal e restrita — o direito é a lei escrita; o juiz é a \"boca da lei\" (Montesquieu). Positivismo legalista: a codificação esgota o direito. Crítica: paralisia diante de lacunas + congelamento do sistema.</p>",
+    "dica": "<p>Escola da Exegese: exegese literal do Code Napoléon; o juiz aplica a lei sem criatividade. Positivismo legalista radical. Gabarito B: a afirmativa que corresponde à Escola da Exegese é a que restringe o direito ao texto da lei e proíbe o juiz de ir além das palavras da norma.</p>"
   },
   {
     "num": 10,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "05_teorias_justica",
     "modulo_nome": "Teorias da Justiça (John Rawls, Aristóteles)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>STF — Greve no serviço público (RE 693.456):</strong> o STF decidiu que a greve dos servidores públicos é regulada pela Lei 7.783/89 por analogia, mas com restrições (serviços essenciais). Hermenêutica constitucional: normas programáticas (CF Art. 37, VII — \"nos termos e condições estabelecidos em lei específica\") não são self-executing enquanto não houver lei específica.</p>",
+    "dica": "<p>Norma constitucional de eficácia limitada (CF Art. 37, VII): depende de regulamentação. Na omissão: STF permite aplicar a lei de greve do setor privado por analogia. Gabarito C: a greve dos servidores pode ocorrer com as limitações da Lei 7.783/89 aplicada por analogia — posição consolidada do STF.</p>"
   }
 ]

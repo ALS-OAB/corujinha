@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_mecanismos_nacionais",
     "modulo_nome": "Mecanismos Nacionais de Proteção aos Direitos Humanos",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.445/17 (Lei de Migração), Art. 3º + Art. 48:</strong> \"São direitos do migrante: [...] acesso igualitário e livre aos serviços, programas e benefícios sociais, bens públicos, educação, assistência jurídica integral pública, trabalho, moradia [...] independentemente da situação migratória.\" Estrangeiro indocumentado: tem direito a assistência jurídica.</p>",
+    "dica": "<p>Estrangeiro indocumentado no Brasil (Lei de Migração Art. 3º + Art. 48): tem direito à assistência jurídica integral pública e acesso a serviços essenciais, independentemente de sua situação documental. Gabarito: o advogado deve orientar que o cliente tem direito à Defensoria Pública e não pode ser privado de seus direitos básicos por ser indocumentado.</p>"
   },
   {
     "num": 18,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_mecanismos_nacionais",
     "modulo_nome": "Mecanismos Nacionais de Proteção aos Direitos Humanos",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 208, I:</strong> \"O dever do Estado com a educação será efetivado mediante a garantia de: educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade.\" Mães de crianças (6-10 anos) sem vaga em escola pública: direito líquido e certo ao ensino fundamental. Remédio: mandado de segurança coletivo (CF Art. 5º, LXX).</p>",
+    "dica": "<p>Ensino fundamental obrigatório e gratuito (CF Art. 208, I): direito líquido e certo. Crianças sem vaga em escola pública: cabe mandado de segurança (individual ou coletivo) para garantir a matrícula. Gabarito A: o advogado deve propor mandado de segurança coletivo em favor das mães, compelindo o Município a garantir vagas nas escolas públicas.</p>"
   }
 ]

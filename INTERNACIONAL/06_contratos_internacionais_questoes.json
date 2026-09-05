@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_contratos_internacionais",
     "modulo_nome": "Contratos Internacionais e Comércio Exterior",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Convenção de Varsóvia (1929) + Protocolo de Montreal (1999):</strong> regem a responsabilidade em acidentes de aviação internacional. <strong>Jato privado inglês x aeronave brasileira:</strong> acidente envolvendo aeronave estrangeira no espaço aéreo brasileiro. Competência: Justiça brasileira (local do fato = Brasil). Lei aplicável: LINDB Art. 9º (lei do lugar da obrigação = Brasil).</p>",
+    "dica": "<p>Acidente aéreo no espaço aéreo brasileiro: Justiça brasileira competente (LINDB Art. 9º). Responsabilidade: objetiva (Código Brasileiro de Aeronáutica — Lei 7.565/86 Art. 268). Gabarito A: a empresa inglesa pode ser processada no Brasil perante a Justiça brasileira, que é competente para julgar acidente ocorrido em espaço aéreo nacional.</p>"
   },
   {
     "num": 22,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_contratos_internacionais",
     "modulo_nome": "Contratos Internacionais e Comércio Exterior",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Cooperação jurídica internacional (CPC Art. 26 ss.):</strong> carta rogatória = pedido de cooperação judicial entre países. <strong>CPC Art. 36:</strong> o pedido de cooperação jurídica internacional pode ter por objeto: diligências de citação, oitiva, perícia, execução de decisão interlocutória. Cumprimento no Brasil: STJ concede o exequatur (CF Art. 105, I, i).</p>",
+    "dica": "<p>Cooperação jurídica internacional (CPC Art. 26 + CF Art. 105, I, i): carta rogatória cumprida pelo STJ (exequatur). Modalidades: citação, oitiva, prova, execução de tutela de urgência. Gabarito C: a cooperação jurídica internacional é formalizada via carta rogatória, com o STJ concedendo o exequatur para cumprimento no Brasil.</p>"
   }
 ]

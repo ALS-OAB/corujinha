@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_seguridade_social",
     "modulo_nome": "Seguridade Social: Saúde, Assistência e Previdência",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 71-A (salário-maternidade da doméstica):</strong> a doméstica segurada faz jus ao salário-maternidade. <strong>Lei Complementar 150/15, Art. 25, II:</strong> a doméstica tem direito ao salário-maternidade pago diretamente pelo INSS. Prazo: 120 dias. Número de contribuições: 10 contribuições para doméstica. Maria teve 7 contribuições no mês do parto: pode ser insuficiente para carência (10 contribuições = carência).</p>",
+    "dica": "<p>Salário-maternidade da doméstica (Lei 8.213/91 Art. 71-A + LC 150/15): carência de 10 contribuições mensais. Maria com 7 contribuições: não cumpriu a carência. Gabarito A: Maria tem direito ao salário-maternidade desde que comprove a carência de 10 contribuições — se tiver sido segurada antes, as contribuições anteriores contam para a carência.</p>"
   },
   {
     "num": 69,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_seguridade_social",
     "modulo_nome": "Seguridade Social: Saúde, Assistência e Previdência",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 16:</strong> dependentes do RGPS: I — cônjuge, companheiro, filhos. <strong>§4º:</strong> a dependência econômica de cônjuge/companheiro é presumida. Mãe (Francisca) e filha (Helena) de Jorge: são dependentes de classe II (pais) e I (filhos), respectivamente. Pensão por morte: paga aos dependentes de classe I com exclusão das outras classes.</p>",
+    "dica": "<p>Dependentes do RGPS (Lei 8.213/91 Art. 16): Classe I (filhos/cônjuge/companheiro) exclui Classe II (pais). Se Jorge falece: Helena (filha menor = Classe I) recebe pensão; Francisca (mãe = Classe II) só se não houver dependentes de Classe I. Gabarito A: Jorge, ao falecer, beneficia Helena como dependente de Classe I — Francisca, como mãe (Classe II), não recebe pensão se houver filha beneficiária.</p>"
   },
   {
     "num": 69,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_seguridade_social",
     "modulo_nome": "Seguridade Social: Saúde, Assistência e Previdência",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>EC 103/19 (Reforma da Previdência) + Lei 8.213/91:</strong> para o trabalhador que se filiou após a EC 103/19 e tem 65 anos com 30 anos de contribuição: pode ter direito à aposentadoria por tempo de contribuição com pedágio ou aposentadoria por idade. <strong>EC 103/19, Art. 18:</strong> regras de transição para quem não cumpriu os requisitos até a data da EC.</p>",
+    "dica": "<p>Aposentadoria após EC 103/19: para segurado que completou os requisitos após a emenda, aplica-se a regra definitiva: 65 anos homem (62 mulher) + 20 anos de contribuição mínima. Gabarito B: Antônio José, 65 anos com 30 anos de contribuição, tem direito à aposentadoria programada — deve recolher a contribuição devida e requerer o benefício ao INSS.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_contratos_empresariais",
     "modulo_nome": "Contratos Empresariais e Bancários",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 421 + 422:</strong> função social do contrato + boa-fé objetiva. <strong>CC, Art. 474 (condição resolutiva):</strong> verificada a condição, resolve-se o contrato de pleno direito. Aral adquiriu bens de consumo com prazo de entrega: se a empresa não entregou, configura inadimplemento. Aplica-se CDC (consumidor) ou CC (entre empresários)?</p>",
+    "dica": "<p>Inadimplemento contratual: CC Art. 475 (resolução por inadimplemento) — parte lesada pode exigir a execução forçada ou a resolução + perdas e danos. Se Aral é consumidor: CDC Art. 35 (exigir o cumprimento forçado, aceitar produto equivalente ou desistir + ressarcimento). Gabarito C: Aral pode exigir a entrega forçada ou a resolução do contrato com restituição dos valores pagos + indenização.</p>"
   },
   {
     "num": 49,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "04_contratos_empresariais",
     "modulo_nome": "Contratos Empresariais e Bancários",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 966, parágrafo único:</strong> não é empresário quem exerce profissão intelectual de natureza científica, literária ou artística — exceto se o exercício da profissão constituir elemento de empresa. Quatro professores (atividade intelectual) + contador: o contador é empresário se a contabilidade for elemento de empresa, mas a atividade dos professores é intelectual = sociedade simples.</p>",
+    "dica": "<p>Atividade intelectual (CC Art. 966, parágrafo único): profissão de natureza científica/artística/literária = sociedade simples (não empresária). Professor = intelectual = sociedade simples. Gabarito: a sociedade dos professores com o contador é simples — o contador pode ser sócio da sociedade simples sem torná-la empresária.</p>"
   },
   {
     "num": 49,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "04_contratos_empresariais",
     "modulo_nome": "Contratos Empresariais e Bancários",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.172:</strong> \"O gerente não pode, sem autorização especial, fazer-se substituir no exercício das funções.\" <strong>Art. 1.173:</strong> o preposto (gerente) que exceder seus poderes responde pessoalmente pelos atos praticados. Marialva Castro, gerente: só pode fazer atos dentro dos poderes outorgados pelo empresário Wenceslau.</p>",
+    "dica": "<p>Gerente (CC Art. 1.172 ss.): preposto com poderes para praticar atos administrativos da empresa. Pode contrair obrigações dentro dos poderes outorgados. Excesso de poderes: o preposto responde pessoalmente. Gabarito A: Marialva pode praticar os atos de gestão previstos no mandato; atos que excedam os poderes outorgados não vinculam o empresário — ela responde pessoalmente.</p>"
   },
   {
     "num": 49,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "04_contratos_empresariais",
     "modulo_nome": "Contratos Empresariais e Bancários",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.040:</strong> a sociedade simples pode adotar um dos tipos previstos: limitada, em nome coletivo, em comandita simples. <strong>Lei 11.101/05, Art. 2º, II:</strong> não podem requerer recuperação judicial: sociedades de economia mista, cooperativas e entidades reguladas por legislação especial. Sociedade simples em Guarapari: pode requerer RJ se adotar tipo empresarial.</p>",
+    "dica": "<p>Sociedade simples que adota tipo empresarial (CC Art. 1.040): sujeita-se ao regime jurídico do tipo adotado. Se adotar forma de LTDA: pode requerer RJ. Gabarito D: a sociedade simples de Guarapari, ao adotar o tipo limitada, pode requerer recuperação judicial se preencher os requisitos da LREF — o tipo adotado define o regime concursal aplicável.</p>"
   },
   {
     "num": 50,
@@ -92,6 +116,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_contratos_empresariais",
     "modulo_nome": "Contratos Empresariais e Bancários",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.013 + Lei 11.101/05, Art. 6º, §7º-A:</strong> após o deferimento da RJ: o administrador judicial assume funções fiscalizatórias; o devedor é mantido na administração. Ação judicial proposta pela administradora (Elétrica Passa Sete): deve ter a autorização do juiz da RJ para transigir ou renunciar a direitos (LREF Art. 66).</p>",
+    "dica": "<p>Ação judicial durante a RJ (LREF Art. 64-66): o devedor (Elétrica Passa Sete) permanece na administração, mas precisa de autorização do juiz para atos que importem disposição do ativo. Gabarito C: a Elétrica Passa Sete pode prosseguir com a ação judicial, mas qualquer transação ou renúncia precisa de autorização do juiz da recuperação judicial.</p>"
   }
 ]

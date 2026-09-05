@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_tratados_internacionais",
     "modulo_nome": "Tratados Internacionais na Constituição Federal (Art. 5º, §3º)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Convenções de Genebra de 1949 + Protocolos Adicionais I e II (1977):</strong> direito internacional humanitário (DIH). As 4 Convenções protegem: I (feridos e enfermos em campo), II (feridos no mar), III (prisioneiros de guerra), IV (civis). <strong>Princípio da distinção:</strong> combatentes x civis. Brasil é signatário.</p>",
+    "dica": "<p>Direito Internacional Humanitário (Convenções de Genebra): protege vítimas de conflitos armados. Princípios: distinção (combatentes/civis), proporcionalidade, humanidade. Gabarito A: as Convenções de Genebra são de aplicação obrigatória nos conflitos armados internacionais, estabelecendo limites mínimos de proteção às vítimas.</p>"
   },
   {
     "num": 17,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_tratados_internacionais",
     "modulo_nome": "Tratados Internacionais na Constituição Federal (Art. 5º, §3º)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Standards internacionais de igualdade:</strong> igualdade formal (mesma lei para todos) vs. igualdade material (tratamento diferenciado para promover igualdade de fato). <strong>CEDAW</strong> (Convenção sobre eliminação de discriminação contra mulher): medidas positivas/ações afirmativas são admitidas. <strong>CERD</strong> (discriminação racial): ações afirmativas temporárias = compatíveis com a igualdade.</p>",
+    "dica": "<p>Igualdade no DIDH: ações afirmativas = admitidas como promoção da igualdade material. CEDAW + CERD: medidas especiais temporárias não são discriminação, mas promoção da igualdade. Gabarito D: os standards internacionais atuais admitem medidas de ação afirmativa como instrumento de promoção da igualdade material, não como violação da igualdade.</p>"
   }
 ]

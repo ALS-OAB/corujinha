@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_lindb_conflito_leis",
     "modulo_nome": "LINDB e Conflito de Leis no Espaço",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 231 + Convenção 169 OIT:</strong> comunidades indígenas têm direito à preservação de sua cultura, línguas e costumes. <strong>Convenção 169 OIT, Art. 8º:</strong> ao aplicar a legislação nacional, devem ser respeitados costumes e o direito consuetudinário dos povos indígenas. Aplicação: LINDB + Convenção 169 (status supralegal — STF).</p>",
+    "dica": "<p>Direitos dos povos indígenas: Convenção 169 OIT (supralegal) + CF Art. 231. A família indígena tem direito à manutenção de sua cultura. Gabarito D: o advogado deve invocar a Convenção 169 OIT e o Art. 231 CF para proteger os direitos culturais e territoriais da família indígena.</p>"
   },
   {
     "num": 21,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_lindb_conflito_leis",
     "modulo_nome": "LINDB e Conflito de Leis no Espaço",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 12, §4º, II:</strong> \"Será declarado perdida a nacionalidade do brasileiro que [...] adquirir outra nacionalidade, salvo nos casos de: a) reconhecimento de nacionalidade originária pela lei estrangeira; b) imposição de naturalização, pela norma estrangeira, ao brasileiro residente em Estado estrangeiro.\" Sofia: dupla nacionalidade (originária + portuguesa) = não perde a brasileira.</p>",
+    "dica": "<p>Perda de nacionalidade brasileira por aquisição de outra: regra geral (CF Art. 12, §4º, II). Exceções: (a) lei estrangeira reconhece a nacionalidade como originária; (b) naturalização imposta. Sofia que quer renunciar à brasileira: deve formalizar o pedido na Justiça Federal — é um ato personalíssimo. Gabarito A: Sofia pode renunciar à nacionalidade brasileira por ato voluntário na Justiça Federal brasileira competente.</p>"
   },
   {
     "num": 21,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_lindb_conflito_leis",
     "modulo_nome": "LINDB e Conflito de Leis no Espaço",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 9º:</strong> \"Para qualificar e reger as obrigações, aplicar-se-á a lei do país em que se constituírem.\" <strong>Art. 7º:</strong> \"A lei do país em que for domiciliado o sujeito determina as regras sobre [...] qualificação e capacidade das pessoas naturais.\" Hector, espanhol, preso no Brasil: direito de assistência consular (Convenção de Viena sobre Relações Consulares Art. 36).</p>",
+    "dica": "<p>Assistência consular (Convenção de Viena sobre Relações Consulares Art. 36): estrangeiro detido deve ser informado imediatamente do direito de comunicação com o consulado. Gabarito D: Hector tem direito à assistência consular imediata — o Estado brasileiro deve informá-lo e permitir comunicação com o Consulado Espanhol.</p>"
   }
 ]

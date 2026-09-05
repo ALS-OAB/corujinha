@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_doutrina_protecao",
     "modulo_nome": "Doutrina da Proteção Integral e Direitos Fundamentais da Criança",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 53:</strong> \"A criança e o adolescente têm direito à educação.\" <strong>Lei 9.615/98 (Lei Pelé), Art. 29:</strong> é proibida a prática de desporto profissional por menor de 14 anos. <strong>ECA, Art. 60:</strong> proibido qualquer trabalho a menores de 14 anos, salvo na condição de aprendiz. Atleta menor de 14 anos em contrato: ilegal.</p>",
+    "dica": "<p>Trabalho do menor: proibido antes dos 14 anos, salvo aprendiz (CF Art. 7º, XXXIII + ECA Art. 60). Atleta menor de 14 anos em clube: contrato irregular. Gabarito C: a Associação Atlética não pode contratar formalmente como atleta criança menor de 14 anos — a prática esportiva profissional é vedada antes dessa idade.</p>"
   },
   {
     "num": 44,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_doutrina_protecao",
     "modulo_nome": "Doutrina da Proteção Integral e Direitos Fundamentais da Criança",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 121, §2º:</strong> internação: \"A medida não comporta prazo determinado, devendo sua manutenção ser reavaliada, mediante decisão fundamentada, no máximo a cada seis meses.\" <strong>Art. 122, I:</strong> internação cabível por ato infracional com grave ameaça ou violência à pessoa. Roubo qualificado = violência + grave ameaça = internação cabível.</p>",
+    "dica": "<p>Internação (ECA Art. 122, I): cabível em ato infracional com violência ou grave ameaça. Prazo máximo: 3 anos (Art. 121, §3º); reavaliação a cada 6 meses. Liberação compulsória aos 21 anos. Gabarito B: Márcio, 16 anos, por roubo qualificado (violência + grave ameaça), pode ser internado — a medida é cabível.</p>"
   },
   {
     "num": 44,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_doutrina_protecao",
     "modulo_nome": "Doutrina da Proteção Integral e Direitos Fundamentais da Criança",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 175:</strong> cumprida a oitiva informal, o adolescente pode ser liberado com os pais ou responsável. <strong>Art. 108:</strong> a internação provisória pode ser determinada pelo prazo de 45 dias. <strong>Art. 112:</strong> medidas socioeducativas proporcionais ao ato infracional e às circunstâncias pessoais.</p>",
+    "dica": "<p>Medidas socioeducativas (ECA Art. 112): proporcionais ao ato infracional + circunstâncias pessoais. Adolescente primário em ato análogo a furto: medida menos gravosa (advertência, LA, PSC). Internação: só em ato grave com violência. Gabarito C: Marcos (17 anos, ato análogo a furto) deve receber medida não privativa de liberdade — internação é desproporcional.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "05_codigo_florestal_app",
     "modulo_nome": "Código Florestal, APP e Reserva Legal",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 30, I + Art. 24, VI:</strong> competência legislativa sobre florestas: <strong>concorrente</strong> União/Estados/DF (art. 24, VI CF). Municípios: competência suplementar (Art. 30, II). Lei municipal não pode ser <strong>menos protetora</strong> que a lei federal (Código Florestal). Pode ser <strong>mais restritiva</strong> (STJ + doutrina).</p>",
+    "dica": "<p>Competência ambiental: municípios podem legislar de forma <strong>suplementar</strong> e mais restritiva que a lei federal, mas não podem reduzir a proteção federal. Gabarito C: o projeto de lei municipal que reduz padrões de proteção ambiental abaixo do Código Florestal é inconstitucional.</p>"
   },
   {
     "num": 37,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "05_codigo_florestal_app",
     "modulo_nome": "Código Florestal, APP e Reserva Legal",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.651/12, Art. 8º:</strong> \"A intervenção ou a supressão de vegetação nativa em Área de Preservação Permanente [...] somente ocorrerá nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas nesta Lei.\" Supressão de vegetação em APP por particular sem enquadramento legal = vedada.</p>",
+    "dica": "<p>APP: supressão de vegetação nativa só com autorização do órgão ambiental + enquadramento em utilidade pública, interesse social ou baixo impacto (CF Art. 12.651 Art. 8º). Bruno não tem autorização = a supressão é ilegal. Gabarito D: Bruno não pode suprimir a vegetação sem autorização ambiental para finalidade legalmente prevista.</p>"
   },
   {
     "num": 36,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "05_codigo_florestal_app",
     "modulo_nome": "Código Florestal, APP e Reserva Legal",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.985/00 (SNUC), Art. 15:</strong> Área de Proteção Ambiental (APA) = UC de uso sustentável. Pode ser criada por decreto. Dentro da APA: propriedade privada permanece; restrições de uso. <strong>CF Art. 182:</strong> plano diretor obrigatório para município >20.000 hab. APA não requer desapropriação compulsória.</p>",
+    "dica": "<p>APA (Área de Proteção Ambiental — SNUC Art. 15): pode ser criada por decreto do Prefeito; não exige desapropriação da propriedade privada dentro dela; proprietários mantêm a terra com restrições de uso. Gabarito A: a criação da APA por decreto é válida; proprietários dentro dela não são automaticamente desapropriados.</p>"
   }
 ]

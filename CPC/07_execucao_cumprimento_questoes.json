@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 700 (ação monitória):</strong> \"A ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz: I — o pagamento de quantia em dinheiro.\" Albieri tem prova escrita sem força executiva: ação monitória é cabível contra Juliana.</p>",
+    "dica": "<p>Ação monitória (CPC Art. 700): prova escrita sem eficácia executiva + direito de exigir pagamento. O réu pode opor embargos monitórios em 15 dias. Se não embargar: mandado se converte em título executivo judicial. Gabarito D: Albieri deve ajuizar ação monitória contra Juliana, apresentando a prova escrita do crédito — se Juliana não embargar, o mandado monitório se converte em título executivo.</p>"
   },
   {
     "num": 52,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 833, X:</strong> são impenhoráveis: \"os recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, saúde ou assistência social.\" <strong>Art. 833, IV:</strong> salários e proventos de aposentadoria são impenhoráveis (até 50 salários mínimos). Ademir, aposentado: renda de compra e venda de ações = renda de capital, não salário — penhorável.</p>",
+    "dica": "<p>Impenhorabilidade de proventos (CPC Art. 833, IV): aplica-se à aposentadoria recebida do INSS. Renda de capital (dividendos, valorização de ações): penhorável. Gabarito D: a renda de Ademir oriunda de compra e venda de ações é penhorável — não se trata de provento de aposentadoria, mas de renda de capital, que não goza da impenhorabilidade do Art. 833, IV.</p>"
   },
   {
     "num": 54,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 340 (contestação no prazo de urgência):</strong> Júlio preocupado com prazo para contestar. <strong>CPC Art. 335:</strong> contestação: 15 dias. <strong>Art. 218, §4º:</strong> quando a lei ou o juiz não fixar prazo, será de 5 dias. <strong>Art. 219:</strong> na contagem dos prazos em dias, contam-se apenas os dias úteis. Júlio inexperiente: orientação sobre o prazo de contestação.</p>",
+    "dica": "<p>Prazo de contestação (CPC Art. 335): 15 dias úteis a partir da audiência de conciliação frustrada ou da intimação de que o autor desistiu da audiência. Gabarito A: Júlio deve contestar em 15 dias úteis — o prazo corre da data de frustração da audiência de conciliação ou do escoamento do prazo para manifestação sobre a audiência.</p>"
   },
   {
     "num": 51,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 337, II (ilegitimidade de parte) + Art. 338:</strong> o réu pode arguir sua ilegitimidade passiva na contestação e indicar o sujeito passivo correto. <strong>Art. 339:</strong> \"Alegando o réu, na contestação, ser parte ilegítima ou não ser o responsável pelo prejuízo invocado, o juiz facultará ao autor, em 15 dias, a alteração ou a substituição do réu.\"</p>",
+    "dica": "<p>Ilegitimidade passiva ad causam (CPC Art. 337, II + 338-339): réu que alega ilegitimidade deve indicar o sujeito passivo correto. O juiz dará 15 dias ao autor para substituir o réu. Gabarito B: Ana Carolina (réu) deve arguir sua ilegitimidade passiva na contestação e indicar o verdadeiro responsável — o juiz dará prazo de 15 dias a Eduardo para substituir o réu.</p>"
   },
   {
     "num": 53,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 497 (tutela específica de obrigação de fazer):</strong> \"Na ação que tenha por objeto a prestação de fazer ou de não fazer, o juiz [...] determinará providências que assegurem o resultado prático equivalente ao do adimplemento.\" <strong>Art. 536:</strong> multa periódica (astreintes) para compelir o cumprimento. Maria x União por medicamento.</p>",
+    "dica": "<p>Direito à saúde (CF Art. 196) + tutela específica (CPC Art. 497): o juiz pode condenar o Estado a fornecer o medicamento com multa diária pelo descumprimento. Gabarito C: Maria deve propor ação de obrigação de fazer contra a União, pedindo tutela de urgência (fornecimento imediato do medicamento) com astreintes para o caso de descumprimento (CPC Art. 536-537).</p>"
   },
   {
     "num": 55,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 910 (execução contra Fazenda Pública):</strong> \"Quando a Fazenda Pública for executada, ela será citada para [...] em 30 dias, oferecer embargos à execução.\" <strong>CF Art. 100:</strong> pagamento por precatório. Débora, servidora municipal de Fortaleza, aposentada: deve propor ação de cobrança contra o Município (cumprimento de sentença via precatório ou RPV).</p>",
+    "dica": "<p>Execução contra Fazenda Pública (CPC Art. 910): por precatório (CF Art. 100) ou RPV (até 60 salários mínimos para Municípios). Gabarito B: Débora deve ingressar com ação de cobrança e, após condenação transitada em julgado, a execução será feita via precatório (ou RPV se o valor for pequeno) — não há penhora de bens públicos.</p>"
   },
   {
     "num": 51,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_execucao_cumprimento",
     "modulo_nome": "Cumprimento de Sentença e Processo de Execução",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 1.013, §3º:</strong> \"Se o processo estiver em condições de imediato julgamento, o tribunal deve decidir desde logo o mérito quando: I — reformar sentença fundada no art. 485.\" Teoria da causa madura: o tribunal julga o mérito diretamente se estiver maduro. Machado de Assis x Quincas Borba: sentença foi cassada — o TJ pode julgar diretamente o mérito.</p>",
+    "dica": "<p>Teoria da causa madura (CPC Art. 1.013, §3º, I): se o TJ reforma sentença de extinção sem mérito (Art. 485), pode julgar o mérito diretamente, sem remessa ao 1º grau, se o processo estiver maduro (sem necessidade de instrução). Gabarito B: o TJ, ao reformar a sentença de extinção sem mérito, pode julgar imediatamente o mérito da ação de Machado de Assis, aplicando a teoria da causa madura.</p>"
   }
 ]

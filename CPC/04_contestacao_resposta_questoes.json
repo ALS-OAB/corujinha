@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 1.028 (recurso ordinário constitucional):</strong> cabível para o STJ contra acórdão de TJ/TRF em ação originária ou mandado de segurança julgado em única instância. <strong>Art. 1.022 (embargos de declaração):</strong> para sanar omissão, obscuridade, contradição ou erro material. Acórdão da Câmara Cível desproveu recurso: parte pode opor ED ou recorrer ao STJ (ROC) dependendo do caso.</p>",
+    "dica": "<p>Recurso cabível contra acórdão de câmara cível de TJ: (1) se cabível recurso especial (STJ) = violação de lei federal; (2) recurso extraordinário (STF) = violação da CF; (3) embargos de declaração (TJ) = omissão/contradição. Gabarito C: o recurso cabível contra o acórdão da Câmara Cível que desproveu o agravo é o recurso especial (STJ) se houver violação de lei federal, ou recurso extraordinário (STF) se houver violação constitucional.</p>"
   },
   {
     "num": 55,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 531 (execução de alimentos) + Lei 5.478/68:</strong> Tatiana pede alimentos. <strong>CPC Art. 528:</strong> prisão civil em caso de inadimplemento alimentar (débito das últimas 3 parcelas + vincendas). <strong>CPC Art. 529:</strong> desconto em folha de pagamento do devedor de alimentos. Pensão mensal de R$2.000: José pode pagar ou sofrer desconto em folha.</p>",
+    "dica": "<p>Execução de alimentos: prisão civil (CPC Art. 528) ou desconto em folha (Art. 529) ou penhora de bens (Art. 531 + Art. 835). Gabarito A: Tatiana pode requerer o desconto em folha de pagamento de José (CPC Art. 529), mediante ofício ao empregador, para garantir o recebimento dos alimentos — é a modalidade menos gravosa e mais efetiva.</p>"
   },
   {
     "num": 51,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 337, XI (conexão):</strong> o réu pode alegar a conexão como preliminar de contestação. <strong>Art. 55:</strong> reputam-se conexas 2 ou mais ações quando lhes for comum o pedido ou a causa de pedir. Felipe propôs ação contra Gustavo por responsabilidade extracontratual: pedido comum com outra ação possível? Verificar conexão ou continência.</p>",
+    "dica": "<p>Contestação (CPC Art. 335): prazo de 15 dias. Preliminares (Art. 337): inépcia da inicial, conexão, convenção de arbitragem, litispendência. Gabarito B: Felipe deve contestar dentro do prazo de 15 dias, podendo arguir preliminarmente a conexão se houver outra ação sobre o mesmo fato, ou outras matérias do Art. 337 CPC.</p>"
   },
   {
     "num": 54,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 599 ss. (dissolução parcial de sociedade):</strong> ação de dissolução parcial: sócios que pretendem exercer o direito de retirada ou exclusão de sócio. <strong>Art. 601:</strong> apuração de haveres: perito nomeado para apurar o valor das quotas. Pedro propôs dissolução parcial de Papel Cia.: apuração de haveres pelo perito.</p>",
+    "dica": "<p>Dissolução parcial de sociedade (CPC Art. 599 ss.): ação especial. Fases: sentença de dissolução parcial → apuração de haveres (perito) → pagamento. Gabarito B: Pedro pode prosseguir com a dissolução parcial da sociedade Papel Cia. Ltda., com apuração de haveres por perito judicial a ser nomeado pelo juiz.</p>"
   },
   {
     "num": 56,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 485, IV:</strong> extinção sem resolução do mérito por ausência de pressupostos processuais. <strong>CPC Art. 337, IX:</strong> convenção de arbitragem como preliminar de contestação. <strong>CPC Art. 338:</strong> contestação com alegação de ilegitimidade passiva: réu deve indicar o sujeito passivo adequado. Marisa e Marcos (acidente de trânsito): responsabilidade civil.</p>",
+    "dica": "<p>Responsabilidade civil por acidente de trânsito (CC Art. 186 + 927): quem colide na traseira: presunção de culpa (relativa). Contestação: prazo de 15 dias (CPC Art. 335). Gabarito B: Marcos deve contestar tempestivamente (15 dias), podendo alegar: culpa de Marisa pela mudança brusca, excludentes de responsabilidade ou contribuição da vítima.</p>"
   },
   {
     "num": 52,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 229 (prazo em dobro) + Art. 180:</strong> o MP tem prazo em dobro. <strong>CPC Art. 186:</strong> a Defensoria Pública tem prazo em dobro. <strong>CPC Art. 229:</strong> litisconsortes com advogados diferentes têm prazo em dobro. João, advogado, amigo ligou na sexta: prazo ordinário de 15 dias para contestar.</p>",
+    "dica": "<p>Prazo para contestação (CPC Art. 335): 15 dias. Conta-se da audiência de conciliação (se frustrada ou dispensada). Dia útil (CPC Art. 219). Gabarito D: o amigo de João tem 15 dias úteis para contestar a partir da data em que se frustrou (ou foi dispensada) a audiência de conciliação — João deve orientar corretamente sobre a contagem do prazo.</p>"
   },
   {
     "num": 54,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 610:</strong> inventário e partilha. <strong>Art. 610, §1º:</strong> \"Sendo capazes todos os herdeiros e não havendo testamento, poderão fazer o inventário e a partilha por escritura pública.\" Marta faleceu: três filhos capazes + cônjuge + bens a inventariar = inventário extrajudicial possível se todos forem capazes e concordes e não houver testamento.</p>",
+    "dica": "<p>Inventário extrajudicial (CPC Art. 610, §1º): possível quando: todos os herdeiros capazes + concordes + sem testamento + assistência de advogado + escritura pública. Gabarito A: Marta deixou herdeiros capazes e há consenso — o inventário pode ser feito por escritura pública em cartório, sem necessidade de processo judicial.</p>"
   },
   {
     "num": 56,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "04_contestacao_resposta",
     "modulo_nome": "Resposta do Réu, Contestação e Reconvenção",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 139, IV:</strong> \"O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe: [...] IV — determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial.\" <strong>Lei 7.347/85 (ACP), Art. 11:</strong> na ACP: tutela específica da obrigação de fazer.</p>",
+    "dica": "<p>Tutela específica em ACP (Lei 7.347/85 Art. 11 + CPC Art. 536-537): o juiz pode determinar medidas coercitivas (multa diária) e sub-rogatórias para cumprimento de obrigação de fazer/não fazer. Gabarito B: o juiz pode fixar multa diária (astreintes — CPC Art. 537) para compelir o fabricante X a implementar a medida determinada na sentença da ACP.</p>"
   }
 ]

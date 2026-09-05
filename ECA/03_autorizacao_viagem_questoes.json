@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_autorizacao_viagem",
     "modulo_nome": "Autorização para Viajar e Prevenção",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 112:</strong> medidas socioeducativas. <strong>Art. 121, §2º:</strong> internação: reavaliação a cada 6 meses. Pedro, 15 anos, roubo: internação cabível (ato com violência/grave ameaça). <strong>Art. 183:</strong> prazo máximo de internação provisória = 45 dias. <strong>Art. 121, §3º:</strong> internação máxima = 3 anos.</p>",
+    "dica": "<p>Roubo por adolescente (15 anos): internação cabível (ECA Art. 122, I — ato com grave ameaça/violência). Prazo máximo: 3 anos; internação provisória: 45 dias; reavaliação: 6 meses. Gabarito C: Pedro pode ser internado por ato análogo ao roubo; a internação é proporcional ao ato praticado.</p>"
   },
   {
     "num": 44,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_autorizacao_viagem",
     "modulo_nome": "Autorização para Viajar e Prevenção",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 8º, §4º:</strong> gestante tem direito à atenção humanizada pré-natal. <strong>Lei 9.434/97 + ECA, Art. 13, §2º:</strong> notificação obrigatória de suspeita de violência. Roberta, grávida com poucos recursos: tem direito ao pré-natal pelo SUS + direito ao parto humanizado. Cesárea: não é obrigatória, depende de indicação médica.</p>",
+    "dica": "<p>Direitos da gestante (ECA Art. 8º + CF Art. 196): pré-natal pelo SUS, parto humanizado, acompanhante no parto (Lei 11.108/05). Gabarito C: Roberta tem direito ao pré-natal gratuito pelo SUS e ao parto humanizado, independentemente de sua situação financeira.</p>"
   },
   {
     "num": 44,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "03_autorizacao_viagem",
     "modulo_nome": "Autorização para Viajar e Prevenção",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>ECA, Art. 129, IV:</strong> medida aplicável aos pais: encaminhar a tratamento. <strong>Art. 98:</strong> medidas de proteção quando direitos do adolescente são ameaçados. Matheus, 17 anos, falta à escola: pais podem ser orientados/advertidos. Conselho Tutelar pode aplicar medidas de proteção.</p>",
+    "dica": "<p>Adolescente em situação de risco (falta à escola, fica na rua): Conselho Tutelar pode intervir (ECA Art. 131 + 136). Medidas de proteção: Art. 101. Pais: medidas do Art. 129 (advertência, encaminhamento). Gabarito C: o Conselho Tutelar pode aplicar medidas de proteção a Matheus e orientar os pais quanto às obrigações parentais.</p>"
   }
 ]

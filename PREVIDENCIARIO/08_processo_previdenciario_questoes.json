@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_processo_previdenciario",
     "modulo_nome": "Processo Administrativo e Judicial Previdenciário",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 21, I:</strong> acidente do trabalho: o acidente de trânsito sofrido pelo empregado no percurso trabalho-residência (trajeto). <strong>Art. 21, IV, d:</strong> acidente de trajeto equiparado ao do trabalho. Antônio, empregado, acidente de trânsito em 2018: direito ao auxílio por incapacidade temporária acidentário + estabilidade de 12 meses após alta.</p>",
+    "dica": "<p>Acidente de trajeto (Lei 8.213/91 Art. 21, IV, d): equiparado ao acidente do trabalho. Benefícios: auxílio por incapacidade temporária acidentário (B91) + estabilidade de 12 meses após a alta médica (Art. 118). Gabarito A: Antônio tem direito ao auxílio por incapacidade temporária acidentário e à estabilidade no emprego por 12 meses após a alta médica.</p>"
   },
   {
     "num": 70,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_processo_previdenciario",
     "modulo_nome": "Processo Administrativo e Judicial Previdenciário",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 57:</strong> aposentadoria especial: segurado que trabalha sujeito a agentes nocivos à saúde ou à integridade física, por 15, 20 ou 25 anos. <strong>Art. 58:</strong> laudo técnico (PPP — Perfil Profissiográfico Previdenciário) comprova exposição. Sílvia: empregada em atividades externas com exposição a agentes nocivos — verifica se atende a requisito de tempo mínimo.</p>",
+    "dica": "<p>Aposentadoria especial (Lei 8.213/91 Art. 57): exige PPP emitido pelo empregador comprovando exposição a agentes nocivos. Períodos: 15/20/25 anos conforme o agente. EC 103/19 adicionou exigência de idade mínima. Gabarito D: Sílvia pode ter direito à aposentadoria especial se comprovar, por PPP, exposição a agentes nocivos pelo período exigido para sua atividade.</p>"
   }
 ]

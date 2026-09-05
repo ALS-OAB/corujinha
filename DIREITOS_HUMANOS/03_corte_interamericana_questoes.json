@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_corte_interamericana",
     "modulo_nome": "Corte Interamericana e Comissão Interamericana",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CADH, Art. 13 (liberdade de expressão) + Art. 11 (honra):</strong> a CADH protege a liberdade de expressão, mas admite responsabilidade ulterior por abuso. <strong>Declaração de Princípios de Santiago (CIDH):</strong> censura prévia é proibida, mas abuso da liberdade de expressão por candidato político pode ser responsabilizado a posteriori (Lei das Eleições).</p>",
+    "dica": "<p>Liberdade de expressão (CADH Art. 13): proibida censura prévia; responsabilidade ulterior pelo abuso. Candidato que divulga informação falsa sobre rival: pode ser responsabilizado eleitoralmente. Gabarito C: a divulgação de informação falsa sobre o candidato adversário pode gerar responsabilidade civil e eleitoral, mas não censura prévia.</p>"
   },
   {
     "num": 17,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_corte_interamericana",
     "modulo_nome": "Corte Interamericana e Comissão Interamericana",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Corte IDH, Caso Saramaka vs. Suriname (2007):</strong> povos tribais e indígenas têm direito à consulta prévia sobre projetos que afetem suas terras. <strong>CADH, Art. 21 (propriedade):</strong> protege a propriedade coletiva de povos tradicionais. <strong>Convenção 169 OIT:</strong> consulta livre, prévia e informada.</p>",
+    "dica": "<p>Direitos das comunidades tradicionais (CADH Art. 21 + Convenção 169 OIT): consulta prévia, livre e informada antes de qualquer projeto em seus territórios. Gabarito A: a comunidade indígena tem direito à consulta prévia e ao consentimento antes da implementação de qualquer projeto que afete seu território.</p>"
   },
   {
     "num": 17,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "03_corte_interamericana",
     "modulo_nome": "Corte Interamericana e Comissão Interamericana",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CADH, Art. 21 (propriedade coletiva) + Art. 25 (proteção judicial):</strong> comunidade indígena com direitos territoriais ameaçados: pode acionar o sistema interamericano após esgotar os recursos internos (CADH Art. 46). Primeiro: comissão IDH. Medidas cautelares urgentes: disponíveis sem esgotamento.</p>",
+    "dica": "<p>Acesso ao Sistema Interamericano (CADH Art. 46): exige esgotamento dos recursos internos, salvo para medidas cautelares urgentes. Gabarito B: o advogado deve primeiro ingressar com ação judicial no Brasil (recursos internos) + requerer medidas cautelares à Comissão IDH simultaneamente se houver urgência.</p>"
   }
 ]

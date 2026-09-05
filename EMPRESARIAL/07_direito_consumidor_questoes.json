@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "07_direito_consumidor",
     "modulo_nome": "Concorrência e Propriedade Industrial",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei Uniforme de Genebra (Decreto 57.663/66) — nota promissória:</strong> Ruy Barbosa subscreveu NP em favor do credor do empréstimo. <strong>Art. 75 LUG:</strong> a nota promissória deve conter: cláusula \"nota promissória\", promessa pura e simples de pagar, vencimento, beneficiário, data e lugar de emissão, assinatura do subscritor. NP sem algum desses requisitos: inválida como título de crédito.</p>",
+    "dica": "<p>Nota promissória (LUG Art. 75): requisitos essenciais — ausência de qualquer deles invalida o título como NP. Exceções: falta de vencimento = à vista; falta de lugar de emissão/pagamento = domicílio do subscritor. Gabarito D: para que a NP seja válida como título de crédito, deve preencher os requisitos do Art. 75 da LUG — a ausência de requisito essencial invalida sua força executiva.</p>"
   },
   {
     "num": 48,
@@ -35,7 +41,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_direito_consumidor",
     "modulo_nome": "Concorrência e Propriedade Industrial",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.279/96 (LPI), Art. 8º:</strong> é patenteável a invenção que atenda aos requisitos de novidade, atividade inventiva e aplicação industrial. <strong>Art. 11:</strong> novidade: não compreendida no estado da técnica. Pio Alves e Cardoso Moreira: inventores co-titulares da patente. <strong>Art. 6º:</strong> patente requerida em nome do criador (inventor) ou de seus sucessores.</p>",
+    "dica": "<p>Requisitos de patenteabilidade (LPI Art. 8º): novidade + atividade inventiva + aplicação industrial. Titularidade da patente (Art. 6º): do inventor ou seus herdeiros/sucessores; se criada no âmbito do emprego: pertence ao empregador (com direito ao inventor). Gabarito A: Pio e Cardoso podem requerer a patente em cotitularidade, desde que os produtos preencham os requisitos de novidade, atividade inventiva e aplicação industrial.</p>"
   },
   {
     "num": 48,
@@ -54,7 +66,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "07_direito_consumidor",
     "modulo_nome": "Concorrência e Propriedade Industrial",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 981 (sociedade simples):</strong> \"Celebram contrato de sociedade as pessoas que reciprocamente se obrigam a contribuir, com bens ou serviços, para o exercício de atividade econômica e a partilha, entre si, dos resultados.\" F. Beltrão, G. Carneiro e S. Moreira (atividade simples): sociedade simples de prazo indeterminado + divisão de quotas.</p>",
+    "dica": "<p>Sociedade simples (CC Art. 997 ss.): não empresária, objeto científico/literário/artístico. Contrato escrito não arquivado na Junta: registro no Cartório de Registro de Pessoas Jurídicas. Gabarito A: a sociedade simples de F. Beltrão, G. Carneiro e S. Moreira deve ser registrada no Cartório de Registro de Pessoas Jurídicas (não na Junta Comercial).</p>"
   },
   {
     "num": 49,
@@ -73,7 +91,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_direito_consumidor",
     "modulo_nome": "Concorrência e Propriedade Industrial",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.150:</strong> empresário e sociedade empresária: Junta Comercial (RPEM). <strong>Art. 1.151:</strong> prazo de 30 dias para registro após a assinatura. Francisco Morato em GO quer ter empresa em Brasília/DF: estabelecimento principal = DF → registro na Junta Comercial do DF. Estabelecimento secundário em outro Estado: necessita de arquivamento na Junta do outro Estado.</p>",
+    "dica": "<p>Registro do empresário (Lei 8.934/94 + CC Art. 1.150): feito na Junta Comercial do Estado/DF onde está o estabelecimento principal. Francisco com sede em Brasília: registro na Junta Comercial do DF. Gabarito B: Francisco deve registrar-se como empresário individual na Junta Comercial do Distrito Federal, onde está o seu estabelecimento principal em Brasília.</p>"
   },
   {
     "num": 49,
@@ -92,6 +116,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_direito_consumidor",
     "modulo_nome": "Concorrência e Propriedade Industrial",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 1.150 + Lei 8.934/94, Art. 1º:</strong> registro de sociedade empresária: Junta Comercial do Estado onde está a sede. Pinheiros & Filhos (sede em Pancas/ES): registro na Junta Comercial do ES (JUCEES). Para filial em outro Estado: arquivamento também na Junta Comercial do Estado da filial.</p>",
+    "dica": "<p>Registro de alteração contratual (Lei 8.934/94 Art. 32): arquivado na Junta Comercial da sede. Pinheiros & Filhos em ES: alteração do contrato registrada na JUCEES. Gabarito C: a sociedade deve arquivar a alteração contratual na Junta Comercial do Espírito Santo (sede em Pancas/ES) — é a Junta competente para registros dessa sociedade.</p>"
   }
 ]

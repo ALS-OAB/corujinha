@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_direitos_basicos",
     "modulo_nome": "Direitos Básicos do Consumidor",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 6º, VIII:</strong> \"A facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente.\" Wilson, 13 anos, subtraiu produto — caso de ato infracional (não relação de consumo entre Wilson e a vítima Manoel).</p>",
+    "dica": "<p>Wilson (13 anos) praticou ato infracional (furto). Não se aplica CDC diretamente na relação entre Wilson e Manoel. O CDC protege Wilson como consumidor em relações de consumo (compras, serviços). Gabarito D: aplicam-se as normas do ECA (ato infracional), não o CDC — o CDC não rege relações de natureza criminal entre particulares.</p>"
   },
   {
     "num": 45,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_direitos_basicos",
     "modulo_nome": "Direitos Básicos do Consumidor",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 12:</strong> fabricante responde pelo fato do produto (defeito de segurança). <strong>Art. 12, §1º, II:</strong> defeito existe quando o produto não oferece a segurança que dele se espera. Óleo essencial com nome de empresa: produto que causa dano inesperado = responsabilidade objetiva do fabricante.</p>",
+    "dica": "<p>Responsabilidade pelo fato do produto (CDC Art. 12): objetiva, independe de culpa. Fabricante responde por defeito de segurança. Gabarito C: a empresa responde objetivamente pelos danos causados pelo produto defeituoso, mesmo após 50 anos de fabricação.</p>"
   },
   {
     "num": 46,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_direitos_basicos",
     "modulo_nome": "Direitos Básicos do Consumidor",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 54-B, §3º:</strong> \"É vedado ao fornecedor de crédito ou de produto [...] realizar com o consumidor [...] contrato de crédito sem consulta prévia e expressa ao cadastro de inadimplentes.\" <strong>Lei 14.181/21:</strong> proteção contra cláusulas que gerem superendividamento. Cartão de crédito Black com anuidade oculta: cláusula abusiva (CDC Art. 51).</p>",
+    "dica": "<p>Oferta de cartão de crédito (CDC): fornecedor deve informar claramente todas as tarifas e condições (CDC Art. 31 + 54-B). Cláusula de anuidade não divulgada na oferta = abusiva. Gabarito D: Maria Victoria pode pleitear a nulidade da cláusula de anuidade não informada na oferta (CDC Art. 46 + 51, I).</p>"
   }
 ]

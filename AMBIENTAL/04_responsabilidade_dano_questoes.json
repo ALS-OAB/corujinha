@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_responsabilidade_dano",
     "modulo_nome": "Responsabilidade por Danos Ambientais (Civil, Adm e Penal)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 6.938/81, Art. 14, §1º (responsabilidade objetiva) + CF Art. 225, §3º:</strong> condomínio que lança esgoto em corpo d'água = poluidor. Responsabilidade objetiva + solidária dos condôminos (se configurada atividade comum). <strong>STJ:</strong> responsabilidade ambiental solidária permite acionar qualquer dos poluidores.</p>",
+    "dica": "<p>Condomínio que polui rio: responsabilidade objetiva pelo dano ambiental (Lei 6.938/81). Independe de autorização municipal ou de quem causou individualmente. Gabarito D: o condomínio responde objetivamente pelos danos ao rio, independentemente de culpa ou autorização prévia.</p>"
   },
   {
     "num": 36,
@@ -35,7 +41,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_responsabilidade_dano",
     "modulo_nome": "Responsabilidade por Danos Ambientais (Civil, Adm e Penal)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>STJ: responsabilidade do Estado por dano ambiental causado por empresa contratada:</strong> o Estado tem responsabilidade subsidiária quando concorre para o dano por omissão fiscalizatória (STJ REsp 1071741). O Estado (via administração) tem dever de fiscalizar a execução do contrato. Responsabilidade solidária: Estado + empresa = poluidores.</p>",
+    "dica": "<p>Dano ambiental por empresa contratada pelo poder público: Estado tem responsabilidade civil <strong>solidária</strong> com o contratado (STJ). Gabarito A: o Estado pode ser responsabilizado solidariamente pelos danos ambientais causados pela empresa Esperta durante execução do contrato.</p>"
   },
   {
     "num": 35,
@@ -54,6 +66,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "04_responsabilidade_dano",
     "modulo_nome": "Responsabilidade por Danos Ambientais (Civil, Adm e Penal)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CONAMA Res. 237/97 Art. 8º:</strong> as licenças ambientais são: LP (Licença Prévia), LI (Licença de Instalação) e LO (Licença de Operação). O processo de licenciamento deve ser concluído antes do início das atividades. Durante o licenciamento, antes de concedida qualquer licença, a atividade não pode operar.</p>",
+    "dica": "<p>Fases do licenciamento: LP (viabilidade) → LI (instalação) → LO (operação). Alfa está em licenciamento de tingimento de tecidos: ainda sem LO = <strong>não pode iniciar operação</strong>. Gabarito C: Alfa deve aguardar a conclusão do licenciamento e a concessão da LO antes de iniciar as atividades de tingimento.</p>"
   }
 ]

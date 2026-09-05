@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_precatorios_divida",
     "modulo_nome": "Precatórios Judiciais e Dívida Pública",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LRF, Art. 42:</strong> \"É vedado ao titular de Poder ou órgão [...] nos últimos dois quadrimestres do seu mandato, contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele, ou que tenha parcelas a serem pagas no exercício seguinte sem que haja suficiente disponibilidade de caixa para este efeito.\" Prefeito inicia mandato: pode assumir obrigações livremente no início.</p>",
+    "dica": "<p>LRF Art. 42 (vedação de despesas no final do mandato): proíbe contrair despesas no último bimestre/quadrimestre sem cobertura de caixa para o mandatário seguinte. Gabarito A: no início do mandato, o prefeito pode comprometer despesas livremente — a vedação só se aplica nos últimos dois quadrimestres do mandato.</p>"
   },
   {
     "num": 23,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "07_precatorios_divida",
     "modulo_nome": "Precatórios Judiciais e Dívida Pública",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LRF, Art. 50 (escrituração + relatórios):</strong> a despesa empenhada mas não paga = despesa <strong>inscrita em restos a pagar</strong>. <strong>Art. 36:</strong> \"Considera-se Restos a Pagar as despesas empenhadas mas não pagas até o dia 31 de dezembro do ano.\" Limite de inscrição em restos a pagar: observar a disponibilidade de caixa (LRF Art. 42).</p>",
+    "dica": "<p>Restos a Pagar (Lei 4.320/64 Art. 36 + LRF): despesas empenhadas mas não pagas até 31/12. Processados (liquidados) e não processados (só empenhados). O limite: disponibilidade de caixa (LRF Art. 42). Gabarito A: as despesas da Secretaria de Obras, empenhadas mas não pagas, devem ser inscritas em Restos a Pagar ao final do exercício.</p>"
   }
 ]

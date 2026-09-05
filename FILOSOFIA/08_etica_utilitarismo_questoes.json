@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_etica_utilitarismo",
     "modulo_nome": "Ética Jurídica, Moral e Utilitarismo",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Kelsen — Teoria Pura do Direito:</strong> \"Uma norma jurídica não vale porque tem determinado conteúdo... (mas porque foi criada de determinada maneira).\" O que faz uma norma válida é o procedimento de sua criação, não seu conteúdo moral. Validade = conformidade ao procedimento + competência do órgão que a editou. Base do positivismo normativista.</p>",
+    "dica": "<p>Kelsen — validade da norma: critério formal (procedimento + competência), não material (conteúdo justo). Norma válida mesmo que injusta. Gabarito C: a afirmativa que corresponde a Kelsen é a que afirma que a validade da norma não depende de seu conteúdo moral, mas do procedimento de sua criação conforme a norma superior.</p>"
   },
   {
     "num": 10,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_etica_utilitarismo",
     "modulo_nome": "Ética Jurídica, Moral e Utilitarismo",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XI — inviolabilidade do domicílio:</strong> ninguém pode penetrar na casa sem consentimento, salvo: flagrante delito, desastre, socorro, ou determinação judicial (durante o dia). <strong>STF RE 603.616:</strong> sem mandado judicial, a polícia não pode entrar na residência para busca e apreensão, mesmo com fundada suspeita — salvo flagrante evidente.</p>",
+    "dica": "<p>Inviolabilidade do domicílio (CF Art. 5º, XI): entrar sem consentimento é permitido apenas com mandado judicial (dia) ou em flagrante/desastre/socorro (dia ou noite). Presunção de flagrância: precisa de elementos concretos (STF RE 603.616 — Tráfico). Gabarito D: a polícia precisa de mandado judicial para entrar na residência durante o dia — a mera suspeita não autoriza a entrada sem mandado.</p>"
   }
 ]

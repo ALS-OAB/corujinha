@@ -16,7 +16,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_defesa_coletiva",
     "modulo_nome": "Defesa do Consumidor em Juízo e Ações Coletivas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 26, II:</strong> vício aparente de produto durável: prazo decadencial de <strong>90 dias</strong> para reclamar. Fogão entregue em 12/09/2023, Nísia reclama dentro de 90 dias. <strong>Art. 18, §1º:</strong> não sanado o vício em 30 dias: consumidor pode exigir substituição, restituição do valor ou abatimento.</p>",
+    "dica": "<p>Vício aparente de produto durável: <strong>90 dias</strong> para reclamar (CDC Art. 26, II). Fornecedor tem 30 dias para sanar. Se não sana: consumidor escolhe entre substituição do produto, restituição do valor pago ou abatimento proporcional do preço (Art. 18, §1º). Gabarito A: Nísia tem 90 dias para reclamar e direito à substituição/reembolso se o vício não for sanado em 30 dias.</p>"
   },
   {
     "num": 46,
@@ -35,6 +41,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_defesa_coletiva",
     "modulo_nome": "Defesa do Consumidor em Juízo e Ações Coletivas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CDC, Art. 12:</strong> fabricante responsável objetivamente pelo fato do produto. <strong>Art. 13:</strong> comerciante responde subsidiariamente quando: não conserva bem o produto, ou o fabricante não for identificado, ou não houver representante. Maria adquiriu aquecedor de marca renomada: o curto-circuito que causa incêndio = fato do produto (defeito de segurança).</p>",
+    "dica": "<p>Fato do produto (CDC Art. 12): responsabilidade objetiva do fabricante. Prazo prescricional: 5 anos (CDC Art. 27). Dano causado por aquecedor defeituoso: fabricante responde objetivamente. Gabarito D: Maria pode acionar o fabricante diretamente, que responde objetivamente pelos danos causados pelo aquecedor defeituoso.</p>"
   }
 ]

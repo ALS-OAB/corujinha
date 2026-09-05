@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 721 (contrato de transporte) + CC Art. 730:</strong> transportador responde por dano ao passageiro ou à carga. Vitor que se mudou de Salvador para Fortaleza: contrato de transporte de bens. <strong>CPC Art. 516:</strong> competência para a ação: foro do domicílio do réu (CPC Art. 46) ou local de cumprimento da obrigação (Art. 53, III, a).</p>",
+    "dica": "<p>Ação de indenização por dano em transporte (CC Art. 730 + CPC Art. 46 e 53): foro do domicílio do réu ou local do fato. CC Art. 730: transportador responde objetivamente por danos causados às coisas transportadas. Gabarito C: Vitor pode propor ação contra a transportadora no foro do domicílio dela ou no local onde deveria ser feita a entrega — competência alternativa (CPC Art. 53).</p>"
   },
   {
     "num": 51,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 496 (remessa necessária):</strong> sentença proferida contra Fazenda Pública: sujeita ao duplo grau obrigatório. <strong>Exceção (§3º, I):</strong> não está sujeita à remessa necessária a sentença fundada em súmula de tribunal superior. Sociedade empresária privada condenada: sem remessa necessária. Sentença de procedência: apelação do réu.</p>",
+    "dica": "<p>Recurso da sentença de procedência (CPC Art. 1.009): apelação, prazo de 15 dias. Se a ré é Fazenda Pública: remessa necessária + prazo em dobro para apelar. PJ privada: apelação comum em 15 dias. Gabarito B: a sociedade empresária privada condenada pode apelar em 15 dias — não há remessa necessária. O exequente tem prazo de 15 dias para se manifestar após as contrarrazões.</p>"
   },
   {
     "num": 53,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 46, §1º:</strong> \"Tendo mais de um domicílio, o réu será demandado no foro de qualquer deles.\" <strong>CPC Art. 53:</strong> é competente o foro do lugar do cumprimento da obrigação (contrato de empreitada). José Carlos (engenheiro) fez reforma da casa de Luzia em Aracaju: competência no foro de Aracaju (local de cumprimento da obrigação).</p>",
+    "dica": "<p>Foro do local de cumprimento da obrigação (CPC Art. 53, III, a): competente para ações de obrigação de fazer, não fazer e pagar nascidas de contratos. Gabarito B: Luzia pode propor ação em Aracaju (onde foi feita a reforma) ou no domicílio de José Carlos — a competência é alternativa entre o foro do domicílio do réu e o foro do local de cumprimento da obrigação.</p>"
   },
   {
     "num": 56,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 1.012 (efeito suspensivo da apelação) + Art. 1.012, §1º, IV:</strong> a apelação tem efeito suspensivo, mas não nas hipóteses do §1º, dentre as quais \"IV — que julgue procedente o pedido de instituição de arbitragem.\" <strong>CPC Art. 1.013, §3º:</strong> pedido de tutela provisória no recurso. Silene obteve decisão interlocutória de alimentos provisórios: Agravo de Instrumento.</p>",
+    "dica": "<p>Decisão que fixa alimentos provisórios (CPC Art. 1.015, II): recorrível por agravo de instrumento. Prazo: 15 dias. Efeito: sem efeito suspensivo automático (alimentos têm eficácia imediata). Gabarito A: Jonas deve interpor agravo de instrumento em 15 dias contra a decisão que fixou alimentos provisórios — é o recurso cabível contra decisão interlocutória sobre alimentos provisórios.</p>"
   },
   {
     "num": 52,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 46:</strong> foro do domicílio do réu (regra geral). <strong>Art. 53, V:</strong> ações de reparação de dano: foro do local do ato ou fato. Joana e Regina querem propor ações reparatórias pelo mesmo fato: podem propor no foro do local do ato ou fato, ou no domicílio do réu. Se o mesmo fato causou danos a ambas: podem ser litisconsortes ativas.</p>",
+    "dica": "<p>Cumulação subjetiva de demandas (litisconsórcio ativo — CPC Art. 113): Joana e Regina podem propor ação conjunta se os pedidos forem conexos (mesmo fato gerador). Foro competente: local do ato/fato (CPC Art. 53, V) ou domicílio do réu (Art. 46). Gabarito D: Joana e Regina podem propor ação conjunta (litisconsórcio ativo facultativo) no foro do local do ato/fato que causou os danos a ambas.</p>"
   },
   {
     "num": 54,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 693 (processo de família) + Art. 695 (segredo de justiça):</strong> ações de família correm em segredo de justiça. <strong>Art. 693:</strong> ação de divórcio + guarda + alimentos: procedimento especial das ações de família. Juliana e André: divórcio litigioso com filho menor de 6 anos.</p>",
+    "dica": "<p>Ações de família (CPC Art. 693-699): procedimento especial com tentativa de conciliação/mediação. Guarda: preferência compartilhada (CC Art. 1.584, §2º). Alimentos: podem ser fixados provisoriamente (CPC Art. 300). Gabarito A: o juiz deve, antes de mais nada, tentar a conciliação/mediação entre Juliana e André (CPC Art. 694-695) — só após frustrada é que seguirá o procedimento contencioso.</p>"
   },
   {
     "num": 56,
@@ -130,6 +166,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "06_recursos_civeis",
     "modulo_nome": "Recursos Cíveis (Apelação, Agravo, Embargos)",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPC, Art. 1.021 (agravo interno):</strong> cabível contra decisão monocrática do relator no tribunal. <strong>Art. 1.025:</strong> consideram-se prequestionadas as questões levantadas quando o tribunal se recusa a examinar matéria decidida. <strong>Ação de responsabilidade civil de médico:</strong> responsabilidade subjetiva (CC Art. 951 + CDC) — culpa médica = obrigação de meio.</p>",
+    "dica": "<p>Responsabilidade civil do médico (CC Art. 951 + Súmula 341 STF): culpa subjetiva como regra (obrigação de meio, não de resultado). Prova da culpa: encargo do paciente (inversão possível no CDC). Gabarito D: Joana deve demonstrar a culpa (imperícia, negligência ou imprudência) de Pietra — o ônus da prova é da autora, salvo inversão pelo juiz (CDC Art. 6º, VIII).</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_homologacao_sentenca",
     "modulo_nome": "Homologação de Decisões Estrangeiras pelo STJ",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CISG (Convenção das Nações Unidas sobre Contratos de Compra e Venda Internacional — Decreto 8.327/14):</strong> o Brasil aderiu à CISG em 2014. Aplica-se a contratos de compra e venda internacional de mercadorias entre partes de países signatários. Disputa de compra e venda internacional no Brasil: o juiz pode aplicar a CISG como lei aplicável ao contrato.</p>",
+    "dica": "<p>CISG (Decreto 8.327/14): aplicável a contratos de compra e venda internacional entre partes de Estados contratantes. No Brasil desde 2014. Gabarito B: o juiz deve aplicar a CISG à disputa sobre contrato de compra e venda internacional celebrado entre partes de países signatários — é tratado incorporado ao direito brasileiro.</p>"
   },
   {
     "num": 21,
@@ -35,6 +41,12 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_homologacao_sentenca",
     "modulo_nome": "Homologação de Decisões Estrangeiras pelo STJ",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.610/98 (Direitos Autorais), Art. 5º, VIII:</strong> obra audiovisual. <strong>Art. 11:</strong> autor = criador da obra. Filmagem sem consentimento e publicação: violação à imagem (CC Art. 20 + CF Art. 5º, X) e intimidade. <strong>Competência:</strong> ação de indenização por dano à imagem de brasileira filmada no Brasil: competência da Justiça brasileira (LINDB Art. 9º).</p>",
+    "dica": "<p>Filmagem e divulgação não autorizada de imagem (CC Art. 20 + CF Art. 5º, X): ilícito civil. Competência: Justiça brasileira (ato praticado no Brasil). Gabarito C: a artista pode ingressar com ação de indenização perante a Justiça brasileira, que tem competência para julgar o caso, pois o ato ilícito foi praticado no Brasil.</p>"
   }
 ]

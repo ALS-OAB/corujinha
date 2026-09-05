@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 126:</strong> \"A capacidade tributária passiva independe: I — da capacidade civil das pessoas naturais.\" Lucas, menor de 8 anos, proprietário de imóvel: contribuinte do IPTU. <strong>CTN, Art. 128:</strong> responsabilidade tributária do representante. Os pais de Lucas são responsáveis pelo pagamento, mas Lucas é o contribuinte.</p>",
+    "dica": "<p>Capacidade tributária passiva (CTN Art. 126): independe da capacidade civil. Menor de idade que possua imóvel é contribuinte do IPTU — seus representantes legais (pais/tutores) respondem pelo pagamento. Gabarito A: Lucas é contribuinte do IPTU mesmo sendo menor de 8 anos, e seus representantes legais respondem solidariamente pelo pagamento.</p>"
   },
   {
     "num": 29,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 155, III:</strong> IPVA: competência dos Estados. Bicicletas elétricas: veículo automotor? <strong>STJ/STF:</strong> bicicleta elétrica (sem motor de combustão interna) não é veículo automotor para fins do IPVA. <strong>CF Art. 155, III:</strong> IPVA incide sobre \"propriedade de veículos automotores.\" Governador que institui IPVA para bicicletas elétricas: inconstitucional (STF RE 1016605 — bicicletas não têm IPVA).</p>",
+    "dica": "<p>IPVA sobre bicicletas elétricas: inconstitucional. STF: IPVA incide sobre veículos automotores (propulsão por motor de combustão interna). Bicicleta elétrica: não é veículo automotor. Gabarito C: a lei estadual que institui IPVA sobre bicicletas elétricas é inconstitucional, pois bicicletas não são veículos automotores para fins constitucionais.</p>"
   },
   {
     "num": 27,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 128:</strong> \"A lei pode atribuir de modo expresso a responsabilidade pelo crédito tributário a terceira pessoa, vinculada ao fato gerador da respectiva obrigação.\" <strong>CTN, Art. 135:</strong> responsabilidade pessoal dos diretores, gerentes por atos com excesso de poderes ou infração de lei. João e José: constituíram empresa; João gerente que cometeu ato ilícito: responsável pessoalmente.</p>",
+    "dica": "<p>Responsabilidade tributária do gerente/diretor (CTN Art. 135, III): responde pessoalmente pelos créditos tributários decorrentes de atos praticados com excesso de poderes ou infração de lei/contrato social. Dissolução irregular = ato ilícito = responsabilidade pessoal. Gabarito D: se João praticou ato com excesso de poderes ou violou a lei, responde pessoalmente pelas dívidas tributárias da empresa.</p>"
   },
   {
     "num": 25,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 174:</strong> \"A ação para a cobrança do crédito tributário prescreve em cinco anos.\" <strong>Interrupção da prescrição (Art. 174, parágrafo único, I):</strong> pela citação pessoal do devedor. José citado em janeiro de 2022 em execução fiscal por dívida de 2014: verificar se houve interrupção anterior. Citação interrompe a prescrição e reinicia o prazo de 5 anos.</p>",
+    "dica": "<p>Prescrição tributária (CTN Art. 174): 5 anos da constituição definitiva do crédito. Interrupção pela citação na execução fiscal (Lei 6.830/80 Art. 8º, §2º). Gabarito C: a citação de José em janeiro de 2022 interrompeu a prescrição — reinicia o prazo de 5 anos para cobrança do crédito tributário.</p>"
   },
   {
     "num": 28,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, III, b (anterioridade do exercício) + Art. 150, III, c (anterioridade nonagesimal):</strong> lei que concede parcelamento de débitos previdenciários (REFIS): não é instituição de tributo — não viola anterioridade. <strong>Irretroatividade (Art. 150, III, a):</strong> lei tributária não retroage, salvo lei interpretativa ou mais benéfica ao contribuinte em matéria de infração (CTN Art. 106).</p>",
+    "dica": "<p>Parcelamento tributário (REFIS): não é instituição/majoração de tributo — não sujeito à anterioridade. Lei mais benéfica em matéria de infrações retroage (CTN Art. 106, II, c). Gabarito B: a lei federal que institui parcelamento pode ter aplicação imediata, sem necessidade de respeitar anterioridade tributária — não institui nem majora tributo.</p>"
   },
   {
     "num": 26,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, III, a (irretroatividade) + Art. 150, I (legalidade):</strong> IPVA sobre propriedade de aeronaves: vedado pelo STF (RE 379.572 — aeronaves e embarcações não são veículos automotores). <strong>Art. 155, III:</strong> IPVA = veículos automotores terrestres. Estado Alfa que cria IPVA sobre aeronaves por lei publicada em 29/12/2024: inconstitucional.</p>",
+    "dica": "<p>IPVA sobre aeronaves: inconstitucional (STF RE 379.572 + Súmula Vinculante implícita). IPVA incide apenas sobre veículos automotores terrestres. Gabarito C: a lei estadual de IPVA sobre aeronaves é inconstitucional — o STF firmou tese de que IPVA não incide sobre aeronaves e embarcações.</p>"
   },
   {
     "num": 29,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_obrigacao_tributaria",
     "modulo_nome": "Obrigação Tributária e Fato Gerador",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 145, II (taxa) + Art. 150, V (limitações ao poder de tributar):</strong> taxa: cobrança em razão do exercício do poder de polícia ou pela utilização de serviço público específico e divisível. Taxa de fiscalização de cemitérios: exercício do poder de polícia (fiscalização). Taxa sobre cemitérios: possível se o Município efetivamente fiscaliza.</p>",
+    "dica": "<p>Taxa de poder de polícia (CF Art. 145, II + CTN Art. 78): válida quando há efetivo exercício do poder de polícia fiscalizatório. Gabarito D: a taxa municipal de fiscalização de cemitérios é constitucional se o Município efetivamente exerce o poder de polícia fiscalizando os cemitérios — a taxa é vinculada ao exercício de atividade pública específica.</p>"
   }
 ]

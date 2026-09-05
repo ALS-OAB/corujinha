@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_sociedade_anonima",
     "modulo_nome": "Sociedades por Ações (S/A)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 972:</strong> \"Podem exercer a atividade de empresário os que estiverem em pleno gozo da capacidade civil e não forem legalmente impedidos.\" <strong>Art. 973:</strong> o empresário pode continuar a empresa do cônjuge ou pai incapaz. Marília da Rocha (inscrita há mais de 10 anos): pode cancelar sua inscrição se cessar a atividade — empresário individual deve cancelar registro ao encerrar.</p>",
+    "dica": "<p>Cancelamento do registro do empresário individual (Lei 8.934/94): empresário pode requerer o cancelamento quando cessar a atividade. Marília (10+ anos de inscrição): pode cancelar o registro solicitando à Junta Comercial. Gabarito D: Marília da Rocha pode pedir o cancelamento de sua inscrição como empresária individual na Junta Comercial de SP ao encerrar sua atividade.</p>"
   },
   {
     "num": 50,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_sociedade_anonima",
     "modulo_nome": "Sociedades por Ações (S/A)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CC, Art. 693 (contrato de comissão):</strong> o comissário (Eloi Mendes) age em nome próprio, por conta do comitente (Pastifício). <strong>CC Art. 694:</strong> o comissário responde pelos negócios que fazer, mas o comitente fica vinculado perante terceiros. <strong>Art. 697:</strong> o comitente pode exonerar o comissário a qualquer tempo.</p>",
+    "dica": "<p>Contrato de comissão (CC Art. 693 ss.): comissário age em nome próprio + conta do comitente. Terceiros só conhecem o comissário. O comitente pode encerrar o contrato pagando a comissão proporcional. Gabarito A: o Pastifício (comitente) pode encerrar o contrato de comissão com Eloi (comissário), mas deve pagar a comissão pelos negócios já concluídos ou em andamento.</p>"
   },
   {
     "num": 50,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "05_sociedade_anonima",
     "modulo_nome": "Sociedades por Ações (S/A)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 48:</strong> requisitos para pedir recuperação judicial. <strong>Art. 48, II:</strong> não ter obtido concessão de RJ há menos de 5 anos. Valério Sampaio, empresário individual: se preencher os requisitos (2+ anos de atividade, não falido, sem RJ anterior nos últimos 5 anos): pode pedir RJ. Empresário individual tem acesso à RJ (Art. 1º LREF).</p>",
+    "dica": "<p>Recuperação judicial do empresário individual (LREF Art. 1º e 48): possível se preencher os requisitos. Gabarito B: Valério, como empresário individual regularmente inscrito, pode pedir recuperação judicial se preencher os requisitos do Art. 48 — exercício da atividade por mais de 2 anos + ausência de impedimentos legais.</p>"
   },
   {
     "num": 50,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_sociedade_anonima",
     "modulo_nome": "Sociedades por Ações (S/A)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.101/05, Art. 49, §3º (alienação fiduciária):</strong> o credor fiduciário não se submete à RJ — pode retomar o bem. Itarana Avícola (em RJ) + Banco (alienação fiduciária de veículos): o Banco pode retomar os veículos alienados fiduciariamente independentemente da RJ. <strong>Art. 6º, §4º:</strong> stay period não atinge o credor fiduciário.</p>",
+    "dica": "<p>Alienação fiduciária vs. recuperação judicial (LREF Art. 49, §3º): credor fiduciário não se sujeita à RJ — pode retomar o bem durante a RJ. Gabarito A: o Banco pode retomar os veículos alienados fiduciariamente mesmo durante o processo de RJ da Itarana Avícola — o crédito fiduciário está fora dos efeitos da RJ.</p>"
   },
   {
     "num": 47,
@@ -92,6 +116,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "05_sociedade_anonima",
     "modulo_nome": "Sociedades por Ações (S/A)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei Uniforme de Genebra (Decreto 57.663/66) — nota promissória:</strong> prazo de prescrição: 3 anos do vencimento contra o subscritor. <strong>Art. 70 LUG:</strong> ações contra o sacador e endossantes: 1 ano do protesto (ou do vencimento). Nota promissória de R$ 19.800,00: verificar prazo prescricional + necessidade de protesto para ação de regresso.</p>",
+    "dica": "<p>Nota promissória (LUG Decreto 57.663/66): ação direta do portador contra o subscritor prescreve em 3 anos do vencimento (Art. 70). Ação de regresso: 1 ano do protesto ou do vencimento. Gabarito A: Mercado Barra Velha pode executar a nota promissória diretamente contra o subscritor dentro de 3 anos do vencimento — sem necessidade de protesto para a ação direta.</p>"
   }
 ]

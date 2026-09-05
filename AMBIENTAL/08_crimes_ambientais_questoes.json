@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_crimes_ambientais",
     "modulo_nome": "Crimes Ambientais (Lei nº 9.605/98)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.605/98 (Crimes Ambientais), Art. 54:</strong> poluição: \"Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortandade de animais ou a destruição significativa da flora.\" Licença ambiental: não é excludente de responsabilidade penal se ocorrer poluição. <strong>Art. 3º:</strong> PJ responde penalmente.</p>",
+    "dica": "<p>Crime ambiental de poluição (Lei 9.605/98 Art. 54): ocorre mesmo que a empresa tenha licença ambiental, se houver poluição em níveis lesivos. Responsabilidade penal da PJ (Art. 3º): autônoma da dos dirigentes. Gabarito A: a licença ambiental não exclui a responsabilidade penal por poluição que cause danos efetivos.</p>"
   },
   {
     "num": 35,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_crimes_ambientais",
     "modulo_nome": "Crimes Ambientais (Lei nº 9.605/98)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 182 + Lei 10.257/01 (Estatuto da Cidade):</strong> plano diretor municipal define uso e ocupação do solo. <strong>Lei 12.651/12, Art. 3º, VIII (b):</strong> área urbana consolidada com definição específica. Shopping center em área urbana: pode ser compatível com o plano diretor. <strong>CONAMA Res. 237/97:</strong> licenciamento de shopping é atividade de significativo impacto ambiental.</p>",
+    "dica": "<p>Shopping center de grande porte: atividade sujeita ao licenciamento ambiental e, se de significativo impacto, ao EIA/RIMA. Gabarito B: Empreendedorix precisa de licença ambiental (e possivelmente EIA) para o shopping, respeitando o plano diretor municipal — não pode construir sem licenciamento ambiental mesmo em área urbana.</p>"
   }
 ]

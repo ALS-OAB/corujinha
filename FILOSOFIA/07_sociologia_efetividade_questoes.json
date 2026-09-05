@@ -16,7 +16,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_sociologia_efetividade",
     "modulo_nome": "Sociologia do Direito e Efetividade das Normas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Kant — Fundamentação da Metafísica dos Costumes:</strong> \"A moralidade, e a humanidade enquanto capaz de moralidade, são as únicas coisas que têm dignidade.\" Fundamento da deontologia kantiana: o valor da pessoa não é relativo (preço) mas absoluto (dignidade). Aplicação no direito: inviolabilidade da dignidade humana (CF Art. 1º, III).</p>",
+    "dica": "<p>Kant e dignidade: a humanidade tem dignidade (valor absoluto e incondicional), não preço (valor relativo e substituível). Gabarito B: a afirmativa correta sobre Kant é a que diferencia dignidade (valor absoluto da pessoa) de preço (valor relativo de coisas).</p>"
   },
   {
     "num": 9,
@@ -35,6 +41,12 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_sociologia_efetividade",
     "modulo_nome": "Sociologia do Direito e Efetividade das Normas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>John Locke — Segundo Tratado sobre o Governo (1689):</strong> sociedade política fundada no contrato social para proteger os direitos naturais preexistentes: vida, liberdade e propriedade. O governo deve respeitar esses direitos; se não o faz, o povo tem direito de resistência. Influência na Constituição americana e na Declaração dos Direitos do Homem (1789).</p>",
+    "dica": "<p>Locke — direitos naturais (vida, liberdade, propriedade) preexistem ao Estado. Contrato social = instrumento de proteção desses direitos, não de sua criação. Direito de resistência contra o governo que os viola. Gabarito A: a afirmativa que corresponde a Locke é a que reconhece direitos naturais anteriores e superiores ao Estado.</p>"
   }
 ]

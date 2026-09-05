@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_licenciamento_eia",
     "modulo_nome": "Licenciamento Ambiental e Estudo de Impacto (EIA/RIMA)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.305/10 (PNRS), Art. 33:</strong> \"São obrigados a estruturar e implementar sistemas de logística reversa [...] fabricantes, importadores, distribuidores e comerciantes de: [...] pilhas e baterias.\" Responsabilidade compartilhada pelo ciclo de vida: fabricantes + importadores + distribuidores + comerciantes + consumidores. Sistema de logística reversa: fabricante é responsável pelo retorno.</p>",
+    "dica": "<p>Logística reversa de pilhas e baterias (PNRS Art. 33): <strong>obrigatória</strong> para fabricantes, importadores, distribuidores e comerciantes. Gabarito A: a fabricante Alfa é obrigada a estruturar e implementar sistema de logística reversa para as pilhas/baterias que coloca no mercado.</p>"
   },
   {
     "num": 36,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "03_licenciamento_eia",
     "modulo_nome": "Licenciamento Ambiental e Estudo de Impacto (EIA/RIMA)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 6.938/81, Art. 10:</strong> \"A construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadoras de recursos ambientais [...] dependerão de prévio licenciamento.\" <strong>Licença de operação</strong> = 3ª fase do licenciamento. Pode ser renovada, suspensa ou cancelada se houver descumprimento das condicionantes (CONAMA Res. 237/97).</p>",
+    "dica": "<p>Licença de Operação: pode ser <strong>suspensa ou cancelada</strong> se houver violação das condicionantes ou dano ambiental significativo (Lei 6.938/81 + CONAMA 237/97 Art. 19). Gabarito D: o IBAMA/órgão ambiental pode suspender a LO diante de descumprimento grave das condicionantes.</p>"
   },
   {
     "num": 36,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_licenciamento_eia",
     "modulo_nome": "Licenciamento Ambiental e Estudo de Impacto (EIA/RIMA)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 6.938/81, Art. 10 + CONAMA Res. 237/97:</strong> atividade potencialmente causadora de degradação ambiental exige licenciamento prévio no órgão ambiental competente. Competência: federal (IBAMA) para atividades de impacto nacional/além de Estado; estadual para atividades de impacto local/estadual; municipal para impacto local.</p>",
+    "dica": "<p>Competência do licenciamento ambiental: IBAMA (impacto nacional/transfronteiriço), órgão estadual (impacto estadual), órgão municipal (impacto local estritamente). Gabarito C: XYZ, com sede no Estado Alfa e impacto restrito ao estado, deve licenciar no órgão estadual de meio ambiente.</p>"
   }
 ]

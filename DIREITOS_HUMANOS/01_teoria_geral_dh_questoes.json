@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_teoria_geral_dh",
     "modulo_nome": "Teoria Geral dos Direitos Humanos e Afirmação Histórica",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, §3º:</strong> \"Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.\" PEC proposta por 1/3 do Senado propondo acréscimo ao Art. 5º: processo legislativo constitucional. Tratados de DH aprovados por maioria simples: status supralegal (STF RE 349.703).</p>",
+    "dica": "<p>Tratados de DH aprovados pelo rito do Art. 5º, §3º CF = status constitucional. Se aprovados por maioria simples: supralegal (acima das leis, abaixo da CF). PEC para ampliar o Art. 5º: possível via emenda constitucional. Gabarito B: a PEC proposta por 1/3 do Senado para acrescentar ao rol do Art. 5º é constitucional e segue o processo do Art. 60 CF.</p>"
   },
   {
     "num": 17,
@@ -35,7 +41,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_teoria_geral_dh",
     "modulo_nome": "Teoria Geral dos Direitos Humanos e Afirmação Histórica",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 231:</strong> são reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições. <strong>Convenção 169 OIT:</strong> consulta prévia, livre e informada às comunidades indígenas em decisões que as afetem. Município X que toma decisão afetando indígenas: deve realizar consulta prévia.</p>",
+    "dica": "<p>Direitos dos povos indígenas: consulta prévia (Convenção 169 OIT — status supralegal + CF Art. 231). Qualquer medida administrativa/legislativa que afete comunidades indígenas exige consulta prévia. Gabarito A: o Município X deve realizar consulta prévia, livre e informada com a comunidade indígena antes de implementar medidas que a afetem.</p>"
   },
   {
     "num": 17,
@@ -54,6 +66,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_teoria_geral_dh",
     "modulo_nome": "Teoria Geral dos Direitos Humanos e Afirmação Histórica",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CADH, Art. 8º (garantias judiciais) + Art. 25 (proteção judicial):</strong> todo pessoa tem direito a um recurso efetivo perante tribunais competentes. <strong>Princípio da progressividade:</strong> os DH não podem ser objeto de retrocesso. Comunidade afetada por empreendimento: direito de acesso à justiça + consulta prévia (Convenção 169 OIT).</p>",
+    "dica": "<p>Acesso à justiça e proteção judicial (CADH Art. 8º + 25): direito fundamental. Princípio da progressividade (CADH Art. 26): vedado retrocesso em DH. Gabarito B: a comunidade tem direito a recurso judicial efetivo e o Estado tem obrigação de fornecer acesso a mecanismos judiciais efetivos para proteção de seus direitos.</p>"
   }
 ]

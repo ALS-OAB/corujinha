@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_execucao_fiscal",
     "modulo_nome": "Processo Judicial Tributário e Execução Fiscal",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, III, b (anterioridade) + CTN, Art. 97, II:</strong> majoração do IPTU exige lei. Decreto municipal que atualiza o valor venal do imóvel: válido se limitar-se à atualização monetária (índice oficial — CTN Art. 97, §2º). Atualização que supera o índice oficial: equivale a majoração = exige lei. Decreto de 12/2022: verificar se é mera atualização ou majoração.</p>",
+    "dica": "<p>Atualização do valor venal do IPTU por decreto: válida se não superar o índice oficial de correção monetária (CTN Art. 97, §2º). Se superar: é majoração = exige lei + anterioridade. Gabarito A: o decreto que atualiza o valor venal do IPTU dentro do índice oficial é válido — não configura majoração de tributo e pode produzir efeitos no exercício seguinte.</p>"
   },
   {
     "num": 25,
@@ -36,7 +42,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_execucao_fiscal",
     "modulo_nome": "Processo Judicial Tributário e Execução Fiscal",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, VI, d (imunidade de livros):</strong> \"É vedado [...] instituir impostos sobre [...] livros, jornais, periódicos e o papel destinado a sua impressão.\" <strong>Extensão (STF RE 330.817 — repercussão geral):</strong> e-books têm imunidade. Livros eletrônicos + dispositivos de leitura (e-readers): STF estendeu a imunidade.</p>",
+    "dica": "<p>Imunidade cultural (CF Art. 150, VI, d): abrange livros impressos + e-books + audiolivros (STF RE 330.817). E-readers: STF estendeu a imunidade ao suporte físico de leitura de livros eletrônicos. Gabarito A: a Books & Books tem imunidade sobre seus livros eletrônicos e pode pleitear a extensão da imunidade aos e-readers usados exclusivamente para leitura de livros.</p>"
   },
   {
     "num": 28,
@@ -55,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_execucao_fiscal",
     "modulo_nome": "Processo Judicial Tributário e Execução Fiscal",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 155, §1º, III + CF Art. 155, §1º, I:</strong> ITCMD — causa mortis: compete ao Estado onde se processar o inventário (bem imóvel: Estado da situação do bem). Novo sistema on-line de lançamento do ITCMD: o lançamento é por declaração (CTN Art. 147) — o contribuinte presta as informações e o fisco lança. Prazo para recolher: conforme legislação estadual.</p>",
+    "dica": "<p>ITCMD causa mortis (CF Art. 155, §1º, I): competência do Estado onde estava domiciliado o de cujus (bens móveis) ou onde situado o bem (imóvel). Lançamento por declaração (CTN Art. 147). Gabarito C: o sistema on-line de lançamento do ITCMD é válido — o contribuinte declara os bens do inventário e o Fisco lança o imposto; o sistema informatizado não altera a natureza do lançamento.</p>"
   },
   {
     "num": 26,
@@ -74,7 +92,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_execucao_fiscal",
     "modulo_nome": "Processo Judicial Tributário e Execução Fiscal",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CTN, Art. 123:</strong> \"Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do sujeito passivo das obrigações tributárias.\" Cláusula de locação que atribui o IPTU ao locatário: não vincula o Fisco.</p>",
+    "dica": "<p>Convenção particular sobre tributo (CTN Art. 123): não produz efeitos perante o Fisco. O locador (proprietário) é contribuinte do IPTU — o locatário que paga o IPTU por força do contrato pode discutir isso apenas na esfera civil. Gabarito B: o contrato de locação que atribui o IPTU ao locatário não vincula o Fisco — o Fisco cobra do proprietário (locador), que é o contribuinte legal do IPTU.</p>"
   },
   {
     "num": 29,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_execucao_fiscal",
     "modulo_nome": "Processo Judicial Tributário e Execução Fiscal",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 150, §6º + CTN, Art. 177:</strong> remissão de créditos tributários: somente por lei específica. <strong>CTN, Art. 172:</strong> remissão pode ser concedida por lei que autorize a autoridade administrativa. Calamidade pública: justifica remissão. Mas lei específica é indispensável — decreto ou portaria não basta.</p>",
+    "dica": "<p>Remissão de crédito tributário (CTN Art. 172 + CF Art. 150, §6º): somente por lei específica do ente competente. Gabarito A: a União deve editar lei específica para conceder remissão dos créditos tributários em razão da calamidade no Município Alfa — decreto ou portaria não são instrumentos hábeis para a remissão.</p>"
   },
   {
     "num": 27,
@@ -111,6 +141,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_execucao_fiscal",
     "modulo_nome": "Processo Judicial Tributário e Execução Fiscal",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 153, III (IR) + CTN, Art. 43:</strong> renda: produto do capital, do trabalho ou de ambos. Indenização por danos emergentes: não é renda (recomposição do patrimônio) → não incide IR. Indenização por lucros cessantes: é renda (substituição de renda futura) → incide IR. STJ: indenização por dano moral não incide IR (STJ Súmula 498).</p>",
+    "dica": "<p>IR sobre indenizações (CTN Art. 43 + STJ Súmula 498): danos emergentes = não incide IR (não é acréscimo patrimonial). Lucros cessantes = incide IR. Dano moral = não incide IR (STJ Súmula 498). Gabarito B: João da Silva recebeu indenização por danos emergentes + lucros cessantes: a parcela de lucros cessantes está sujeita ao IR; a parcela de danos emergentes e dano moral não está.</p>"
   }
 ]
