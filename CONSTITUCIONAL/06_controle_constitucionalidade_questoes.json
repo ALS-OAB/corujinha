@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 61, §2º:</strong> \"A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional…\" <strong>Art. 64:</strong> projetos de lei de iniciativa do Presidente da República têm como casa iniciadora a <em>Câmara dos Deputados</em>, obrigatoriamente.</p>",
+    "dica": "<p>PL de iniciativa do PR → começa <strong>sempre na Câmara dos Deputados</strong> (Art. 64, caput). Senado é sempre casa revisora para esse caso. Não há escolha discricionária (distrator A). Senado Federal como casa iniciadora (distrator D) é a exceção: Senadores e Senado (Art. 67 implicitamente).</p>"
   },
   {
     "num": 12,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 102, §2º:</strong> decisões definitivas de mérito do STF em ADI têm eficácia erga omnes e efeito vinculante em relação aos órgãos do Poder Judiciário e da administração pública. Porém, o efeito vinculante <strong>não alcança o Poder Legislativo</strong> em sua função típica (o PR pode editar nova MP sobre a matéria).</p>",
+    "dica": "<p>Decisão em ADI: vincula Judiciário + Executivo (Adm. Pública). <strong>NÃO vincula o PR ao editar MP</strong> (função legislativa atípica). Distrator A erra ao incluir o próprio STF. Distrator C erra ao dizer que vincula o Legislativo. O PR pode reeditar a norma → nova ADI.</p>"
   },
   {
     "num": 15,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 236, §2º:</strong> \"Lei federal estabelecerá normas gerais para a fixação de emolumentos relativos aos atos praticados pelos serviços notariais e de registro.\" A destinação constitucional dos emolumentos está vinculada ao custeio dos próprios serviços cartorários. Destinação diversa (educação) por lei federal viola o padrão constitucional.</p>",
+    "dica": "<p>Emolumentos cartorários têm destinação vinculada constitucionalmente (Art. 236). Lei federal que redireciona os emolumentos para finalidade diversa (educação) viola a CF → <strong>inconstitucional</strong> (B). Distrator A erra ao não ver a vinculação constitucional da destinação.</p>"
   },
   {
     "num": 11,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 66, §1º:</strong> o PR pode vetar projeto de lei (LC inclusa), no todo ou em parte. <strong>Art. 60, §3º:</strong> a emenda constitucional é <em>promulgada pelas próprias Mesas</em> da Câmara e do Senado — não há sanção ou veto presidencial em PEC. Portanto: LC → veto possível; PEC → veto impossível.</p>",
+    "dica": "<p>Veto presidencial: cabe para <strong>LC e lei ordinária</strong> (Art. 66). <strong>NÃO cabe para PEC</strong> — PEC é promulgada pelas Mesas do CN (Art. 60, §3º). Gabarito B: PR pode vetar a LC, mas não a PEC. Distrador D erra ao permitir veto da PEC.</p>"
   },
   {
     "num": 13,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 3º, III:</strong> objetivo fundamental da República: \"erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.\" <strong>Art. 43:</strong> a União poderá articular mecanismos e incentivos para o desenvolvimento regional, incluindo juros favorecidos por bancos estatais. Há expressa autorização constitucional.</p>",
+    "dica": "<p>Combate às desigualdades regionais = <strong>objetivo fundamental da República</strong> (Art. 3º, III) + instrumento previsto no Art. 43. Bancos estatais com juros favorecidos para região desfavorecida = constitucionalmente respaldado (B). O governador de Beta está errado.</p>"
   },
   {
     "num": 15,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Teoria da Constituição:</strong> em uma Constituição rígida como a CF/88, todas as normas constitucionais, sejam materialmente ou apenas formalmente constitucionais, têm a mesma <em>hierarquia normativa</em>. Não existe hierarquia entre normas constitucionais originárias. Pedro está correto ao afirmar que ambas têm a mesma estatura.</p>",
+    "dica": "<p>No Brasil, todas as normas constitucionais originárias têm a <strong>mesma hierarquia</strong> — não há norma constitucional inconstitucional (STF). Distinção material/formal é doutrinária, não cria hierarquia. Pedro (D) está correto: ambas são constitucionais com mesma hierarquia.</p>"
   },
   {
     "num": 11,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_controle_constitucionalidade",
     "modulo_nome": "Controle de Constitucionalidade (ADI, ADC, ADPF)",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXXII, \"b\":</strong> habeas data para retificação de dados. <strong>Lei 9.507/97, Art. 13:</strong> o habeas data é ação personalíssima, mas exige <em>capacidade postulatória</em> — presença de advogado. Maria pode usar o HD, mas precisa de advogado para impetrar.</p>",
+    "dica": "<p>Habeas data para <strong>retificação de dados</strong> (Art. 5º, LXXII, \"b\") = instrumento correto. Porém, diferentemente do HC, o HD exige <strong>capacidade postulatória</strong> (advogado) — não pode ser impetrado sem advogado (C). MS (distrator A) é para direito líquido e certo, não especificamente para retificação de dados em registro público.</p>"
   }
 ]

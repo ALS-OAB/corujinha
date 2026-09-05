@@ -23,12 +23,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 1,
-    "sintese": "<p>No regime da comunhão parcial de bens, entram na comunhão os bens adquiridos por fato eventual (prêmio de loteria) e os adquiridos a título oneroso na constância do casamento. Excluem-se os bens recebidos por herança ou doação (Art. 1.659, I e Art. 1.660, II do CC).</p>",
-    "logica_conceito": "<p>Na comunhão parcial, o carro comprado na constância e o prêmio de loteria (fato eventual) comunicam-se entre os cônjuges. As ações herdadas por Pedro e o apartamento doado a Joana são bens particulares e não entram na partilha.</p>",
-    "fundamentacao": "<p>Artigo 1.659, inciso I e Artigo 1.660, inciso II do Código Civil.</p>",
-    "dica": "<p>🔥 <b>Dica de OAB da Profª Roberta:</b> Herança/Doação = NÃO partilha (bem particular)! Prêmio de Loteria = PARTILHA (fato eventual entra na comunhão)!</p>",
-    "aula_comentario": "<p><b>Profª Roberta Queiroz (46º OAB - Direito de Família):</b> 'Na comunhão parcial de bens, prestem atenção na pegadinha da OAB: herança e doação recebidas por um dos cônjuges SÃO BENS PARTICULARES (Art. 1.659, I CC) e NÃO se partilham! Já o prêmio de loteria é bem comum adquirido por fato eventual (Art. 1.660, II CC) e ENTRA na partilha do divórcio!'</p>",
-    "analise": "<p><b>Alternativa A: Incorreta.</b> Ações herdadas e apartamento doado são bens particulares excluídos da partilha.<br><b>Alternativa B: CORRETA.</b> Partilham-se o carro (comprado na constância) e o prêmio de loteria (fato eventual).<br><b>Alternativa C: Incorreta.</b> O apartamento recebido em doação não entra na comunhão.<br><b>Alternativa D: Incorreta.</b> As ações foram herdadas por Pedro, sendo bem particular.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.659, I: \"<strong>Excluem-se da comunhão: os bens que cada cônjuge possuir ao casar, e os que lhe sobrevierem, na constância do matrimônio, por doação ou sucessão</strong>.\" Herança de Pedro (ações) e doação de Joana (apartamento) = <strong>incomunicáveis</strong>. Art. 1.660, I: entram na comunhão os bens adquiridos <em>onerosamente</em> durante o casamento (carro) e Art. 1.660, II: \"obtidos por fato eventual, com ou sem o concurso do trabalho ou despesa anterior\" (prêmio de loteria). Carro + prêmio = comunicáveis.</p>",
+    "dica": "<p>Comunhão parcial: <strong>herança e doação = incomunicáveis</strong>. Carro (adquirido onerosamente) + prêmio de loteria (fato eventual) = <strong>comunicáveis</strong> (B certa). A erra: ações são incomunicáveis. C erra: apartamento = doação = incomunicável. D erra: prêmio de loteria ENTRA na comunhão (fato eventual).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 37,
@@ -54,12 +54,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 2,
-    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.589: \"<strong>O pai ou a mãe, em cuja guarda não estejam os filhos, poderá visitá-los e tê-los em sua companhia.</strong>\" CF, Art. 227 e CC, Art. 1.632: o poder familiar (incluindo convivência) é dever autônomo, independente da obrigação alimentar. <strong>Inadimplência alimentar não justifica suspensão da convivência</strong> — são obrigações distintas com sanções distintas.</p>",
+    "dica": "<p>Convivência e alimentos = <strong>obrigações independentes</strong>. Inadimplência alimentar <em>não</em> autoriza suspender visitas (C certa). A e B erram ao atribuir à mãe o poder de unilateralmente restringir a convivência. D erra ao sugerir que a guarda compartilhada é condição de convivência.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 37,
@@ -85,12 +85,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 3,
-    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Divórcio pós-EC 66/2010: <strong>sem discussão de culpa</strong>; adultério não interfere na partilha (B certa). A erra ao dar ao divórcio efeito automático de perda de direitos. C erra: adultério não retira a meação. D erra: adultério não interfere na convivência — tese superada.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CF, Art. 226, §6º (EC 66/2010): \"<strong>O casamento civil pode ser dissolvido pelo divórcio</strong>\" — sem requisito de prazo ou discussão de culpa. CC, Art. 1.658 (comunhão parcial): partilha segue o regime legal, sem interferência de adultério. O adultério não é mais causa de perda de direitos na partilha ou nos alimentos após a EC 66/2010.</p>"
   },
   {
     "num": 42,
@@ -116,12 +116,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 4,
-    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Dever de educação = <strong>de ambos os pais</strong>, independentemente de guarda ou residência (A certa). B e C erram ao atribuir o dever apenas ao genitor com quem Mariana reside. D erra: guarda e residência não determinam exclusivamente o dever de educar.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.634, I e II: compete a ambos os pais, independentemente de guarda, \"<strong>dirigir-lhes a criação e a educação</strong>\" e exercer a autoridade parental. Lei 13.058/2014 (Guarda Compartilhada): mesmo com guarda compartilhada, ambos os pais exercem o poder familiar — o dever de educação é de ambos, independentemente de onde o filho reside.</p>"
   },
   {
     "num": 40,
@@ -147,12 +147,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 5,
-    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Ação declaratória de filiação: herdeiros do réu <strong>podem e devem ser citados para prosseguir</strong> no processo (A certa). B erra: a presunção de paternidade dentro de 300 dias é relativa, não absoluta. C erra: adultério da mãe não afasta a presunção — apenas admite prova em contrário. D erra: impotência pode ser relevante na contestação.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.601: a ação de contestação de paternidade é personalíssima (só o marido pode propor). Mas a <strong>ação declaratória de filiação</strong> (proposta por Natália) pode ser continuada pelos herdeiros quando o réu (Otávio) falece durante o processo — CC, Art. 1.601, parágrafo único: \"Se o réu falecer no curso do processo, serão citados para suceder-lhe os seus herdeiros.\" A certa.</p>"
   },
   {
     "num": 39,
@@ -178,12 +178,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 6,
-    "sintese": "<p>Questão do <b>42º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 42º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 42º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Socioafetividade: <strong>pode coexistir com a filiação biológica</strong> (multiparentalidade — Tese 622 STF). C certa: Priscila = mãe socioafetiva de Vitória, Larissa permanece mãe biológica. A erra: multiparentalidade não é automática. B erra: reconhecimento com Lucas excluiria Pedro. D erra: conhecimento da mãe biológica não impede o reconhecimento socioafetivo.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.593 + Tese do STF (Repercussão Geral 622): \"<strong>A paternidade socioafetiva, declarada ou não em registro público, não impede o reconhecimento do vínculo de filiação concomitante baseado na origem biológica, com os efeitos jurídicos próprios.</strong>\" É possível a <strong>multiparentalidade</strong>: reconhecer Priscila como mãe socioafetiva de Vitória <em>sem excluir</em> a mãe biológica Larissa.</p>"
   },
   {
     "num": 40,
@@ -209,12 +209,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 7,
-    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>União estável sem pacto + concorrência com ascendentes: <strong>meação + metade da herança</strong> (A certa). B erra ao negar a participação na herança. C erra: companheiro não afasta ascendentes. D erra na divisão da herança em terços.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.725: na falta de contrato escrito, aplica-se à união estável o regime de comunhão parcial. Art. 1.790 (redação anterior ao RE 878.694 STF): companheiro concorre com ascendentes. Com patrimônio total de R$1,6M: meação de Glória = R$800k (adquirido em esforço comum). Herança (R$800k): Glória concorre com os pais de Paulo — Glória recebe <strong>metade da herança = R$400k</strong>. A certa: meação R$800k + herança R$400k.</p>"
   },
   {
     "num": 42,
@@ -240,12 +240,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 8,
-    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Usucapião especial urbana: <strong>160m² + 5 anos + moradia + sem outro imóvel</strong> — casal pode usucapir em conjunto (B certa). A erra: usucapião é aquisição originária (apaga ônus anteriores). C erra: herdeiros TÊM legitimidade para prosseguir. D erra: casados podem adquirir por usucapião.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.240: \"<strong>Aquele que possuir, como sua, área urbana de até duzentos e cinquenta metros quadrados, por cinco anos ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio.</strong>\" Casal (casados em comunhão parcial) pode usar o bem adquirido por usucapião como bem do casal. Art. 1.240, §1º: o usucapiente não pode ser titular de outro imóvel.</p>"
   },
   {
     "num": 37,
@@ -271,12 +271,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 9,
-    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Tutor nomeado em testamento pelos pais = <strong>prevalece sobre tutores legítimos</strong> (D certa). A erra: Júlia não tem prioridade por ser mais nova. B erra: Rafael não tem prioridade por ser mais velho. C erra: colaterais até 3º grau (tios = 3º grau) PODEM ser tutores legítimos — o erro é deixar de respeitar o testamento.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.731: \"Em falta de tutor nomeado pelos pais\" são chamados os tutores legítimos (ascendentes, colaterais etc.). Art. 1.729: \"<strong>O direito de nomear tutor compete aos pais</strong>, e pode ser exercido por testamento ou qualquer documento autêntico.\" Art. 1.730: é nula a nomeação de tutor feita por quem não detenha o poder familiar. Os pais de Ana e Clara nomearam Lucas em testamento — a <strong>nomeação testamentária prevalece</strong> sobre a tutela legítima.</p>"
   },
   {
     "num": 41,
@@ -302,12 +302,12 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 10,
-    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Filho nascido em até <strong>300 dias</strong> após a morte do marido: <strong>presunção legal de paternidade</strong> — DNA desnecessário para o registro (D certa). A e B erram ao exigir DNA. C erra: o nascimento APÓS a morte não afasta a presunção — o conceito é \"300 dias após a dissolução\".</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.597, II: \"<strong>Presumem-se concebidos na constância do casamento os filhos nascidos nos trezentos dias subsequentes à dissolução da sociedade conjugal por morte.</strong>\" Beatriz nasceu 250 dias após a morte de Bernardo (< 300 dias) → <strong>presume-se filha de Bernardo</strong>. Não há necessidade de exame de DNA para o registro — a presunção legal é suficiente.</p>"
   },
   {
     "num": 38,
@@ -333,11 +333,11 @@
     "modulo_codigo": "07_direito_de_familia",
     "modulo_nome": "Direito de Família",
     "id": 11,
-    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Maior de 70 anos = <strong>separação obrigatória de bens</strong>, sem exceção (D certa). A erra ao dizer \"separação convencional\" — não é convencional, é obrigatória. B erra ao falar em autonomia plena — há restrição legal por idade. C erra: comunhão parcial <em>não é permitida</em> para Joaquim.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.641, II: \"<strong>É obrigatório o regime da separação de bens no casamento das pessoas maiores de 70 anos.</strong>\" Joaquim tem 71 anos — deve casar sob o regime de <strong>separação obrigatória de bens</strong>, independentemente de sua vontade. A justificativa legal visa evitar confusão patrimonial com bens ainda não partilhados.</p>"
   }
 ]

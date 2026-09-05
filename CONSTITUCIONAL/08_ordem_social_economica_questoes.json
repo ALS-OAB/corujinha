@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 34:</strong> rol taxativo das hipóteses de intervenção federal. Intervenção federal só pode ocorrer nos <strong>Estados e no DF</strong>, não diretamente nos Municípios (Art. 34). Para municípios, cabe intervenção <em>estadual</em> (Art. 35). O Presidente da República não pode intervir diretamente em município situado em Estado-membro.</p>",
+    "dica": "<p>Intervenção federal → só em <strong>Estados e DF</strong> (Art. 34). Nunca diretamente em Município de Estado. Município em Estado → intervenção <strong>estadual</strong> (Art. 35). Decreto do PR de intervenção federal no Município Delta é <strong>inconstitucional</strong> (C). A aprovação do CN é irrelevante se o decreto é inválido desde a origem.</p>"
   },
   {
     "num": 14,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 102, I, \"a\":</strong> a ADC tem como objeto leis ou atos normativos <em>federais</em>. Leis municipais não podem ser objeto de ADC perante o STF. A ADC alcança normas federais. Para leis municipais, cabe controle difuso ou representação de inconstitucionalidade no TJ estadual.</p>",
+    "dica": "<p>ADC → parâmetro: CF/88; objeto: lei ou ato normativo <strong>federal</strong>. Lei municipal → <strong>não</strong> pode ser objeto de ADC no STF (C). Mesa do Senado tem legitimidade (distrator B está errado aí). Decisão de ADC tem efeito erga omnes (distrator A está errado).</p>"
   },
   {
     "num": 11,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 103-A, §2º:</strong> \"Sem prejuízo do que vier a ser estabelecido em lei, a aprovação, revisão ou cancelamento de súmula poderá ser provocada por aqueles que podem propor a ação direta de inconstitucionalidade, decidindo o Supremo Tribunal Federal por dois terços de seus membros.\" Quórum de 2/3 (8 ministros) para cancelamento.</p>",
+    "dica": "<p>Cancelamento de SV: quórum de <strong>2/3 dos membros do STF</strong> = 8 ministros (Art. 103-A, §2º). TJ de Estado-membro está vinculado à SV (distrator A está errado). O PGR pode provocar o STF (mas STF pode também agir de ofício). ADI não é o instrumento correto para cancelar SV (distrator D).</p>"
   },
   {
     "num": 13,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 60, §4º, I:</strong> é cláusula pétrea a \"forma federativa de Estado.\" Emenda que suprima ou neutralize a autonomia dos Estados ataca o pacto federativo. A PEC que permite ao CN anular atos estaduais e ao PR rever atos de governadores destrói a autonomia estadual → inconstitucional por violação de cláusula pétrea.</p>",
+    "dica": "<p>Federação é <strong>cláusula pétrea</strong> (Art. 60, §4º, I). PEC que reduza autonomia dos Estados ao ponto de subordiná-los hierarquicamente à União destrói o pacto federativo → <strong>inconstitucional</strong> (D). Poder reformador não pode abolir a forma federativa (distrator A está errado).</p>"
   },
   {
     "num": 15,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XI:</strong> \"a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.\" Bombeiros que entram para prestar socorro em calamidade iminente estão na exceção legal — ato lícito.</p>",
+    "dica": "<p>Inviolabilidade do domicílio (Art. 5º, XI): exceção inclui \"<strong>para prestar socorro</strong>\" — sem necessidade de consentimento e sem restrição de horário (dia ou noite). Bombeiros agiram dentro da exceção → ato lícito → sem indenização (B). Distratores A, C e D erram ao não aplicar a exceção expressa.</p>"
   },
   {
     "num": 11,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, I (isonomia material) + Art. 205 + Art. 208:</strong> A isonomia material permite tratamento diferenciado para grupos em situação de desigualdade histórica. Ações afirmativas (cotas) são instrumento legítimo de concretização da igualdade material, inclusive em pós-graduação, pelo prazo definido em lei.</p>",
+    "dica": "<p>Ações afirmativas = <strong>isonomia material</strong> (tratar desigualmente os desiguais). São constitucionais em qualquer nível de ensino, inclusive pós-graduação. Tempo definido = proporcionalidade. Distrator A erra ao restringir a básica e superior. Distrator D confunde isonomia formal com material.</p>"
   },
   {
     "num": 13,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_ordem_social_economica",
     "modulo_nome": "Ordem Social e Econômica",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 52 + Jurisprudência STF:</strong> o efeito vinculante das decisões em ADI vincula o Poder Judiciário e a Administração Pública, mas <strong>não vincula o Poder Legislativo</strong> em sua função típica de legislar. O Legislativo pode reeditar lei de conteúdo idêntico — que poderá ser objeto de nova ADI. Cabe nova ADI, não reclamação.</p>",
+    "dica": "<p>Efeito vinculante de ADI <strong>não alcança o Legislativo</strong> em sua função de legislar. Assembleia pode reeditar a lei → cabe <strong>nova ADI</strong> (B). Reclamação (distrator A) não cabe aqui: o efeito vinculante não se aplica ao Legislativo. Distrator D erra ao dizer que o Legislativo está vinculado.</p>"
   }
 ]

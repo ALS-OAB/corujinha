@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Lei 11.340/06, Art. 17: \"É vedada a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de <strong>cesta básica ou outras de prestação pecuniária</strong>, bem como a <strong>substituição de pena que implique o pagamento isolado de multa</strong>.\" Art. 41: veda a aplicação da Lei 9.099/95 (logo, veda a suspensão condicional do <em>processo</em>). A <strong>suspensão condicional da <em>pena</em></strong> (sursis penal, CP Art. 77) é cabível (pena ≤ 2 anos). B certa.</p>",
+    "dica": "<p>Violência doméstica: vedadas restritivas de direitos e cesta básica (Art. 17 LMP). Suspensão condicional do <em>processo</em> vedada (Art. 41 LMP). <strong>Sursis penal</strong> (suspensão condicional da <em>pena</em>) é <em>permitido</em> se pena ≤ 2 anos (B certa). A erra: PSC = restritiva de direitos = vedada. C erra: sursis processual (Lei 9.099) = vedado. D erra: substituição por multa = vedada.</p>"
   },
   {
     "num": 60,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 15 (desistência voluntária e arrependimento eficaz): \"<strong>O agente que, voluntariamente, desiste de prosseguir na execução</strong> ou impede que o resultado se produza, só responde pelos atos já praticados.\" Paulo iniciou os atos executórios (colocou a mão na bolsa) mas desistiu voluntariamente — <strong>desistência voluntária</strong>, não tentativa (a não consumação não foi por circunstâncias alheias à sua vontade).</p>",
+    "dica": "<p>Abandono voluntário da execução já iniciada = <strong>desistência voluntária</strong> (Art. 15) — responde apenas pelos atos praticados (B certa). A erra: arrependimento posterior pressupõe crime consumado. C erra: na tentativa, a não consumação é por circunstâncias alheias à vontade — aqui Paulo desistiu voluntariamente. D erra: arrependimento eficaz = impede a consumação após exaurir a execução.</p>"
   },
   {
     "num": 62,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 129, §6° (lesão corporal culposa): \"Se a lesão é culposa: Pena — detenção, de dois meses a um ano.\" Pena máxima de 1 ano = infração de menor potencial ofensivo → competência do <strong>Juizado Especial Criminal</strong> (Lei 9.099/95, Art. 61). Amputação involuntária por erro cirúrgico = lesão corporal <em>culposa</em> (sem dolo de lesionar).</p>",
+    "dica": "<p>Erro médico sem dolo = <strong>lesão corporal culposa</strong> (Art. 129, §6°) → pena ≤ 1 ano → competência do <strong>JECrim</strong> (A certa). B e C erram ao aplicar lesão grave/gravíssima (pressupõem dolo ou resultado agravado doloso). D erra ao dizer gravíssima (perda de membro dolosa = Art. 129, §2°, III — aqui foi culposa).</p>"
   },
   {
     "num": 58,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 215-A (Lei 13.718/2018 — importunação sexual): praticar ato libidinoso sem anuência da vítima. Beijo forçado ao vivo na TV = importunação sexual. Art. 225 (redação da Lei 13.718/2018): crimes contra a dignidade sexual procedem mediante <strong>ação penal pública incondicionada</strong>.</p>",
+    "dica": "<p>Beijo forçado = <strong>importunação sexual</strong> + <strong>ação penal pública incondicionada</strong> (A certa). B erra: injúria real (vias de fato com depreciação) tem ação penal privada — aqui é crime contra a dignidade sexual. C erra: estupro exige violência ou grave ameaça + conjunção carnal ou ato libidinoso mais grave. D erra: violação sexual mediante fraude pressupõe erro induzido na vítima.</p>"
   },
   {
     "num": 60,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 20 (erro de tipo): o erro sobre <strong>elemento constitutivo do tipo penal</strong> exclui o dolo. Furto (Art. 155) tem como elemento objetivo \"coisa alheia.\" João acreditou estar pegando sua própria bicicleta (idêntica à que estava ao lado) → erro sobre a alienidade da coisa → <strong>erro de tipo essencial</strong> → exclui o dolo → atipicidade.</p>",
+    "dica": "<p>João acreditou que a bicicleta era sua → erro sobre elemento do tipo (\"alheia\") → <strong>erro de tipo essencial</strong> → exclui o dolo (A certa). B erra: erro de tipo acidental (aberratio, error in persona) não afasta o dolo. C erra: estado de necessidade = conflito de bens jurídicos — inaplicável. D erra: erro de proibição = ignorância da norma proibitiva — João sabia que furtar é errado, mas não sabia que a bicicleta era alheia.</p>"
   },
   {
     "num": 62,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 129 (lesão corporal). Hermes, 65 anos, atacou os dois com bengala. Para configurar lesão corporal <em>grave</em> (§1°): perigo de vida, debilidade permanente de membro, sentido ou função, incapacidade para as ocupações habituais por mais de 30 dias, aceleração de parto. Ataque com bengala por agente idoso pode gerar <strong>perigo de vida</strong> (Art. 129, §1°, II) em pessoas jovens → <strong>lesão corporal grave</strong>.</p>",
+    "dica": "<p>Lesão que gera perigo de vida (ou debilidade permanente) = <strong>lesão corporal grave</strong> (Art. 129, §1°) (C certa). A erra: tentativa de homicídio exigiria animus necandi — Hermes agiu com animus laedendi. B erra: lesão leve não alcança o resultado descrito. D erra: exercício arbitrário (Art. 345) seria a alternativa menos grave — mas o resultado efetivo é lesão grave.</p>"
   },
   {
     "num": 59,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_concurso_agentes",
     "modulo_nome": "Concurso de Pessoas e Concurso de Crimes",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 29 (teoria monista): quem concorre para o crime incide nas penas a ele cominadas. José e Luciano participaram da ação (simularam assalto) que serviu de cobertura para o homicídio planejado por Leandro e Leonardo. Sua contribuição causal para o resultado morte (dolo eventual — era previsível que houvesse mortes) configura <strong>participação</strong> no homicídio doloso consumado (A certa).</p>",
+    "dica": "<p>José e Luciano contribuíram causalmente para o homicídio (dolo eventual no mínimo) → <strong>partícipes do homicídio doloso consumado</strong> (A certa). B erra: José e Luciano não praticaram tentativa de roubo — não havia intenção real de roubar. C erra: autoria colateral pressupõe ignorância mútua entre os agentes. D erra: o domínio do fato não é requisito exclusivo para a participação.</p>"
   }
 ]

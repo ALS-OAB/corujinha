@@ -1,0 +1,372 @@
+[
+  {
+    "num": 38,
+    "enunciado": "Joana contratou Maria para fotografar a festa infantil de sua filha,\nLaura. No momento do contrato, Maria exigiu um sinal equivalente a\n20% do preço pactuado para o serviço. O restante do preço seria\npago após a festa, quando entregues as fotografias do evento.\nAcontece que Maria não compareceu à festa de Laura, deixando de\ntirar as fotografias contratadas. Joana contratou, às pressas, outro\nfotógrafo e conseguiu registrar o evento a seu gosto. Entretanto, teve\nde pagar valores mais altos ao novo fotógrafo, o que lhe gerou\nprejuízos de ordem material.\nDiante desse cenário, considerando-se que os danos de Joana se\nlimitaram aos prejuízos materiais, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Joana pode pedir a devolução dos 20% adiantados mais o\nequivalente, com atualização monetária, juros e honorários de\nadvogado, mas não pode pedir indenização suplementar em\nnenhuma hipótese.",
+      "B": "Joana pode pedir apenas a devolução dos 20% adiantados e\nindenização suplementar, independentemente da prova do\nprejuízo.",
+      "C": "Joana pode pedir a devolução dos 20% adiantados mais o\nequivalente, com atualização monetária, juros e honorários de\nadvogado, e, se provar maior prejuízo, pode pedir indenização\nsuplementar.",
+      "D": "Joana pode pedir a devolução dos 20%, acrescidos de atualização\nmonetária, juros e honorários de advogado, sendo esse o máximo\nde indenização possível."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "opcoes": {
+      "A": "Joana pode pedir a devolução dos 20% adiantados mais o equivalente, com atualização monetária, juros e honorários de advogado, mas não pode pedir indenização suplementar em nenhuma hipótese.",
+      "B": "Joana pode pedir apenas a devolução dos 20% adiantados e indenização suplementar, independentemente da prova do prejuízo.",
+      "C": "Joana pode pedir a devolução dos 20% adiantados mais o equivalente, com atualização monetária, juros e honorários de advogado, e, se provar maior prejuízo, pode pedir indenização suplementar.",
+      "D": "Joana pode pedir a devolução dos 20%, acrescidos de atualização monetária, juros e honorários de advogado, sendo esse o máximo de indenização possível."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 1,
+    "sintese": "<p>Questão do <b>37º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 37º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 37º Exame OAB.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Renata alugou um imóvel a Tadeu. Como garantia das obrigações de Tadeu, Luzia e Humberto prestaram fiança a Renata. Tadeu descumpriu suas obrigações contratuais, deixando de pagar as contraprestações ajustadas.\n\nDiante desse quadro hipotético, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Não havendo limitação contratual, Renata poderá cobrar de Luzia, sozinha, todos os acessórios da dívida principal, inclusive as despesas judiciais, desde a citação dos fiadores.",
+      "B": "Caso sejam demandados, Luzia e Humberto não têm direito de exigir que sejam primeiro executados os bens de Tadeu, pois, salvo disposição expressa em sentido contrário, não há benefício de ordem na fiança.",
+      "C": "Luzia e Humberto não respondem solidariamente pelas obrigações decorrentes do contrato de fiança, a não ser que haja disposição expressa.",
+      "D": "A fiança constitui contrato informal, entre Renata e os fiadores (Luzia e Humbert\n\no) , e poderia ter sido celebrada ainda que contrariamente à vontade de Tadeu. Ademais, não admite interpretação extensiva."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "38º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 38,
+    "exame_label": "38º Exame OAB",
+    "opcoes": {
+      "A": "Não havendo limitação contratual, Renata poderá cobrar de Luzia, sozinha, todos os acessórios da dívida principal, inclusive as despesas judiciais, desde a citação dos fiadores.",
+      "B": "Caso sejam demandados, Luzia e Humberto não têm direito de exigir que sejam primeiro executados os bens de Tadeu, pois, salvo disposição expressa em sentido contrário, não há benefício de ordem na fiança.",
+      "C": "Luzia e Humberto não respondem solidariamente pelas obrigações decorrentes do contrato de fiança, a não ser que haja disposição expressa.",
+      "D": "A fiança constitui contrato informal, entre Renata e os fiadores (Luzia e Humbert o) , e poderia ter sido celebrada ainda que contrariamente à vontade de Tadeu. Ademais, não admite interpretação extensiva."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 2,
+    "sintese": "<p>Questão do <b>38º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 38º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 38º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 38,
+    "enunciado": "Marcelo alugou um cavalo do haras Galopante para, com ele, disputar uma corrida no dia 15, comprometendo-se a devolvê-lo no dia seguinte à corrida (dia 16). Entretanto, Marcelo se afeiçoou pelo animal e não o devolveu no prazo estipulado, usando-o para passeios em sua fazenda.\n\nO haras, com isso, deixou de alugar o animal para outro jóquei que pretendia correr com ele no dia 18 e já o havia reservado. Para completar, no dia 20, em um dos passeios com Marcelo, o cavalo se assustou com uma cobra e sofreu uma queda. No acidente, fraturou a perna e teve que ser sacrificado.\n\nDiante disso, assinale a opção que indica os prejuízos que o haras Galopante pode exigir de Marcelo devido à falta do cavalo.",
+    "alternativas": {
+      "A": "Deve ser incluído o aluguel que deixou de receber do outro jóquei, mas não o equivalente do animal, porque Marcelo ficou liberado da responsabilidade pela impossibilidade da prestação a partir do dia 20, eis que decorrente de caso fortuito.",
+      "B": "Devem ser excluídos tanto o aluguel que receberia do outro jóquei, por se tratar de dano hipotético, como o equivalente do animal, pois Marcelo ficou liberado da responsabilidade pela impossibilidade da prestação a partir do dia 20, eis que decorrente de caso fortuito.",
+      "C": "Deve ser incluído o equivalente pecuniário do cavalo, tendo em vista a responsabilidade de Marcelo pela impossibilidade da prestação enquanto estava em mora, mas excluído o aluguel que receberia do outro jóquei, por se tratar de dano hipotético.",
+      "D": "Devem ser incluídos tanto o aluguel que deixou de receber do outro jóquei como o equivalente pecuniário do cavalo, tendo em vista a responsabilidade de Marcelo pela impossibilidade da prestação, enquanto estava em mora."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "opcoes": {
+      "A": "Deve ser incluído o aluguel que deixou de receber do outro jóquei, mas não o equivalente do animal, porque Marcelo ficou liberado da responsabilidade pela impossibilidade da prestação a partir do dia 20, eis que decorrente de caso fortuito.",
+      "B": "Devem ser excluídos tanto o aluguel que receberia do outro jóquei, por se tratar de dano hipotético, como o equivalente do animal, pois Marcelo ficou liberado da responsabilidade pela impossibilidade da prestação a partir do dia 20, eis que decorrente de caso fortuito.",
+      "C": "Deve ser incluído o equivalente pecuniário do cavalo, tendo em vista a responsabilidade de Marcelo pela impossibilidade da prestação enquanto estava em mora, mas excluído o aluguel que receberia do outro jóquei, por se tratar de dano hipotético.",
+      "D": "Devem ser incluídos tanto o aluguel que deixou de receber do outro jóquei como o equivalente pecuniário do cavalo, tendo em vista a responsabilidade de Marcelo pela impossibilidade da prestação, enquanto estava em mora."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 3,
+    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Ana comprou de Miguel um carro usado, por R$ 60.000,00, e combinou de fazer o pagamento à vista, por PIX. Ocorre que, na hora de digitar a chave PIX de Miguel – seu número de celular –, Ana errou um dígito, e acabou enviando o pagamento, por coincidência, para uma pessoa chamada José Miguel.\n\nAo receber o comprovante, Miguel alertou a compradora para o equívoco. Ana, então, entrou imediatamente em contato com José Miguel por telefone, pedindo a restituição do valor transferido. Em seguida, encaminhou notificação extrajudicial, requerendo a restituição do valor. José Miguel, todavia, esquivou-se de fazê-lo, o que levou Ana a procurar você, como advogado, para orientá-la sobre o problema.\n\nSobre a orientação dada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O fato narrado configura doação de Ana a José Miguel, que ela somente poderia discutir por meio de ação anulatória, provando algum dos defeitos dos negócios jurídicos.",
+      "B": "Em eventual ação de Ana contra José Miguel, provando a autora o erro no pagamento, deve o réu ser condenado a restituir à autora apenas a quantia nominal indevidamente recebida.",
+      "C": "Em eventual ação de Ana contra José Miguel, provando a autora o erro no pagamento, deve o réu ser condenado a restituir à autora a quantia indevidamente recebida, com os acréscimos da mora, desde a data do fato, cabendo a ele, todavia, eventuais rendimentos que tenha auferido por ter investido o montante.",
+      "D": "Em eventual ação de Ana contra José Miguel, provando a autora o erro no pagamento, deve o réu ser condenado a restituir a quantia indevidamente recebida, com os acréscimos da mora, desde a data do fato, bem como eventuais rendimentos que José Miguel tenha auferido por ter investido o montante, vez que se considera possuidor de má-fé."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "opcoes": {
+      "A": "O fato narrado configura doação de Ana a José Miguel, que ela somente poderia discutir por meio de ação anulatória, provando algum dos defeitos dos negócios jurídicos.",
+      "B": "Em eventual ação de Ana contra José Miguel, provando a autora o erro no pagamento, deve o réu ser condenado a restituir à autora apenas a quantia nominal indevidamente recebida.",
+      "C": "Em eventual ação de Ana contra José Miguel, provando a autora o erro no pagamento, deve o réu ser condenado a restituir à autora a quantia indevidamente recebida, com os acréscimos da mora, desde a data do fato, cabendo a ele, todavia, eventuais rendimentos que tenha auferido por ter investido o montante.",
+      "D": "Em eventual ação de Ana contra José Miguel, provando a autora o erro no pagamento, deve o réu ser condenado a restituir a quantia indevidamente recebida, com os acréscimos da mora, desde a data do fato, bem como eventuais rendimentos que José Miguel tenha auferido por ter investido o montante, vez que se considera possuidor de má-fé."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 4,
+    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>"
+  },
+  {
+    "num": 39,
+    "enunciado": "André, mediante contrato escrito, comprou o carro de passeio de seu vizinho, Bernardo. Duas semanas depois, enquanto André o conduzia por uma das principais avenidas da cidade, o veículo quebrou, por causa de um defeito não aparente na mangueira do radiador.\n\nPara pretender indenização por perdas e danos em desfavor de Bernardo pelo ocorrido, André deve provar",
+    "alternativas": {
+      "A": "a existência de cláusula expressa no contrato de garantia contra vícios ocultos.",
+      "B": "a preexistência do defeito, mesmo que desconhecido por Bernardo.",
+      "C": "a preexistência do defeito e que Bernardo tinha conhecimento dele.",
+      "D": "a preexistência do defeito, que Bernardo tinha conhecimento dele e a existência de cláusula no contrato de garantia contra vícios ocultos."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "opcoes": {
+      "A": "a existência de cláusula expressa no contrato de garantia contra vícios ocultos.",
+      "B": "a preexistência do defeito, mesmo que desconhecido por Bernardo.",
+      "C": "a preexistência do defeito e que Bernardo tinha conhecimento dele.",
+      "D": "a preexistência do defeito, que Bernardo tinha conhecimento dele e a existência de cláusula no contrato de garantia contra vícios ocultos."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 5,
+    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 41,
+    "enunciado": "Antônio, locatário de um imóvel residencial, verificou uma enorme infiltração atrás dos armários da cozinha. Com a finalidade de evitar maior deterioração do imóvel, Antônio realizou a obra a fim de reparar o dano e conservar o bem. Aproveitando a presença do empreiteiro em sua casa, reformou todos os armários dos quartos, para incluir portas de espelho e puxadores em cobre com o único objetivo de deixá-los mais sofisticados, pois os anteriores estavam em perfeito estado. Aproveitou também a oportunidade para incluir um grande aquário embutido na parede da sala.\n\nDiante da situação narrada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Por não ser proprietário do bem, as obras realizadas por Antônio não podem ser consideradas como benfeitorias.",
+      "B": "As obras realizadas por Antônio são classificadas como benfeitorias úteis, pois facilitam o uso do bem.",
+      "C": "O reparo na cozinha é uma benfeitoria necessária, porque conserva e evita que a coisa se deteriore, e a reforma dos armários e do aquário são benfeitorias voluptuárias, pois tratase de mero deleite.",
+      "D": "A reforma dos armários dos quartos e o aquário da sala valorizam o bem, sendo consideradas como benfeitorias úteis, diferente do reparo na cozinha que, por força da gravidade, classifica-se como benfeitoria necessária."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "opcoes": {
+      "A": "Por não ser proprietário do bem, as obras realizadas por Antônio não podem ser consideradas como benfeitorias.",
+      "B": "As obras realizadas por Antônio são classificadas como benfeitorias úteis, pois facilitam o uso do bem.",
+      "C": "O reparo na cozinha é uma benfeitoria necessária, porque conserva e evita que a coisa se deteriore, e a reforma dos armários e do aquário são benfeitorias voluptuárias, pois tratase de mero deleite.",
+      "D": "A reforma dos armários dos quartos e o aquário da sala valorizam o bem, sendo consideradas como benfeitorias úteis, diferente do reparo na cozinha que, por força da gravidade, classifica-se como benfeitoria necessária."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 6,
+    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+  },
+  {
+    "num": 37,
+    "enunciado": "Lúcia, após negociações, concordou em vender para Cristina um imóvel pelo valor de R$ 500.000,00. Diante disso, as partes celebraram contrato definitivo de compra e venda, prevendo o objeto do contrato (o imóve\n\nl) , o preço (R$ 500.000,00), a forma de pagamento e outras estipulações de caráter acessório. O contrato foi firmado por meio de instrumento particular.\n\nConsiderando essas informações, sobre o contrato celebrado assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "É anulável, pois a escritura pública é essencial à sua validade.",
+      "B": "É nulo, pois contém vício de consentimento consistente em erro.",
+      "C": "É plenamente válido, produzindo integralmente os seus efeitos, uma vez que a compra e venda definitiva tem como elementos essenciais a coisa, o preço e o consenso das partes.",
+      "D": "É nulo, porque a compra e venda definitiva deveria ter sido celebrada mediante escritura pública, mas é possível sua conversão em contrato preliminar de compra e venda, o que pode ser feito mediante instrumento particular."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "opcoes": {
+      "A": "É anulável, pois a escritura pública é essencial à sua validade.",
+      "B": "É nulo, pois contém vício de consentimento consistente em erro.",
+      "C": "É plenamente válido, produzindo integralmente os seus efeitos, uma vez que a compra e venda definitiva tem como elementos essenciais a coisa, o preço e o consenso das partes.",
+      "D": "É nulo, porque a compra e venda definitiva deveria ter sido celebrada mediante escritura pública, mas é possível sua conversão em contrato preliminar de compra e venda, o que pode ser feito mediante instrumento particular."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 7,
+    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>"
+  },
+  {
+    "num": 41,
+    "enunciado": "Aluísio concedeu um empréstimo a Fábio e, como garantia do empréstimo, Letícia concedeu a Aluísio fiança, renunciando ao benefício de ordem.\n\nConsiderando essa hipótese, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Letícia só pode conceder a Aluísio a fiança se houver o consentimento de Fábio.",
+      "B": "Se houver convenção expressa das partes, a fiança concedida por Letícia pode ser de valor superior à dívida de Fábio.",
+      "C": "Caso o empréstimo tenha sido verbal, a fiança também poderá sê-lo, pois, sendo contrato acessório, sua forma segue a do principal.",
+      "D": "Ao renunciar ao benefício de ordem, Letícia não poderá alegar que primeiro sejam executados os bens de Fábio."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "opcoes": {
+      "A": "Letícia só pode conceder a Aluísio a fiança se houver o consentimento de Fábio.",
+      "B": "Se houver convenção expressa das partes, a fiança concedida por Letícia pode ser de valor superior à dívida de Fábio.",
+      "C": "Caso o empréstimo tenha sido verbal, a fiança também poderá sê-lo, pois, sendo contrato acessório, sua forma segue a do principal.",
+      "D": "Ao renunciar ao benefício de ordem, Letícia não poderá alegar que primeiro sejam executados os bens de Fábio."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 8,
+    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 38,
+    "enunciado": "Cláudia comprou um apartamento e contratou o arquiteto Lúcio para elaborar o projeto de redecoração. Pelo contrato celebrado, Lúcio deverá entregar o projeto a Cláudia no prazo de 30 dias, contados da assinatura do instrumento. Em caso de mora, Lúcio fica obrigado a pagar multa diária a Cláudia.\n\nConsiderando essa hipótese, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Caso haja atraso na entrega do projeto, Cláudia poderá exigir a multa de Lúcio, independentemente de alegar prejuízo da mora.",
+      "B": "A obrigação de pagar multa por dia de atraso afigura-se inválida, pois configura ônus manifestamente excessivo em detrimento do devedor.",
+      "C": "Havendo mora, caso Cláudia cobre a verba estipulada, não poderá exigir de Lúcio o cumprimento da obrigação principal, isto é, a entrega do projeto de redecoração.",
+      "D": "A obrigação de pagar a multa em caso de mora tem natureza jurídica de astreintes e não pode ser reduzida equitativamente pelo Juiz caso se revele manifestamente excessiva."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "opcoes": {
+      "A": "Caso haja atraso na entrega do projeto, Cláudia poderá exigir a multa de Lúcio, independentemente de alegar prejuízo da mora.",
+      "B": "A obrigação de pagar multa por dia de atraso afigura-se inválida, pois configura ônus manifestamente excessivo em detrimento do devedor.",
+      "C": "Havendo mora, caso Cláudia cobre a verba estipulada, não poderá exigir de Lúcio o cumprimento da obrigação principal, isto é, a entrega do projeto de redecoração.",
+      "D": "A obrigação de pagar a multa em caso de mora tem natureza jurídica de astreintes e não pode ser reduzida equitativamente pelo Juiz caso se revele manifestamente excessiva."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 9,
+    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 37,
+    "enunciado": "Dagoberto celebrou contrato por meio do qual se comprometeu a\n\n- comprar a casa de Marina, se seu investimento em ações atingisse um rendimento acima de 10% no dia 20 daquele mês. No dia indicado por Dagoberto, restou comprovado que suas ações renderam 15%, mas ele se negou a comprar o imóvel. Em razão disso, Marina procurou você, como advogado(a) , para saber como proceder frente ao caso narrado. Assinale a opção que indica a correta orientação jurídica que você prestou.",
+    "alternativas": {
+      "A": "Ela pode exigir a compra da casa, porque o encargo foi cumprido.",
+      "B": "Ela não pode exigir a compra da casa, por se tratar de termo incerto.",
+      "C": "Ela pode exigir a compra da casa, já que se implementou a condição suspensiva.",
+      "D": "Ela não pode exigir a compra da casa, pois a condição do negócio é puramente potestativa."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "45º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 45,
+    "exame_label": "45º Exame OAB",
+    "opcoes": {
+      "A": "Ela pode exigir a compra da casa, porque o encargo foi cumprido.",
+      "B": "Ela não pode exigir a compra da casa, por se tratar de termo incerto.",
+      "C": "Ela pode exigir a compra da casa, já que se implementou a condição suspensiva.",
+      "D": "Ela não pode exigir a compra da casa, pois a condição do negócio é puramente potestativa."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 10,
+    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Lorena resolveu alienar um imóvel avaliado em R$ 2.000.000,00 para Marta. Para tanto, elas elaboraram uma minuta de contrato de compra e venda, especificando as partes, o bem, o preço e a forma de pagamento.\n\nConsiderando a urgência da vendedora, que iria se mudar para o exterior, essa minuta foi impressa na casa de Marta e assinada pelas partes e pelas testemunhas Natália e Oscar.\n\nSobre a situação hipotética narrada, assinale a afirmativa correta. (A) O contrato de compra e venda é válido, uma vez que, na\n\npresença de duas testemunhas, o instrumento particular poderia ser utilizado.",
+    "alternativas": {
+      "B": "O contrato de compra e venda é nulo, por desobediência de sua forma, mas poderá ser convertido em promessa de compra e venda.",
+      "C": "O contrato de compra e venda é anulável, por vício de sua forma, decaindo as partes do direito de promover a anulação no prazo de dois anos de sua celebração.",
+      "D": "O contrato de compra e venda é anulável por vício de forma. A lei permite, entretanto, a sua convalidação caso haja o reconhecimento das firmas de todos os envolvidos no Ofício de Notas."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "opcoes": {
+      "B": "O contrato de compra e venda é nulo, por desobediência de sua forma, mas poderá ser convertido em promessa de compra e venda.",
+      "C": "O contrato de compra e venda é anulável, por vício de sua forma, decaindo as partes do direito de promover a anulação no prazo de dois anos de sua celebração.",
+      "D": "O contrato de compra e venda é anulável por vício de forma. A lei permite, entretanto, a sua convalidação caso haja o reconhecimento das firmas de todos os envolvidos no Ofício de Notas."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 11,
+    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+  },
+  {
+    "num": 41,
+    "enunciado": "Eduardo vendeu um imóvel urbano a Clara, estipulando em contrato particular que, caso futuramente ela decidisse vendê-lo, Clara deveria notificá-lo previamente, conferindo-lhe o direito de adquirir o bem nas mesmas condições ofertadas a terceiros. Passados doze meses da compra, Clara recebeu proposta de venda pelo mesmo valor pago e, sem notificar Eduardo, vendeu o imóvel para Flávio.\n\nEduardo, ao saber do negócio já concluído, procurou Flávio para discutir o direito de preferência, mas este afirmou não ter sido informado sobre qualquer cláusula contratual anterior. Eduardo ajuizou ação para haver o imóvel para si, mediante o pagamento do mesmo valor da proposta aceita por Clara.\n\nCom base nas disposições legais sobre o direito de preempção, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Eduardo não pode exigir o imóvel para si, mas poderá pleitear perdas e danos contra Clara, caso comprove que foi privado de exercer seu direito de preferência.",
+      "B": "Eduardo poderá reaver o imóvel se provar que notificou Flávio, por escrito, antes da conclusão do negócio, mesmo que Clara tenha omitido a existência da preferência.",
+      "C": "Eduardo perdeu o direito à preempção, pois este não pode ser exercido se o novo comprador não tinha ciência da cláusula de preferência existente no contrato anterior.",
+      "D": "Eduardo pode exigir o imóvel para si, mediante depósito do valor ajustado com o terceiro, desde que o faça no prazo de até 180 dias da alienação, conforme admite o Código Civil."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "opcoes": {
+      "A": "Eduardo não pode exigir o imóvel para si, mas poderá pleitear perdas e danos contra Clara, caso comprove que foi privado de exercer seu direito de preferência.",
+      "B": "Eduardo poderá reaver o imóvel se provar que notificou Flávio, por escrito, antes da conclusão do negócio, mesmo que Clara tenha omitido a existência da preferência.",
+      "C": "Eduardo perdeu o direito à preempção, pois este não pode ser exercido se o novo comprador não tinha ciência da cláusula de preferência existente no contrato anterior.",
+      "D": "Eduardo pode exigir o imóvel para si, mediante depósito do valor ajustado com o terceiro, desde que o faça no prazo de até 180 dias da alienação, conforme admite o Código Civil."
+    },
+    "modulo_codigo": "04_contratos",
+    "modulo_nome": "Contratos em Geral e Espécies",
+    "id": 12,
+    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+  }
+]

@@ -17,12 +17,12 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 1,
-    "sintese": "Advogado pode se associar simultaneamente a uma sociedade de advogados e a uma sociedade unipessoal em seccionais DIFERENTES — vedado apenas na mesma seccional.",
-    "logica_conceito": "Jefferson quer se associar a uma sociedade de advogados e a uma sociedade unipessoal ao mesmo tempo. O Art. 15, § 4º permite participar de mais de uma sociedade, desde que em seccionais distintas. O gabarito C permite exatamente isso: associação simultânea em duas seccionais diferentes.",
-    "fundamentacao": "EAOAB, Art. 15, § 4º: 'O advogado pode integrar mais de uma sociedade de advogados, desde que constituídas em Seccionais diferentes.' Art. 15-A: 'O advogado pode constituir sociedade unipessoal de advocacia, desde que não mantenha mais de uma sociedade na mesma seccional.'",
-    "dica": "Regra: não pode ter mais de uma sociedade (qualquer tipo) NA MESMA SECCIONAL. Em seccionais diferentes: pode ter quantas quiser. Jefferson pode associar-se a quantas sociedades quiser, desde que em seccionais distintas.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a vedação é de duplicidade NA MESMA SECCIONAL. Em estados diferentes, pode integrar uma sociedade simples e ter uma SUAdv sem qualquer problema.",
-    "analise": "A) Errada: pode associar-se a mais de uma sociedade, desde que em seccionais diferentes. B) Errada: a associação à SUAdv com participação minoritária não é vedada se for em seccional diferente. C) CORRETA: Jefferson pode se associar simultaneamente a uma sociedade de advogados e a uma SUAdv, desde que em seccionais diferentes. D) Errada: a associação pode ser de caráter geral, mas o ponto relevante aqui é que pode haver associação em seccionais diferentes."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 39: é admitido ao advogado <strong>associar-se a mais de uma sociedade de advogados ou a mais de uma sociedade unipessoal de advocacia</strong>, para participação em causas e nos resultados, inclusive simultaneamente. O contrato de associação pode ser em caráter geral ou restrito a causas específicas. Não há limitação de quantidade de associações.</p>",
+    "dica": "<p>Advogado pode associar-se <strong>simultaneamente a uma sociedade de advogados E a uma sociedade unipessoal de advocacia</strong> (C certa). A erra ao limitar a apenas uma sociedade. B erra ao proibir associação com unipessoal. D erra ao exigir que seja em caráter geral.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 8,
@@ -42,12 +42,12 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 3,
-    "sintese": "Suspensão preventiva: pressupõe repercussão prejudicial à eficiência e credibilidade da OAB. Recurso contra ela NÃO tem efeito suspensivo. PAD deve ser concluído em 90 dias.",
-    "logica_conceito": "Marcelo usou atestado falso para libertar o cliente. O fato gerou repercussão grave. A suspensão preventiva é cabível nessas condições. O recurso contra a suspensão preventiva não tem efeito suspensivo (uma das 3 exceções). O PAD deve ser julgado em 90 dias.",
-    "fundamentacao": "EAOAB, Art. 70: 'A suspensão preventiva do advogado pode ser decretada pelo Conselho Seccional competente, em decisão fundamentada, quando a continuidade do exercício da advocacia representar perigo à eficiência e credibilidade da instituição ou dos serviços por ela prestados. [...] § 3º O processo disciplinar referente ao fato que motivou a decretação da suspensão preventiva deve ser julgado no prazo máximo de noventa dias.' Art. 70, § 4º: 'O recurso interposto contra a decisão que decreta a suspensão preventiva não tem efeito suspensivo.'",
-    "dica": "Suspensão preventiva: (1) exige repercussão prejudicial à OAB; (2) recurso sem efeito suspensivo; (3) PAD concluído em max 90 dias. São as 3 regras básicas da suspensão preventiva.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a suspensão preventiva é medida cautelar do PAD — exige urgência e repercussão. O recurso não suspende (uma das 3 exceções sem efeito suspensivo). E o processo deve ser julgado em 90 dias — se não for, cessa a suspensão preventiva.",
-    "analise": "A) Errada: a competência para a suspensão preventiva é do Conselho Seccional, não do TED. B) CORRETA: a suspensão preventiva pressupõe que o fato gerou repercussão prejudicial; o recurso não tem efeito suspensivo; e o processo deve ser concluído em 90 dias. C) Errada: a oitiva prévia não é requisito para a suspensão preventiva — ela pode ser decretada de plano. D) Errada: o prazo máximo para julgamento é 90 dias, não variável."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, <strong>Art. 70, § 3º</strong>: \"O Tribunal de Ética e Disciplina do Conselho onde o acusado tenha inscrição principal pode suspendê-lo preventivamente, em caso de repercussão prejudicial à dignidade da advocacia, depois de ouvi-lo em sessão especial para a qual deve ser <strong>notificado a comparecer</strong>, salvo se não atender à notificação. Neste caso, o processo disciplinar deve ser concluído no prazo máximo de <strong>noventa dias</strong>.\"</p>",
+    "dica": "<p>Suspensão preventiva: (1) repercussão prejudicial à dignidade da advocacia; (2) <strong>notificação prévia + sessão especial</strong> (ou não comparecimento); (3) prazo máximo do processo = <strong>90 dias</strong>. Art. 70, §3º (não §1º/§2º, que tratam de competência do TED e comunicação da condenação).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -67,12 +67,12 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 6,
-    "sintese": "Preferência de advogado em audiência: direito assegurado em lei quando há conflito de horário entre dois advogados — direito de preferência do primeiro a ser intimado.",
-    "logica_conceito": "Mariângela foi intimada para audiência e há conflito de horários. O Art. 7º, XX EAOAB garante ao advogado a preferência para ser atendido nos estabelecimentos de acesso ao público quando munido de expediente. A questão trata do direito de preferência em audiência.",
-    "fundamentacao": "EAOAB, Art. 7º, XX: 'retirar autos dos cartórios e secretarias judiciais e administrativas sob recibo no prazo legal, mesmo sem procuração, tendo a obrigação de devolvê-los no prazo fixado.' Art. 7º-A, II: 'É direito da advogada [...] ter preferência na realização de atos e na realização de audiências perante qualquer juízo ou tribunal, mediante comunicação.'",
-    "dica": "Preferência de advogado em audiência: direito assegurado em lei, independentemente de ser a única patrona. Basta que haja conflito legítimo e o advogado comunique formalmente ao juízo.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o direito de preferência em audiência existe por força de lei e não depende de ser o único patrono. O advogado que tem conflito de horários pode requerer a preferência e o juízo deve reschedulear — não pode simplesmente designar o ato sem considerar o pedido.",
-    "analise": "A) Errada: a presença de dois advogados constituídos não elimina o direito de preferência de Mariângela. B) Errada: mesmo sem previsão expressa em algum código, o EAOAB prevê o direito. C) Errada: o direito não depende de ser a única patrona. D) CORRETA: Mariângela tem o direito de preferência assegurado em lei, independentemente de ser a única ou uma das patronas — basta comunicar formalmente o conflito de horários."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7-A, I (Lei 13.363/2016): a advogada que estiver <strong>amamentando</strong> tem o direito de <strong>preferência na ordem das audiências, sustentações orais e nas demais práticas de ato de qualquer natureza</strong>, mediante comprovação de sua condição — <strong>independentemente de haver outro advogado constituído nos autos</strong>. O direito é pessoal e não pode ser negado pela existência de copatrocínio.</p>",
+    "dica": "<p>Lactante: direito de <strong>preferência independentemente de coadvogado</strong> constituído nos autos (D certa). A erra ao negar o direito por ausência de previsão — há previsão legal expressa. B erra: a previsão existe. C erra: não há exigência de ser a única patrona para a preferência da ordem.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 8,
@@ -92,12 +92,13 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 8,
-    "sintese": "Diploma estrangeiro no exterior: Pedro (brasileiro) pode revalidar e se inscrever. Soraya (estrangeira) pode advogar com condições específicas para estrangeiros.",
-    "logica_conceito": "Pedro obteve diploma em instituição estrangeira — precisa revalidar. Após revalidação, pode se inscrever e advogar. A questão pergunta qual afirmação é correta. Gabarito C: o diploma de Pedro pode ser aceito mediante revalidação em instituição brasileira.",
-    "fundamentacao": "EAOAB, Art. 8º, § 2º: 'O estrangeiro ou brasileiro que tenha obtido graduação em direito no exterior terá seu diploma revalidado para os fins desta lei.' Lei de Migração: estrangeiro pode advogar com condições — necessita de autorização e não pode postular contra interesses do Brasil em temas específicos.",
-    "dica": "Diploma estrangeiro: SEMPRE precisa de revalidação para advogar no Brasil — brasileiro ou estrangeiro. Sem revalidação, não pode exercer a advocacia independentemente de aprovação no Exame de Ordem.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a revalidação do diploma é condição sine qua non para o brasileiro ou estrangeiro que estudou fora do Brasil. Só após a revalidação é que pode tentar o Exame de Ordem e se inscrever na OAB.",
-    "analise": "A) Errada: Pedro pode advogar, desde que revalidado o diploma e aprovado no Exame de Ordem. B) Errada: Soraya PODE exercer a advocacia no Brasil com autorização especial e cumprindo os requisitos da lei de migração. C) CORRETA: o diploma de Pedro pode ser aceito mediante revalidação em instituição brasileira de ensino superior — condição necessária para inscrição na OAB. D) Errada: sem revalidação, nem Pedro nem Soraya podem advogar livremente no Brasil."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 8º, IV: é requisito para inscrição na OAB o <strong>diploma ou certidão de graduação em Direito, obtido em instituição de ensino oficialmente autorizada e credenciada</strong>. Diploma estrangeiro: deve ser revalidado por universidade brasileira. Pedro (brasileiro com diploma estrangeiro) precisa de revalidação + Exame de Ordem + demais requisitos, incluindo <strong>idoneidade moral</strong> — que pode ser obstáculo em razão de suas infrações (extinção da punibilidade não reconstitui idoneidade para todos os fins). Soraya (estrangeira): pode obter inscrição desde que cumpra os requisitos, inclusive revalidação.</p>",
+    "dica": "<p>Diploma estrangeiro: <strong>revalidação obrigatória</strong>, depois Exame de Ordem + demais requisitos (C certa). A erra: brasileiro nato não dispensa revalidação de diploma estrangeiro. B erra: estrangeiros com diploma revalidado PODEM se inscrever. D erra: aprovação no Exame não \"convalida\" diplomas — a revalidação é etapa separada.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 4,
@@ -117,12 +118,12 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 12,
-    "sintese": "PAD com infração punível com censura: o Presidente do Conselho Seccional pode aplicar diretamente a censura por despacho, sem necessidade de instaurar processo formal.",
-    "logica_conceito": "A representação apontou infração punível apenas com censura. O Regulamento Geral prevê procedimento simplificado: o Presidente do Conselho pode, após parecer do relator, aplicar a censura diretamente por despacho. Não precisa de sessão de julgamento do colegiado.",
-    "fundamentacao": "EAOAB, Art. 73, § 5º: 'Quando a infração for punível com censura, o Presidente do Conselho ou do Tribunal de Ética e Disciplina pode aplicá-la diretamente, por despacho, após a defesa prévia do representado, encaminhando ao Conselho, para homologação.' Regulamento Geral, Art. 68: procedimento simplificado para infrações leves.",
-    "dica": "Censura por despacho do Presidente: POSSÍVEL. É o procedimento simplificado para infrações leves. Suspensão e exclusão exigem processo completo com sessão do colegiado. A censura pode ser aplicada de forma mais simples.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): para infrações leves (censura), o EAOAB prevê um rito mais simples — o Presidente pode aplicar diretamente por despacho após a defesa prévia do representado, sem necessidade de sessão do colegiado. Isso agiliza o processo para casos menos graves.",
-    "analise": "A) CORRETA: se a infração é punível com censura, o Presidente do Conselho Seccional pode aplicá-la diretamente por despacho, após a defesa prévia. B) Errada: a autoridade que proferiu o despacho pode sim aplicar a censura nesse procedimento simplificado. C) Errada: não é necessária votação do colegiado para arquivamento em procedimento de censura simplificado. D) Errada: a designação de relator não impede o Presidente de aplicar a censura por despacho nesse procedimento."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 58, §3º e CED: se a infração for punível com <strong>censura</strong>, admite-se a celebração de <strong>Termo de Ajustamento de Conduta (TAC)</strong>, desde que o fato não tenha gerado <strong>repercussão negativa à advocacia</strong> (A certa). A designação imediata de relator sem oitiva prévia do representado é regular — o art. 73 do EAOAB prevê que o relator instrui o processo e o representado só é notificado na fase adequada.</p>",
+    "dica": "<p>TAC em processo disciplinar: cabível para infração punível com <strong>censura</strong>, desde que <strong>sem repercussão negativa à advocacia</strong> (A certa). B erra: suspensão preventiva não é automática na instauração. C erra: recurso de arquivamento liminar vai ao Conselho Seccional, não ao Federal. D erra: designação de relator sem oitiva prévia é regular.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 2,
@@ -142,12 +143,13 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 13,
-    "sintese": "Atos praticados por advogado suspenso (André): NULOS. Atos praticados por pessoa sem inscrição (Helena): também nulos.",
-    "logica_conceito": "André está suspenso — não pode exercer atos privativos de advocacia. Helena não tem inscrição na OAB — também não pode. Atos privativos praticados por ambos são nulos. A diferença: André está suspenso (inscrição existe, exercício vedado); Helena nem inscrição tem.",
-    "fundamentacao": "EAOAB, Art. 4º: 'São nulos os atos privativos de advocacia praticados por pessoa não inscrita na OAB, sem prejuízo das sanções civis, penais e administrativas.' Art. 37, § 1º: 'A suspensão acarreta ao infrator a interdição do exercício profissional em todo o território nacional, pelo prazo de trinta dias a doze meses, de acordo com a gravidade da infração.'",
-    "dica": "Atos de advocacia por suspenso = nulos. Atos de advocacia por não inscrito = nulos. São situações distintas mas com mesmo efeito: nulidade dos atos.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): suspensão = interdição do exercício. Os atos praticados durante a suspensão são nulos. Não-inscrito que pratica atos privativos comete crime (Art. 47 EAOAB) e seus atos são nulos. A A está correta: André suspenso = atos nulos.",
-    "analise": "A) CORRETA: os atos praticados por André após a suspensão são nulos, pois ele está impedido de exercer atos privativos durante o período de suspensão. B) Errada: os atos de Helena (sem inscrição) também são nulos — não podem ser restritos à consultoria. C) Errada: atos de pessoa sem inscrição não são válidos para nenhuma finalidade. D) Errada: os atos de ambos são nulos — mas por razões distintas (suspensão vs. ausência de inscrição)."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 4º, caput: \"<strong>São nulos os atos privativos de advogado praticados por pessoa não inscrita na Ordem dos Advogados do Brasil.</strong>\" Helena (sem inscrição) pratica atos nulos. André (suspenso) também fica impedido de praticar atos privativos enquanto durar a suspensão — seus atos são <strong>nulos</strong>, não apenas anuláveis (A certa). A nulidade dos atos de André é idêntica à de Helena.</p>",
+    "dica": "<p>Suspenso = equiparado a não inscrito para fins de prática de atos: <strong>atos nulos</strong> (A certa). B erra: atos de Helena são nulos, não validáveis por autorização do cliente. C erra: consultoria extrajudicial também é privativa de advogado. D erra: não são anuláveis — são <em>nulos</em>, e não há convalidação.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 8,
@@ -167,11 +169,11 @@
     "modulo_codigo": "06_publicidade_e_marketing",
     "modulo_nome": "Publicidade e Marketing",
     "id": 14,
-    "sintese": "Pedro tem SUAdv em uma seccional e recebe convite para integrar sociedade pluripessoal NA MESMA SECCIONAL: deve encerrar formalmente a SUAdv antes de aceitar.",
-    "logica_conceito": "A vedação é participar de mais de uma sociedade na MESMA seccional. Pedro tem SUAdv em Estado Alfa. A nova sociedade de Abraão também é em Estado Alfa (mesma seccional). Para aceitar, Pedro deve primeiro encerrar (cancelar o registro) da SUAdv.",
-    "fundamentacao": "EAOAB, Art. 15, § 4º: 'O advogado pode integrar mais de uma sociedade de advogados, desde que constituídas em Seccionais diferentes.' Art. 15-A: 'O advogado pode constituir sociedade unipessoal de advocacia, desde que não mantenha mais de uma sociedade na mesma seccional.'",
-    "dica": "Mesma seccional = máximo de UMA sociedade (de qualquer tipo). Para integrar nova sociedade na mesma seccional, deve sair da atual antes. Em seccionais diferentes: pode ter quantas quiser.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a vedação é objetiva — mesma seccional, máximo uma sociedade. Pedro quer entrar em nova sociedade na mesma seccional onde já tem a SUAdv. Deve encerrar a SUAdv primeiro.",
-    "analise": "A) Errada: em processos distintos não altera a vedação — o critério é seccional, não processo. B) CORRETA: Pedro poderá aceitar o convite de Abraão apenas se encerrar formalmente a Sociedade Individual de Advocacia antes de integrar a nova sociedade na mesma seccional. C) Errada: declaração formal não resolve — a lei exige encerramento real. D) Errada: Pedro não pode manter as duas na mesma seccional — só em seccionais distintas."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 15, §4º: \"<strong>É vedado ao advogado integrar, simultaneamente, mais de uma sociedade de advogados ou mais de uma sociedade unipessoal de advocacia</strong>, cujas sedes ou filiais se localizem na mesma área territorial do respectivo Conselho Seccional.\" Pedro tem sociedade unipessoal no Estado Alfa e quer integrar sociedade de advogados também no Estado Alfa — vedação expressa. Deve encerrar a unipessoal para integrar a nova (B certa).</p>",
+    "dica": "<p>Mesmo Conselho Seccional: <strong>vedado participar de duas sociedades simultaneamente</strong> (B certa). A erra: a regra não tem exceção por processos distintos. C erra: declaração formal não afasta o impedimento legal. D erra: filial em outra área territorial não é suficiente se ele continuar atuando no Estado Alfa.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 217-A (estupro de vulnerável): \"Ter conjunção carnal ou praticar outro ato libidinoso com menor de 14 anos.\" Súmula 593 STJ: \"<strong>O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevante eventual consentimento da vítima, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente.</strong>\" Miriam tinha 13 anos → vulnerável → conduta típica, ilícita e culpável.</p>",
+    "dica": "<p>Menor de 14 anos: <strong>vulnerabilidade legal absoluta</strong> — consentimento, experiência anterior e relacionamento são <em>irrelevantes</em> (A certa — típica, ilícita e culpável). B, C, D erram ao excluir tipicidade, ilicitude ou culpabilidade com base nos elementos que a Súmula 593 STJ expressamente afasta.</p>"
   },
   {
     "num": 61,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 312, §3°: \"No caso do parágrafo anterior [peculato culposo], a reparação do dano, <strong>se precede à sentença irrecorrível</strong>, extingue a punibilidade; se lhe é posterior, reduz de metade a pena imposta.\" Francisco não agiu com dolo (peculato culposo: descuido sobre o notebook funcional). Ressarcimento feito antes da sentença irrecorrível → <strong>extinção da punibilidade</strong>.</p>",
+    "dica": "<p>Peculato culposo + reparação <em>antes</em> da sentença irrecorrível = <strong>extinção da punibilidade</strong> (B certa). A erra: redução de metade aplica-se à reparação <em>posterior</em> à sentença. C erra: a atenuante do Art. 65, III, c só incide se a punibilidade não for extinta antes. D erra: arrependimento posterior (Art. 16) aplica-se a crimes patrimoniais dolosos sem violência.</p>"
   },
   {
     "num": 57,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 14, II (tentativa): crime tentado quando, \"iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente.\" Arthur iniciou o furto (cortou os cabos), mas foi interrompido antes de concluir a subtração. Parágrafo único: pena do crime consumado diminuída de <strong>um a dois terços</strong>. Não é crime impossível (Art. 17): os cabos existiam e eram furtáveis.</p>",
+    "dica": "<p>Arthur iniciou a execução e não concluiu por motivo alheio → <strong>tentativa</strong> com diminuição de 1 a 2/3 (A certa). B erra: arrependimento posterior exige crime consumado + reparação voluntária. C erra: crime impossível = ineficácia absoluta do meio ou impropriedade absoluta do objeto — nenhuma das hipóteses. D erra: perdão judicial é restrito a casos expressamente previstos.</p>"
   },
   {
     "num": 59,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 13, §1°: \"<strong>A superveniência de causa relativamente independente exclui a imputação quando, por si só, produziu o resultado.</strong>\" Ambulância bate contra árvore = concausa superveniente relativamente independente que, por si só, matou Pedro → Gabriel não responde pela morte de Pedro (apenas pela tentativa de homicídio). Em relação a Júlia: resultado lesivo a ela foi diretamente causado por Gabriel → tentativa de homicídio subsiste. D certa.</p>",
+    "dica": "<p>Acidente da ambulância = <strong>concausa superveniente que, por si só, causou a morte de Pedro</strong> → Gabriel: apenas tentativa de homicídio quanto a Pedro. Quanto a Júlia: tentativa subsiste (D certa). A erra: desistência voluntária exigiria ato voluntário de Gabriel de abandonar a execução. B e C abordam o tema correto (concausa) mas erram na consequência para Júlia.</p>"
   },
   {
     "num": 61,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 31: \"<strong>O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado.</strong>\" Filisteu contratou Mateus que <em>não chegou a iniciar</em> a execução do homicídio → Filisteu não praticou fato penalmente típico (não há participação punível sem crime ao menos tentado). A certa.</p>",
+    "dica": "<p>Ajuste para crime não executado = <strong>atípico</strong> (Art. 31) (A certa). B erra: associação criminosa exige mínimo de 3 pessoas (Art. 288). C e D erram: sem tentativa do crime pelo executor, não há participação punível de Filisteu em tentativa de homicídio.</p>"
   },
   {
     "num": 57,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 215-A (Lei 13.718/2018 — importunação sexual): \"<strong>Praticar contra alguém e sem a sua anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro.</strong>\" Beijo à força sem penetração e sem violência ou grave ameaça = importunação sexual, não estupro. Ação penal: pública incondicionada.</p>",
+    "dica": "<p>Beijo forçado = <strong>importunação sexual</strong> (Art. 215-A) (D certa). A erra: não é fato atípico — é crime. B erra: estupro exige violência/grave ameaça + conjunção carnal ou ato libidinoso diverso. C erra: assédio sexual (Art. 216-A) pressupõe relação hierárquica e vantagem/condicionamento.</p>"
   },
   {
     "num": 59,
@@ -129,7 +165,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 150 (violação de domicílio): crime consumado com o mero ingresso na casa alheia sem autorização. João ingressou livremente na casa de Pedro = <strong>violação de domicílio consumada</strong>. O crime de furto: Pedro mudou o esconderijo → João não encontrou o dinheiro → crime impossível por impropriedade relativa do objeto (bem existente, mas não no local presumido) ou tentativa de furto. D afirma a consumação da violação de domicílio.</p>",
+    "dica": "<p>Ingressar na casa alheia sem autorização = <strong>violação de domicílio consumada</strong> — independentemente do resultado do furto (D certa). A e C abordam tentativa imperfeita/perfeita de furto — secundárias ao fato consumado da violação. B fala de tentativa de furto com redução de pena — pode existir cumulativamente, mas D está correto quanto ao crime consumado.</p>"
   },
   {
     "num": 62,
@@ -148,6 +190,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "03_punibilidade_penas",
     "modulo_nome": "Teoria das Penas e Extinção da Punibilidade",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Lei 11.343/06, Art. 33: tipo penal <strong>misto alternativo</strong> — a prática de qualquer das condutas (plantar, fabricar, ter em depósito, fornecer) em relação à mesma substância, no mesmo contexto fático, configura <strong>crime único</strong>. Pedro: plantou + fabricou + manteve em depósito + vendeu (5 vezes). Sendo o tipo misto, não há concurso de crimes — um só crime de tráfico.</p>",
+    "dica": "<p>Tráfico de drogas: tipo <strong>misto alternativo</strong> → múltiplas condutas com a mesma droga = <strong>crime único</strong> (C certa). A erra: a produção e depósito já configuram tráfico — não se reduz a \"porte para consumo\". B erra: não há continuidade delitiva — é crime único. D erra: não é concurso formal — é crime único pelo tipo misto.</p>"
   }
 ]

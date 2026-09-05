@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_jornada_remuneracao",
     "modulo_nome": "Jornada de Trabalho e Duração do Trabalho",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CP, Art. 26, caput:</strong> \"É isento de pena o agente que, por doença mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da ação ou omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.\" Laudo pericial reconhece completa inimputabilidade → <strong>absolvição imprópria</strong> (sentença absolutória + medida de segurança — CP Art. 97). Processo em andamento: <strong>incidente de insanidade mental</strong> (CPP Art. 149-154) que suspende o processo.</p>",
+    "dica": "<p>Inimputabilidade por doença mental (CP Art. 26): absolvição imprópria + medida de segurança (tratamento). Se já condenada definitivamente: revogação da pena + substituição por medida de segurança (CP Art. 183). Processo em curso: incidente de insanidade (CPP Art. 149) suspende o processo até laudo. Distinguir: <strong>inimputável</strong> (sem pena, com MS) × <strong>semi-imputável</strong> (pena reduzida 1/3 a 2/3 ou substituição por MS).</p>"
   },
   {
     "num": 74,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_jornada_remuneracao",
     "modulo_nome": "Jornada de Trabalho e Duração do Trabalho",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 482</strong> (justa causa) + <strong>Art. 477-B</strong> (FGTS). Morte do empregado: <strong>Lei 8.036/90, Art. 20, II:</strong> saque do FGTS pelos dependentes. <strong>CLT, Art. 1º</strong> e <strong>Lei 6.533/78</strong> (profissional de Educação Física): CTPS anotada = relação de emprego. Verbas rescisórias na morte: pagas <strong>em partes iguais aos dependentes habilitados</strong> conforme a lei previdenciária.</p>",
+    "dica": "<p>Morte do empregado: verbas rescisórias + saldo FGTS pagas aos <strong>dependentes em quotas iguais</strong> (Lei 8.036/90 Art. 20, II). Sem dependentes: herdeiros legais por inventário. Educador físico com CTPS assinada = empregado urbano. Prazo para pagamento: 10 dias (CLT Art. 477, §6º, a).</p>"
   },
   {
     "num": 72,
@@ -54,7 +66,14 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "02_jornada_remuneracao",
     "modulo_nome": "Jornada de Trabalho e Duração do Trabalho",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.036/90, Art. 20:</strong> saque do FGTS é permitido nas hipóteses legais: dispensa sem justa causa (inciso I), aposentadoria (VIII), extinção da empresa (II-A), entre outras. Pedido de demissão (Alexandre): <strong>não autoriza saque</strong> do FGTS. Demissão sem justa causa (Reginaldo, Maurício): <strong>autoriza saque imediato</strong> + multa de 40% (Art. 18).</p>",
+    "dica": "<p>FGTS — saque permitido em caso de <strong>demissão sem justa causa</strong> + multa de 40%. Pedido de demissão (quem pede a conta): <strong>não saca</strong> o FGTS (pode apenas movimentar conta vinculada se houver outras hipóteses). Alexandre (pediu demissão) + Reginaldo e Maurício (dispensados sem justa causa): gabarito A diz \"os três podem receber imediatamente\" — verificar se há outra hipótese para Alexandre.</p>",
+    "revisar_manual": true
   },
   {
     "num": 75,
@@ -73,7 +92,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_jornada_remuneracao",
     "modulo_nome": "Jornada de Trabalho e Duração do Trabalho",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 428 ss</strong> (aprendiz): aprendiz tem garantia no emprego durante o contrato de aprendizagem. <strong>Lei 11.788/08, Art. 12</strong> (estagiária): estagiária <strong>não é empregada</strong> e não tem estabilidade. <strong>CLT, Art. 10, II, b</strong> (gestante): garantia de emprego desde a confirmação da gravidez. Rogéria (aprendiz): garantia contratual; Fabiane (gestante?): garantia constitucional.</p>",
+    "dica": "<p>Estagiária (Roberta): <strong>sem garantia</strong> de emprego — não é empregada (Lei 11.788/08). Aprendiz (Rogéria): garantia durante o contrato de aprendizagem (CLT Art. 432). Somente Rogéria e Fabiane têm garantia — Fabiane provavelmente por gravidez (CF/88 Art. 10, II, b ADCT). Verificar se Fabiane é gestante no enunciado.</p>"
   },
   {
     "num": 73,
@@ -92,7 +117,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_jornada_remuneracao",
     "modulo_nome": "Jornada de Trabalho e Duração do Trabalho",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 477-B</strong> (Plano de Demissão Voluntária — PDV): \"A adesão ao Plano de Demissão Voluntária ou Incentivada implica quitação plena e irrevogável dos direitos decorrentes da relação empregatícia, salvo disposição em contrário estipulada entre as partes.\" Margarida e Hortência aderiram = quitação plena. Rosa não aderiu = sem quitação.</p>",
+    "dica": "<p>PDV (CLT Art. 477-B): adesão = <strong>quitação plena e irrevogável</strong> de todos os direitos trabalhistas — inclusive verbas vencidas. Antes da Lei 13.467/17, PDV não extinguia direitos controversos. Hoje: quitação geral salvo ressalva expressa. Rosa não aderiu: mantém todos os direitos. Margarida e Hortência: quitação plena.</p>"
   },
   {
     "num": 73,
@@ -111,6 +142,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_jornada_remuneracao",
     "modulo_nome": "Jornada de Trabalho e Duração do Trabalho",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 192</strong> (adicional de insalubridade): \"O exercício de trabalho em condições insalubres, acima dos limites de tolerância estabelecidos pelo Ministério do Trabalho, assegura a percepção de adicional respectivamente de 40% (grau máximo), 20% (grau médio) e 10% (grau mínimo), calculados sobre o salário mínimo.\" Hospital: contato com pacientes infectocontagiosos = insalubridade grau máximo (NR-15, Anexo 14).</p>",
+    "dica": "<p>Insalubridade hospitalar (pacientes infectocontagiosos): grau <strong>máximo</strong> (40% sobre o salário mínimo — CLT Art. 192 + NR-15). Base de cálculo: <strong>salário mínimo</strong> (Súmula 17 TST foi cancelada; Súmula Vinculante 4 STF: salário mínimo como base). Laudo pericial: obrigatório para caracterizar insalubridade (CLT Art. 195).</p>"
   }
 ]

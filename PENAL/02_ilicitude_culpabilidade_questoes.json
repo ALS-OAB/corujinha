@@ -1,24 +1,5 @@
 [
   {
-    "num": 57,
-    "enunciado": "A sociedade empresária Vesta Construções e Serviços Ltda. propôs\ntutela cautelar, requerida em caráter antecedente, contra a\nsociedade empresária Minerva Incorporações Ltda., fundada em\ncontrato de construção civil e fornecimento de serviços, que contém\ncláusula arbitral para a resolução de quaisquer controvérsias\nadvindas desse contrato. Vesta Construções e Serviços Ltda. figura\ncomo parte contratada e Minerva Incorporações Ltda. como parte\ncontratante.\nVesta Construções e Serviços Ltda. alega que, embora tenha\nexecutado os serviços previstos no contrato, Minerva Incorporações\nLtda. aplicou multas contratuais em razão de atraso no cronograma\ndas obras, as quais alega que não seriam devidas. Por essa razão,\nVesta Construções e Serviços Ltda. ingressou com a tutela cautelar\nem caráter antecedente e requereu que fosse concedida tutela de\nurgência para impedir que Minerva Incorporações Ltda. realize\nquaisquer atos de cobrança das multas aplicadas à Vesta Construções\ne Serviços Ltda.\nA tutela de urgência foi totalmente deferida pelo magistrado em\nfavor de Vesta Construções e Serviços Ltda.\nNa qualidade de advogado(a) de Vesta Construções e Serviços Ltda.\nassinale a opção que apresente a medida processual a ser adotada,\nem razão do deferimento da tutela cautelar.",
-    "alternativas": {
-      "A": "Formular o pedido principal nos mesmos autos da tutela cautelar\nrequerida em caráter antecedente, dentro do prazo de 30 (trinta)\ndias a contar da data da efetivação da tutela cautelar.",
-      "B": "Requerer a instauração da arbitragem dentro do prazo de 30\n(trinta) dias a contar da data da efetivação da tutela cautelar.",
-      "C": "Formular o pedido principal nos mesmos autos da tutela cautelar\nrequerida em caráter antecedente, dentro do prazo de 15\n(quinze) dias, ou em outro prazo maior que o juiz fixar, a contar\nda data da efetivação da tutela cautelar.",
-      "D": "Requerer a instauração da arbitragem dentro do prazo de 15\n(quinze) dias, ou em outro prazo maior que o juiz fixar, a contar\nda data da efetivação da tutela cautelar."
-    },
-    "gabarito": "B",
-    "disciplina": "Direito Penal",
-    "exame": "37º Exame OAB",
-    "tipo": "Branca",
-    "exame_num": 37,
-    "exame_label": "37º Exame OAB",
-    "modulo_codigo": "02_ilicitude_culpabilidade",
-    "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 1
-  },
-  {
     "num": 60,
     "enunciado": "Após rigorosa fiscalização, uma empresa provedora de Internet verificou que sua rede de wifi com senha bloqueada estava sendo indevidamente utilizada por um grupo de pessoas. Após notícia de fato formulada pela empresa, a Delegacia de Polícia instaurou Inquérito, tendo o Delegado Titular proferido relatório final pelo indiciamento dos envolvidos pelo crime de furto, na figura do \n\n**Art. 155**\n, § 3º, do Código Penal: “Equipara-se à coisa móvel a energia elétrica ou qualquer outra que tenha valor econômico”.\n\nDiante do caso descrito, é correto afirmar que o indiciamento pelo crime de furto é:",
     "alternativas": {
@@ -35,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Questão anulada pela FGV/OAB.</p>",
+    "dica": "<p>Questão anulada.</p>"
   },
   {
     "num": 62,
@@ -54,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 109, I: prescreve em 20 anos quando a pena máxima é superior a 12 anos (homicídio simples: pena 6-20 anos). Art. 115: \"<strong>São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 anos</strong>.\" Paulo nasceu em outubro de 1990 e cometeu o crime em julho de 2011 (com 20 anos) → menor de 21 → prazo reduzido de 20 para <strong>10 anos</strong>. 2011 + 10 = 2021 → prescrição em 2021.</p>",
+    "dica": "<p>Agente menor de 21 anos na data do crime: <strong>prazo prescricional reduzido à metade</strong> (Art. 115). 20 anos → 10 anos (A certa). B erra ao aplicar o prazo integral de 20 anos. C e D erram: homicídio simples <em>não é</em> crime hediondo.</p>"
   },
   {
     "num": 58,
@@ -73,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 29 e princípios penais: o <strong>princípio da culpabilidade</strong> veda a responsabilidade penal objetiva e exige identificação individual da conduta e culpabilidade de cada agente. Sanção disciplinar coletiva — imposta a todos os presos do pavilhão sem apuração individualizada — viola esse princípio: cada preso deve ser responsabilizado apenas pelos seus próprios atos.</p>",
+    "dica": "<p>Princípio da <strong>culpabilidade</strong>: exige individualização e identificação de cada participante — vedada punição coletiva sem apuração individual (C certa). A erra: isonomia exigiria penas iguais — não é o ponto aqui. B erra: lesividade = conduta deve lesar bem jurídico alheio (outro princípio). D erra: legalidade = prévia lei — houve lei (falta grave), o problema é a aplicação coletiva.</p>"
   },
   {
     "num": 60,
@@ -92,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 18, I (dolo) e Art. 18, II (culpa). Para que haja responsabilidade penal é necessário o elemento subjetivo do tipo (dolo ou culpa). Alfredo conduziu o veículo seguindo ordem do gerente, sem intenção de causar dano nem agindo com negligência, imprudência ou imperícia identificável no caso concreto. A conduta carece de <strong>elemento subjetivo do tipo</strong> → exclusão da <strong>tipicidade</strong>.</p>",
+    "dica": "<p>Sem dolo nem culpa: <strong>atipicidade por ausência de elemento subjetivo</strong> (C certa). A erra: exercício regular de direito (Art. 23, III) é causa de exclusão de ilicitude — aqui a exclusão opera na tipicidade. B erra: estrito cumprimento do dever legal pressupõe norma que obrigava Alfredo à conduta — não o caso de empresa privada. D erra: obediência hierárquica em empresa privada não é causa legal de exclusão de culpabilidade (só para funcionário público).</p>"
   },
   {
     "num": 62,
@@ -111,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 73 (aberratio ictus): \"<strong>Quando, por acidente ou erro no uso dos meios de execução, o agente atinge pessoa diversa da pretendida, responde como se tivesse praticado o crime contra quem pretendia ofender.</strong>\" Sara queria matar Raquel, colocou veneno na feijoada destinada a Raquel; Thiago comeu e morreu. Aplica-se o Art. 73: Sara responde como se tivesse matado Raquel (homicídio doloso consumado).</p>",
+    "dica": "<p>Aberratio ictus (Art. 73): agente que atinge pessoa diversa da pretendida responde como se tivesse atingido a pretendida → <strong>homicídio doloso consumado</strong> (C certa). A erra: não é tentativa — Thiago morreu. B erra: não é culposo — o dolo de matar Raquel é transferido para Thiago. D erra: lesão corporal seguida de morte exige que a intenção era apenas lesionar.</p>"
   },
   {
     "num": 58,
@@ -130,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Conflito aparente de normas — princípio da <strong>especialidade</strong>: a norma especial prevalece sobre a geral. CTB Art. 303 (lesão corporal culposa na direção de veículo automotor) é lei especial em relação ao CP Art. 129, §6° (lesão corporal culposa). Júnior causou lesão corporal culposa enquanto dirigia embriagado → CTB Art. 303 aplica-se, sendo a norma especial.</p>",
+    "dica": "<p>Lesão culposa ao volante → CTB Art. 303 (norma especial) prevalece pelo <strong>princípio da especialidade</strong> (C certa). A erra: consunção = crime-meio absorvido pelo crime-fim — não é o caso aqui. B erra: subsidiariedade = norma subsidiária só se aplica quando a principal não incide — aqui é questão de especialidade. D erra: alternatividade = tipos com várias formas de conduta — inaplicável.</p>"
   },
   {
     "num": 61,
@@ -149,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_ilicitude_culpabilidade",
     "modulo_nome": "Ilicitude, Culpabilidade e Erro",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>LEP, Art. 126, §3°-A (acrescentado por provimento posterior) e Súmula 341 STJ: é possível a remição pelo ensino a distância. LEP Art. 127: em caso de falta grave, o juiz <strong>poderá revogar até 1/3 do tempo remido</strong> — não a integralidade (C erra). Remição por estudo: 1 dia de pena para cada 12 horas de frequência escolar divididas em, no mínimo, 3 dias (não 1:1 — A erra).</p>",
+    "dica": "<p>Ensino a distância: <strong>conta para remição</strong> (B certa). Falta grave: revogação de até <strong>1/3</strong> (não integralidade — C erra). Remição por estudo = <strong>12 horas = 1 dia</strong> de pena (não 1:1 — A erra). D erra: estudo pode ser mais vantajoso dependendo da carga horária diária possível.</p>"
   }
 ]

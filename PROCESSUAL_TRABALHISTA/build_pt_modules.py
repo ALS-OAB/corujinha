@@ -668,7 +668,7 @@ def build_module(prefix, title, out_filename):
         </div>
         <h1 class="hero-title">{title}</h1>
         <p class="hero-subtitle">
-          Estudo intensivo de Direito Constitucional. {len(questoes)} questões estruturadas com raciocínio lógico, síntese e fundamentação da Consolidação das Leis do Trabalho (CLT) e Súmulas do TST.
+          Estudo intensivo de Direito Processual do Trabalho. {len(questoes)} questões estruturadas com raciocínio lógico, síntese e fundamentação da Consolidação das Leis do Trabalho (CLT) e Súmulas do TST.
         </p>
         
         <div class="hero-stats">
@@ -840,10 +840,7 @@ def build_module(prefix, title, out_filename):
               <div id="gab-badge-${{i}}" class="gab-badge correct">Gabarito: ${{q.gabarito}}</div>
               ${{q.aula_comentario ? '<div class="back-section teacher"><div class="back-section-title"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line></svg> EXPLICAÇÃO DA PROFESSORA NA AULA</div>' + q.aula_comentario + '</div>' : ''}}
               ${{q.logica_conceito ? '<div class="back-section logica"><div class="back-section-title"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9.663 17h4.673M12 3a6 6 0 0 0-6 6c0 1.96.9 3.71 2.31 4.88a5.95 5.95 0 0 1 1.69 4.12v.5h4v-.5c0-1.58.62-3.03 1.69-4.12A5.992 5.992 0 0 0 18 9a6 6 0 0 0-6-6z"></path></svg> ENTENDENDO A LÓGICA DO CONCEITO</div>' + q.logica_conceito + '</div>' : ''}}
-              <div class="back-section">
-                <div class="back-section-title"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg> SÍNTESE TEÓRICA</div>
-                ${{q.sintese}}
-              </div>
+              ${{q.sintese ? '<div class="back-section"><div class="back-section-title"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg> SÍNTESE TEÓRICA</div>' + q.sintese + '</div>' : ''}}
               <div class="back-section legal">
                 <div class="back-section-title"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M3 9l9-6 9 6M3 9l3 6m0 0a3 3 0 0 0 6 0m-6 0h6m3-6l3 6m0 0a3 3 0 0 1-6 0m6 0h-6"></path></svg> FUNDAMENTAÇÃO JURÍDICA</div>
                 ${{q.fundamentacao}}

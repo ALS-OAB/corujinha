@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 157 (roubo próprio): subtração de coisa alheia com emprego de violência ou <strong>grave ameaça</strong>. Silvio ameaçou \"esquartejá-la com sua espada\" = grave ameaça → roubo. O roubo se consuma com a <strong>inversão da posse</strong> (subtração concluída), independentemente de fuga ou consolidação da posse tranquila. STJ (Súmula 582): \"Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça.\" D certa.</p>",
+    "dica": "<p>Roubo consumado: basta a <strong>inversão da posse com grave ameaça</strong> — não precisa fuga ou saída do local (D certa). A erra: não há extorsão — o crime foi furtar o cordão (não exigir comportamento ativo da vítima para obter vantagem). B erra: o crime se consumou. C erra: roubo impróprio = violência após a subtração para garantir fuga.</p>"
   },
   {
     "num": 57,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 63 (reincidência): exige condenação criminal anterior. <strong>Atos infracionais (ECA) não geram reincidência</strong> nem maus antecedentes para fins penais — o ECA prevê sigilo e inaplicabilidade do Código Penal ao menor infrator. João cumpriu medida socioeducativa (não pena criminal) → ao completar 20 anos e ser solto, é <strong>primário e com bons antecedentes</strong>.</p>",
+    "dica": "<p>Atos infracionais: <strong>não geram reincidência nem maus antecedentes</strong> em processos penais posteriores (A certa). B e D erram ao computar as infrações. C erra: não há maus antecedentes — a inaplicabilidade é total para fins penais.</p>"
   },
   {
     "num": 59,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 158, §3° (acrescentado pela Lei 13.964/2019 — Pacote Anticrime): \"<strong>Se o crime é cometido mediante a restrição da liberdade da vítima, e essa condição é necessária para a obtenção da vantagem econômica, a pena é de reclusão, de 6 a 12 anos, além da multa.</strong>\" Joaquim foi mantido sob controle enquanto cúmplices saqueavam o banco — condição necessária para a vantagem. Extorsão mediante restrição da liberdade.</p>",
+    "dica": "<p>Restrição da liberdade da vítima como condição para obter vantagem econômica = <strong>extorsão mediante restrição da liberdade</strong> (Art. 158, §3°) (D certa). A erra: roubo não tem condição imposta à vítima. B erra: extorsão mediante sequestro exige privação de liberdade como meio de extorquir resgate (cárcere privado + exigência de resgate). C erra: sequestro simples não envolve vantagem econômica.</p>"
   },
   {
     "num": 61,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 33, §2°, b: reincidente com pena ≤ 4 anos → regime inicial <strong>semiaberto</strong>. Art. 44, §3°: reincidente pode ter substituição da pena privativa por restritivas de direitos se \"socialmente recomendável e a reincidência não se tenha operado em virtude do mesmo crime.\" Reincidência em violência doméstica (crime diferente do atual) + condições favoráveis → possível substituição por <strong>duas restritivas de direitos</strong> (pena acima de 6 meses).</p>",
+    "dica": "<p>Reincidente: regime inicial <strong>semiaberto</strong> + substituição por 2 PRDs é possível quando reincidência não operou pelo mesmo crime e é socialmente recomendável (D certa). A erra: regime aberto exclui reincidente. B erra: multa substitutiva não se aplica em violência doméstica (Lei Maria da Penha Art. 17). C erra: regime aberto não se aplica; PRD pode ser aplicado em ≤ 4 anos.</p>"
   },
   {
     "num": 57,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 163 (dano). Parágrafo único, IV: dano qualificado quando \"<strong>empregada violência à pessoa ou grave ameaça, ou se o dano é causado por emprego de substância inflamável ou explosiva</strong>\" (I e III), ou contra patrimônio de concessionária de serviço público (IV). O ônibus pertence à empresa concessionária de serviço público → <strong>dano qualificado</strong>.</p>",
+    "dica": "<p>Destruição de ônibus de concessionária de serviço público = <strong>dano qualificado</strong> (Art. 163, parágrafo único) (C certa). A erra: terrorismo (Lei 13.260/16) exige motivação política/ideológica específica. B erra: dano simples não inclui bens de concessionárias públicas. D erra: a conduta é tipificada criminalmente.</p>"
   },
   {
     "num": 59,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 20, caput: o erro sobre elemento constitutivo do tipo exclui o dolo. Crime de corrupção de menores (ECA, Art. 244-B): elemento objetivo = vítima <em>menor de 18 anos</em>. Thiago acreditou que Vinicius tinha 18 anos (erro sobre a elementar \"menor\") → <strong>erro de tipo essencial</strong> → exclui o dolo → crime de corrupção de menores não configurado (não há modalidade culposa).</p>",
+    "dica": "<p>Erro sobre a elementar \"menor\" (acreditou ter 18 anos) = <strong>erro de tipo essencial</strong> → exclui dolo → sem corrupção de menores (B certa). A erra: erro de tipo permissivo (putativo) é sobre causa de justificação inexistente — diferente. C erra: qualificadora de concurso de pessoas não é afastada pela inimputabilidade de um dos agentes (STJ). D erra pelo mesmo fundamento que C.</p>"
   },
   {
     "num": 61,
@@ -130,6 +166,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "05_crimes_contra_patrimonio",
     "modulo_nome": "Crimes contra o Patrimônio",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 20, caput: o erro de tipo <strong>invencível</strong> (inevitável) exclui o dolo <em>e</em> a culpa → não há crime. Pedro foi enganado por fake news verossímil de que Maria havia morrido — qualquer pessoa diligente poderia ter incorrido no mesmo erro. Agiu convicto de que lidava com um corpo morto → erro de tipo invencível → <strong>não praticou crime</strong>.</p>",
+    "dica": "<p>Erro de tipo <strong>invencível</strong> (inevitável): exclui dolo <em>e</em> culpa → atipicidade total (A certa). B erra: não há vilipêndio culposo — o tipo não admite culpa, e Pedro nem sequer incorria em imprudência. C erra: sem dolo ou culpa não há homicídio culposo. D erra: Pedro não tinha conhecimento de que Maria estava viva.</p>"
   }
 ]

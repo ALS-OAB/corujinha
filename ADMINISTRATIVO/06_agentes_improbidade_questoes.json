@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_agentes_improbidade",
     "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 37, §6º</strong> + <strong>STF RE 841.526 (Tema 592):</strong> é <em>objetiva</em> a responsabilidade civil do Estado pela morte de detento em estabelecimento penitenciário. Dever de custódia integra o risco assumido pelo Estado ao privar a liberdade. Excludentes: culpa exclusiva da vítima ou força maior.</p>",
+    "dica": "<p>Preso = Estado tem dever de custódia. Morte do detento = responsabilidade <strong>objetiva</strong> (Tema 592 STF). Geraldo matando Mateus: Estado criou o risco ao mantê-los juntos → sem excludente de responsabilidade. Teoria do risco administrativo, não do risco integral.</p>"
   },
   {
     "num": 32,
@@ -36,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_agentes_improbidade",
     "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 74, III</strong> (ou Lei 8.666/93, Art. 25, I): inexigibilidade de licitação para locação de imóvel singular cuja localização ou características tornam inviável a competição. Instrução processual deve incluir <strong>avaliação prévia</strong> do imóvel (Art. 72, VIII Lei 14.133/21).</p>",
+    "dica": "<p>Imóvel com características únicas (instalação/localização exclusivas) = competição <strong>inviável</strong> → <strong>inexigibilidade</strong> (não dispensa). Avaliação prévia = requisito obrigatório de instrução. Sem avaliação: irregularidade formal no contrato.</p>"
   },
   {
     "num": 30,
@@ -55,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_agentes_improbidade",
     "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 37, II e IV</strong> + <strong>Súmula 15 STF:</strong> candidato aprovado tem direito à nomeação quando o cargo é preenchido sem observância da classificação. A convocação de candidato de concurso diferente, durante a validade do primeiro, caracteriza <em>preterição</em>.</p>",
+    "dica": "<p>Eulália aprovada em concurso vigente com vagas previstas: tem <strong>direito subjetivo à nomeação</strong>. Carlos (outro concurso) convocado no lugar = preterição ilegal. Recurso: mandado de segurança + pedido de nomeação imediata. Preterição gera direito, não mera expectativa.</p>"
   },
   {
     "num": 33,
@@ -74,7 +92,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "06_agentes_improbidade",
     "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.079/2004 (PPP), Art. 5º, I:</strong> \"O contrato de parceria público-privada conterá cláusulas que estabeleçam: I - o prazo de vigência do contrato, compatível com a amortização dos investimentos realizados, <strong>não inferior a 5 (cinco)</strong>, nem superior a <strong>35 (trinta e cinco) anos</strong>, incluindo eventual prorrogação.\"</p>",
+    "dica": "<p>PPP: prazo <strong>5 a 35 anos</strong> (incluindo prorrogação). Abaixo de 5 = ilegal; acima de 35 = ilegal. Concessão comum (Lei 8.987/95): sem prazo máximo fixo em lei. Outro requisito PPP: valor mínimo de R$ 10 milhões + contraprestação pública.</p>"
   },
   {
     "num": 32,
@@ -93,7 +117,14 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_agentes_improbidade",
     "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 92, §1º:</strong> os contratos administrativos poderão prever mecanismos alternativos de resolução de disputas (conciliação, mediação, comitê de disputas e arbitragem). Contratos que <em>não preveem</em> tais mecanismos permanecem válidos — não é requisito de validade, mas faculdade.</p>",
+    "dica": "<p>Meios alternativos de solução de conflitos em contratos administrativos: <strong>facultativo</strong>, não obrigatório (Lei 14.133/21 Art. 151). Contrato sem cláusula de arbitragem = válido; litígios vão à via judicial. Com cláusula = arbitragem ou mediação vincula as partes.</p>",
+    "revisar_manual": true
   },
   {
     "num": 30,
@@ -112,6 +143,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_agentes_improbidade",
     "modulo_nome": "Agentes Públicos e Improbidade Administrativa",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 166, §1º:</strong> licitante que pretender recorrer do resultado do julgamento deve manifestar sua intenção de recorrer <strong>imediatamente</strong>, sob pena de preclusão; depois terá 3 dias úteis para apresentar as razões. Art. 166, §2º: contrarrazões: 3 dias úteis após ciência.</p>",
+    "dica": "<p>Recurso em licitação = 2 etapas: (1) manifestação da <strong>intenção</strong> imediatamente após anúncio do resultado (na sessão); (2) apresentação das <strong>razões</strong> em 3 dias úteis. Sem intenção manifestada na sessão → <strong>preclusão</strong>. Distrator clássico: confundir prazo de intenção com prazo de razões.</p>"
   }
 ]

@@ -1,0 +1,64 @@
+[
+  {
+    "num": 39,
+    "enunciado": "Nicolas, servidor do Tribunal de Justiça do Estado de São Paulo,\nlotado na 3ª Vara Cível da Comarca da Capital, toma conhecimento\nde hasta pública a ser realizada sobre valioso bem na vara em que\nlabora.\nNo intuito de colaborar com a rápida solução do processo, visando ao\nbom andamento da justiça e para saldar a dívida do devedor, decide\ncomprar o bem objeto do litígio, pagando preço compatível com o\nmercado no âmbito da hasta pública realizada em sua vara.\nA referida compra e venda, se efetivada, será",
+    "alternativas": {
+      "A": "nula, considerando que Nicolas é servidor na mesma vara em que\nfoi realizada a hasta pública.",
+      "B": "válida, considerando ter sido realizada por hasta pública,\nprocedimento que, dada a publicidade, convalida eventuais vícios\nporventura existentes.",
+      "C": "anulável, podendo ser realizada mas sujeita à anulação posterior\nse os interessados se manifestarem.",
+      "D": "nula, considerando que a hasta pública não poderá recair sobre\nbem litigioso."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "opcoes": {
+      "A": "nula, considerando que Nicolas é servidor na mesma vara em que foi realizada a hasta pública.",
+      "B": "válida, considerando ter sido realizada por hasta pública, procedimento que, dada a publicidade, convalida eventuais vícios porventura existentes.",
+      "C": "anulável, podendo ser realizada mas sujeita à anulação posterior se os interessados se manifestarem.",
+      "D": "nula, considerando que a hasta pública não poderá recair sobre bem litigioso."
+    },
+    "modulo_codigo": "02_negocio_juridico",
+    "modulo_nome": "Fatos e Negócios Jurídicos",
+    "id": 1,
+    "sintese": "<p>É nula a compra e venda de bens em hasta pública efetuada por servidores públicos no local em que exercem suas funções (Art. 497, III do CC).</p>",
+    "logica_conceito": "<p>O Art. 497, III do CC estabelece proibição moral e legal (legitimidade) para impedir conflitos de interesse de juízes e servidores em bens vendidos na vara onde atuam.</p>",
+    "fundamentacao": "<p>Artigo 497, inciso III do Código Civil.</p>",
+    "dica": "<p>🔥 <b>Dica de OAB da Profª Roberta:</b> Servidor comprando em leilão da própria vara = NULIDADE ABSOLUTA (Art. 497, III CC). Não convalesce nem gera efeitos válidos!</p>",
+    "aula_comentario": "<p><b>Profª Roberta Queiroz (46º OAB - Negócio Jurídico):</b> 'Servidor público não tem legitimação para arrematar ou comprar bens em hasta pública da própria vara em que atua! A proibição do Art. 497, III do Código Civil visa proteger a moralidade e a imparcialidade. A compra e venda realizada nessas condições é NULA de pleno direito!'</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> A compra e venda será nula, pois Nicolas é servidor na mesma vara em que foi realizada a hasta pública (Art. 497, III CC).<br><b>Alternativa B: Incorreta.</b> A hasta pública não convalida o impedimento legal do servidor público.<br><b>Alternativa C: Incorreta.</b> Não se trata de vício anulável, mas sim de NULIDADE ABSOLUTA.<br><b>Alternativa D: Incorreta.</b> O fundamento legal da nulidade é a proibição do servidor da vara comprar na hasta onde atua.</p>"
+  },
+  {
+    "num": 38,
+    "enunciado": "A sociedade empresária Calçados Novos Ltda. consultou você, como advogado(a) , na qualidade de controladora dos dados pessoais de seus clientes. Isso porque há quantidade relevante de dados cujo término do tratamento já ocorreu, considerando o fim do período de tratamento. Contudo, a sociedade empresária tem a intenção de manter as informações históricas de seus clientes, para fins exclusivamente estatísticos, sem a necessidade de identificar pessoalmente os titulares de cada informação.\n\nSobre a hipótese narrada, considerando o interesse do cliente, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A controladora é obrigada a eliminar os dados pessoais dos clientes cujo término do tratamento já ocorreu, em qualquer hipótese.",
+      "B": "A controladora pode conservar os dados cujo término do tratamento já ocorreu, desde que ainda seja possível tratar os dados conforme a finalidade específica.",
+      "C": "A controladora pode conservar os dados cujo término do tratamento já ocorreu, para seu uso exclusivo, vedado o acesso por terceiro, e desde que anonimizados os dados.",
+      "D": "A controladora é obrigada a eliminar os dados pessoais dos clientes cujo término do tratamento já ocorreu, desde que desnecessários ao alcance da finalidade específica almejada."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "opcoes": {
+      "A": "A controladora é obrigada a eliminar os dados pessoais dos clientes cujo término do tratamento já ocorreu, em qualquer hipótese.",
+      "B": "A controladora pode conservar os dados cujo término do tratamento já ocorreu, desde que ainda seja possível tratar os dados conforme a finalidade específica.",
+      "C": "A controladora pode conservar os dados cujo término do tratamento já ocorreu, para seu uso exclusivo, vedado o acesso por terceiro, e desde que anonimizados os dados.",
+      "D": "A controladora é obrigada a eliminar os dados pessoais dos clientes cujo término do tratamento já ocorreu, desde que desnecessários ao alcance da finalidade específica almejada."
+    },
+    "modulo_codigo": "02_negocio_juridico",
+    "modulo_nome": "Fatos e Negócios Jurídicos",
+    "id": 2,
+    "sintese": "<p>O erro substancial que poderia ser percebido por pessoa de diligência normal autoriza a anulação do negócio jurídico (Art. 138 do CC). Prazo decadencial de 4 anos (Art. 178, II CC).</p>",
+    "logica_conceito": "<p>O vício de consentimento por erro torna o negócio anulável se for escusável ou cognoscível. A ação anulatória deve ser proposta no prazo decadencial de 4 anos da celebração.</p>",
+    "fundamentacao": "<p>Artigos 138, 139 e 178, inciso II do Código Civil.</p>",
+    "dica": "<p>Vício do consentimento por erro/dolo: O negócio é ANULÁVEL e o prazo decadencial para ajuizar a ação é de 4 anos!</p>",
+    "aula_comentario": "<p>Profª Roberta Queiroz ensinou: 'Erro é o engano sozinho. Se substancial e cognoscível pela outra parte, gera anulabilidade no prazo de 4 anos!'.</p>",
+    "analise": "<p><b>Alternativa A: Incorreta.</b> Não é hipótese de nulidade absoluta.<br><b>Alternativa B: Incorreta.</b> O erro não torna o negócio inexistente.<br><b>Alternativa C: CORRETA.</b> O negócio é anulável por vício de consentimento no prazo decadencial de 4 anos.<br><b>Alternativa D: Incorreta.</b> O negócio produz efeitos até a decretação judicial de sua anulação.</p>"
+  }
+]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 29, VI:</strong> \"O subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subsequente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos: a) 20% do subsídio dos Deputados Estaduais, para Municípios de até dez mil habitantes; b) 30% …; c) 40% …; d) 50% …; e) 60% …\"</p>",
+    "dica": "<p>Subsídio dos Vereadores = iniciativa da <strong>Câmara Municipal</strong>, limitado a percentual dos Deputados Estaduais que varia com a população do Município (Art. 29, VI). Não é vinculado aos Ministros do STF. Vício de iniciativa (distrator B) não ocorre — Câmara tem competência.</p>"
   },
   {
     "num": 15,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 102, I, \"l\"</strong> (reclamação): cabe reclamação ao STF para preservar a autoridade de suas decisões. A ADC julgada improcedente pelo STF declara a norma <em>inconstitucional</em> com efeito erga omnes e vinculante — o TRF ao aplicar a lei desrespeitou essa decisão. Cabe <em>reclamação</em>, não recurso extraordinário.</p>",
+    "dica": "<p>ADC improcedente = lei <strong>inconstitucional</strong> com efeito vinculante. TRF que ainda aplica a lei → viola decisão do STF → cabe <strong>reclamação</strong> ao STF (Art. 102, I, \"l\"). REsp (distrator B) é para STJ. Nova ADI (distrator A) é desnecessária.</p>"
   },
   {
     "num": 11,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 103-A:</strong> a súmula vinculante vincula \"os demais órgãos do Poder Judiciário e a administração pública direta e indireta, nas esferas federal, estadual e municipal.\" O <strong>Poder Legislativo</strong> não é vinculado na sua função legiferante — pode editar lei em sentido contrário à SV (que poderá ser depois declarada inconstitucional).</p>",
+    "dica": "<p>Súmula vinculante <strong>NÃO vincula</strong> o Poder Legislativo em sua função de legislar (Art. 103-A). O CN pode aprovar lei contrária à SV — que poderá ser questionada em ADI. Vincula: Judiciário + Executivo (Adm. Pública).</p>"
   },
   {
     "num": 14,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XXXIV, \"a\":</strong> \"São a todos assegurados, independentemente do pagamento de taxas: o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.\" A cobrança de taxa para exercer o direito de petição é inconstitucional — aplica-se a pessoas jurídicas e na via administrativa.</p>",
+    "dica": "<p>Direito de petição = <strong>gratuito, para todos</strong> (pessoas físicas e jurídicas), em qualquer via (administrativa ou judicial), Art. 5º, XXXIV, \"a\". Taxa para petição → inconstitucional. Distratores A e C tentam restringir a titularidade ou o âmbito.</p>"
   },
   {
     "num": 16,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, IX:</strong> \"é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença.\" <strong>Art. 5º, XIII:</strong> \"é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer.\" A ordem dos músicos não protege interesse público relevante.</p>",
+    "dica": "<p>Exigência de inscrição em \"ordem dos músicos\" viola <strong>liberdade de expressão artística</strong> (Art. 5º, IX) + liberdade profissional sem proteção de interesse público (Art. 5º, XIII). STF já declarou inconstitucional exigência similar. Distratores A e C erram ao validar a restrição.</p>"
   },
   {
     "num": 12,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 109, I:</strong> compete à Justiça Federal processar causas em que a União, entidade autárquica ou empresa pública federal sejam parte. <strong>Sociedade de economia mista</strong> federal (como a do caso) não está nesse rol — as causas em que ela figure são da <em>Justiça Estadual</em> (Súmula 556 STF).</p>",
+    "dica": "<p>Empresa pública federal → Justiça Federal. Sociedade de economia mista federal → <strong>Justiça Estadual</strong>. A União como sócia majoritária de SEM não atrai a competência federal. Distrator A erra ao equiparar SEM à União.</p>"
   },
   {
     "num": 14,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 25, §1º:</strong> \"São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição.\" Matéria não atribuída expressamente a nenhum ente → competência residual dos <em>Estados</em>. A Assembleia Legislativa pode legislar sobre o tema.</p>",
+    "dica": "<p>Matéria sem competência expressa = <strong>competência residual dos Estados</strong> (Art. 25, §1º). Não é interesse local municipal (distrator C). Não precisa de autorização do CN (distrator D). Não é exclusiva da União (distrator B) — exatamente por ser residual dos Estados.</p>"
   },
   {
     "num": 16,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "03_poder_legislativo",
     "modulo_nome": "Poder Legislativo e Processo Legislativo",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 29, V:</strong> \"subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal.\" A iniciativa é da <em>Câmara</em>, não do Prefeito. Projeto de lei de iniciativa do Prefeito para fixar o próprio subsídio (ou do sucessor) viola o art. 29, V e as regras de iniciativa reservada.</p>",
+    "dica": "<p>Subsídio do Prefeito/Vice → iniciativa da <strong>Câmara Municipal</strong> (Art. 29, V). Prefeito não pode propor. Distrator A valida erroneamente o projeto. Distrator C erra: mesmo sem ser beneficiário, o vício de iniciativa é formal e insanável.</p>"
   }
 ]

@@ -23,12 +23,12 @@
     "modulo_codigo": "03_obrigacoes",
     "modulo_nome": "Teoria Geral das Obrigações",
     "id": 1,
-    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Estado de perigo (Art. 156) + prazo decadencial = <strong>quatro anos</strong> (C certa). A (dolo) erra: não há intenção de enganar. B (lesão) erra: lesão é por premente necessidade + inexperiência + desequilíbrio objetivo — aqui o vício é de vontade qualificado pelo perigo. D (estado de necessidade) erra: é categoria do Direito Penal, sem prazo.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 156: \"<strong>Configura-se o estado de perigo quando alguém, premido da necessidade de salvar-se, ou a pessoa de sua família, de grave dano conhecido pela outra parte, assume obrigação excessivamente onerosa.</strong>\" Joaquim, premido pela necessidade de salvar a filha, assumiu a obrigação (contrato com o cirurgião). CC, Art. 178, II: o prazo decadencial para anulação é de <strong>quatro anos</strong>.</p>"
   },
   {
     "num": 38,
@@ -54,11 +54,11 @@
     "modulo_codigo": "03_obrigacoes",
     "modulo_nome": "Teoria Geral das Obrigações",
     "id": 2,
-    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 290: \"<strong>A cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada.</strong>\" Antes da notificação, Vitória pode pagar validamente a Adriana (cedente) e opor esse pagamento a Paulo (cessionário). Portanto a cessão é ineficaz perante Vitória enquanto não houver notificação ou declaração expressa dela de que tem ciência.</p>",
+    "dica": "<p>Cessão de crédito: <strong>ineficaz perante o devedor até a notificação ou até sua declaração de ciência</strong> (B certa). A erra: a natureza do crédito (prestação de serviços) não impede a cessão. C erra: antes da ciência, Vitória pode pagar ao credor original com validade. D erra: cedente (Adriana) só responde pela insolvência do devedor se expressamente assumir responsabilidade.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

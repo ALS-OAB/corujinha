@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_rescisao_contrato",
     "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Súmula 269 TST:</strong> \"O empregado eleito para ocupar cargo de diretor tem o respectivo contrato de trabalho suspenso durante o exercício do mandato diretorial, ressalvada a hipótese em que, mesmo eleito diretor, permaneça a subordinação jurídica inerente à relação de emprego.\" CLT, Art. 499 (bancário): garantia de emprego para eleito a cargo de diretor sindical.</p>",
+    "dica": "<p>Eleição de empregado para cargo de diretor: <strong>suspensão</strong> do contrato de trabalho (não extinção) — Súmula 269 TST. Se mantida a subordinação jurídica: contrato continua ativo. Tempo de mandato <em>não</em> conta para período aquisitivo de férias/gratificação? Conta para o FGTS (depósito continua).</p>"
   },
   {
     "num": 71,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "04_rescisao_contrato",
     "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 7º, XVII:</strong> \"gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal.\" <strong>CLT, Art. 136:</strong> época das férias é determinada pelo empregador. <strong>Art. 136, §1º:</strong> \"Os membros de uma família, que trabalharem no mesmo estabelecimento ou empresa, terão direito a gozar férias no mesmo período, se assim o desejarem e se disto não resultar prejuízo para o serviço.\"</p>",
+    "dica": "<p>Férias coincidentes de familiares no mesmo empregador: <strong>direito</strong> de coincidir as férias (CLT Art. 136, §1º) se desejado e sem prejuízo ao serviço. Rita (filha) pode fazer coincidir suas férias com as de Jorge e Paula (pai e mãe). Empregador pode negar apenas se houver prejuízo comprovado ao serviço.</p>"
   },
   {
     "num": 74,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_rescisao_contrato",
     "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 75-B ss</strong> (teletrabalho — Reforma Trabalhista 2017 + Lei 14.442/22): teletrabalho pode ser <strong>parcial ou total</strong>. <strong>CLT, Art. 75-C, §1º:</strong> por mútuo acordo entre empregado e empregador, o regime de teletrabalho pode ser alterado para presencial ou vice-versa. Teletrabalho para estagiária: permitido (Lei 11.788/08 não veda).</p>",
+    "dica": "<p>Teletrabalho (CLT Art. 75-B ss): pode ser total ou <strong>parcial</strong> (alternância presencial/remoto), por <strong>acordo entre as partes</strong>. Estagiária em teletrabalho: permitido. Alteração do regime: deve ser formalizada por aditivo contratual (Art. 75-C, §1º). Controle de jornada do teletrabalhador: depende do contrato — regra: fora do controle de jornada (Art. 62, III CLT).</p>"
   },
   {
     "num": 72,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_rescisao_contrato",
     "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 2º, §2º</strong> (grupo econômico): \"Sempre que uma ou mais empresas, tendo, embora, cada uma delas, personalidade jurídica própria, estiverem sob a direção, controle ou administração de outra, ou ainda quando, mesmo guardando cada uma sua autonomia, integrem grupo econômico.\" Décio (pesca) e Beatriz (calçados): sem direção comum, sem controle mútuo, sem administração compartilhada = <strong>sem grupo econômico</strong>.</p>",
+    "dica": "<p>Grupo econômico trabalhista (CLT Art. 2º, §2º): exige <strong>direção, controle ou administração comum</strong>. Irmãos que têm empresas em ramos distintos, independentes, sem controle mútuo = <strong>sem grupo econômico</strong>. Se fossem sócios ou houvesse controle cruzado: grupo econômico. Consequência do grupo: responsabilidade solidária pelos créditos trabalhistas.</p>"
   },
   {
     "num": 75,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "04_rescisao_contrato",
     "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 611-A:</strong> ACT/CCT podem dispor sobre banco de horas anual, jornada de trabalho, turnos ininterruptos de revezamento. <strong>Art. 611-B:</strong> vedado reduzir ou eliminar direitos fundamentais (férias, FGTS, salário mínimo). Acordo coletivo sobre banco de horas + compensação de jornada = válido. Distrato coletivo com aprovação do sindicato = válido.</p>",
+    "dica": "<p>Reforma Trabalhista (Lei 13.467/17): <em>negociado prevalece sobre legislado</em> para matérias do Art. 611-A. Banco de horas anual, jornada diferenciada, compensação de horas = podem ser negociados. Vedações (Art. 611-B): não pode eliminar férias, 13º, FGTS, intervalos mínimos de saúde. Gabarito D: \"em todas as hipóteses, não há violação\" = as medidas são permitidas pela Reforma.</p>"
   },
   {
     "num": 75,
@@ -111,6 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_rescisao_contrato",
     "modulo_nome": "Cessação do Contrato de Trabalho e Verbas Rescisórias",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 482</strong> (lista de justas causas) + <strong>Art. 483</strong> (rescisão indireta): demissão por justa causa = falta grave do empregado. Reginaldo, com excelente reputação como montador, se o motivo não configura nenhuma justa causa do Art. 482 = demissão sem justa causa disfarçada. <strong>CLT, Art. 9º:</strong> atos que tentam fraudar a lei trabalhista são nulos. Sem justa causa real: \"não sofrerá consequência\" = gabarito D implica que a dispensa é regular ou a conduta não configura falta.</p>",
+    "dica": "<p>Para configurar justa causa: falta deve estar expressamente no rol taxativo do Art. 482 CLT (ato de improbidade, incontinência, desídia, violação de segredo etc.). Conduta que não se encaixe no rol = <strong>sem justa causa</strong>. Reginaldo: sem falta grave configurada = sem consequência disciplinar aplicável.</p>",
+    "revisar_manual": true
   }
 ]

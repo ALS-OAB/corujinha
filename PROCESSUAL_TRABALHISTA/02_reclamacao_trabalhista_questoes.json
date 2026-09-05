@@ -17,7 +17,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_reclamacao_trabalhista",
     "modulo_nome": "Petições, Atos e Resposta do Reclamado",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 59, § 5º</strong> (redação da Lei 13.467/2017): <em>\"O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses.\"</em> Para compensação superior a 6 meses, exige-se acordo ou convenção coletiva.</p>",
+    "dica": "<p>Mapa do banco de horas pós-Reforma 2017: <strong>até 6 meses</strong> → <em>acordo individual escrito</em> basta. <strong>Acima de 6 meses</strong> → necessário <em>acordo ou convenção coletiva</em>. No caso: 2 meses &lt; 6 meses → acordo individual escrito é suficiente. Distrator A aplica regra errada (norma coletiva só é obrigatória acima de 6 meses).</p>"
   },
   {
     "num": 78,
@@ -36,7 +42,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_reclamacao_trabalhista",
     "modulo_nome": "Petições, Atos e Resposta do Reclamado",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 855-B:</strong> <em>\"O processo de homologação de acordo extrajudicial terá início por petição conjunta, sendo obrigatória a representação das partes por advogado.\"</em> <strong>Art. 855-B, § 1º:</strong> <em>\"Os advogados das partes deverão ser diferentes.\"</em> O <em>jus postulandi</em> (CLT art. 791) não se aplica ao processo de homologação extrajudicial.</p>",
+    "dica": "<p>Homologação de acordo extrajudicial na JT (arts. 855-B a 855-E): <strong>petição conjunta</strong> + <strong>advogados distintos</strong> para cada parte (§1º exige expressamente). Distrator D erra ao admitir advogado comum. Distrator B erra ao afastar a obrigatoriedade de representação por advogado (jus postulandi não se aplica aqui).</p>"
   },
   {
     "num": 78,
@@ -55,7 +67,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "02_reclamacao_trabalhista",
     "modulo_nome": "Petições, Atos e Resposta do Reclamado",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 844:</strong> ausência do reclamante = arquivamento; ausência do reclamado = revelia. Porém, quando <em>ambas as partes</em> estão ausentes na audiência de instrução <em>após a contestação</em>, a <strong>Súmula 9/TST</strong> (ausência do reclamante após contestação não gera arquivamento) e a ausência do reclamado juntas levam o juiz a julgar com base na <strong>distribuição do ônus da prova</strong> (CLT art. 818), sem aplicar confissão fictícia de apenas uma das partes.</p>",
+    "dica": "<p>Ausência de <em>ambas</em> as partes na instrução após contestação → <strong>o processo não é arquivado</strong> (Súmula 9 TST impede quanto ao autor); também não se aplica confissão só do autor. O juiz julga aplicando a <strong>distribuição estática do ônus da prova</strong>. Distrator D erra: arquivamento só ocorre se for a <em>primeira</em> audiência com ausência do reclamante.</p>"
   },
   {
     "num": 76,
@@ -74,7 +92,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_reclamacao_trabalhista",
     "modulo_nome": "Petições, Atos e Resposta do Reclamado",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 895, § 1º</strong> c/c <strong>CPC, Art. 997, § 1º</strong> (subsidiário): o recurso adesivo é cabível ao recorrido que, no prazo das contrarrazões, também pretende impugnar a sentença no ponto em que sucumbiu. <strong>Súmula 283/TST:</strong> o recurso adesivo é regido pelos mesmos pressupostos do recurso principal, sendo admissível na Justiça do Trabalho.</p>",
+    "dica": "<p>Prazo para o recurso adesivo = prazo das <em>contrarrazões</em> do recurso da parte contrária. Só cabe se a outra parte recorreu (aqui, a ré recorreu). O recorrente que não recorreu no prazo próprio pode usar o adesivo para rediscutir o ponto em que perdeu. Distrator D erra: o prazo para o ponto do autor não transitou em julgado enquanto pender o recurso da ré.</p>"
   },
   {
     "num": 79,
@@ -93,7 +117,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_reclamacao_trabalhista",
     "modulo_nome": "Petições, Atos e Resposta do Reclamado",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 825:</strong> testemunhas comparecerão à audiência independentemente de notificação e serão inquiridas pelo juiz. <strong>CLT, Art. 828:</strong> as partes não poderão fazer perguntas diretamente às testemunhas — as perguntas são formuladas por intermédio do juiz. A testemunha que presenciou a instrução pode ter seu depoimento contaminado (princípio do isolamento). A medida correta para preservar o direito é <em>consignar protestos</em> na audiência para possibilitar futura alegação de nulidade.</p>",
+    "dica": "<p>Na JT não cabe agravo de instrumento contra decisões interlocutórias em audiência (preclusão diferida — CLT art. 893, §1º). A medida correta é <strong>consignar protesto</strong> na primeira oportunidade, preservando o direito de alegar nulidade em recurso futuro. Distratores A e B erram ao sugerir recursos imediatos que suspenderiam a audiência — inapropriados no PT.</p>"
   },
   {
     "num": 78,
@@ -112,6 +142,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_reclamacao_trabalhista",
     "modulo_nome": "Petições, Atos e Resposta do Reclamado",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 195, caput:</strong> <em>\"A caracterização e a classificação da insalubridade e da periculosidade, segundo as normas do Ministério do Trabalho, far-se-ão através de perícia a cargo de <strong>Médico do Trabalho ou Engenheiro do Trabalho</strong>, registrados no Ministério do Trabalho.\"</em> <strong>Súmula 293/TST:</strong> a legislação admite ambos os profissionais.</p>",
+    "dica": "<p>Perícia de insalubridade/periculosidade: pode ser feita por <strong>médico do trabalho OU engenheiro do trabalho</strong> — ambos registrados no Ministério do Trabalho (CLT art. 195). Distratores A e D erram ao dizer que é privativo de apenas um dos profissionais. Distrator C erra ao dispensar qualificação técnica específica.</p>"
   }
 ]

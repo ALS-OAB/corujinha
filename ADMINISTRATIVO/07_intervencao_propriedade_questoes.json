@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "07_intervencao_propriedade",
     "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 32:</strong> \"Diálogo competitivo é a modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados... para o desenvolvimento de uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos.\"</p>",
+    "dica": "<p>Diálogo competitivo = objeto <strong>complexo/inovador</strong> sem solução de mercado pronta. Fases: (1) seleção prévia; (2) diálogos (Administração apresenta problema, licitantes propõem soluções); (3) proposta final. Exclusivo da Lei 14.133/21 — sem equivalente na Lei 8.666/93.</p>"
   },
   {
     "num": 33,
@@ -36,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_intervencao_propriedade",
     "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.846/2013 (Lei Anticorrupção), Art. 6º:</strong> multa de 0,1% a 20% do faturamento bruto. <strong>Art. 22:</strong> publicação extraordinária da decisão condenatória. <strong>Art. 16</strong> (acordo de leniência): redução de multas em até 2/3 + possível isenção de publicação extraordinária para quem colaborar.</p>",
+    "dica": "<p>Lei Anticorrupção: pessoa jurídica responde <strong>objetivamente</strong> por atos lesivos à AP. Acordo de leniência: reduz multa em até <strong>2/3</strong> + pode isentar publicação extraordinária. Publicação extraordinária = sanção autônoma (Art. 22). A empresa que colabora antes da condenação tem benefícios maiores.</p>"
   },
   {
     "num": 31,
@@ -55,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_intervencao_propriedade",
     "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB (Lei 13.655/2018), Art. 26, §1º, I:</strong> \"O compromisso referido no caput deste artigo buscará solução jurídica proporcional, equânime, eficiente e compatível com os interesses gerais.\" Art. 26: autoridade máxima pode celebrar compromisso com interessados para eliminar irregularidade ou contencioso jurídico.</p>",
+    "dica": "<p>LINDB Art. 26 = compromisso administrativo para resolver contencioso jurídico de longa duração. Requisitos: oitiva do órgão jurídico + razões de relevante interesse geral + publicação oficial. Solução: <strong>proporcional, equânime, eficiente</strong>. Alternativa civilizada à judicialização perpétua.</p>"
   },
   {
     "num": 30,
@@ -74,7 +92,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_intervencao_propriedade",
     "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 37, XVI e XVII</strong> (vedação de acumulação remunerada). <strong>Lei 8.112/90, Art. 133, §5º:</strong> servidor notificado sobre acumulação ilícita deve optar por um dos cargos; a opção exercida até o último dia do prazo para defesa equivale à reafirmação da escolha e impede a demissão de ambos.</p>",
+    "dica": "<p>Acumulação ilícita notificada: prazo para optar + apresentar defesa. <strong>Boa-fé</strong>: exoneração de um + continuidade no outro. <strong>Má-fé/dolo</strong>: demissão de ambos. Opção feita dentro do prazo de defesa = Administração deve aceitar e exonerar de apenas um.</p>"
   },
   {
     "num": 33,
@@ -93,7 +117,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_intervencao_propriedade",
     "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 24:</strong> \"A revisão (...) levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidos atos ou situações inteiramente formalizados à luz do quadro normativo competente.\"</p>",
+    "dica": "<p>LINDB Art. 24 = <strong>\"congelamento\" da orientação vigente</strong> ao tempo da formalização do ato. Nova orientação contrária à anterior: <strong>não retroage</strong> para anular atos já formalizados regularmente. Proteção à segurança jurídica e confiança legítima. Pode revogar pro futuro; não pode anular o passado.</p>"
   },
   {
     "num": 31,
@@ -112,6 +142,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_intervencao_propriedade",
     "modulo_nome": "Intervenção do Estado na Propriedade e Desapropriação",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>DL 3.365/41 (Lei de Desapropriações), Art. 11:</strong> \"A ação (...) será proposta (...) em qualquer caso (...) no foro da situação dos bens.\"</p>",
+    "dica": "<p>Desapropriação: foro = <strong>situação do bem</strong> (DL 3.365/41 Art. 11). Exceção: União expropriante → DF ou capital do Estado onde domiciliado o réu (mas prevalece foro da situação se o bem está lá). Estado Alfa expropriando bem no Município Beta (capital) = foro da capital = foro da situação do bem.</p>"
   }
 ]

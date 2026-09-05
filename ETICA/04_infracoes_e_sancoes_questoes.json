@@ -17,12 +17,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 1,
-    "sintese": "Cláusulas de honorários: divisão em fases e fixação de valor diverso por obrigação de meio e resultado são lícitas — o Código de Ética permite.",
-    "logica_conceito": "O contrato de Celina com Camila prevê: cláusula W (valor diverso para obrigação de meio vs. resultado) e cláusula X (limitação de atuação em grau de recurso). O CED permite cláusulas de êxito, divisão de honorários por fases, e remuneração diferenciada por resultado. Ambas as cláusulas são válidas.",
-    "fundamentacao": "CED/OAB, Art. 48: 'A prestação de serviços profissionais por advogado, individualmente ou integrado em sociedades, será sempre contratada por escrito.' Art. 49: 'Os honorários advocatícios e sua eventual correção, os honorários de sucumbência e os de quaisquer outras verbas dessa natureza são absolutamente privativos do advogado.' Art. 50: 'Na hipótese de o mandante recusar o pagamento dos honorários advocatícios, é lícito ao mandatário reter os autos até o recebimento do que lhe é devido.' EAOAB, Art. 22, § 3º: '...um terço dos honorários é devido no início do serviço, outro terço até a decisão de primeira instância e o restante no final.'",
-    "dica": "Cláusulas de honorários: MUITO permissivas. Pode-se fixar valor por fase, por êxito, por instância. O que é vedado é: quota litis pura (só êxito), aviltamento (abaixo da tabela sem justificativa), e sociedade com o cliente.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o contrato de honorários é instrumento de liberdade — advogado e cliente podem pactuar quase tudo, desde que sem aviltamento nem quota litis pura. Divisão por fases e valor diferente por obrigação de meio vs. resultado são lícitos.",
-    "analise": "A) Errada: a limitação de atuação por graus de jurisdição é permitida — não é vedação do CED. B) Errada: a cláusula W (valor diverso por tipo de obrigação) é permitida e comum. C) Errada: inverte as análises — a cláusula X é lícita, assim como a W. D) CORRETA: ambas as cláusulas são lícitas e não violam o Código de Ética e Disciplina."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CED/OAB, Art. 48: o contrato de honorários pode: (i) <strong>limitar a atuação a determinado grau de jurisdição</strong> (cláusula X — permitida); (ii) prever <strong>valor diverso para honorários em caso de acordo</strong> (cláusula W — permitida). Ambas as cláusulas encontram amparo no CED e no EAOAB, que conferem ampla liberdade contratual às partes para fixar honorários, incluindo modalidades diferenciadas por forma de encerramento da causa.</p>",
+    "dica": "<p><strong>Ambas as cláusulas são válidas</strong> (D certa). Limitação a grau de jurisdição = permitida. Valor diferente para acordo = permitido. As alternativas A, B e C erram ao vedar uma ou ambas — a lei confere liberdade contratual ampla em honorários.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -42,12 +42,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 3,
-    "sintese": "Alex está licenciado da OAB. O que MANTÉM a licença (não converte em cancelamento): doença mental curável.",
-    "logica_conceito": "A questão pede o que mantém a licença (não gera cancelamento). Doença mental CURÁVEL = licença (provisória). Doença mental INCURÁVEL = cancelamento. Atividade incompatível definitiva = cancelamento. Requerimento sem justificativa = cancelamento. Só a doença mental curável mantém a situação de licenciado.",
-    "fundamentacao": "EAOAB, Art. 12: 'O advogado pode licenciar-se da advocacia: I - a requerimento do interessado, por razões de foro íntimo; II - por doença mental susceptível de cura provável; III - por exercício de cargo ou função incompatível com a advocacia, com caráter provisório.' Art. 11: 'A inscrição do advogado é cancelada: [...] b) sofre doença mental insuperável, declarada por junta médica.'",
-    "dica": "Curável = licença (volta). Incurável = cancelamento (perde inscrição). A distinção curável/incurável é decisiva para licença vs. cancelamento em caso de doença mental.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o sistema do EAOAB é baseado na provisoriedade da licença — o licenciado mantém o vínculo e pode retornar com o MESMO número de OAB. O cancelamento é definitivo. Para doença mental: curável = provisória = licença. Incurável = definitiva = cancelamento.",
-    "analise": "A) Errada: requerimento sem motivação justificada gera cancelamento (Art. 11, II) — não mantém a licença. B) Errada: doença física incurável não está nos casos de licença nem de cancelamento — não afeta a inscrição. C) Errada: exercício definitivo de atividade incompatível gera cancelamento (Art. 11, I, c). D) CORRETA: doença mental curável é exatamente um dos casos de licenciamento (Art. 12, II) — mantém a licença."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 12: o licenciamento pode ser requerido pelo próprio advogado ou decretado pelo Conselho Seccional. Causas de licenciamento: exercício de atividade incompatível <em>temporária</em>, doença mental <em>curável</em> (D certa), ou outra causa justificada. <strong>Doença mental curável</strong> = licenciamento (temporário). Doença mental incurável = cancelamento de inscrição. Exercício definitivo de atividade incompatível = cancelamento, não licenciamento.</p>",
+    "dica": "<p>Licenciamento = situação <em>temporária</em>. <strong>Doença mental curável</strong> justifica licenciamento (D certa). Doença mental incurável → cancelamento. Exercício definitivo de atividade incompatível → cancelamento (C erra). Requerimento sem motivação (A) não é causa autônoma de licenciamento.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 3,
@@ -67,12 +67,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 4103,
-    "sintese": "Lide temerária: solidariedade do advogado com o cliente somente quando coligados para prejudicar a parte contrária — não há solidariedade automática.",
-    "logica_conceito": "Beraldo e João Pedro ajuizaram lide manifestamente temerária. A solidariedade do advogado com o cliente nos danos causados exige COLIGAÇÃO — ação conjunta para prejudicar. Sem coligação, cada um responde individualmente pelos seus próprios atos (Beraldo por dolo/culpa profissional; João Pedro por má-fé processual).",
-    "fundamentacao": "EAOAB, Art. 32: 'O advogado é responsável pelos atos que, no exercício profissional, praticar com dolo ou culpa. Parágrafo único. Em caso de lide ou situação temerária, o advogado tem solidariedade nos danos causados a terceiros, quando coligado com a parte contrária ou quando a parte vencida for mandante.'",
-    "dica": "Solidariedade advogado-cliente na lide temerária: SÓ se houver coligação. Sem coligação = responsabilidade individual de cada um. O Art. 32, parágrafo único é a norma — decorar bem.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a lide temerária não gera solidariedade automática entre advogado e cliente. Exige-se coligação — acordo de vontades para prejudicar. Se o advogado apenas cumpriu o mandato sem saber da má-fé, não é solidário. Se havia acordo (coligação), ambos respondem solidariamente.",
-    "analise": "A) Errada: a responsabilidade é solidária (não subsidiária) quando há coligação. B) CORRETA: sem coligação comprovada entre Beraldo e João Pedro, não há solidariedade — cada um responde individualmente. C) Errada: o Estatuto prevê sim a responsabilidade do advogado (Art. 32). D) Errada: a solidariedade exige coligação, não apenas o resultado danoso."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 32, parágrafo único: \"Em caso de lide temerária, o advogado será solidariamente responsável com seu cliente, <strong>desde que coligados para lesar a parte contrária</strong>, o que será apurado em ação própria.\" Responsabilidade solidária advogado-cliente exige: (1) coligação para lesar; (2) apuração em ação própria (não nos mesmos autos).</p>",
+    "dica": "<p>Responsabilidade solidária do advogado em lide temerária: exige <strong>coligação</strong> (conluio) com o cliente para lesar a parte contrária, apurada em <strong>ação própria</strong> (B certa). A erra: subsidiária e nos próprios autos. C erra: há consequência prevista. D erra: ação própria, não nos mesmos autos.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -92,12 +92,13 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 8,
-    "sintese": "Publicidade conjunta de advocacia com outra atividade profissional (medicina, no caso): vedada, ainda que o intuito seja divulgar os dois serviços separadamente.",
-    "logica_conceito": "Atena (médica) e Dionísio (advogado) são casados e querem divulgar seus serviços juntos. O Art. 1º, § 3º EAOAB veda expressamente a divulgação de advocacia em conjunto com outra atividade — seja ela qual for, mesmo em espaço físico diferente. O CED reforça essa proibição.",
-    "fundamentacao": "EAOAB, Art. 1º, § 3º: 'É vedada a divulgação de advocacia em conjunto com outra atividade.' CED/OAB, Art. 42: 'É vedada a divulgação de advocacia em conjunto com outra atividade profissional, ainda que esta possa ser considerada compatível com o exercício da advocacia.'",
-    "dica": "Publicidade conjunta com qualquer outra atividade = VEDADA, sem exceção. Não importa se a outra atividade é compatível com a advocacia — a divulgação conjunta é sempre proibida.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a vedação é absoluta — não há exceção para publicidade conjunta. Nem com medicina, nem com contabilidade, nem com consultoria empresarial. Atena e Dionísio podem usar o mesmo endereço e trabalhar no mesmo imóvel, mas não podem fazer publicidade conjunta dos dois serviços.",
-    "analise": "A) Errada: o escritório conjunto é possível, mas a publicidade conjunta é vedada. B) Errada: a divulgação conjunta é vedada mesmo que os serviços pareçam complementares. C) CORRETA: Dionísio não pode anunciar seus serviços advocatícios em conjunto com a atividade médica — vedação expressa no EAOAB e CED. D) Errada: a divulgação conjunta é vedada sem exceção no EAOAB."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 1º, §3º: \"<strong>É vedado o exercício conjunto das atividades de advocacia e as atividades de comércio ou qualquer outra que perturbe ou diminua a independência da advocacia.</strong>\" CED, Art. 42: \"Ao advogado é vedado <strong>identificar-se, em qualquer meio de divulgação, com mais de uma atividade profissional.</strong>\" A publicidade conjunta advocacia + medicina em outdoor viola frontalmente o art. 42 do CED.</p>",
+    "dica": "<p>Publicidade conjunta advocacia + outra atividade profissional = <strong>vedada</strong> de forma peremptória (C certa). A erra: podem ter escritórios no mesmo imóvel — o problema é a publicidade conjunta. B erra: divulgação conjunta NÃO é permitida, mesmo com caráter informativo. D erra: a proibição não tem exceção \"por serem casados\".</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 2,
@@ -117,12 +118,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 4202,
-    "sintese": "Lide temerária: ausência de coligação entre advogado e cliente → sem solidariedade. Cada um responde individualmente.",
-    "logica_conceito": "Antônio Carlos ajuizou lide temerária em favor de Celina. Se não houve coligação (acordo para prejudicar), não há solidariedade entre eles. Antônio Carlos responde por dolo/culpa profissional; Celina responde por má-fé processual (CPC). A solidariedade exige coligação comprovada.",
-    "fundamentacao": "EAOAB, Art. 32, parágrafo único: 'Em caso de lide ou situação temerária, o advogado tem solidariedade nos danos causados a terceiros, quando coligado com a parte contrária ou quando a parte vencida for mandante.'",
-    "dica": "Lide temerária sem coligação = responsabilidade individual, não solidária. Com coligação = solidariedade. A coligação é o elemento diferenciador — sem ela, cada parte responde isoladamente.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): mesma regra do Art. 32, parágrafo único. 'Coligado' significa ação conjunta e coordenada para causar dano. Se o advogado agiu por conta própria (mesmo com dolo), sem acordo com o cliente, a responsabilidade é individual.",
-    "analise": "A) Errada: a solidariedade não é automática — depende de coligação. B) CORRETA: sem coligação comprovada entre Celina e Antônio Carlos, não há solidariedade (Art. 32, parágrafo único). C) Errada: Celina pode ser responsabilizada por má-fé, mas não solidariamente com o advogado sem coligação. D) Errada: mesmo sem conhecer o conteúdo temerário, Celina pode ser responsabilizada, mas de forma individual."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 32, parágrafo único: em lide manifestamente temerária, \"<strong>o advogado será solidariamente responsável com seu cliente, desde que coligados para lesar a parte contrária</strong>.\" Se não há coligação — o cliente propôs a causa e o advogado apenas a patrocinou sem se coligar para lesar —, <strong>não há responsabilidade solidária</strong> entre advogado e cliente (B certa).</p>",
+    "dica": "<p>Sem coligação (conluio) → <strong>sem responsabilidade solidária</strong> entre advogado e cliente (B certa). A erra: solidariedade não é automática — exige coligação. C erra: responsabilidade do cliente por negligência não está prevista dessa forma. D erra: o advogado pode ser responsabilizado de forma isolada por dolo próprio.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 6,
@@ -142,12 +143,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 4206,
-    "sintese": "Candidatura a Conselheiro Seccional: exige 3 anos de inscrição efetiva. Com 2,5 anos, José Fabiano não pode candidatar na eleição corrente.",
-    "logica_conceito": "Art. 63 EAOAB exige 3 anos de exercício efetivo para candidatar-se a conselheiro seccional. José Fabiano tem 2,5 anos — ainda não completou o requisito. Pode candidatar em eleições futuras quando completar os 3 anos.",
-    "fundamentacao": "EAOAB, Art. 63: 'Para candidatar-se à eleição de Conselheiro Federal, Presidente e integrante de diretoria de Conselho Seccional, é necessário: I - ser advogado com mais de três anos de efetivo exercício da profissão, exceto para o cargo de Presidente do Conselho Federal.'",
-    "dica": "3 anos de exercício efetivo para Conselheiro Seccional. 5 anos para cargos de diretoria e Conselheiro Federal. Tempo de INSCRIÇÃO não é o mesmo que tempo de EXERCÍCIO EFETIVO — mas a FGV geralmente trata como equivalente nas questões.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o prazo de 3 anos é para Conselheiro Seccional e de Subseção. Para diretoria (Presidente, Vice etc.) e Conselheiro Federal: 5 anos. José Fabiano tem 2,5 anos — abaixo dos 3 anos mínimos. Pode candidatar em eleições futuras.",
-    "analise": "A) Errada: a candidatura não depende da ausência de outros candidatos. B) CORRETA: José Fabiano não pode candidatar-se na eleição corrente porque não completou os 3 anos de efetivo exercício. C) Errada: não há 'cargo de livre acesso' sem o requisito de tempo. D) Errada: a inabilidade é temporária — poderá candidatar em eleições futuras quando completar os 3 anos."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 63, I e II: para concorrer a cargo na OAB, exige-se <strong>efetivo exercício profissional por, no mínimo, três anos</strong> e estar quite com a OAB, sem penalidade disciplinar em vigor ou sem reabilitação. José Fabiano: (i) tem apenas 2 anos e 6 meses de exercício (menos de 3 anos); (ii) foi apenado com censura sem reabilitação. Ambos os impedimentos configuram inelegibilidade.</p>",
+    "dica": "<p>Dois impedimentos cumulativos: <strong>menos de 3 anos de efetivo exercício</strong> + <strong>pena disciplinar não reabilitada</strong> (B certa). A: inelegibilidade não é flexibilizada por falta de candidatos. C erra: é necessário 3 anos de exercício E não ter pena em vigor. D erra: a inelegibilidade é temporária — após reabilitação, o advogado recupera a elegibilidade.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 8,
@@ -167,12 +168,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 10,
-    "sintese": "Carteira da OAB como documento de identidade: a recusa de órgão público (Detran) em aceitá-la como documento de identidade civil é ilegítima.",
-    "logica_conceito": "Rita apresentou a carteira da OAB para fins de identificação no Detran. A carteira equivale ao documento de identidade civil para todos os fins legais — não apenas no âmbito profissional. A recusa do funcionário é ilegítima.",
-    "fundamentacao": "EAOAB, Art. 13: 'A carteira de identidade profissional, expedida pela OAB, equivale para todos os efeitos ao documento de identidade emitido pelas repartições competentes.' Lei 6.206/1975, Art. 2º: 'As carteiras de identidade profissional, emitidas por órgãos criados por lei federal, com jurisdição em todo o território nacional, para fins de fiscalização do exercício profissional, valem como documentos de identidade.'",
-    "dica": "Carteira da OAB = identidade civil para TODOS os fins. Qualquer recusa de órgão público é ilegítima. Isso inclui Detran, bancos, aeroportos, etc.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a carteira da OAB é documento de identidade civil pleno. A conduta do funcionário do Detran foi ilegítima — não há base legal para a recusa.",
-    "analise": "A) CORRETA: a recusa foi ilegítima — a carteira da OAB é documento de identidade civil para todos os fins, incluindo a identificação no Detran. B) Errada: não é 'correta' — foi ilegítima. C) Errada: a carteira tem validade plena, não limitada. D) Errada: não é 'inadequada' — a recusa foi ilegítima."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7-B: \"<strong>A carteira de identidade profissional expedida pela OAB constitui prova de identidade civil para todos os fins legais.</strong>\" A recusa pelo funcionário do Detran em aceitar a carteira da OAB como documento de identificação civil foi <strong>ilegítima</strong> — a lei expressamente confere a essa carteira validade de identidade civil universal.</p>",
+    "dica": "<p>Carteira OAB = <strong>identidade civil para TODOS os fins legais</strong> — incluindo Detran (A certa). B erra ao dizer que não há previsão legal — há. C erra ao mencionar \"prática consuetudinária\" — a previsão é legal. D erra ao restringir a fóruns e tribunais.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 2,
@@ -192,12 +193,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 4302,
-    "sintese": "PAD: o relator não pode, no parecer preliminar, determinar diretamente a aplicação de censura — deve recomendar a instauração e o julgamento do órgão competente.",
-    "logica_conceito": "Paulo Afrânio foi representado ao TED. O relator, no parecer preliminar, não pode impor diretamente a sanção de censura — sua função é opinar pelo arquivamento ou pela instauração do PAD. A aplicação da pena exige julgamento pelo órgão colegiado competente com todas as garantias do contraditório.",
-    "fundamentacao": "EAOAB, Art. 73: 'Recebida a representação, o Presidente da Seccional ou do Tribunal de Ética e Disciplina designará relator e notificará o representado para apresentar defesa prévia [...] § 2º Oferecida a defesa prévia, ou decorrido o prazo para oferecimento, o relator proferirá seu parecer em trinta dias, acolhendo ou rejeitando a representação.'",
-    "dica": "Relator no PAD: função de INSTRUIR e OPINAR, não de julgar ou aplicar pena. A aplicação da sanção é do órgão colegiado (TED ou Câmara). O relator que aplica diretamente a pena está agindo fora de sua competência.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o relator do PAD é instrutor — prepara o processo, colhe provas, elabora parecer. Quem aplica a pena é o colegiado (TED). O relator que aplica a censura diretamente comete ilegalidade — violação do contraditório e do processo disciplinar.",
-    "analise": "A) Errada: o relator não pode aplicar diretamente a censura. B) Errada: o parecer preliminar não inclui a aplicação da censura pelo relator. C) CORRETA: o relator agiu ilegalmente — no parecer preliminar ele só pode opinar pelo arquivamento ou instauração; a aplicação da pena compete ao órgão julgador. D) Errada: houve violação — o reconhecimento de nulidade não depende de prejuízo demonstrado quando há vício de competência."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 68 e ss. (processo disciplinar): o representado tem direito a <strong>defesa prévia, razões finais e defesa oral</strong>. A gravidade ou leveza da infração <strong>não autoriza suprimir etapas processuais</strong> — o contraditório e a ampla defesa são garantias constitucionais e estatutárias irrenunciáveis pelo relator. O relator não pode dispensar defesa prévia e razões finais unilateralmente, mesmo em infrações leves.</p>",
+    "dica": "<p>Processo disciplinar: <strong>todas as etapas são obrigatórias</strong> — defesa prévia, razões finais e defesa oral (C certa). A erra: defesa oral não substitui as demais etapas. B erra: o Presidente não pode homologar diretamente parecer do relator. D erra: ausência de prejuízo concreto não sana a nulidade do processo disciplinar quando suprimida a defesa.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 2,
@@ -217,12 +218,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 12,
-    "sintese": "Diretor de empresa pública (cargo incompatível provisório): incompatibilidade provisória — pode manter inscrição licenciada e só atuar como advogado de defesa em causa própria (questão específica de empresa pública).",
-    "logica_conceito": "Roberto assumiu cargo de diretor de empresa pública (Art. 28, III) — incompatibilidade provisória. Licencia a OAB. Durante a investidura, não pode advogar para terceiros. A questão pergunta o que é CORETO durante a incompatibilidade.",
-    "fundamentacao": "EAOAB, Art. 28, III: 'A advocacia é incompatível com [...] III - ocupantes de cargos ou funções de direção em Órgãos da Administração Pública direta ou indireta, em suas fundações e em suas empresas controladas ou concessionárias de serviço público.' Art. 12, III: licença por exercício de cargo incompatível provisório.",
-    "dica": "Diretor de empresa pública = incompatibilidade provisória → licença. Durante a licença: não pode advogar para terceiros. Pode manter o CREA, OAB, etc. — só está suspenso do exercício da advocacia.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): incompatibilidade provisória = licença (não cancelamento). O advogado mantém o vínculo com a OAB mas não pode exercer a advocacia durante a investidura. Ao sair do cargo, retorna automaticamente à advocacia.",
-    "analise": "A) Errada: incompatibilidade provisória → licença, não cancelamento da inscrição. B) CORRETA: durante a investidura no cargo incompatível, Roberto só pode atuar como advogado em causa própria diretamente relacionada ao cargo (defesa pessoal). C) Errada: não pode advogar para terceiros, mesmo que não seja na área do cargo. D) Errada: a incompatibilidade é absoluta durante a investidura — não importa a área de atuação."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 30, II: o advogado que exercer cargo ou função de <strong>diretor jurídico</strong> em empresa pública ou privada fica <strong>impedido de advogar contra ela ou contra seus interesses</strong> durante a investidura. Empresa pública = entidade da Administração Indireta. A atuação de Roberto como diretor jurídico da Nossa Estatal (empresa pública federal) cria impedimento relativo — não incompatibilidade total. <strong>Pode advogar apenas no exercício do cargo</strong> (vinculado à função de diretor jurídico).</p>",
+    "dica": "<p>Diretor jurídico de empresa pública: <strong>impedimento</strong>, não incompatibilidade total. Pode advogar <strong>somente vinculado ao cargo</strong> (B certa). A erra: não é incompatibilidade total. C erra: o impedimento vai além da Fazenda Pública que o remunera. D erra: o impedimento não é restrito à área de atuação.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 8,
@@ -242,12 +243,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 13,
-    "sintese": "Suspensão preventiva: só pode ser decretada sem oitiva prévia se o fato gerar repercussão prejudicial à eficiência e credibilidade da OAB. PAD deve ser concluído em 90 dias.",
-    "logica_conceito": "Euclides praticou assédio sexual. O procedimento de suspensão preventiva + PAD foi irregular porque a suspensão preventiva, embora possa ser decretada sem oitiva prévia em casos urgentes, segue rito próprio e o PAD subsequente deve ser concluído em 90 dias. A questão indica irregularidade no procedimento.",
-    "fundamentacao": "EAOAB, Art. 70: 'A suspensão preventiva do advogado pode ser decretada pelo Conselho Seccional competente, em decisão fundamentada, quando a continuidade do exercício da advocacia representar perigo à eficiência e credibilidade da instituição ou dos serviços por ela prestados.' § 3º: 'O processo disciplinar referente ao fato que motivou a decretação da suspensão preventiva deve ser julgado no prazo máximo de noventa dias.'",
-    "dica": "Suspensão preventiva: (1) sem oitiva prévia = possível em casos urgentes; (2) PAD deve ser concluído em MAX 90 dias; (3) recurso contra suspensão preventiva NÃO tem efeito suspensivo.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): suspensão preventiva pode ser decretada sem ouvir o advogado, se urgente. Mas o processo principal deve ser julgado em 90 dias — é o prazo máximo. Isso é uma das 3 exceções sem efeito suspensivo no recurso.",
-    "analise": "A) Errada: a suspensão preventiva não pode ser decretada de forma irregular quanto ao prazo do PAD. B) Errada: o EAOAB não admite suspensão preventiva sem o posterior PAD concluído em 90 dias. C) CORRETA: o procedimento foi irregular porque a suspensão preventiva só pode ser decretada em condições específicas e o PAD deve ser concluído em 90 dias — o procedimento não seguiu o rito correto. D) Errada: o prazo máximo para o PAD em suspensão preventiva é de 90 dias, não há prorrogação automática."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 70, §3º: a suspensão preventiva somente é válida se o representado for <strong>previamente notificado e não comparecer</strong>, ou se já tiver sido notificado e não atendeu. O prazo máximo do processo disciplinar na hipótese de suspensão preventiva é de <strong>90 dias</strong> (não 180). O TED designou sessão para ouvi-lo <em>depois</em> da suspensão, e estabeleceu prazo de 180 dias — ambas as irregularidades tornam o procedimento inválido (C certa).</p>",
+    "dica": "<p>Suspensão preventiva: (1) exige <strong>prévia notificação</strong> (ou não comparecimento após notificação); (2) prazo máximo do processo = <strong>90 dias</strong> (não 180) (C certa). A erra nos dois pontos. B erra: não existe suspensão sem notificação prévia apenas por \"repercussão\". D erra o prazo (90, não 180) e a ordem da oitiva (antes, não depois).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -267,12 +268,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 14,
-    "sintese": "Advogada que acaba de dar à luz: prerrogativa de acesso a creche onde houver, ou local adequado para amamentação — Art. 7º-A EAOAB.",
-    "logica_conceito": "Ana é advogada lactante. O Art. 7º-A EAOAB enumera as prerrogativas da advogada gestante/lactante/puérpera. Uma delas é o acesso a creche, onde houver, ou local adequado para atendimento das necessidades da criança. As outras opções (vaga na garagem, suspensão de prazos sem notificação, entrada sem detector) não se aplicam à lactante.",
-    "fundamentacao": "EAOAB, Art. 7º-A: 'São direitos da advogada: [...] IV - lactante, tem assegurado o direito de usufruir de espaço adequado para amamentação durante os intervalos previstos nesta Lei e, onde houver, acesso a creche ou outro estabelecimento de atendimento à criança, conforme indicação da Secretaria de Pessoal competente.'",
-    "dica": "Advogada lactante: direito de acesso a creche ou local adequado para amamentação. As outras prerrogativas (suspensão de prazos, preferência em audiências) são da gestante/puérpera com prazo, não da lactante indefinidamente.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o Art. 7º-A foi acrescentado pela Lei 13.363/2016 e é ponto certo de prova. Lactante tem direito específico a espaço de amamentação e acesso a creche. A suspensão de prazos exige notificação prévia de 30 dias — não é automática.",
-    "analise": "A) Errada: vaga na garagem não é prerrogativa da advogada lactante (é da gestante em algumas previsões). B) Errada: suspensão de prazos exige notificação prévia com antecedência mínima, não é automática para lactante. C) Errada: a prerrogativa de não ser submetida a detector de metais é da gestante, não da lactante. D) CORRETA: acesso a creche, onde houver, ou local adequado para atendimento das necessidades da criança é a prerrogativa correta da advogada lactante."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7-A, IV (acrescentado pela Lei 13.363/2016): é direito da advogada gestante, lactante ou adotante \"<strong>acesso a creche, onde houver, ou a local adequado para amamentação ou para atendimento das necessidades do bebê</strong>\" em Fóruns e Tribunais. A questão lista quatro direitos — o direito à creche/local de amamentação é o que se encaixa na situação de Ana (ainda amamenta o filho).</p>",
+    "dica": "<p>Lactante: direito a <strong>creche ou local adequado para amamentação</strong> (D certa). A (vaga garagem): é direito da gestante, não especificamente da lactante <em>no contexto de sessão de julgamento</em>. B (suspensão de prazos): é outro direito (Art. 7-A, I), mas não o mais específico aqui. C (sem detector de metais): é direito geral do advogado, não exclusivo de gestante/lactante.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 3,
@@ -292,12 +293,13 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 4603,
-    "sintese": "Alfredo (não aprovado no Exame de Ordem): pode participar de estágio profissional e inscrever-se no quadro de estagiários da OAB — o exame de ordem não é pré-requisito para o estágio.",
-    "logica_conceito": "O estágio profissional de advocacia e a inscrição no quadro de estagiários da OAB exigem que o candidato seja estudante de Direito (nos últimos 4 semestres ou 2 anos). Não exigem aprovação no Exame de Ordem. Alfredo é graduado — pode estar matriculado em pós-graduação? Não, mas pode estar nos últimos semestres como estudante. Na verdade, sendo já graduado mas não aprovado no Exame, ele não pode mais se inscrever como estagiário — mas a questão pergunta se pode PARTICIPAR de estágio.",
-    "fundamentacao": "EAOAB, Art. 9º: 'Para inscrição no quadro de estagiários é necessário: I - preencher os requisitos mencionados nos incisos I a VI do art. 8º; II - estar regularmente matriculado em curso de direito.' § 1º: 'O estágio profissional de advocacia, com duração de dois anos, poderá ser cumprido mediante frequência a curso mantido por associação de advogados, por faculdade de direito ou por Seccional ou Subseção da OAB.'",
-    "dica": "Estagiário da OAB: precisa estar MATRICULADO no curso de Direito (não precisa ter aprovado no Exame de Ordem). Graduado que não passou no Exame pode participar de estágio se ainda estiver cursando ou em curso específico da OAB.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o estágio profissional de advocacia pode ser realizado por estudante de Direito sem aprovação no Exame de Ordem. O Exame é requisito para inscrição como ADVOGADO, não como estagiário.",
-    "analise": "A) Errada: o estágio é permitido sem aprovação no Exame de Ordem. B) Errada: não há restrição de prazo para se inscrever como estagiário após a conclusão do curso. C) CORRETA: Alfredo pode participar do estágio e inscrever-se como estagiário — o Exame de Ordem não é requisito para o estágio. D) Errada: pode inscrever-se no quadro de estagiários mesmo sem ter passado no Exame."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 9º, §2º: \"<strong>O estágio profissional de advocacia pode ser realizado por bacharel em Direito</strong>, durante o período em que aguarda a aprovação no Exame de Ordem, e poderá ser registrado no Conselho Seccional da OAB, em escritório de advocacia credenciado pelo respectivo Conselho Seccional.\" Portanto, Alfredo — bacharel já formado, ainda não aprovado no Exame de Ordem — pode estagiar em escritório credenciado e se inscrever como estagiário.</p>",
+    "dica": "<p>Bacharel em Direito ainda não aprovado no Exame de Ordem: <strong>pode estagiar</strong> em escritório credenciado <strong>e se inscrever como estagiário</strong> no Conselho Seccional (C certa). A erra ao vedar estágio para já formados. B erra ao exigir estágio institucional. D erra ao negar a inscrição no quadro de estagiários.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 4,
@@ -317,12 +319,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 15,
-    "sintese": "Sócios de mesma sociedade de advogados não podem representar clientes com interesses opostos — vedação absoluta de conflito de interesses.",
-    "logica_conceito": "Eduardo e Diogo são sócios da mesma sociedade. Afonso e Dalila têm interesses opostos. Os sócios não podem representar as duas partes — a sociedade é um único escritório e a vedação de conflito de interesses impede que advogados da mesma sociedade atuem em lados opostos.",
-    "fundamentacao": "CED/OAB, Art. 18: 'Sobrevindo conflito de interesse entre seus constituintes, e não lhes sendo possível harmonizar os interesses em conflito, cumpre ao advogado firmar sua posição em favor de um deles, comunicando sua decisão aos demais, sendo vedada, nessa hipótese, a representação de qualquer deles.' Art. 16: 'O advogado não deve aceitar procuração de parte que tem interesses conflitantes com as de cliente que assiste ou que já assistiu.'",
-    "dica": "Conflito de interesses entre clientes: o advogado deve escolher um e comunicar o abandono aos demais. Sócios da mesma sociedade não podem representar partes opostas — a vedação se estende a toda a sociedade.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): conflito de interesses é vedação absoluta. Se dois clientes de mesma sociedade passam a ter interesses opostos, a sociedade deve renunciar a um dos mandatos. Eduardo e Diogo não podem, como sócios da mesma sociedade, representar partes com interesses opostos.",
-    "analise": "A) CORRETA: Eduardo e Diogo não podem representar clientes com interesses opostos — a vedação se estende a toda a sociedade, pois ambos integram a mesma pessoa jurídica. B) Errada: não há exceção para firmar compromisso — a vedação é absoluta. C) Errada: não podem continuar as representações opostas, independentemente de questões processuais. D) Errada: mesmo em partes diferentes do processo, os sócios não podem defender partes com interesses opostos."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 15, §1º: \"<strong>Os sócios e advogados empregados de uma mesma sociedade de advogados não poderão representar em juízo clientes com interesses opostos.</strong>\" Eduardo e Diogo são sócios da mesma sociedade — vedada a representação de Afonso e Dalila (interesses opostos na mesma ação).</p>",
+    "dica": "<p>Sócios da mesma sociedade: <strong>vedada a representação de partes com interesses opostos</strong> (A certa). B erra: compromisso escrito não afasta o impedimento legal. C erra: informar ao juiz não resolve o conflito. D erra: \"atuação independente\" dentro da mesma sociedade não está prevista como exceção.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -342,11 +344,12 @@
     "modulo_codigo": "04_infracoes_e_sancoes",
     "modulo_nome": "Infrações e Sanções Disciplinares",
     "id": 4607,
-    "sintese": "Publicidade conjunta de advocacia com outra atividade (construção civil, no caso): vedada, mesmo que a outra atividade seja lícita e compatível.",
-    "logica_conceito": "Frederico é advogado e investiu em construção civil. Quer divulgar as duas atividades juntas. O Art. 1º, § 3º EAOAB veda a divulgação de advocacia em conjunto com qualquer outra atividade — inclusive atividades lícitas e compatíveis com a advocacia.",
-    "fundamentacao": "EAOAB, Art. 1º, § 3º: 'É vedada a divulgação de advocacia em conjunto com outra atividade.' CED/OAB, Art. 42: 'É vedada a divulgação de advocacia em conjunto com outra atividade profissional, ainda que esta possa ser considerada compatível com o exercício da advocacia.'",
-    "dica": "Vedação de publicidade conjunta = ABSOLUTA. Não importa se a outra atividade é compatível, lícita, ou nobre. A vedação é categórica: advocacia não pode ser anunciada junto com mais nada.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o CED é muito claro — 'ainda que compatível'. Não há exceção. Frederico pode exercer advocacia E construção civil, mas não pode divulgar as duas juntas em nenhum suporte.",
-    "analise": "A) Errada: o decoro e a dignidade não afastam a vedação — a proibição é objetiva. B) Errada: a outra atividade ser regulamentada não é exceção. C) CORRETA: é vedada a divulgação conjunta de advocacia com outra atividade, ainda que exercida de forma regular. D) Errada: não há exceção à regra."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 1º, §3º: \"<strong>É vedado o exercício conjunto das atividades de advocacia e as atividades de comércio ou qualquer outra que perturbe ou diminua a independência da advocacia.</strong>\" CED, Art. 42: \"<strong>Ao advogado é vedado identificar-se, em qualquer meio de divulgação, com mais de uma atividade profissional.</strong>\" A campanha publicitária conjunta advocacia + construção civil viola o art. 42 de forma expressa — não há exceção por afinidade temática.</p>",
+    "dica": "<p>Publicidade conjunta advocacia + outra atividade: <strong>vedada</strong>, ainda que haja afinidade temática (C certa). A erra: há possibilidade de avaliação do TED, mas a vedação já é expressa. B erra: não existe exceção por regulamentação da outra atividade. D erra: afinidade temática não é exceção legal.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   }
 ]

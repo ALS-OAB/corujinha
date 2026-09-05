@@ -16,7 +16,14 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_servicos_publicos",
     "modulo_nome": "Serviços Públicos e Concessões",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XXXIII</strong> (direito à informação de órgãos públicos) + <strong>Lei 12.527/2011 (LAI), Art. 8º</strong>: órgãos e entidades públicas devem divulgar informações de interesse coletivo. Concessão: concessionária presta serviço público e está sujeita à fiscalização (Lei 8.987/95, Art. 30). A Administração <strong>não pode exigir</strong> que a concessionária justifique manifestações de vontade internas sem previsão legal.</p>",
+    "dica": "<p>Concessionária é pessoa jurídica <strong>privada</strong>: tem autonomia para manifestações internas de vontade. A Administração fiscaliza a execução do serviço (Art. 30 Lei 8.987/95), mas não a gestão interna privada. Instrumento adequado para transparência: fiscalização contratual + relatórios previstos no contrato.</p>",
+    "revisar_manual": true
   },
   {
     "num": 31,
@@ -35,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_servicos_publicos",
     "modulo_nome": "Serviços Públicos e Concessões",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 6º, XLII:</strong> \"leilão: modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos, a quem oferecer o maior lance.\" <strong>CF/88, Art. 37, XXI:</strong> alienação de bens públicos exige licitação.</p>",
+    "dica": "<p>Alienação de bens móveis públicos <strong>inservíveis</strong>: modalidade <strong>leilão</strong> (maior lance). Dispensa de licitação: somente para bens de pequeno valor (Art. 75 Lei 14.133/21). Computadores substituídos = inservíveis → leilão obrigatório. Venda direta = ilegal.</p>"
   },
   {
     "num": 34,
@@ -54,7 +67,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_servicos_publicos",
     "modulo_nome": "Serviços Públicos e Concessões",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 41, §3º:</strong> \"Extinto o cargo ou declarada sua desnecessidade, o servidor estável ficará em <strong>disponibilidade</strong>, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo.\" <strong>Lei 8.112/90, Art. 30:</strong> disciplina a disponibilidade.</p>",
+    "dica": "<p>Cargo extinto + servidor estável → <strong>disponibilidade</strong> (nunca demissão ou exoneração de ofício). Remuneração: <em>proporcional</em> ao tempo de serviço (não integral). Aguarda aproveitamento em outro cargo de atribuições compatíveis. Recusa injustificada do aproveitamento → abandono de cargo.</p>"
   },
   {
     "num": 32,
@@ -73,7 +92,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "05_servicos_publicos",
     "modulo_nome": "Serviços Públicos e Concessões",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.112/90, Art. 142, §2º:</strong> \"Os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares capituladas também como crime.\"</p>",
+    "dica": "<p>PAD regra geral: prescrição em 5 anos (demissão/cassação), 2 anos (suspensão), 180 dias (advertência) — Art. 142 Lei 8.112/90. EXCEÇÃO: infração = crime → prescrição da <strong>lei penal</strong> (pode ser mais longo — favorece a Administração para apurar). A instância penal não suspende o PAD.</p>"
   },
   {
     "num": 31,
@@ -92,7 +117,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_servicos_publicos",
     "modulo_nome": "Serviços Públicos e Concessões",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 185, I:</strong> \"São insuscetíveis de desapropriação para fins de reforma agrária: I - a pequena e média propriedade rural, assim definida em lei, desde que seu proprietário não possua outra.\"</p>",
+    "dica": "<p>Imune à desapropriação para RA: (1) pequena ou média propriedade rural + único imóvel do proprietário; (2) propriedade produtiva (Art. 185, II). <strong>Não imune:</strong> latifúndio improdutivo. Jaílson: média propriedade como único imóvel → <strong>insuscetível</strong> de desapropriação para RA.</p>"
   },
   {
     "num": 34,
@@ -111,6 +142,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "05_servicos_publicos",
     "modulo_nome": "Serviços Públicos e Concessões",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 74, III:</strong> inexigibilidade quando a competição é inviável; <strong>§1º:</strong> notória especialização = empresa com experiência e diferenciação reconhecidas pela comunidade técnica, para serviços de <em>natureza singular</em>.</p>",
+    "dica": "<p>Inexigibilidade ≠ dispensa. Inexigibilidade = competição <strong>impossível</strong> (Art. 74 Lei 14.133/21). Manutenção especializada com notória especialização = inexigibilidade válida se o serviço for singular. Exige: justificativa de preço + atestados de capacidade técnica.</p>"
   }
 ]

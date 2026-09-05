@@ -17,7 +17,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_ferias_salario",
     "modulo_nome": "Remuneração, Salário e Férias",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 7º, XXVI:</strong> reconhecimento das convenções e acordos coletivos. <strong>CLT, Art. 611-A</strong> (Reforma Trabalhista): ACT/CCT pode negociar jornada de trabalho, banco de horas, turno ininterrupto de revezamento etc., mas <strong>Art. 611-B:</strong> não pode suprimir nem reduzir direitos fundamentais como horas extras em atividades insalubres sem licença ministerial. Acordo coletivo para suprimir proteção: nulo.</p>",
+    "dica": "<p>Negociação coletiva: pode flexibilizar direitos trabalhistas (CLT Art. 611-A), mas não pode suprimir proteções fundamentais do Art. 611-B. Acordo coletivo que elimina proteção a empregados contra riscos deve prever medidas compensatórias. Gabarito A: ACT deve prever proteções alternativas aos empregados.</p>"
   },
   {
     "num": 75,
@@ -36,7 +42,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_ferias_salario",
     "modulo_nome": "Remuneração, Salário e Férias",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 74, §2º</strong> (controle de jornada): empregador com mais de 20 empregados deve anotar jornada em registro. <strong>Súmula 366 TST:</strong> tempo gasto na troca de uniforme, quando exigida pelo empregador nas dependências da empresa, conta como tempo à disposição. Mas se não há <em>exigência</em> de troca dentro das dependências: não integra a jornada.</p>",
+    "dica": "<p>Tempo de troca de uniforme: só é jornada se a troca é <strong>exigida dentro das dependências</strong> da empresa (Súmula 366 TST). Sem obrigatoriedade de troca no local → tempo não computado. Gabarito B: inexistindo obrigação de troca nas dependências, o tempo não integra a jornada.</p>"
   },
   {
     "num": 73,
@@ -55,7 +67,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_ferias_salario",
     "modulo_nome": "Remuneração, Salário e Férias",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 11, §1º:</strong> para trabalhador rural, a prescrição é quinquenal. <strong>CF/88, Art. 7º, XXIX:</strong> prescrição de 5 anos durante o contrato, até 2 anos após a extinção. <strong>CLT, Art. 11, §2º:</strong> havendo reconhecimento do vínculo empregatício na sentença, a prescrição é contada do reconhecimento. Reinaldo trabalha desde 1990: parcelas anteriores a 5 anos da ação = prescritas.</p>",
+    "dica": "<p>Prescrição trabalhista: 5 anos durante o contrato + 2 anos após extinção (CF Art. 7º, XXIX). Juiz <em>pode</em> reconhecer prescrição de ofício se suscitada pelo reclamado (CLT Art. 11, §3º — após Reforma Trabalhista). Gabarito C: juiz pronuncia prescrição se o réu a suscitar em defesa. Parcelas anteriores a 5 anos da propositura: prescritas.</p>"
   },
   {
     "num": 71,
@@ -74,7 +92,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_ferias_salario",
     "modulo_nome": "Remuneração, Salário e Férias",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 458, §2º:</strong> não serão consideradas como salário: habitação e alimentação fornecidas como condição do trabalho, vestuário e equipamentos. <strong>§2º, II:</strong> habitação fornecida pelo empregador = <em>integra</em> a remuneração como salário in natura, salvo se for condição para o trabalho em local de difícil acesso. Mas alimentação via PAT e outros benefícios previstos no §2º não integram.</p>",
+    "dica": "<p>Salário in natura (CLT Art. 458): habitação e alimentação fornecidas pelo empregador <strong>integram</strong> o salário como regra. Exceção: fornecidas como <strong>condição do trabalho</strong> (local de difícil acesso, necessidade da atividade) = sem integração. Gabarito C: <em>apenas habitação</em> integra (alimentação via PAT = não integra — Lei 6.321/76).</p>"
   },
   {
     "num": 74,
@@ -93,7 +117,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_ferias_salario",
     "modulo_nome": "Remuneração, Salário e Férias",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 484:</strong> \"Havendo culpa recíproca no ato que determinou a rescisão do contrato de trabalho, o tribunal de trabalho reduzirá a indenização à que seria devida em caso de culpa exclusiva do empregador, por metade.\" Culpa recíproca (justa causa do empregado + rescisão indireta do empregador): empregado recebe <strong>50%</strong> do aviso prévio indenizado, <strong>50%</strong> da indenização de 40% do FGTS; recebe <strong>integralmente</strong>: saldo de salário, férias vencidas + proporcionais com 1/3, 13º proporcional.</p>",
+    "dica": "<p>Culpa recíproca (CLT Art. 484): empregado recebe <strong>metade</strong> do que teria em rescisão indireta pura. Na prática: aviso prévio (50%), multa FGTS (50% do FGTS). Recebe integral: saldo salário, férias + 1/3, 13º proporcional. Gabarito: afirmativa que descreve os efeitos da culpa recíproca reconhecida judicialmente. Não confundir com rescisão indireta pura (100%) nem com justa causa pura (sem aviso, sem multa FGTS).</p>"
   },
   {
     "num": 74,
@@ -112,6 +142,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_ferias_salario",
     "modulo_nome": "Remuneração, Salário e Férias",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 71, §4º</strong> (antes e depois da Reforma): jornada de até 6 horas → intervalo intrajornada de 15 minutos (não obrigatório pagar se não concedido? Após Reforma: Art. 71, §4º: supressão parcial do intervalo é permitida por ACT/CCT; se não há negociação coletiva, supressão gera pagamento como hora extra). Luana: 6h15min de jornada → intervalo de 15 min é obrigatório?</p>",
+    "dica": "<p>Jornada de 4h01min a 6h: intervalo intrajornada de <strong>15 minutos</strong> (CLT Art. 71, §1º). Luana: trabalha das 7h às 13h15min = 6h15min → jornada entre 6h e 8h → intervalo mínimo de <strong>1 hora</strong> (Art. 71 caput). Se intervalo concedido foi apenas 15min: insuficiente → pagamento do período não concedido. Gabarito B: revisar contexto completo.</p>",
+    "revisar_manual": true
   }
 ]

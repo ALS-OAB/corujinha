@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_rito_sumarissimo",
     "modulo_nome": "Custas, Sucumbência e Justiça Gratuita",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 879, §2º:</strong> após a liquidação, partes intimadas para impugnar os cálculos. Silêncio = preclusão. <strong>CLT, Art. 884:</strong> embargos à execução: matérias que poderiam ter sido alegadas na liquidação e não foram = preclusa. Gabarito C: empresa silenciou na liquidação → preclusão; não pode mais impugnar na execução.</p>",
+    "dica": "<p>Preclusão na liquidação trabalhista: a parte que silenciou sobre os cálculos de liquidação (intimada e não impugnou) <strong>perde o prazo</strong>. Na fase de execução/embargos: vedado retomar matérias preclusa da liquidação. Gabarito C: empresa silenciou = preclusão.</p>"
   },
   {
     "num": 76,
@@ -35,7 +41,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_rito_sumarissimo",
     "modulo_nome": "Custas, Sucumbência e Justiça Gratuita",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 884, caput:</strong> \"Garantida a execução ou penhorados os bens, terá o executado 5 (cinco) dias para apresentar embargos à execução.\" Garantia = depósito do valor da condenação ou penhora de bens. Após garantia ou penhora: prazo de 5 dias para embargar. Advogado do empregado (credor): acompanhar a penhora + impugnar avaliação se necessário.</p>",
+    "dica": "<p>Embargos à execução trabalhista (CLT Art. 884): cabíveis após <strong>garantia ou penhora</strong>. Prazo: <strong>5 dias</strong>. Gabarito D: após garantia ou penhora dos bens, advogado do credor pode acompanhar o processo e impugnar eventuais embargos do devedor. Para o empregado credor: acompanhar a execução e requerer leilão dos bens penhorados se os embargos forem rejeitados.</p>"
   },
   {
     "num": 79,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_rito_sumarissimo",
     "modulo_nome": "Custas, Sucumbência e Justiça Gratuita",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 895 + Decreto-Lei 779/69, Art. 1º:</strong> Pietro (executado) é ente público? Se não = depósito recursal. Da decisão do juiz de execução trabalhista, cabe <strong>Agravo de Petição</strong> ao TRT. Do TRT, se Pietro for atingido por decisão de segunda instância, cabe RR ao TST. <strong>CF/88, Art. 102, II, a:</strong> do TRT em única instância → Recurso Ordinário ao TST (dissídio coletivo).</p>",
+    "dica": "<p>Executado que tem bens bloqueados pelas ferramentas tecnológicas de execução: pode impugnar por <strong>Agravo de Petição</strong> (CLT Art. 897, a). Se o TRT julgou o processo em única instância (competência originária): recurso ao TST = <strong>Recurso Ordinário</strong> (CLT Art. 895, II). Gabarito A: RO ao TST.</p>"
   },
   {
     "num": 77,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_rito_sumarissimo",
     "modulo_nome": "Custas, Sucumbência e Justiça Gratuita",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 732:</strong> \"Sem prejuízo, quando couber, do instituto da justiça gratuita, o reclamante que der causa ao arquivamento da reclamação por duas vezes consecutivas ficará privado, pelo prazo de 6 (seis) meses, de reclamar perante a Justiça do Trabalho.\" Isto é a <strong>perempção trabalhista</strong>.</p>",
+    "dica": "<p>Perempção trabalhista (CLT Art. 732): 2 arquivamentos consecutivos por falta do reclamante = impedimento de ajuizar nova reclamação por <strong>6 meses</strong>. José Luiz: deu causa a arquivamentos anteriores → sujeito à perempção. Gabarito C: incorrerá na pena de perempção, perdendo o prazo de 6 meses.</p>"
   },
   {
     "num": 80,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_rito_sumarissimo",
     "modulo_nome": "Custas, Sucumbência e Justiça Gratuita",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 10-A:</strong> sócio retirante responde subsidiariamente por até 2 anos após a averbação da saída. Soraya saiu em jan/2019 e registrou a saída; ação ajuizada em prazo: se dentro de 2 anos da averbação = responsabilidade subsidiária. Se após 2 anos: sem responsabilidade. Verificar a data da ação vs. averbação.</p>",
+    "dica": "<p>Sócio retirante — prazo de responsabilidade subsidiária: <strong>2 anos</strong> após a averbação da saída no contrato social (CLT Art. 10-A). Gabarito A: \"entre a averbação de saída e o ajuizamento\" = dentro do prazo de 2 anos → Soraya ainda pode ser executada subsidiariamente.</p>"
   },
   {
     "num": 79,
@@ -111,6 +141,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_rito_sumarissimo",
     "modulo_nome": "Custas, Sucumbência e Justiça Gratuita",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 789-A, §1º:</strong> \"Salvo se de outra forma convencionado, o pagamento das custas pelos trabalhadores beneficiados pela assistência judiciária gratuita ficará suspenso até que eles obtenham crédito suficiente para suportá-lo ou por 2 (dois) anos, o que ocorrer primeiro.\" Daniele assistida pelo sindicato = gratuidade; custas suspensas.</p>",
+    "dica": "<p>Custas para empregado com JG (assistência gratuita): <strong>suspensas</strong> até obter crédito suficiente ou por 2 anos (CLT Art. 789-A, §1º). Gabarito D: \"se de outra forma não for convencionado, pagamento das custas suspenso.\" Se a parte obter crédito antes: custas pagas com o crédito trabalhista. Após 2 anos sem crédito: perdão das custas.</p>"
   }
 ]

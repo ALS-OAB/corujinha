@@ -17,12 +17,12 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 1,
-    "sintese": "Sociedade de advogados com sócio licenciado (incompatível provisório): a sociedade CONTINUA — deve averbar o licenciamento no registro.",
-    "logica_conceito": "Leandro tornou-se incompatível provisório (assumiu cargo de direção). Ele se licencia da OAB, mas a sociedade Lucas & Leandro não se extingue — ela passa a ter apenas um sócio ativo (Lucas). A alternativa correta é a averbação do licenciamento no registro da sociedade no Conselho Seccional.",
-    "fundamentacao": "EAOAB, Art. 12: 'O advogado pode licenciar-se da advocacia: [...] III - por exercício de cargo ou função incompatível com a advocacia, com caráter provisório.' Art. 15, § 1º: 'A sociedade de advogados adquire personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Seccional da OAB.' Regulamento Geral: a averbação de alterações no quadro de sócios é obrigatória.",
-    "dica": "Sócio que se torna incompatível provisório: LICENCIA a OAB, mas NÃO precisa sair da sociedade necessariamente. A sociedade deve averbar a alteração no Conselho Seccional. Não há dissolução automática por redução de sócios.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): sócio incompatível provisório = licença (não cancelamento). A sociedade não precisa ser dissolvida — basta averbar o licenciamento e a alteração no quadro societário. Lucas pode continuar sozinho enquanto Leandro estiver licenciado.",
-    "analise": "A) Errada: a transformação em sociedade unipessoal não é obrigatória — basta averbar o licenciamento. B) CORRETA: a sociedade deve averbar no registro o licenciamento de Leandro e sua ausência temporária do exercício ativo. C) Errada: a sociedade pode continuar funcionando com Lucas atuando. D) Errada: a vedação de sede/filial na mesma seccional é para OUTRA sociedade, não para esta."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 12, §1º: quando um sócio assume <strong>atividade temporariamente incompatível</strong> com a advocacia (como membro de mesa diretora de Câmara Municipal — cargo de incompatibilidade temporária), a sociedade <strong>deve averbar o licenciamento no registro da sociedade</strong>, sem necessidade de alterar sua constituição. O nome do sócio licenciado pode permanecer na razão social.</p>",
+    "dica": "<p>Sócio com atividade temporariamente incompatível: a sociedade <strong>averba o licenciamento no registro</strong> — sem dissolver nem alterar constituição (B certa). A erra: não há transformação obrigatória em unipessoal. C erra: a sociedade pode continuar a funcionar com os outros sócios. D erra: não há restrição territorial para a sede.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 5,
@@ -42,12 +42,13 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 3905,
-    "sintese": "Consultoria jurídica: pode ser prestada verbalmente e não exige outorga de mandato — o mandato é só para postulação judicial.",
-    "logica_conceito": "Edson prestou consultoria verbal sobre questão imobiliária. O Art. 1º, § 4º autoriza expressamente a consultoria e assessoria jurídicas de forma verbal, sem mandato. A procuração é exigida apenas para postulação perante o Poder Judiciário.",
-    "fundamentacao": "EAOAB, Art. 1º, § 4º: 'É lícita a prestação de serviço de assessoria e consultoria jurídicas, de caráter privado, por advogado, inclusive no local de trabalho do cliente.' Art. 5º, caput: 'O advogado postula, em juízo ou fora dele, fazendo prova do mandato.' (O mandato é exigido para postulação, não para consultoria.)",
-    "dica": "Consultoria = verbal = sem mandato = tudo certo. Mandato só é exigido para postulação judicial. Honorários são devidos mesmo pela consultoria verbal.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a consultoria jurídica é atividade privativa de advogado (Art. 1º, II) mas não exige mandato. Pode ser prestada de forma verbal, no local de trabalho do cliente, sem necessidade de contrato escrito prévio.",
-    "analise": "A) CORRETA: Edson pode prestar a assessoria verbalmente e sem mandato — a consultoria jurídica não exige procuração. B) Errada: não é necessário prestar de forma escrita nem exigir mandato. C) Errada: mandato não é necessário para consultoria jurídica. D) Errada: pode ser verbal; a forma escrita não é obrigatória para consultoria."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 4º e CED, Art. 45: a atividade de <strong>assessoria e consultoria jurídica independe de outorga de mandato ou de formalização por contrato de honorários</strong>. Pode ser prestada verbalmente ou por escrito — a forma não é requisito para o exercício ou para o reconhecimento jurídico da atividade.</p>",
+    "dica": "<p>Consultoria/assessoria: <strong>sem mandato, sem contrato formal, pode ser verbal</strong> (A certa). B, C e D erram ao exigir mandato ou escrito. A única exigência é que o advogado seja inscrito na OAB.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 5,
@@ -67,12 +68,12 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 4105,
-    "sintese": "Advogado empregado: honorários sucumbenciais pertencem ao advogado, não ao empregador — o empregador pode negociar sobre os contratados, mas não sobre a sucumbência.",
-    "logica_conceito": "Gilson é advogado empregado. Os honorários sucumbenciais (fixados pelo juiz contra a parte vencida) pertencem ao advogado que atuou na causa — não ao empregador, salvo disposição contratual expressa em sentido contrário sobre os contratados. A sucumbência é do advogado por força de lei.",
-    "fundamentacao": "EAOAB, Art. 22, § 1º: 'O advogado, quando indicado para patrocinar causa de juridicamente necessitado [...] tem direito aos honorários fixados pelo juiz.' § 4º: 'Se o cliente recusar o arbitramento judicial dos honorários, o advogado pode requerer que sejam fixados por arbitramento da OAB.' Art. 24: 'A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos.'",
-    "dica": "Sucumbência = DO ADVOGADO, sempre. Mesmo sendo empregado, os honorários sucumbenciais pertencem ao profissional. O empregador pode negociar os honorários contratuais, mas não tem direito sobre a sucumbência.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): honorários sucumbenciais são título executivo e pertencem ao advogado por força do Art. 22 EAOAB. A relação empregatícia não altera essa titularidade — o empregado guarda o direito à sucumbência mesmo diante de cláusula contratual em contrário (que seria nula).",
-    "analise": "A) CORRETA: nas causas em que Gilson atuar como advogado empregado, os honorários sucumbenciais lhe pertencem — não podem ser apropriados pelo empregador sem previsão legal. B) Errada: a obrigação de atender causa de necessitado não é absoluta para advogado empregado. C) Errada: a jornada máxima é de 8h diárias (não 4h). D) Errada: horas extras são devidas com adicional mínimo de 100% — e o advogado empregado pode ser remunerado por elas."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 21, §4º: \"Na hipótese de <strong>advogado empregado</strong>, os honorários de sucumbência fixados na condenação <strong>pertencem ao advogado</strong>, salvo estipulação em contrário no contrato de trabalho.\" Gilson atuou em causas da XYZ — os honorários de sucumbência lhe pertencem por lei, independentemente de ser empregado (salvo cláusula contratual afastando esse direito).</p>",
+    "dica": "<p>Advogado empregado: <strong>honorários de sucumbência pertencem ao advogado</strong> (salvo contrato em contrário) (A certa). B erra: advogado empregado não presta serviços pessoais aos diretores. C erra: jornada máxima é 4h diárias e 20h semanais, mas só para advocacia pública/institucional? Não — para empregados é 4h/dia e 20h/semana no EAOAB Art. 20. D erra: horas extras são remuneradas com adicional de 100% sobre o valor da hora.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 6,
@@ -92,12 +93,13 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 4106,
-    "sintese": "Contrato de assessoria jurídica firmado diretamente com PJ: pode ser celebrado com a sociedade de advogados (PJ) — a procuração é outorgada ao advogado (PF).",
-    "logica_conceito": "Marina prestou consultoria a uma PJ. A questão testa a distinção entre: procuração (outorgada ao advogado pessoa física) e contrato de honorários (pode ser firmado com a sociedade de advogados PJ). Sem mandato, a consultoria pode ser verbal, mas se houver contrato, pode ser com a sociedade.",
-    "fundamentacao": "EAOAB, Art. 15, § 5º: 'A sociedade de advogados pode associar-se com advogados, desde que o contrato de associação seja de caráter geral [...].' Regulamento Geral, Art. 27: 'A procuração é outorgada para o advogado individualmente, devendo indicar a sociedade a que pertença.' Art. 28: 'O contrato de prestação de serviços de advocacia pode ser celebrado com a sociedade de advogados.'",
-    "dica": "DISTINÇÃO CRUCIAL: Procuração → outorgada ao advogado (PF). Contrato de honorários → pode ser com a sociedade (PJ). Consultoria verbal sem mandato e sem contrato escrito: também lícita.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a separação entre procuração e contrato de honorários é ponto certo de prova. A procuração é sempre pessoal (para o advogado PF). O contrato de prestação de serviços pode ser com a sociedade PJ. Ambos podem coexistir no mesmo negócio jurídico.",
-    "analise": "A) Errada: não é exclusivamente de modo escrito, e o mandato não é obrigatório para consultoria. B) CORRETA: se acordarem, o contrato pode ser firmado diretamente com a sociedade de advogados, sem mandato, pois a consultoria independe de mandato. C) Errada: não há exigência de concordância formal com a forma verbal — o verbal é suficiente. D) Errada: pode ser escrita ou verbal — ambas as formas são lícitas."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 4º, parágrafo único + CED, Art. 45: a consultoria jurídica pode ser prestada <strong>verbalmente ou por escrito</strong>, e <strong>independe de mandato ou de formalização por contrato de honorários</strong> — desde que as partes concordem. Se a pessoa jurídica e a advogada assim acordarem, a consultoria oral ou escrita é plenamente válida e reconhecível.</p>",
+    "dica": "<p>Consultoria: <strong>verbal ou escrita, sem mandato, sem contrato formal</strong> — se as partes acordarem (B certa). A erra ao exigir escrito e contrato. C erra ao exigir concordância escrita para modalidade verbal. D erra ao exigir mandato.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 4,
@@ -117,12 +119,12 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 9,
-    "sintese": "Diretora do CFOAB tomou conhecimento de fatos em razão do cargo: o sigilo profissional se mantém — não pode depor sobre esses fatos.",
-    "logica_conceito": "Nina, diretora do CFOAB, soube de fatos em razão do exercício do cargo. O sigilo profissional se estende às informações obtidas no exercício da função na OAB, assim como no exercício da advocacia. O cargo de direção não afasta o sigilo.",
-    "fundamentacao": "EAOAB, Art. 7º, XIX: 'recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou foi advogado, mesmo quando autorizado ou solicitado pelo constituinte, bem como sobre fato que constitua sigilo profissional.' CED, Art. 25: 'O sigilo profissional é inerente à profissão, impondo-se o seu respeito [...].'",
-    "dica": "Sigilo profissional = PERPÉTUO e IRRENUNCIÁVEL. Abrange fatos conhecidos no exercício da advocacia E no exercício de cargos na OAB. Nina não pode depor, mesmo que o informante não seja seu cliente direto.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o sigilo profissional é um dos pilares da advocacia. Diretor da OAB que toma conhecimento de fatos sensíveis no exercício do cargo está tão vinculado ao sigilo quanto o advogado que soube em consulta. A regra é: não depõe.",
-    "analise": "A) CORRETA: Nina deve recusar-se a depor sobre fatos que soube em razão do sigilo profissional — o cargo de diretoria na OAB não afasta esse dever. B) Errada: o sigilo não é afastado pela natureza do cargo. C) Errada: não há dever de relatar — há dever de silêncio. D) Errada: o silêncio é a regra, não a exceção — apenas em situação de grave ameaça à vida pode haver flexibilização."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 25 e CED, Art. 26: o <strong>sigilo profissional</strong> abrange tudo o que o advogado toma conhecimento no exercício da profissão — inclusive no exercício de função em órgão da OAB. Nina <strong>não pode ser obrigada a depor</strong> sobre fatos de que tomou conhecimento em razão de sua função na OAB, ainda que se trate de ação patrimonial sem risco à vida ou à honra. O sigilo é de observância obrigatória.</p>",
+    "dica": "<p>Sigilo profissional: <strong>abrange qualquer função exercida no âmbito da OAB</strong> — inclusive diretoria do Conselho Federal (A certa). B erra: a função na OAB não afasta o sigilo — reforça. C erra: natureza patrimonial da ação não afasta o sigilo. D erra: o dever de silêncio não tem exceção para defesa de familiares nesse contexto.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 1,
@@ -142,12 +144,12 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 10,
-    "sintese": "Questão anulada (gab=*): trata de publicidade advocatícia na internet — formas permitidas e vedadas.",
-    "logica_conceito": "Questão anulada pela FGV (E43). O tema é publicidade advocatícia na internet. Ponto a memorizar: (1) Advogado pode responder consultas jurídicas na internet com habitualidade (caráter informativo); (2) pode mencionar e-mail, telefone e meios de contato; (3) não pode incitar litígios; (4) pode fornecer meios de contato em conteúdos que publica.",
-    "fundamentacao": "Provimento 205/2021 CFOAB: 'Art. 4º A publicidade do advogado na internet deve ser informativa, com o intuito de dar conhecimento de sua existência, especialidade e forma de contato [...]. Art. 6º É permitido o fornecimento de dados de contato profissional, como telefone, endereço eletrônico e redes sociais.'",
-    "dica": "Questão anulada — gabarito *. Ponto teórico: publicidade na internet deve ser informativa. Pode mencionar contatos (e-mail, WhatsApp, QR Code). Pode responder consultas com habitualidade desde que informativas. Não pode incitar litígios ou captar clientela.",
-    "aula_comentario": "Questão anulada. O Provimento 205/2021 modernizou as regras de publicidade na internet: permite Google Ads (informativo), WhatsApp, redes sociais. Veda TikTok como veículo inadequado, lives de audiência, mala direta não solicitada.",
-    "analise": "Questão anulada — gabarito *. Todas as alternativas foram consideradas incorretas ou a questão tinha ambiguidade. Não há análise de mérito."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>Questão anulada pela FGV/OAB.</p>",
+    "dica": "<p>Questão anulada.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 3,
@@ -167,12 +169,12 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 12,
-    "sintese": "Sociedade de advogados com sócio não-advogado (comerciante): vedada — impossível o registro no Conselho Seccional.",
-    "logica_conceito": "Gustavo é graduado em Direito, aprovado no Exame de Ordem, e constituiu sociedade com sócio não-advogado para atividades de advocacia + comércio. Isso viola o Art. 15, § 3º EAOAB — a sociedade de advogados não pode ter sócio não-advogado nem exercer atividade estranha à advocacia. O registro é inviável.",
-    "fundamentacao": "EAOAB, Art. 15, § 3º: 'É proibida a constituição de sociedade de advogados que inclua, entre suas finalidades ou nome, atividade estranha à advocacia.' Regulamento Geral, Art. 39: 'A sociedade de advogados não pode ter como sócio pessoa não inscrita como advogado.'",
-    "dica": "Dois vícios simultâneos: (1) sócio não-advogado = vedado; (2) finalidade estranha à advocacia (comércio) = vedado. Qualquer um desses vícios já impede o registro no Conselho Seccional.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a sociedade de advogados é restrita a advogados inscritos na OAB. Sócio não-advogado e atividade mista (advocacia + comércio) são vedações absolutas. O Conselho Seccional deve negar o registro.",
-    "analise": "A) Errada: não é possível admitir sócio não-advogado em sociedades advocatícias. B) CORRETA: a sociedade criada por Gustavo não pode ser registrada porque reúne sócio não-advogado e atividade estranha à advocacia — dois vícios que impedem o registro. C) Errada: atividades estranhas à advocacia não podem integrar o objeto social de sociedade de advogados. D) Errada: a vedação é expressa no Estatuto — não há possibilidade de registro com esse modelo."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 15 e ss.: a <strong>sociedade de advogados</strong> é constituída exclusivamente por advogados inscritos na OAB — <strong>não pode ter sócios não inscritos</strong>. Art. 15, §2º: a sociedade de advogados não pode praticar atividades estranhas à advocacia — não se admite sociedade mista (advocacia + comércio). Tanto a presença de sócios não inscritos quanto a finalidade mista (advocacia + construção/comércio) impedem o registro.</p>",
+    "dica": "<p>Sociedade de advogados: <strong>só advogados inscritos</strong> como sócios + <strong>só advocacia</strong> como finalidade (B certa). A erra: não se admite sócio não advogado em nenhuma hipótese. C erra: atividades estranhas também vedam o registro. D erra: registros em juntas comerciais com advocacia como finalidade não são admitidos.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 1,
@@ -192,12 +194,13 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 13,
-    "sintese": "Publicidade conjunta de advocacia com consultoria empresarial (irmão consultor): vedada — a proibição é absoluta para qualquer outra atividade.",
-    "logica_conceito": "Matilde (advogada) e Frederico (consultor empresarial) são irmãos e querem fazer publicidade conjunta. O Art. 1º, § 3º EAOAB veda a divulgação de advocacia em conjunto com qualquer outra atividade, sem exceção.",
-    "fundamentacao": "EAOAB, Art. 1º, § 3º: 'É vedada a divulgação de advocacia em conjunto com outra atividade.' CED/OAB, Art. 42: 'É vedada a divulgação de advocacia em conjunto com outra atividade profissional, ainda que esta possa ser considerada compatível com o exercício da advocacia.'",
-    "dica": "Publicidade conjunta com QUALQUER outra atividade = VEDADA, sem exceção. Não importa se são irmãos, se as atividades se complementam, ou se a outra atividade é compatível. A proibição é objetiva e absoluta.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a vedação do Art. 1º, § 3º e do CED Art. 42 é sem exceção. Matilde e Frederico podem trabalhar no mesmo escritório, mas não podem fazer publicidade conjunta dos dois serviços em nenhum formato.",
-    "analise": "A) CORRETA: é vedada a divulgação dos serviços advocatícios em conjunto com qualquer outra atividade — a proibição é absoluta. B) Errada: não há permissão para publicidade conjunta em nenhuma hipótese. C) Errada: a complementaridade das atividades não afasta a vedação. D) Errada: a consultoria de Frederico não é atividade jurídica — é empresarial; mesmo que fosse, a vedação se mantém."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 1º, §3º: \"<strong>É vedada a divulgação de advocacia em conjunto com outra atividade profissional.</strong>\" CED, Art. 42: \"Ao advogado é vedado identificar-se, em qualquer meio de divulgação, com mais de uma atividade profissional.\" A publicidade conjunta advocacia + consultoria empresarial viola essas normas — independentemente de serem complementares ou do veículo (panfletos ou redes sociais).</p>",
+    "dica": "<p>Divulgação conjunta advocacia + qualquer outra atividade = <strong>vedada em qualquer meio</strong> (A certa). B erra ao restringir a plataformas digitais. C erra: afinidade não é exceção. D erra: sobriedade e não indução ao erro não tornam a divulgação conjunta lícita.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 5,
@@ -217,11 +220,36 @@
     "modulo_codigo": "05_publicidade_e_honorarios",
     "modulo_nome": "Honorários Advocatícios",
     "id": 15,
-    "sintese": "Mateus (captou clientela irregularmente): sanção é censura. Atenuante por exercer mandato na OAB → advertência em ofício reservado. A sanção não é publicada.",
-    "logica_conceito": "Mateus contratou profissional de vendas para captar clientela — infração do CED punível com censura. O fato de exercer mandato em cargo da OAB é atenuante (Art. 40, II), o que pode converter a censura em advertência em ofício reservado. E a advertência não é publicada.",
-    "fundamentacao": "EAOAB, Art. 40: 'Na aplicação das sanções disciplinares, são consideradas, para atenuação da pena: I - falta de punição anterior; II - o exercício profissional de mandato em órgão da OAB.' Art. 36, parágrafo único: 'Quando a infração for praticada por membro do Conselho Federal ou Seccional, ou por presidente de Subseção [...] pode ser convertida em advertência, em ofício reservado, se presentes circunstâncias atenuantes.'",
-    "dica": "Exercer mandato na OAB = atenuante → pode converter censura em advertência. Advertência = sigilo total (não publica, não consta nem na ficha funcional). Censura = sigilo (consta na ficha mas não publica). Suspensão = publicada.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o Art. 40 lista as atenuantes — exercer mandato na OAB é uma delas. Com atenuante, a censura pode virar advertência em ofício reservado. A D da questão traz exatamente esse fluxo: atenuante → advertência em reservado.",
-    "analise": "A) Errada: as atenuantes permitem a conversão em advertência, mas não afastam totalmente a sanção. B) Errada: a sanção de censura não é publicada (Art. 35, parágrafo único) — a D descreve o efeito correto. C) Errada: a gravidade da infração não impede a conversão se presentes atenuantes. D) CORRETA: o exercício de mandato em cargo da OAB é atenuante que permite converter a censura em advertência em ofício reservado (Art. 40, II + Art. 36, parágrafo único)."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 36, parágrafo único: a censura pode ser convertida em advertência (ofício reservado sem registro) na presença de <strong>circunstância atenuante</strong>. CED, Art. 49: atenuantes incluem o exercício assíduo de mandato em cargo ou função da OAB. Art. 36, parágrafo único: a circunstância de exercer mandato na OAB de forma assídua é <strong>atenuante que o Tribunal deve considerar</strong> na aplicação da sanção (D certa).</p>",
+    "dica": "<p>Atenuante do exercício assíduo de mandato na OAB <strong>deve ser considerada</strong> pelo Tribunal na aplicação da sanção (D certa). A erra: censura não se converte em multa. B erra: censura <em>deve</em> constar dos assentamentos (só converte em advertência reservada com atenuante). C erra: a conversão em advertência é possível, mesmo no caso de captação de clientela, se houver atenuante.</p>",
+    "aula_comentario": "",
+    "analise": ""
+  },
+  {
+    "num": 56,
+    "enunciado": "Marco Aurélio atuou como advogado em uma ação indenizatória\nmovida em face de uma operadora de plano de saúde que foi\ncondenada a pagar indenização por danos morais de R$ 100.000,00\n(cem mil reais) ao seu cliente.\nApesar de o processo ter corrido perante juízo cível, a sentença\ncondenatória deixou de fixar honorários de sucumbência em favor de\nMarco Aurélio, tendo transitado em julgado sem que ele percebesse\na omissão.\nConsiderando o caso narrado, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Após o trânsito em julgado da sentença, Marco Aurélio não\npoderá pleitear mais a condenação em honorários de\nsucumbência.",
+      "B": "Marco Aurélio poderá ajuizar ação autônoma para definir o valor\ndos honorários de sucumbência.",
+      "C": "Após o trânsito em julgado da sentença, apesar de omissa quanto\nà condenação em honorários de sucumbência, Marco Aurélio\npoderá executar somente o valor mínimo de dez por cento sobre\no valor da condenação.",
+      "D": "Marco Aurélio poderá opor embargos de declaração em face da\nsentença omissa, pois a matéria de honorários de sucumbência\nnão transita em julgado."
+    },
+    "gabarito": "B",
+    "disciplina": "Ética Profissional",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "05_publicidade_e_honorarios",
+    "modulo_nome": "Honorários Advocatícios",
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>EAOAB, Art. 23: \"Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado.\" Art. 24: \"A decisão judicial que fixar ou arbitrar honorários (...) constituem título executivo.\" Omissão da sentença em fixar honorários de sucumbência: o advogado pode ajuizar <strong>ação autônoma</strong> para definição e execução, independentemente do trânsito em julgado.</p>",
+    "dica": "<p>Honorários de sucumbência pertencem ao <strong>advogado</strong> (não ao cliente). Omissão na sentença com trânsito em julgado → <strong>ação autônoma</strong> cabível (B). Embargos declaratórios (D) são intempestivos após o trânsito. Execução do mínimo legal (C) depende de título — inexistente aqui.</p>"
   }
 ]

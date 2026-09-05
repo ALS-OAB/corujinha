@@ -17,12 +17,12 @@
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
     "id": 1,
-    "sintese": "Notificações no PAD: presunção de recebimento quando enviadas por correspondência com AR ao endereço cadastrado na Seccional.",
-    "logica_conceito": "A notificação no PAD segue ordem: pessoalmente → AR → edital. Quando feita por carta registrada com AR, há presunção de recebimento se enviada ao endereço constante do cadastro na Seccional. O advogado deve manter seus dados atualizados; o risco da desatualização é seu.",
-    "fundamentacao": "EAOAB, Art. 68: 'Para o efeito do disposto nesta lei, nos casos omissos, aplica-se o Código de Processo Civil e os Regimentos Internos do Conselho Federal e dos Conselhos Seccionais.' Regulamento Geral, Art. 74, § 1º: 'A notificação pode ser feita pessoalmente ou por correspondência com aviso de recebimento, ao endereço constante do cadastro do interessado junto ao Conselho, presumindo-se recebida.'",
-    "dica": "A presunção de recebimento exige que o endereço seja o cadastrado na OAB — se o advogado não atualizou o endereço, o risco é dele. Questão muito cobrada para confundir com 'cientificação pessoal obrigatória'.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a notificação é tríplice — pessoal, AR, edital. A segunda fase (AR) já presume recebimento se enviada ao endereço do cadastro. O advogado tem dever de manter dados atualizados. A notificação por AR ao endereço cadastrado é a mais cobrada em prova.",
-    "analise": "A) Errada: a notificação inicial não precisa ser necessariamente pessoal, pode ser por AR. B) Errada: a notificação por oficial é apenas uma das formas; AR ao endereço cadastrado também é válida. C) Errada: notificações por via postal com AR têm presunção de recebimento desde que no endereço cadastrado. D) CORRETA: há presunção de recebimento das notificações enviadas com AR ao endereço cadastrado na Seccional."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>Regulamento Geral do Estatuto da OAB, <strong>Art. 137-D</strong>: a notificação no processo disciplinar pode ser feita por correspondência eletrônica ou correspondência com aviso de recebimento, enviada ao endereço eletrônico, profissional ou residencial do cadastro do Conselho Seccional. <strong>§ 1º</strong>: \"Incumbe ao advogado manter sempre atualizado o seu endereço residencial e profissional no cadastro do Conselho Seccional, <em>presumindo-se recebida</em> a correspondência enviada para o endereço nele constante.\" EAOAB, <strong>Art. 73, § 1º</strong>: ao representado deve ser assegurado amplo direito de defesa, podendo oferecer defesa prévia <em>após ser notificado</em>.</p>",
+    "dica": "<p>Presunção de recebimento requer que o endereço seja o <strong>cadastrado na OAB</strong> — risco de desatualização é do advogado. Distrator clássico: exigir notificação pessoal obrigatória na inicial (alternativa A).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 1,
@@ -42,12 +42,12 @@
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
     "id": 2,
-    "sintese": "Publicidade: patrocínio de evento (congresso jurídico) por sociedade de advogados é autorizado, inclusive com participação de clientes.",
-    "logica_conceito": "O patrocínio de eventos jurídicos por escritórios é forma de publicidade informativa permitida. O público pode incluir clientes e interessados do meio jurídico. O que é vedado é publicidade mercantilista (captação de clientela, preços, gratuitidade) — o evento jurídico não se enquadra nessa vedação.",
-    "fundamentacao": "CED/OAB, Art. 40: 'São admitidas: [...] III - a participação em eventos, congressos, seminários e conferências, inclusive como palestrante ou patrocinador, desde que não impliquem captação de clientela.' Art. 39: 'A publicidade profissional do advogado tem caráter meramente informativo e deve primar pela discrição e sobriedade.'",
-    "dica": "Patrocínio de congresso jurídico = PERMITIDO, inclusive com clientes como participantes. O que é vedado é o evento cuja finalidade seja captar clientela, não o evento técnico com patrocínio.",
-    "aula_comentario": "Prof. Fetter (CEISC): patrocínio de eventos é publicidade informativa permitida. O ponto crítico é o público: se o evento é para público jurídico em geral (incluindo clientes), é lícito. Se o evento fosse exclusivamente para captar clientes novos com oferta de serviços, seria vedado. A alternativa C traz exatamente o equilíbrio correto.",
-    "analise": "A) Errada: a publicidade de patrocínio de eventos é autorizada. B) Errada: a participação não precisa ser restrita apenas a integrantes da sociedade. C) CORRETA: é autorizada e admite participação de clientes e interessados do meio jurídico. D) Errada: mesma razão da A — o patrocínio de congressos jurídicos é forma lícita de publicidade."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CED/OAB, Art. 39: \"A publicidade profissional do advogado tem caráter meramente informativo e deve primar pela discrição e sobriedade.\" Art. 40, III: \"São admitidas: (...) a participação em eventos, congressos, seminários e conferências, inclusive como palestrante ou <strong>patrocinador</strong>, desde que não impliquem captação de clientela.\"</p>",
+    "dica": "<p>Patrocínio de congresso jurídico = publicidade <strong>informativa permitida</strong>, com participação de clientes e interessados do meio jurídico. O local (resort) é irrelevante. O que é vedado é o evento cuja <em>finalidade</em> seja captar clientela, não o evento técnico com patrocínio.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 4,
@@ -67,12 +67,12 @@
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
     "id": 6,
-    "sintese": "Contador + advogado: não há incompatibilidade entre as atividades, mas é vedada publicidade conjunta das duas profissões.",
-    "logica_conceito": "Ser contador não está no rol taxativo de incompatibilidades do Art. 28 EAOAB. Logo Pedro PODE exercer ambas simultaneamente. Contudo, o Art. 1º, § 3º EAOAB veda a divulgação da advocacia em conjunto com outra atividade profissional — inclusive contabilidade.",
-    "fundamentacao": "EAOAB, Art. 1º, § 3º: 'É vedada a divulgação de advocacia em conjunto com outra atividade.' Art. 28: 'A advocacia é incompatível, mesmo em causa própria, com as seguintes atividades: [...] VI - ocupantes de cargos ou funções que tenham competência de lançamento, arrecadação ou fiscalização de tributos e contribuições parafiscais.' (Contador autônomo não se enquadra — só auditor fiscal tributário.)",
-    "dica": "Contador ≠ incompatibilidade. Mas divulgar advocacia + contabilidade juntas = vedado. A questão combina os dois temas para confundir. Rol de incompatibilidades é TAXATIVO — contador não está lá.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a pegadinha clássica é misturar incompatibilidade com publicidade conjunta. Contador é profissão liberal — não está no Art. 28. Mas o § 3º do Art. 1º veda divulgação conjunta de advocacia com qualquer outra atividade. As duas regras coexistem.",
-    "analise": "A) Errada: não há incompatibilidade — Pedro PODE exercer as duas atividades. B) Errada: há restrição — a publicidade conjunta é vedada. C) CORRETA: pode exercer ambas, mas é vedada a publicidade conjunta das duas atividades. D) Errada: mala direta e panfletos são vedados para a advocacia de qualquer forma (não só nesse caso)."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 28 (rol <strong>taxativo</strong> de incompatibilidades): contador autônomo não está listado — Pedro pode exercer ambas as atividades. Art. 1º, § 3º: \"É vedada a divulgação de advocacia em conjunto com outra atividade profissional.\" CED, Art. 42: \"Ao advogado é vedado identificar-se, em qualquer meio de divulgação, com mais de uma atividade profissional.\"</p>",
+    "dica": "<p><strong>Contador ≠ incompatibilidade</strong> (não está no art. 28 — rol taxativo). Mas <strong>publicidade conjunta</strong> advocacia + outra atividade = sempre vedada (art. 1º, § 3º). A questão combina os dois temas para confundir. Distrator A erra ao supor incompatibilidade.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 1,
@@ -92,12 +92,12 @@
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
     "id": 7,
-    "sintese": "Reabilitação disciplinar: quando a infração disciplinar corresponde a crime doloso, exige-se primeiro a reabilitação criminal para só então contar o prazo de 1 ano para a reabilitação na OAB.",
-    "logica_conceito": "Daniel cometeu infração que também foi crime doloso. Para a reabilitação profissional na OAB, o Art. 41 exige: (1) comprovação de bom comportamento por 1 ano E (2) reabilitação criminal correspondente. Ambos os requisitos são cumulativos. Se não há reabilitação criminal ainda, não pode haver reabilitação profissional, independentemente de quanto tempo passou.",
-    "fundamentacao": "EAOAB, Art. 41: 'A reabilitação profissional depende de: I - comprovação de bom comportamento, pelo prazo de um ano; II - reabilitação criminal correspondente, na hipótese de a infração ter correspondência com crime de natureza dolosa.'",
-    "dica": "Reabilitação quando há crime doloso: DOIS requisitos cumulativos — 1 ano de bom comportamento + reabilitação criminal. Sem a criminal, não há reabilitação profissional. Essa sequência é o que mais cai.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): Daniel não pode ser reabilitado apenas pelo prazo de 1 ano — enquanto não obtiver a reabilitação criminal, a porta da reabilitação profissional permanece fechada. O Art. 41, II é claro: exige-se reabilitação criminal 'correspondente' ao delito que gerou a infração disciplinar.",
-    "analise": "A) Errada: o prazo de 1 ano não basta quando há crime doloso correspondente — exige também reabilitação criminal. B) CORRETA: mais de 1 ano passou, mas Daniel ainda não obteve reabilitação criminal — portanto, a reabilitação profissional não pode ser concedida. C) Errada: bom comportamento é necessário mas não suficiente (falta reabilitação criminal). D) Errada: o pedido vai ao Conselho Seccional que aplicou a pena, não ao Conselho Federal."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, <strong>Art. 41</strong>: a reabilitação profissional pode ser requerida após <strong>1 (um) ano</strong> do cumprimento da sanção disciplinar. Condição especial: quando a conduta que gerou a sanção disciplinar também constitui <strong>infração criminal</strong>, o prazo de 1 ano somente começa a correr <em>após a reabilitação criminal</em> — a instância criminal precede a disciplinar nesse caso.</p>",
+    "dica": "<p>Reabilitação disciplinar = <strong>1 ano</strong> do cumprimento (Art. 41). Mas se a conduta também é <strong>crime</strong>: precisa primeiro da <em>reabilitação criminal</em> — só então começa o prazo de 1 ano (B certa). Distrator A erra ao dizer que é direito subjetivo imediato após 1 ano (ignora a condição criminal). D erra o órgão — é o Conselho Seccional, não o Conselho Federal.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 5,
@@ -117,11 +117,11 @@
     "modulo_codigo": "01_orgaos_da_oab",
     "modulo_nome": "Órgãos da OAB",
     "id": 14,
-    "sintese": "Marcos exerceu atos privativos de advogado sem inscrição na OAB (usou carteira de inscrito sem ser inscrito). A sanção cabível é censura, aplicável após manifestação do Conselho Seccional.",
-    "logica_conceito": "Marcos não é advogado inscrito — usou carteira falsa ou de terceiro. O EAOAB tipifica como infração disciplinar a prática de atos de advocacia sem inscrição. Para o estagiário que pratica atos além do autorizado, a sanção é censura. Aqui, por analogia ao Art. 9º, o procedimento disciplinar depende da manifestação do Conselho Seccional.",
-    "fundamentacao": "EAOAB, Art. 9º, § 2º: 'O estagiário regularmente inscrito e devidamente habilitado pode praticar os atos previstos no art. 29, do Regulamento Geral, sob a responsabilidade do advogado.' Art. 35: 'As sanções disciplinares consistem em: I - censura; II - suspensão; III - exclusão; IV - multa.' Art. 36, parágrafo único: para estagiário, a censura pode ser convertida em advertência.",
-    "dica": "Para estagiário: a ÚNICA penalidade possível é censura (jamais suspensão, exclusão ou multa). E a sanção exige processo disciplinar com manifestação do conselho — não é automática.",
-    "aula_comentario": "Prof. Fetter (CEISC): estagiário que ultrapassa os limites do Art. 29 do Regulamento Geral responde disciplinarmente, mas a única sanção que pode receber é censura. A suspensão é vedada para estagiário. E qualquer sanção precisa de processo disciplinar regular com ampla defesa.",
-    "analise": "A) Errada: a competência para PAD não é automaticamente do Conselho Federal; a gravidade do ato não desloca a competência. B) CORRETA: para aplicar a sanção disciplinar ao estagiário é necessária manifestação do órgão competente da OAB após processo regular. C) Errada: a sanção para estagiário não é suspensão — é censura. D) Errada: não há prescrição com base no prazo de 2 anos — a prescrição da pretensão punitiva é de 5 anos (Art. 43)."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, <strong>Art. 35, III</strong>: a <em>exclusão</em> é uma das 4 sanções disciplinares (censura, suspensão, exclusão, multa). <strong>Art. 38, Parágrafo único</strong>: \"Para a aplicação da sanção disciplinar de exclusão, é necessária a manifestação favorável de <strong>dois terços dos membros do Conselho Seccional competente.</strong>\" Causas de exclusão (Art. 38): aplicação por três vezes de suspensão, ou infrações dos incisos XXVI a XXVIII do art. 34.</p>",
+    "dica": "<p>Exclusão = <strong>2/3 dos membros do Conselho Seccional</strong> (Art. 38, §2º). A gravidade NÃO atrai competência do Conselho Federal (A erra). Sanção = exclusão, não suspensão (C erra). Prescrição: corre do <em>conhecimento</em> da infração — denúncia recente afasta D.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

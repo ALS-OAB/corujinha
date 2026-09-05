@@ -150,5 +150,30 @@
     "modulo_codigo": "03_peticao_inicial_tutelas",
     "modulo_nome": "Petição Inicial e Tutelas Provisórias",
     "id": 8
+  },
+  {
+    "num": 57,
+    "enunciado": "A sociedade empresária Vesta Construções e Serviços Ltda. propôs\ntutela cautelar, requerida em caráter antecedente, contra a\nsociedade empresária Minerva Incorporações Ltda., fundada em\ncontrato de construção civil e fornecimento de serviços, que contém\ncláusula arbitral para a resolução de quaisquer controvérsias\nadvindas desse contrato. Vesta Construções e Serviços Ltda. figura\ncomo parte contratada e Minerva Incorporações Ltda. como parte\ncontratante.\nVesta Construções e Serviços Ltda. alega que, embora tenha\nexecutado os serviços previstos no contrato, Minerva Incorporações\nLtda. aplicou multas contratuais em razão de atraso no cronograma\ndas obras, as quais alega que não seriam devidas. Por essa razão,\nVesta Construções e Serviços Ltda. ingressou com a tutela cautelar\nem caráter antecedente e requereu que fosse concedida tutela de\nurgência para impedir que Minerva Incorporações Ltda. realize\nquaisquer atos de cobrança das multas aplicadas à Vesta Construções\ne Serviços Ltda.\nA tutela de urgência foi totalmente deferida pelo magistrado em\nfavor de Vesta Construções e Serviços Ltda.\nNa qualidade de advogado(a) de Vesta Construções e Serviços Ltda.\nassinale a opção que apresente a medida processual a ser adotada,\nem razão do deferimento da tutela cautelar.",
+    "alternativas": {
+      "A": "Formular o pedido principal nos mesmos autos da tutela cautelar\nrequerida em caráter antecedente, dentro do prazo de 30 (trinta)\ndias a contar da data da efetivação da tutela cautelar.",
+      "B": "Requerer a instauração da arbitragem dentro do prazo de 30\n(trinta) dias a contar da data da efetivação da tutela cautelar.",
+      "C": "Formular o pedido principal nos mesmos autos da tutela cautelar\nrequerida em caráter antecedente, dentro do prazo de 15\n(quinze) dias, ou em outro prazo maior que o juiz fixar, a contar\nda data da efetivação da tutela cautelar.",
+      "D": "Requerer a instauração da arbitragem dentro do prazo de 15\n(quinze) dias, ou em outro prazo maior que o juiz fixar, a contar\nda data da efetivação da tutela cautelar."
+    },
+    "gabarito": "B",
+    "disciplina": "Processo Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "modulo_codigo": "03_peticao_inicial_tutelas",
+    "modulo_nome": "Petição Inicial e Tutelas Provisórias",
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CPC, Art. 308: \"Efetivada a tutela cautelar, o pedido principal terá de ser formulado pelo autor no prazo de 30 (trinta) dias, caso não tenha sido formulado junto com o requerimento de tutela cautelar.\" Lei 9.307/96, Art. 22-A, parágrafo único (Lei 13.129/2015): \"Cessa a eficácia da medida cautelar ou de urgência se a parte interessada não requerer a instauração da arbitragem no prazo de 30 (trinta) dias, contado da data de efetivação da respectiva medida.\" Havendo cláusula compromissória, o <strong>pedido principal</strong> é a <strong>instauração da arbitragem</strong> — não o formulado nos mesmos autos judiciais.</p>",
+    "dica": "<p>Cláusula arbitral no contrato = pedido principal por <strong>arbitragem</strong> (não nos autos do Judiciário). Prazo: <strong>30 dias</strong> da efetivação (Art. 22-A §único Lei 9.307/96). Mata A e C (foro errado — juízo cível, não árbitro). Mata D (prazo 15 dias — inventado). B combina foro correto (arbitragem) + prazo correto (30 dias).</p>"
   }
 ]

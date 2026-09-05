@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_licitacoes_contratos",
     "modulo_nome": "Licitações e Contratos Administrativos (Lei nº 14.133/21)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.079/2004 (PPP), Art. 2º, §4º, III:</strong> \"Não constituem parceria público-privada (...) o contrato que tenha como objeto único o fornecimento de mão de obra.\" <strong>Art. 2º, §1º:</strong> concessão administrativa = contrato de prestação de serviços em que a Administração é usuária direta ou indireta.</p>",
+    "dica": "<p>PPP para sistema carcerário = <strong>concessão administrativa</strong> válida. Proibição: objeto <em>único</em> = mão de obra. Como inclui gestão, manutenção e operação = objeto composto → permitido. PPP: prazo mínimo 5 anos, máximo 35 anos; valor mínimo R$ 10 milhões.</p>"
   },
   {
     "num": 30,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "04_licitacoes_contratos",
     "modulo_nome": "Licitações e Contratos Administrativos (Lei nº 14.133/21)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Súmula 15 STF:</strong> \"Dentro do prazo de validade do concurso, o candidato aprovado tem o direito à nomeação, quando o cargo for preenchido sem observância da classificação.\" <strong>CF/88, Art. 37, II e IV</strong>: acesso por concurso + validade. Candidato preterido pode impugnar administrativamente e via mandado de segurança.</p>",
+    "dica": "<p>Aprovado em concurso vigente, cargo preenchido por outros meios → <strong>direito subjetivo à nomeação</strong> (Súmula 15 STF). Estratégia: 1º pedido de reconsideração ao superior hierárquico; 2º mandado de segurança judicial se não atendido. Prazo: 120 dias a partir da ciência da preterição.</p>"
   },
   {
     "num": 33,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_licitacoes_contratos",
     "modulo_nome": "Licitações e Contratos Administrativos (Lei nº 14.133/21)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.987/95, Art. 2º, IV:</strong> \"Permissão de serviço público: a delegação, a título precário, mediante licitação, da prestação de serviços públicos, feita pelo poder concedente à <em>pessoa física ou jurídica</em> que demonstre capacidade para seu desempenho, por sua conta e risco.\"</p>",
+    "dica": "<p>Permissão de serviço público = precária + revogável a qualquer tempo + pessoa física <em>ou</em> jurídica. <strong>Concessão</strong> = contratual + prazo definido + somente pessoa jurídica ou consórcio (Art. 2º, II Lei 8.987/95). Licitação é obrigatória nos dois casos.</p>"
   },
   {
     "num": 31,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_licitacoes_contratos",
     "modulo_nome": "Licitações e Contratos Administrativos (Lei nº 14.133/21)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.784/99, Art. 55:</strong> \"Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração.\"</p>",
+    "dica": "<p>Convalidação de atos administrativos: vícios <strong>sanáveis</strong> = forma (quando não essencial) e competência relativa. Vícios insanáveis = objeto ilícito, finalidade desviada → nulidade obrigatória. Convalidação é <strong>discricionária</strong> da Administração (pode anular ou convalidar).</p>"
   },
   {
     "num": 30,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "04_licitacoes_contratos",
     "modulo_nome": "Licitações e Contratos Administrativos (Lei nº 14.133/21)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 173, §1º, II:</strong> empresa pública e sociedade de economia mista sujeitam-se ao regime jurídico das empresas privadas, inclusive quanto a direitos e obrigações civis. STF (RE 599628): bens de SEM exploradora de atividade econômica são <em>penhoráveis</em>.</p>",
+    "dica": "<p>SEM exploradora de atividade econômica = regime <strong>privado</strong> → bens <strong>penhoráveis</strong>. SEM prestadora de serviço público essencial = possível impenhorabilidade dos bens <em>afetados</em> ao serviço. Distinção fundamental para execução de crédito contra entidade estatal.</p>"
   },
   {
     "num": 33,
@@ -111,6 +141,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_licitacoes_contratos",
     "modulo_nome": "Licitações e Contratos Administrativos (Lei nº 14.133/21)",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 38, III:</strong> \"Investido no mandato de Prefeito, será afastado do cargo, emprego ou função, sendo-lhe facultada a opção pela sua remuneração.\" <strong>Lei 8.112/90, Art. 94:</strong> afastamento para exercício de mandato eletivo.</p>",
+    "dica": "<p>Servidor que vira Prefeito: <strong>afastamento obrigatório</strong> + opção pela remuneração (cargo ou mandato). Vereador: pode acumular com cargo público se os horários forem compatíveis (CF/88 Art. 38, IV). Afastamento para Prefeito não é voluntário — é imposto.</p>"
   }
 ]

@@ -16,7 +16,14 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 96, III + Art. 125, §1º:</strong> foro por prerrogativa do Defensor Público estadual é definido pela Constituição Estadual (art. 125, §1º). <strong>CF/88, Art. 109:</strong> crimes comuns praticados por DP estadual: Tribunal de Justiça Estadual (se previsto na CE). Gregório = DP no RJ com foro no TJRJ pela CE-RJ; crime praticado na Bahia = competência territorial do TJ do RJ (foro segue a pessoa, não o local).</p>",
+    "dica": "<p>Foro por prerrogativa: segue o <strong>cargo</strong>, não o local do crime. Defensor Público estadual do RJ com foro no TJRJ pela CE-RJ: mesmo que o crime ocorra na BA, o foro é o <strong>Tribunal do Júri da comarca de Salvador... não</strong> — é o Tribunal competente pelo cargo. Gabarito A: TJRJ (foro previsto na CE-RJ).</p>",
+    "revisar_manual": true
   },
   {
     "num": 64,
@@ -35,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LEP, Art. 112:</strong> progressão de regime. Condenado por latrocínio tentado (crime hediondo — Lei 8.072/90): progressão exige cumprimento de <strong>40%</strong> da pena (primário) ou <strong>60%</strong> (reincidente). Júnior: 8 anos e 6 meses, primário → 40% = 3 anos e 4 meses. Verificar se já cumpriu + classificar para regime semiaberto que permita trabalho/estudo.</p>",
+    "dica": "<p>Latrocínio = crime hediondo → progressão de regime: <strong>40%</strong> (primário) ou 60% (reincidente) — Lei 8.072/90 Art. 2º, §2º + LEP Art. 112. Depois de cumprir o requisito + bom comportamento: pedir <strong>progressão + classificação para trabalho/estudo</strong> no regime semiaberto.</p>"
   },
   {
     "num": 66,
@@ -54,7 +67,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 474, §3º:</strong> o uso de algemas durante o julgamento no Júri é excepcional — Súmula Vinculante 11 STF: uso de algemas somente em casos de resistência, fundado receio de fuga ou de perigo à integridade de terceiros. Algemamento ilegal durante o Júri = <strong>nulidade absoluta</strong> (viola a presunção de inocência e influencia os jurados).</p>",
+    "dica": "<p>Algemação no Júri sem justificativa = <strong>nulidade absoluta</strong> (SV 11 STF). Deve ser arguida imediatamente na sessão pelo advogado de defesa. Se não arguida na sessão: possível preclusão? Entendimento: nulidade absoluta não preclui. Recurso adequado: apelação (Art. 593, III CPP).</p>"
   },
   {
     "num": 68,
@@ -73,7 +92,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CP, Art. 2º, parágrafo único:</strong> \"A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.\" <strong>LEP, Art. 66, I:</strong> compete ao Juiz da Execução aplicar lei penal mais benéfica superveniente.</p>",
+    "dica": "<p>Lei mais benéfica posterior à condenação: aplica-se <em>retroativamente</em>, inclusive após o trânsito em julgado. Quem aplica: <strong>Juiz da Execução Penal</strong> (LEP Art. 66, I). Não é necessário revisão criminal. Peticionar diretamente ao Juiz da VEP com a nova lei e demonstrar o benefício concreto.</p>"
   },
   {
     "num": 65,
@@ -92,7 +117,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 593, III, a:</strong> apelação cabível das decisões do Tribunal do Júri. Efeito devolutivo: restrito aos fundamentos da apelação. Gabarito A: \"efeito devolutivo restrito aos fundamentos da apelação.\" <strong>CPP, Art. 599:</strong> as apelações poderão ser interpostas quer quanto a todo o julgamento, quer quanto a parte dele.</p>",
+    "dica": "<p>Apelação do Júri (Art. 593, III CPP): efeito devolutivo = limitado às <strong>razões do recurso</strong> (princípio tantum devolutum quantum appellatum). O Tribunal não pode rever além do que foi impugnado. Prazo: 5 dias para interpor + 8 dias para razões (Art. 600 CPP). Não há reformatio in pejus se só a defesa recorreu.</p>"
   },
   {
     "num": 63,
@@ -111,7 +142,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 648, VI:</strong> a coação é ilegal quando o processo é manifestamente nulo. Sentença por menoridade fictícia (réu era menor de 18 na época dos fatos): <strong>habeas corpus</strong> cabível para nulidade absoluta da sentença + absolvição por falta de pressuposto processual (imputabilidade).</p>",
+    "dica": "<p>Lucas era menor de 18 na época do fato: <strong>inimputável</strong> (CP Art. 27). Sentença penal condenatória = nula de pleno direito. Remédio: <strong>habeas corpus</strong> alegando nulidade absoluta da sentença (CPP Art. 648, VI). Mesmo após trânsito em julgado: HC cabível para nulidade absoluta (Súmula 693 STF não se aplica — há prova líquida de nulidade).</p>"
   },
   {
     "num": 65,
@@ -130,6 +167,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_nulidades_decisoes",
     "modulo_nome": "Nulidades e Sentença Penal",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 7º, XIV (EAOAB, Art. 7º, XIV):</strong> é direito do advogado \"examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estejam sujeitos a sigilo.\" Inquérito policial com diligências concluídas: advogado do investigado tem acesso assegurado (Súmula Vinculante 14 STF).</p>",
+    "dica": "<p>Advogado do investigado tem <strong>acesso aos autos do IP</strong> já documentados/concluídos (SV 14 STF + EAOAB Art. 7º, XIV). Diligências <em>em curso</em>: podem ser sigilosas. Quebra de sigilo bancário/fiscal já documentada: <strong>acessível</strong> ao advogado constituído. Recusa = ilegalidade; remédio: HC ou mandado de segurança.</p>"
   }
 ]

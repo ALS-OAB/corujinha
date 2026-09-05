@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_organizacao_sindical",
     "modulo_nome": "Direito Coletivo do Trabalho e Organização Sindical",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 58, §2º:</strong> \"O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador.\" Chegada antecipada: Sabrina chega 5min antes e permanece aguardando = tempo à disposição? Não se for de livre escolha dela.</p>",
+    "dica": "<p>Tempo gasto <em>antes</em> da marcação do ponto por iniciativa do empregado: <strong>não é jornada</strong> (CLT Art. 58, §2º). Sabrina chegava 5min antes por escolha própria = não há desconto nem cômputo. Gabarito D: o período extra não será descontado nem computado na jornada — é neutro. Diferente se o empregador exigisse a presença antecipada.</p>"
   },
   {
     "num": 73,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_organizacao_sindical",
     "modulo_nome": "Direito Coletivo do Trabalho e Organização Sindical",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 391-A</strong> + <strong>CF/88, Art. 10, II, b ADCT:</strong> \"Fica vedada a dispensa arbitrária ou sem justa causa da empregada gestante, desde a confirmação da gravidez até cinco meses após o parto.\" Demissão em massa (reestruturação): gestante identificada tem estabilidade mesmo em demissão coletiva (TST: estabilidade gestante prevalece sobre demissão coletiva).</p>",
+    "dica": "<p>Estabilidade gestante: da <strong>confirmação da gravidez</strong> até <strong>5 meses após o parto</strong> (CF/88 Art. 10, II, b ADCT + CLT Art. 391-A). Independe de o empregador saber da gravidez no momento da demissão — é <em>objetiva</em> (STF Súmula 244 TST + STF). Vale mesmo em demissão coletiva. Reintegração ou indenização compensatória.</p>"
   },
   {
     "num": 71,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_organizacao_sindical",
     "modulo_nome": "Direito Coletivo do Trabalho e Organização Sindical",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 472:</strong> afastamento para prestar serviço militar não rescinde o contrato. <strong>Art. 472, §1º:</strong> o período de afastamento por serviço militar conta para aposentadoria mas o empregador não é obrigado a depositar FGTS durante o afastamento pelo empregador. <strong>Lei 8.036/90, Art. 15, §5º:</strong> depósito do FGTS durante o serviço militar = obrigação do INSS, não do empregador. Tempo conta para a contagem do período de contrato.</p>",
+    "dica": "<p>Serviço militar obrigatório: contrato de trabalho <strong>suspenso</strong> (CLT Art. 472). Tempo de afastamento: <strong>conta</strong> para fins de contagem de tempo de serviço (aposentadoria, férias, FGTS). FGTS durante o serviço militar: INSS deposita (não o empregador). Ao retornar, empregado retoma o emprego (mesmo cargo/salário).</p>"
   },
   {
     "num": 74,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "06_organizacao_sindical",
     "modulo_nome": "Direito Coletivo do Trabalho e Organização Sindical",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 130:</strong> empregado adquire o direito a férias após cada 12 meses de vigência do contrato. Leopoldo: cumprindo jornada de 12h × 36h (escala de trabalho temporário): verifica-se se é empregado com CTPS. Terceirizado com CTPS = empregado com todos os direitos, inclusive <strong>30 dias de férias</strong> se não houver faltas injustificadas (Art. 130, I).</p>",
+    "dica": "<p>Auxiliar de limpeza terceirizado com CTPS anotada: <strong>empregado urbano</strong> com todos os direitos. Férias: <strong>30 dias</strong> após 12 meses de vigência do contrato (CLT Art. 130, I — sem faltas injustificadas). Empresa de terceirização = empregadora. Empresa tomadora: responsabilidade subsidiária pelos créditos trabalhistas (Súmula 331 TST).</p>"
   },
   {
     "num": 74,
@@ -92,7 +116,14 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_organizacao_sindical",
     "modulo_nome": "Direito Coletivo do Trabalho e Organização Sindical",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 11, §2º</strong> (suspensão da prescrição): enquanto o empregado recebe benefício previdenciário que impede seu trabalho, a prescrição trabalhista fica <strong>suspensa</strong>. Giovana em auxílio temporário por incapacidade há 6 anos: prescrição suspensa durante o benefício. Ajuizar agora = aproveitável; mas verificar o período não prescrito após eventual retorno.</p>",
+    "dica": "<p>Auxílio por incapacidade temporária (auxílio-doença): <strong>suspende</strong> a prescrição trabalhista enquanto dura o benefício (CLT Art. 11, §2º). Prescrição volta a correr quando o empregado pode trabalhar novamente. Gabarito A: desaconselhável a demanda pois a prescrição está suspensa mas algum prazo pode ter corrido antes — avaliar se ainda há parcelas não prescritas.</p>",
+    "revisar_manual": true
   },
   {
     "num": 72,
@@ -111,6 +142,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_organizacao_sindical",
     "modulo_nome": "Direito Coletivo do Trabalho e Organização Sindical",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 7º, XXXIII:</strong> \"proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos.\" Menor de 14 anos: vedado qualquer trabalho. Menor de 14 a 16 anos: somente como <strong>aprendiz</strong>.</p>",
+    "dica": "<p>Trabalho do menor: vedado antes de <strong>14 anos</strong> (absolutamente). De 14 a 16 anos: somente como <strong>aprendiz</strong> (CF/88 Art. 7º, XXXIII). De 16 a 18 anos: pode trabalhar normalmente, vedado trabalho noturno (22h-5h), perigoso e insalubre. ONG pode inserir menores a partir de 14 anos como aprendizes (CLT Art. 428).</p>"
   }
 ]

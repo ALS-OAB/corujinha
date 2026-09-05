@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.869/2019, Art. 4º, §1º</strong>: além das penas previstas, o juiz pode aplicar como <strong>pena substitutiva</strong> a suspensão do exercício do cargo, da função ou do mandato, pelo prazo de <strong>1 a 6 meses</strong>, com a perda dos vencimentos e das vantagens. A perda do cargo não é efeito automático (exige pena superior a 4 anos — CP Art. 92, I).</p>",
+    "dica": "<p>Lei de Abuso de Autoridade prevê <strong>suspensão do cargo por 1 a 6 meses</strong> como pena substitutiva específica. Perda do cargo <strong>não</strong> é automática com 1 ano e 2 meses de pena (exigiria pena superior a 4 anos). Indenização não depende de reincidência específica.</p>"
   },
   {
     "num": 66,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 130</strong>: o terceiro prejudicado pode opor embargos ao sequestro, alegando: (I) não ter o bem sido adquirido com os proventos da infração; ou (II) ter o terceiro adquirido o bem <strong>de boa-fé e a título oneroso</strong>. A falta de registro não impede a proteção ao adquirente de boa-fé no âmbito criminal.</p>",
+    "dica": "<p>Terceiro prejudicado tem legitimidade para <strong>embargos ao sequestro</strong> (CPP Art. 130). Margot pode embargar alegando <strong>boa-fé e título oneroso</strong> — alternativa B correta. Distrator D erra porque esse fundamento é para o próprio acusado, não para terceiro de boa-fé.</p>"
   },
   {
     "num": 68,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 28-A, §2º</strong>: o ANPP não se aplica se o investigado for <strong>reincidente</strong> ou se houver elementos probatórios que indiquem conduta criminal habitual. Arthur: condenado com trânsito em julgado = reincidente se condenado novamente = <strong>não</strong> pode. Fernanda: sursis processual extinto regularmente ≠ condenação = é tecnicamente condenada, impedida. Bruno: sem trânsito em julgado = não é reincidente = <strong>pode</strong>. Camille: absolvida = sem condenação = <strong>pode</strong>.</p>",
+    "dica": "<p>ANPP vedado para <strong>reincidente</strong> (condenação com trânsito em julgado anterior). Arthur = reincidente ❌. Fernanda = suspensão processual cumprida equivale a condenação extinta, veda ANPP ❌. Bruno (condenação sem trânsito) ✓. Camille (absolvida, recurso MP pendente) ✓.</p>"
   },
   {
     "num": 64,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 129, I</strong>: ao Ministério Público compete privativamente promover a ação penal pública. O sistema <strong>acusatório</strong> caracteriza-se pela separação entre quem acusa (MP), quem julga (Juiz) e quem defende (advogado), com o acusado como sujeito de direitos, contraditório e presunção de inocência. O inquisitivo concentra acusar e julgar na mesma autoridade.</p>",
+    "dica": "<p>Sistema <strong>acusatório</strong>: juiz imparcial + MP acusador separado + acusado com direitos + presunção de inocência. Sistema inquisitivo: mesma autoridade acusa e julga, sigilo, acusado como objeto. \"Misto\" tem fase inquisitorial (IP) + fase acusatória (processo) — Alfa é claramente acusatório pelos indícios.</p>"
   },
   {
     "num": 67,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XII</strong>: é inviolável o sigilo das comunicações de dados, salvo ordem judicial. O ingresso em domicílio em perseguição de flagrante é válido (CF Art. 5º, XI — flagrante como exceção). A <strong>apreensão física</strong> do celular é válida; mas o <strong>acesso ao conteúdo dos dados</strong> exige autorização judicial específica (STJ/STF — sem mandado, prova ilícita).</p>",
+    "dica": "<p>Ingresso em domicílio durante perseguição de flagrante = <strong>válido</strong> (até de noite). Apreensão física do celular = válida. Mas <strong>acesso ao conteúdo do celular</strong> (dados, conversas) exige <strong>ordem judicial</strong> — sem ela, prova ilícita. Distrator B erra: flagrante autoriza ingresso noturno em domicílio.</p>"
   },
   {
     "num": 63,
@@ -111,11 +141,17 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 593, II</strong>: caberá apelação das decisões definitivas, ou com força de definitivas, proferidas por juiz singular. A rejeição da queixa é decisão com força definitiva que põe fim ao processo sem julgamento do mérito. Injúria (pena máx. 6 meses) não é abrangida pelo JECrim se for privada e o querelante recorrer — cabe apelação ao Tribunal.</p>",
+    "dica": "<p>Rejeição de queixa-crime = decisão com <strong>força de definitiva</strong> → cabe <strong>apelação</strong> (CPP Art. 593, II). Não se confunde com RESE (que cabe em hipóteses específicas do Art. 581). Recurso inominado é do JECrim. Agravo não tem previsão nesse contexto.</p>"
   },
   {
     "num": 67,
-    "enunciado": "Caim, desejando matar Abel, lhe ofereceu um pastel de camarão durante uma festa, sabendo que esse alimento lhe causaria severa alergia. Abel consumiu o pastel oferecido por Caim, além de diversos outros salgados e, em sequência, teve uma violenta crise alérgica, vindo a falecer.\n\nAcionada a polícia, os investigadores recolheram, em um mesmo invólucro, todos os alimentos da festa, os quais foram submetidos à perícia, que concluiu que “todos os alimentos periciados contêm traços de camarão em quantidade suficiente para causar a morte da vítima, da forma como ocorreu, não se podendo precisar se a contaminação de tais alimentos ocorreu durante o preparo, na cozinha, ou durante o recolhimento pela Polícia.”\n\nA necropsia revelou que o consumo de substância alergênica causou a morte de Abel. Sabe-se, ainda, que não é mais possível repetir a colheita de vestígios e a perícia dos alimentos. Assim, Caim foi denunciado pelo homicídio doloso de Abel.\n\nComo advogado de Caim, é correto afirmar que a quebra da cadeia de custódia enseja",
+    "enunciado": "Caim, desejando matar Abel, lhe ofereceu um pastel de camarão durante uma festa, sabendo que esse alimento lhe causaria severa alergia. Abel consumiu o pastel oferecido por Caim, além de diversos outros salgados e, em sequência, teve uma violenta crise alérgica, vindo a falecer.\n\nAcionada a polícia, os investigadores recolheram, em um mesmo invólucro, todos os alimentos da festa, os quais foram submetidos à perícia, que concluiu que \"todos os alimentos periciados contêm traços de camarão em quantidade suficiente para causar a morte da vítima, da forma como ocorreu, não se podendo precisar se a contaminação de tais alimentos ocorreu durante o preparo, na cozinha, ou durante o recolhimento pela Polícia.\"\n\nA necropsia revelou que o consumo de substância alergênica causou a morte de Abel. Sabe-se, ainda, que não é mais possível repetir a colheita de vestígios e a perícia dos alimentos. Assim, Caim foi denunciado pelo homicídio doloso de Abel.\n\nComo advogado de Caim, é correto afirmar que a quebra da cadeia de custódia enseja",
     "alternativas": {
       "A": "a ausência de fiabilidade do laudo de necrópsia.",
       "B": "a ausência de prova fiável do nexo de causalidade.",
@@ -130,6 +166,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_competencia_jurisdicao",
     "modulo_nome": "Jurisdição e Competência Processual Penal",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Arts. 158-A a 158-F</strong> (cadeia de custódia): os vestígios devem ser coletados, acondicionados e preservados de forma que assegure a autenticidade e integridade. Quando os alimentos foram misturados num mesmo invólucro, rompeu-se a cadeia de custódia — o laudo não consegue determinar <strong>qual</strong> alimento causou a morte, tornando o nexo de causalidade <strong>não comprovado de forma fiável</strong>.</p>",
+    "dica": "<p>Quebra da cadeia de custódia não necessariamente nulifica todo o processo — torna a <strong>prova específica sem fiabilidade</strong>. Aqui o dano é: sem saber qual alimento contaminou, não há prova fiável do <strong>nexo causal</strong> entre a conduta de Caim e a morte. A necrópsia (causa mortis) é válida — o problema é identificar o <em>responsável</em> pela contaminação.</p>"
   }
 ]

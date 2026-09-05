@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 155, §4°, II: furto qualificado \"<strong>mediante fraude</strong>.\" Ygor usou a semelhança física com Eduardo (porteiro) para se fazer passar por ele e ingressar no condomínio — fraude para facilitar a subtração. Não é estelionato (Art. 171) porque na fraude do estelionato a vítima é induzida em erro e entrega voluntariamente; no furto mediante fraude, a vítima apenas tem sua vigilância reduzida.</p>",
+    "dica": "<p>Fraude para reduzir a vigilância da vítima + subtração = <strong>furto qualificado mediante fraude</strong> (A certa). B erra: estelionato exige que a vítima entregue voluntariamente o bem enganada. C erra: falsa identidade (Art. 307) é absorvida pelo furto qualificado (princípio da consunção). D erra: abuso de confiança pressupõe relação prévia de confiança com a vítima.</p>"
   },
   {
     "num": 58,
@@ -35,7 +41,14 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Lei 13.869/19 (Lei de Abuso de Autoridade), Art. 9°, I ou Art. 12: manter alguém preso além do prazo legal configura abuso de autoridade. Xavier, diretor da unidade prisional, prolongou a prisão temporária de Maciel sem motivo justo e excepcional — conduta dolosa que excede os poderes do cargo. Crime: <strong>abuso de autoridade</strong>.</p>",
+    "dica": "<p>Manter preso além do prazo sem fundamento legal = <strong>abuso de autoridade</strong> (Lei 13.869/19) (B certa). A erra: corrupção passiva pressupõe solicitar/receber vantagem. C erra: desobediência (Art. 330) é praticada por particular que descumpre ordem de funcionário público — não o inverso. D erra: o alvará foi cumprido por Maciel, mas Xavier manteve a prisão antes disso.</p>",
+    "revisar_manual": false
   },
   {
     "num": 60,
@@ -54,7 +67,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Lei 11.340/06 (Maria da Penha), Art. 24-A (Lei 13.641/2018): \"Descumprir decisão judicial que deferir medidas protetivas de urgência previstas nesta Lei. §1°: A configuração do crime independe da competência civil ou criminal do juiz que deferiu as medidas.\" <strong>Ação penal pública incondicionada</strong>. Art. 24-A, §2°: flagrante — fiança só por autoridade judicial (não significa inafiançável).</p>",
+    "dica": "<p>Descumprir medida protetiva = <strong>crime de ação penal pública incondicionada</strong> (A certa). B erra: o crime não é inafiançável — só a concessão de fiança é reservada ao juiz. C erra: não é contravenção — é crime. D erra: Paulo cometeu crime (não mera irregularidade).</p>"
   },
   {
     "num": 62,
@@ -73,7 +92,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 111, V (Lei 12.650/2012): \"<strong>Para os crimes previstos no art. 109, praticados contra criança ou adolescente, o prazo prescricional começa a fluir a partir do dia em que a vítima completar 18 anos</strong>.\" Estupro de vulnerável (pena 8-15 anos) → prescrição em 20 anos (Art. 109, I). Enzo completou 18 anos neste mês → prazo de 20 anos começa <em>agora</em> → longe de se consumar.</p>",
+    "dica": "<p>Crime contra criança/adolescente: prazo prescricional só começa a correr quando a vítima completa <strong>18 anos</strong> (Art. 111, V) (C certa). A erra: o crime não é imprescritível (imprescritíveis = racismo, ação de grupos armados). B erra: não há redução do prazo pela minoridade do autor. D erra: o prazo de 20 anos começa dos 18 anos, não da data do fato.</p>"
   },
   {
     "num": 58,
@@ -92,7 +117,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 44, I: substituição de PPL por PRD é vedada quando o crime for \"<strong>cometido com violência ou grave ameaça à pessoa</strong>.\" Lesão corporal grave dolosa é cometida com violência (CP Art. 129, §1°). Mesmo que a reincidência em crime culposo não impeça isoladamente a substituição, <strong>o crime cometido com violência impede</strong> a substituição (D certa).</p>",
+    "dica": "<p>Lesão corporal grave dolosa = cometida com violência → <strong>substituição vedada</strong>, independentemente da natureza da reincidência (D certa). A erra: a reincidência culposa não impede, mas o crime atual com violência sim. B erra pelo mesmo motivo. C erra: a reincidência culposa, por si só, não veda — mas o crime com violência veda.</p>"
   },
   {
     "num": 60,
@@ -111,7 +142,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 16 (arrependimento posterior): \"Nos crimes cometidos <strong>sem violência ou grave ameaça à pessoa</strong>, reparado o dano ou restituída a coisa, <strong>até o recebimento da denúncia</strong>, por ato voluntário do agente, a pena será reduzida de um a dois terços.\" Marisa: crime patrimonial (estelionato previdenciário) sem violência + devolução voluntária antes da denúncia → arrependimento posterior.</p>",
+    "dica": "<p>Reparação do dano <em>antes</em> do recebimento da denúncia em crime sem violência = <strong>arrependimento posterior</strong> (Art. 16) → redução de 1 a 2/3 (C certa). A erra: desistência voluntária = abandono da execução antes de consumar. B erra: arrependimento eficaz = impede a consumação. D erra: devolver o dinheiro não é exercício regular de direito.</p>"
   },
   {
     "num": 62,
@@ -130,6 +167,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "06_crimes_dignidade_sexual",
     "modulo_nome": "Crimes contra a Dignidade Sexual",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 22: \"<strong>Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem.</strong>\" Bernardo agiu sob <strong>coação moral irresistível</strong> — a vida do filho estava em risco. Essa é uma causa de <strong>exclusão da culpabilidade</strong> por inexigibilidade de conduta diversa.</p>",
+    "dica": "<p>Coação moral irresistível (ameaça de morte ao filho) = <strong>exclusão da culpabilidade</strong> → Bernardo <em>isento de pena</em> (B certa). A erra: exercício regular de direito = conduta permitida pelo ordenamento — não é o caso. C erra: legítima defesa exige repulsa imediata à agressão injusta atual — não se aplica. D erra: Bernardo não chegou a ter posse do dinheiro para configurar furto consumado.</p>"
   }
 ]

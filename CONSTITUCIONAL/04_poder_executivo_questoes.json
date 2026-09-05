@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, VII:</strong> \"é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva.\" Hospitais se enquadram como entidades civis de internação coletiva — obrigados a permitir assistência religiosa, independentemente da orientação religiosa da instituição.</p>",
+    "dica": "<p>Hospital = entidade civil de internação coletiva → <strong>obrigado a permitir assistência religiosa</strong> de qualquer crença (Art. 5º, VII). A orientação religiosa do hospital não pode negar o direito do paciente. Distrator D (autonomia total da instituição privada) está errado.</p>"
   },
   {
     "num": 16,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 27, §1º:</strong> os Deputados Estaduais têm as mesmas <em>imunidades formais</em> dos membros do Congresso Nacional. <strong>Art. 53, §3º:</strong> recebida a denúncia contra Deputado Federal por crime cometido após a posse, a Casa pode sustar a ação penal (não é necessária autorização prévia para a denúncia). O mesmo regime se aplica a Deputados Estaduais.</p>",
+    "dica": "<p>Deputado Estadual = mesmas imunidades que Deputado Federal (Art. 27, §1º). Denúncia recebida → Casa Legislativa pode <strong>sustar</strong> a ação (A). Não há autorização prévia. Imunidade material (inviolabilidade) só cobre opiniões, palavras e votos — não crimes comuns fora do mandato.</p>"
   },
   {
     "num": 12,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 196:</strong> \"A saúde é direito de todos e dever do Estado…\" <strong>Art. 198:</strong> o SUS é de acesso universal e igualitário. Não exige nacionalidade, contribuição previdenciária ou comprovação de vínculo empregatício para atendimento.</p>",
+    "dica": "<p>SUS = <strong>universal e igualitário</strong> (Art. 196 + 198). Não exige: nacionalidade brasileira, ser trabalhador, contribuir para previdência. Atende qualquer pessoa no território, inclusive estrangeiros em situação irregular.</p>"
   },
   {
     "num": 15,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 60, §4º:</strong> cláusula pétrea — voto direto, secreto, universal e periódico. PEC que viola cláusula pétrea é inconstitucional. <strong>Controle preventivo:</strong> o STF admite mandado de segurança impetrado por parlamentar federal para impedir a votação de PEC que viole limitação constitucional expressa ao poder de emenda — direito subjetivo do parlamentar ao devido processo legislativo.</p>",
+    "dica": "<p>PEC que viola cláusula pétrea → controle preventivo via <strong>mandado de segurança por parlamentar federal</strong> no STF (B). Não cabe ADI (lei ainda não existe). Não cabe ADPF (tem outro meio). Legitimidade: apenas parlamentar, não partido político.</p>"
   },
   {
     "num": 11,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXXIII:</strong> \"qualquer cidadão é parte legítima para propor ação popular…\" Enzo é naturalizado brasileiro com candidatura deferida → é <em>cidadão</em> com direitos políticos. A ação popular deve ser proposta no juízo competente de primeiro grau, não no STF.</p>",
+    "dica": "<p>Ação popular: legitimidade = <strong>cidadão</strong> (nacional, inclusive naturalizado, com direitos políticos). Competência = juízo de 1º grau (não STF). Enzo naturalizado + direitos políticos = cidadão = legitimado. Distrator B erra a competência (STF).</p>"
   },
   {
     "num": 13,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 59:</strong> o processo legislativo compreende emendas à Constituição, leis complementares, ordinárias etc. O ADCT integra a CF/88, tendo <strong>hierarquia constitucional</strong> plena. Norma constitucional (ADCT) x lei estadual → controle de constitucionalidade (ADI) com parâmetro constitucional.</p>",
+    "dica": "<p>ADCT = norma <strong>constitucional</strong> (parte integrante da CF/88), não legal nem supralegal. Lei estadual que contraria o ADCT é inconstitucional → cabe ADI (C). Distratores A e B tentam rebaixar o ADCT a status infraconstitucional.</p>"
   },
   {
     "num": 15,
@@ -130,6 +166,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_poder_executivo",
     "modulo_nome": "Poder Executivo e Presidência da República",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 102, I, \"a\" + Lei 9.882/99 (ADPF), Art. 1º, parágrafo único, I:</strong> a ADI <strong>não</strong> é cabível contra lei pré-constitucional (anterior à CF/88) — nesse caso aplica-se o juízo de <em>recepção</em> ou não-recepção. A ADPF é o instrumento adequado, mas STF não admite fungibilidade quando o erro é grosseiro.</p>",
+    "dica": "<p>Lei pré-constitucional + CF/88 = <strong>não-recepção</strong> (não inconstitucionalidade). ADI não cabe para lei pré-constitucional. ADPF é o instrumento correto, mas STF não converte ADI em ADPF quando é erro grosseiro (D). Distrator A erra ao dizer que ADI é cabível.</p>"
   }
 ]

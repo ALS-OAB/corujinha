@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 136, §4º:</strong> decretado o estado de defesa ou sua prorrogação, o decreto será submetido à apreciação do Congresso Nacional em 24 horas — aprovação é <em>a posteriori</em>. <strong>Art. 136, §1º e §2º:</strong> o decreto de estado de defesa é competência privativa do Presidente, ouvidos o Conselho da República e o Conselho de Defesa Nacional.</p>",
+    "dica": "<p>Estado de defesa: PR decreta (após ouvir Conselhos), <strong>sem aprovação prévia</strong> do CN. CN aprecia em até 10 dias. A comunicação ao CN é em 24h (não 12h — mas o caso narra apenas que CN tomou ciência, não que houve vício). Procedimento formalmente correto (D).</p>"
   },
   {
     "num": 13,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 103-A:</strong> \"O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública…\" O STF <strong>não</strong> está vinculado à própria SV — pode revê-la.</p>",
+    "dica": "<p>Súmula vinculante vincula: Judiciário (exceto STF) + Administração Pública. <strong>NÃO vincula o STF</strong> (que pode rever) e <strong>NÃO vincula o Legislativo</strong> (que pode legislar em contrário). Ambos os advogados estavam parcialmente errados (A).</p>"
   },
   {
     "num": 16,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 60, §4º, II:</strong> voto direto, secreto, universal e periódico são cláusulas pétreas. PEC que torne o voto aberto viola cláusula pétrea — sujeita a controle preventivo. <strong>Jurisprudência STF:</strong> qualquer parlamentar pode impetrar mandado de segurança para obstar votação de PEC que fira cláusula pétrea (direito público subjetivo ao devido processo legislativo).</p>",
+    "dica": "<p>PEC que viola cláusula pétrea (voto secreto) → controle preventivo por <strong>qualquer Deputado Federal via MS no STF</strong> (D). ADI não cabe (PEC não é lei). ADPF não cabe (há outro instrumento). Partido político não tem legitimidade para MS (é do parlamentar).</p>"
   },
   {
     "num": 12,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 103-B, §4º:</strong> compete ao CNJ o controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes. Porém, o CNJ <strong>não</strong> tem competência jurisdicional — não pode rever, reformar ou desconstituir decisões judiciais (função jurisdicional é exclusiva do Poder Judiciário).</p>",
+    "dica": "<p>CNJ = controle <strong>administrativo e disciplinar</strong> do Judiciário. Não pode rever decisão judicial (função jurisdicional). A decisão inconstitucional de João deve ser combatida por recursos judiciais, não pelo CNJ (A). Distrator B erra ao dar poderes jurisdicionais ao CNJ.</p>"
   },
   {
     "num": 14,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 50, caput:</strong> \"A Câmara dos Deputados e o Senado Federal, ou qualquer de suas Comissões, poderão convocar Ministro de Estado ou quaisquer titulares de órgãos diretamente subordinados à Presidência da República para prestarem, pessoalmente, informações sobre assunto previamente determinado, importando em crime de responsabilidade a ausência sem justificativa adequada.\" Aplica-se a comissão permanente.</p>",
+    "dica": "<p>Comissão permanente pode convocar Ministro de Estado (Art. 50). Não é prerrogativa exclusiva de CPI. O Ministro <strong>deve comparecer</strong> (A), sob pena de crime de responsabilidade. CPI tem poderes adicionais (investigação), mas não tem o monopólio de convocar ministros.</p>"
   },
   {
     "num": 16,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XXV:</strong> \"no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário <em>indenização ulterior</em>, se houver dano.\" Se não houver dano, não há direito à indenização. A requisição de bem particular em emergência sem causar dano não gera obrigação de indenizar.</p>",
+    "dica": "<p>Requisição administrativa de bem particular: <strong>indenização apenas se houver dano</strong> (Art. 5º, XXV). Sem dano ao gerador → sem indenização (B). Distrator A erra ao garantir indenização independente de dano. Qualquer autoridade competente pode requisitar, não só federal (distrator D está errado).</p>"
   },
   {
     "num": 12,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_defesa_estado",
     "modulo_nome": "Defesa do Estado e das Instituições Democráticas",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 20, IX:</strong> os recursos minerais, inclusive os do subsolo, são bens da União. <strong>Art. 20, §1º:</strong> \"É assegurada, nos termos da lei, aos Estados, ao Distrito Federal e aos Municípios, bem como a órgãos da administração direta da União, participação no resultado da exploração de petróleo ou gás natural… ou compensação financeira por essa exploração.\" União + Estado + Município participam.</p>",
+    "dica": "<p>Petróleo/gás natural: bem da <strong>União</strong>, mas Estados e Municípios têm direito à <strong>participação nos resultados</strong> (Art. 20, §1º). Todos os três entes (União, Alfa e Beta) participam (B). Apenas o município Beta (distrator A) ou apenas a União (distrator C) estão errados.</p>"
   }
 ]

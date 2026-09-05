@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Lei 11.343/06, Art. 40, V: causa de aumento de pena no tráfico interestadual. Súmula 587 STJ: \"<strong>Para a incidência da majorante prevista no artigo 40, V, da Lei n. 11.343/06, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.</strong>\" Quinho tentava embarcar em ônibus para outro estado — intenção inequívoca.</p>",
+    "dica": "<p>Tráfico interestadual: basta a <strong>intenção inequívoca</strong> — não precisa cruzar a fronteira (C certa). A erra ao exigir ambos. B erra ao dispensar a intenção. D erra ao exigir apenas a transposição efetiva.</p>"
   },
   {
     "num": 62,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Questão anulada pela FGV/OAB.</p>",
+    "dica": "<p>Questão anulada.</p>"
   },
   {
     "num": 58,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 13, §1°: \"<strong>A superveniência de causa relativamente independente exclui a imputação quando, por si só, produziu o resultado.</strong>\" O fio de alta tensão exposto (concausa superveniente relativamente independente) produziu, por si só, a morte de Jacinto. Júlio responde apenas pelos atos anteriores (lesão corporal leve — o tapa), não pelo homicídio.</p>",
+    "dica": "<p>Fio de alta tensão = <strong>concausa superveniente relativamente independente</strong> que, por si só, causou a morte → Júlio responde apenas pelos atos anteriores (tapa = lesão corporal) (B certa). A erra ao imputar o homicídio doloso. C erra: preterintenção (dolo no antecedente + culpa no consequente) não se aplica — a causa da morte foi totalmente externa. D erra: imputação objetiva pressupõe criação de risco típico — fio de alta tensão não é risco criado por Júlio.</p>"
   },
   {
     "num": 60,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 14, parágrafo único: \"<strong>Salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços.</strong>\" Amanda e Fernando saíram do supermercado com os produtos → consumaram o furto (não há tentativa). Mas o ponto central é: A reconhece a causa de diminuição da tentativa — o que seria correto se o crime ficou na tentativa. Lendo o contexto: \"percorreram os corredores, separaram os produtos\" → se foram presos no caixa antes de sair = tentativa.</p>",
+    "dica": "<p>Tentativa de furto (preso antes de consumar a saída): <strong>causa de diminuição de 1 a 2/3</strong> (A certa). B erra: princípio da insignificância não se aplica automaticamente — depende do valor e circunstâncias. C erra: corrupção de menores não é absorvida pela qualificadora de concurso de pessoas. D erra: crime impossível exige ineficácia absoluta do meio ou impropriedade absoluta do objeto.</p>"
   },
   {
     "num": 62,
@@ -91,7 +115,14 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 2°, parágrafo único: \"<strong>A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.</strong>\" (retroatividade benéfica). O crime foi praticado antes das leis favoráveis → elas retroagem. Não é necessário o trânsito em julgado para aplicação de lei mais benéfica.</p>",
+    "dica": "<p>Lei penal mais benéfica: retroage para fatos anteriores, <strong>independentemente do trânsito em julgado</strong> (C certa). A erra ao condicionar ao início da execução antes da vigência. D erra ao negar o benefício por ambas as leis terem entrado em vigor após o trânsito. O Art. 2°, parágrafo único, alcança inclusive decisões transitadas.</p>",
+    "revisar_manual": false
   },
   {
     "num": 58,
@@ -110,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 140 (injúria): ofensa à <em>dignidade ou decoro</em> da vítima. Chamar de \"burro\" e \"idiota\" = injúria (não atribuição de fato determinado = difamação; não imputação falsa de crime = calúnia). Perdão do ofendido (ação penal privada): CP Art. 106, caput, II e §1°: \"<strong>O perdão, não havendo recusa, aproveita a todos os querelados.</strong>\" Perdoar Sérgio = o efeito se estende obrigatoriamente a João e Paulo (salvo recusa).</p>",
+    "dica": "<p>\"Burro\" e \"idiota\" = <strong>injúria</strong> (ofensa à dignidade). Perdão a um co-réu = aproveita <strong>todos</strong> os co-réus (D certa). A erra: o perdão na injúria não é personalíssimo — estende-se. B erra: calúnia exige imputação falsa de crime específico. C erra: difamação exige imputação de fato determinado (não mero xingamento).</p>"
   },
   {
     "num": 60,
@@ -129,6 +166,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_crimes_contra_vida",
     "modulo_nome": "Crimes contra a Pessoa e contra a Vida",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Abelardo cometeu extorsão mediante sequestro (CP Art. 159) e, após liberação e recebimento do resgate, surgiu lei nova modificando o tipo. Princípio da <strong>continuidade normativo-típica</strong>: a conduta continua típica — só mudaram os limites ou a redação, sem abolitio criminis. A lei nova se aplica se for mais benéfica (retroatividade). C descreve esse princípio.</p>",
+    "dica": "<p>A lei nova modifica o tipo mas mantém a criminalização → <strong>continuidade normativo-típica</strong> (C certa). A erra: retroatividade beneficia o réu se a lei nova for mais benéfica — não impede a aplicação. B erra: alternatividade é característica do tipo misto, não princípio de aplicação temporal. D erra: ubiquidade trata do lugar do crime.</p>"
   }
 ]

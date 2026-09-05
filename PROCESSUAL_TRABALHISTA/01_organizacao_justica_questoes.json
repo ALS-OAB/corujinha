@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 58, § 2º</strong> (redação dada pela Lei 13.467/2017 – Reforma Trabalhista): <em>\"O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador.\"</em></p>",
+    "dica": "<p>Antes da Reforma de 2017, o tempo em transporte fornecido pela empresa <em>para local de difícil acesso</em> integrava a jornada (hora in itinere). <strong>Após a Reforma: não integra mais, independentemente das condições.</strong> A questão é de 2019 – aplica-se a nova regra. Distratores A e C invocam regime anterior revogado.</p>"
   },
   {
     "num": 77,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 844, caput:</strong> <em>\"O não comparecimento do reclamante à audiência importa o arquivamento da reclamação e o não comparecimento do reclamado importa revelia...\"</em> — <strong>Súmula 9/TST:</strong> <em>\"A ausência do reclamante, quando adiada a instrução após contestada a ação em audiência, não importa arquivamento do processo.\"</em></p>",
+    "dica": "<p>Regra geral: ausência do <em>reclamante</em> na audiência = arquivamento (CLT art. 844). <strong>Exceção consagrada na Súmula 9/TST:</strong> se a ação já foi contestada e o processo foi adiado, a ausência posterior do reclamante <em>não</em> importa arquivamento — aplica-se confissão ficta ou julgamento pelo ônus da prova. Distratores B e D confundem as duas situações.</p>"
   },
   {
     "num": 77,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 800, caput:</strong> <em>\"Apresentada exceção de incompetência territorial no prazo de <strong>cinco dias</strong> a partir da notificação, antes da audiência e em peça que sinalize a existência desta exceção, seguir-se-á o procedimento estabelecido neste artigo.\"</em> A competência territorial no PT é, em regra, do local da prestação dos serviços (CLT, Art. 651), mas o autor pode escolher o domicílio do réu (§3º) ou seu próprio domicílio quando o contrato foi encerrado — o réu pode excepcionar.</p>",
+    "dica": "<p>Prazo para exceção de incompetência territorial na JT: <strong>5 dias úteis</strong> após a notificação (citação), em <strong>peça autônoma</strong> e <strong>antes da audiência</strong>. Distrator A (até a audiência) está errado — a preclusão ocorre antes. Distrator B (10 dias) aplica regra do CPC que não se aplica aqui.</p>"
   },
   {
     "num": 80,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 899, caput:</strong> recursos na JT não têm efeito suspensivo (salvo o depósito recursal que garante a execução). <strong>CLT, Art. 899, § 1º</strong> (aplicado por analogia à execução provisória): <em>a execução provisória até penhora ou bloqueio — não cabe levantamento de numerário</em>. O TST, pela <strong>Súmula 417</strong>, consolida que o levantamento de valores em execução provisória depende de garantia real ou fidejussória.</p>",
+    "dica": "<p>Execução provisória na JT: <strong>admitida</strong> (recursos não têm efeito suspensivo), mas <strong>limitada à penhora/bloqueio</strong> — não há levantamento de dinheiro sem garantia (Súmula 417 TST). Distrator C confunde natureza alimentar (que facilita a execução definitiva) com liberação em fase provisória, o que não é automático.</p>"
   },
   {
     "num": 78,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 818:</strong> ônus da prova de acordo com a distribuição clássica. <strong>Súmula 338/TST:</strong> é ônus do empregador que conta com mais de 10 empregados apresentar os registros de ponto; os cartões com horários variados geram <em>presunção relativa</em> (não absoluta) do horário anotado, cabendo ao <em>empregado</em> provar horas extras além das registradas. Para o 13º salário: pagamento é fato extintivo/impeditivo, logo o <strong>ônus da prova do pagamento cabe ao empregador</strong>.</p>",
+    "dica": "<p>Esquema do ônus: <strong>13º não pago</strong> → ônus de provar o <em>pagamento</em> cabe à ré (fato extintivo). <strong>Horas extras</strong> → ônus de provar a <em>sobrejornada</em> cabe ao <em>autor</em>; cartões com horários variados geram apenas presunção relativa (não invertem automaticamente o ônus). Distrator B erra ao inverter o ônus das horas extras pela simples impugnação dos controles.</p>"
   },
   {
     "num": 76,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 651, caput:</strong> competência da Vara do Trabalho determinada pelo local da prestação dos serviços. <strong>CLT, Art. 800, caput:</strong> <em>\"Apresentada exceção de incompetência territorial no prazo de cinco dias a partir da notificação, antes da audiência e em peça autônoma...\"</em>. O prazo é de <strong>5 dias úteis</strong> após a notificação, em <strong>peça autônoma</strong> e <strong>antes da audiência</strong>.</p>",
+    "dica": "<p>A competência da JT é, via de regra, do <em>local da prestação dos serviços</em> (Duque de Caxias). Para contestar o foro indevido (Rio de Janeiro): <strong>peça autônoma de exceção</strong>, no prazo de <strong>5 dias após a notificação</strong>, <strong>antes da audiência</strong>. Distratores B e D erram ao sugerir que a exceção pode ser na contestação ou na audiência — na JT o prazo é anterior e autônomo.</p>"
   },
   {
     "num": 80,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_organizacao_justica",
     "modulo_nome": "Organização da Justiça do Trabalho e Competência",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 770:</strong> <em>\"Os atos processuais serão públicos salvo quando o contrário determinar o interesse social, e realizar-se-ão nos dias úteis das 6 (seis) às 20 (vinte) horas.\"</em> Atos às 5h30 estão fora do horário legal previsto na CLT, sendo irregulares salvo previsão expressa de excepcionalidade no mandado.</p>",
+    "dica": "<p>Na JT os atos processuais ocorrem nos dias úteis <strong>das 6h às 20h</strong> (CLT art. 770). Às 5h30 = antes das 6h = irregular. Distrator C erra ao dizer 7h (esse é o limite do CPC para diligências em residência, não o da CLT). Atos aos domingos/feriados exigem autorização judicial expressa.</p>"
   }
 ]

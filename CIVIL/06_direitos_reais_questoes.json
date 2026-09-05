@@ -23,12 +23,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 1,
-    "sintese": "<p>A doação de bem imóvel exige a celebração por escritura pública ou instrumento particular (Art. 541 do CC). A mera tradição verbal não transfere a propriedade imobiliária.</p>",
-    "logica_conceito": "<p>A doação é contrato solene. Para bens imóveis, a lei exige obrigatoriamente a forma escrita (escritura pública ou instrumento particular se de valor inferior a 30 salários mínimos). A entrega verbal das chaves não gera doação imobiliária válida.</p>",
-    "fundamentacao": "<p>Artigo 541 e Artigo 108 do Código Civil.</p>",
-    "dica": "<p>🔥 <b>Dica de OAB da Profª Roberta:</b> Doação de imóvel NUNCA é verbal! Exige forma escrita obrigatória. Doação verbal só vale para bens móveis de pequeno valor seguidos de tradição imediata!</p>",
-    "aula_comentario": "<p><b>Profª Roberta Queiroz (46º OAB - Direitos Reais / Coisas):</b> 'A doação de bem imóvel é contrato solene e exige OBRIGATORIAMENTE instrumento escrito (escritura pública ou instrumento particular conforme o Art. 108 e 541 CC). A simples entrega verbal das chaves não transfere a propriedade e não convalida a doação imobiliária!'</p>",
-    "analise": "<p><b>Alternativa A: Incorreta.</b> A declaração verbal não formaliza doação de bem imóvel.<br><b>Alternativa B: Incorreta.</b> Se o imóvel for de valor inferior a 30 salários mínimos, admite-se instrumento particular (Art. 108 CC).<br><b>Alternativa C: CORRETA.</b> Para a doação de imóvel ser válida, é imprescindível forma escrita (escritura pública ou instrumento particular dependendo do valor).<br><b>Alternativa D: Incorreta.</b> Doação de dinheiro admite forma verbal se seguida de imediata tradição (Art. 541, parágrafo único CC).</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 108: escritura pública é essencial para transmissão de direitos reais sobre imóveis de valor superior a 30 salários mínimos. <strong>Doação de imóvel</strong> é ato translativo de direito real — exige escritura pública. A entrega das chaves (tradição) não supre a escritura. Sem escritura pública = negócio <strong>nulo por vício de forma</strong> (Art. 166, IV).</p>",
+    "dica": "<p>Doação de imóvel > 30 salários mínimos: <strong>escritura pública obrigatória</strong> (C certa). A erra: tradição + declaração verbal não são suficientes. B erra ao dizer \"imprescindível\" mas sem a ressalva de que a lei exige escritura, não instrumento particular. D erra ao comparar com doação de dinheiro (dinheiro = bem móvel, dispensa escritura).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 40,
@@ -54,12 +54,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 2,
-    "sintese": "<p>Questão do <b>38º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 38º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 38º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.285: \"<strong>O dono do prédio que não tiver acesso a via pública, nascente ou porto, pode, mediante pagamento de indenização cabal, constranger o vizinho a lhe dar passagem</strong>, cujo rumo será judicialmente fixado, se necessário.\" §1º: somente pode ser exigida do vizinho cujo imóvel mais naturalmente se presta à passagem, tendo-se em conta o menor prejuízo — Antônio deve exigir passagem de <strong>Ricardo</strong> (cujo imóvel alcança a via pública, com menor onerosidade para Antônio), pagando indenização cabal.</p>",
+    "dica": "<p>Passagem forçada: do vizinho <strong>cujo imóvel mais naturalmente permite a passagem + indenização cabal</strong> (D certa). A e B erram ao dar liberdade de escolha ampla. C erra ao dispensar indenização. D: Ricardo (acesso mais natural à via) + indenização obrigatória.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 42,
@@ -85,12 +85,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 3,
-    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.474: \"<strong>A hipoteca abrange todas as acessões, melhoramentos ou construções do imóvel.</strong>\" Independente de qualquer ato posterior, os melhoramentos realizados por Vítor após a constituição da hipoteca ficam abrangidos pela garantia real em benefício do credor (banco).</p>",
+    "dica": "<p>Hipoteca: <strong>abrange automaticamente todos os melhoramentos posteriores à sua constituição</strong> (D certa). A erra: Vítor pode alienar — a hipoteca acompanha o bem. B erra: alienação não gera vencimento automático per se. C erra: a boa-fé objetiva não proíbe alienação de imóvel hipotecado.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 40,
@@ -116,12 +116,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 4,
-    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>Lei 8.009/90, Art. 1º: \"<strong>O imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável.</strong>\" Art. 2º: \"<strong>Excluem-se da impenhorabilidade os veículos de transporte, obras de arte e adornos suntuosos.</strong>\" Os <strong>móveis que guarnecem o imóvel são impenhoráveis</strong>, salvo os expressamente excluídos (obras de arte e adornos suntuosos). B certa.</p>",
+    "dica": "<p>Bem de família: imóvel + móveis que o guarnecem = <strong>impenhoráveis</strong>, <strong>exceto obras de arte e adornos suntuosos</strong> (B certa). A erra ao tornar todos os móveis penhoráveis. C e D erram: imóvel de bem de família é impenhorável; exceções da Lei 8.009 não incluem dívida trabalhista doméstica como exceção (diferente de fiança locatícia, que é exceção do Art. 3º, VII).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 42,
@@ -147,12 +147,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 5,
-    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.373: \"<strong>Em caso de alienação do imóvel ou do direito de superfície, o superficiário ou o proprietário tem direito de preferência, em igualdade de condições, a quem terceiro oferecer.</strong>\" João (proprietário) deve oferecer a Paula (superficiária) o direito de preferência antes de vender a Fábio, em igualdade de condições. D descreve corretamente esse direito.</p>",
+    "dica": "<p>Direito de superfície: <strong>proprietário que quiser vender o solo deve dar preferência ao superficiário em igualdade de condições</strong> (D certa). A erra: João pode vender — mas deve dar preferência. B erra: se João não deu preferência a Paula e vendeu a Fábio sem igualdade de condições, Paula pode depositar e reivindicar. C erra: condição não é \"melhor oferta\" — é \"igualdade de condições\".</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 40,
@@ -178,12 +178,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 6,
-    "sintese": "<p>Questão do <b>42º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 42º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 42º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>Lei 8.245/91 (Lei de Locações), Art. 47, §2º: \"<strong>Ocorrendo a prorrogação, o locador poderá denunciar o contrato, a qualquer tempo, concedida a locatária a prazo de trinta dias para desocupação.</strong>\" Contrato residencial de 30 meses → após vencimento, se o inquilino permanece = prorrogação por prazo indeterminado. A partir daí o locador pode exercer denúncia vazia com prazo de 30 dias.</p>",
+    "dica": "<p>Locação residencial prorrogada por prazo indeterminado: <strong>denúncia vazia com 30 dias de aviso</strong> (B certa). A erra: locatário <em>não</em> tem direito potestativo de renovação. C erra: denúncia vazia é possível após a prorrogação. D erra: há presunção de prorrogação por prazo indeterminado (Art. 47, caput).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 42,
@@ -209,12 +209,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 7,
-    "sintese": "<p>Questão do <b>42º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 42º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 42º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.302: \"<strong>O proprietário pode levantar em seu terreno as construções que lhe aprouver, salvo o direito dos vizinhos e os regulamentos administrativos.</strong>\" Parágrafo único: \"<strong>se as janelas não observarem o recuo legal, o proprietário prejudicado pode, no lapso de ano e dia, a partir do término da construção, exigir que se desfaçam</strong>; transcorrido esse prazo, não poderá ser exigida a demolição, prevalecendo a servidão de janela.\"</p>",
+    "dica": "<p>Janela na divisa: no prazo de <strong>ano e dia</strong> da conclusão da obra, o vizinho pode exigir a demolição (C certa). A erra ao proibir janelas que não incidam sobre a linha (só as que violam o recuo). B erra: a lei impõe restrições ao abrir janelas. D erra ao tornar a proibição de chaminé absoluta.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 39,
@@ -240,12 +240,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 8,
-    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 167, §1º, II: \"<strong>haverá simulação nos negócios jurídicos quando: (...) contiverem declaração, confissão, condição ou cláusula não verdadeira.</strong>\" Data falsa = declaração não verdadeira = simulação. Art. 167, caput: \"<strong>É nulo o negócio jurídico simulado.</strong>\" O negócio dissimulado (a real intenção de impedir a penhora) é fraude à execução e também nulo. Não há aproveitamento possível.</p>",
+    "dica": "<p>Negócio com data falsa = <strong>simulação = nulo</strong> (Art. 167, §1º, II). Não há negócio dissimulado válido que possa subsistir — a venda fictícia fraudulenta é <strong>nula sem possibilidade de aproveitamento</strong> (C certa). A erra: não é anulável (anulável = vício de vontade ou de pessoa, não simulação). B erra: simulação = nulidade absoluta, não ineficácia relativa.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 42,
@@ -271,12 +271,12 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 9,
-    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.510-A, §3º: \"<strong>Os titulares da laje, do subsolo e demais unidades autônomas respondem pelo pagamento dos encargos correspondentes, mas o titular da laje não tem direito ao uso e fruição do subsolo da construção-base.</strong>\" O subsolo pertence ao proprietário do solo (construção-base), não ao titular da laje. A empresa pode instalar cabos no subsolo sem autorização de Carlos.</p>",
+    "dica": "<p>Titular da laje: <strong>não tem direitos sobre o subsolo da construção-base</strong> (B certa). A erra ao atribuir direitos sobre o subsolo ao lajeiro. C erra: compensação não é devida a Carlos. D erra: a instalação é legítima pois Carlos não tem direito ao subsolo.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 42,
@@ -302,11 +302,11 @@
     "modulo_codigo": "06_direitos_reais",
     "modulo_nome": "Direitos Reais",
     "id": 10,
-    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.213: \"<strong>O direito de servidão não se adquire por usucapião, quando a servidão não é aparente.</strong>\" Art. 1.379, parágrafo único: \"Há o direito de usucapião de servidão desde que seja aparente (possível de constatação visual).\" Canos subterrâneos = <strong>servidão não aparente</strong> → não admite usucapião. A constituição válida exige <strong>registro no Cartório de Imóveis</strong>.</p>",
+    "dica": "<p>Servidão não aparente (canos subterrâneos): <strong>não se adquire por usucapião</strong> — exige registro (D certa). A erra o prazo (usucapião de servidão aparente = 10 anos, não 5). B erra: canos subterrâneos = não aparente. C erra: detenção tolerada não se converte em servidão sem aparência.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

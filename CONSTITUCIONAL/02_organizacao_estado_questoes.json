@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXX, \"b\":</strong> o mandado de injunção coletivo pode ser impetrado por \"organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados.\" A associação age em nome próprio para defender direitos dos associados (substituição processual).</p>",
+    "dica": "<p>MI Coletivo: associação com estatuto autorizando + 1 ano de existência → age em nome <strong>próprio</strong> (substituição processual), sem precisar de autorização individual. Distrator A (MI individual) é mais limitado. Distrator D (ACP) não impõe norma regulamentadora.</p>"
   },
   {
     "num": 14,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XXXVI:</strong> \"A lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada.\" Retroatividade absoluta que desfaz situações jurídicas consolidadas (valores já recebidos e incorporados ao patrimônio) viola o direito adquirido. O interesse público não supera a garantia constitucional.</p>",
+    "dica": "<p>Lei retroativa = inconstitucional quando atinge <strong>direito adquirido / ato jurídico perfeito</strong>. Economia pública não é exceção constitucional (distratores A e D). Norma municipal também se sujeita à CF (distrator B está errado).</p>"
   },
   {
     "num": 16,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 24, XIV:</strong> compete à União, Estados e DF legislar concorrentemente sobre \"proteção e integração social das pessoas portadoras de deficiência.\" Estados têm competência concorrente plena para legislar sobre normas gerais, desde que respeitem as normas federais (Art. 24, §1º-§4º).</p>",
+    "dica": "<p>Proteção de pessoas com deficiência = competência <strong>concorrente</strong> União + Estados (Art. 24, XIV). Não é exclusiva da União (distrator C), não é residual dos Estados (distrator D), não é interesse local municipal (distrator A).</p>"
   },
   {
     "num": 13,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXII:</strong> \"A prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada.\" Sem exceção para crimes graves ou flagrante — a comunicação é imediata e obrigatória.</p>",
+    "dica": "<p>Preso em flagrante → <strong>comunicação imediata</strong> ao juiz + família (ou pessoa indicada) (Art. 5º, LXII). Periculosidade do preso não suspende o direito. Prazo de 72h (distrator A) não existe na CF — é comunicação imediata.</p>"
   },
   {
     "num": 15,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 27, §2º:</strong> \"O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da Assembleia Legislativa, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Federais…\"</p>",
+    "dica": "<p>Deputados Estaduais = <strong>no máximo 75% do subsídio dos Deputados Federais</strong> (Art. 27, §2º). Não é paridade com Senadores (distrator C). Igualdade ao Deputado Federal (distrator A) viola a CF. Quórum de 3/5 (distrator B) é para PEC, não lei ordinária.</p>"
   },
   {
     "num": 11,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 199, §2º:</strong> \"É vedada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos.\" Hospitais privados com margem de lucro são instituições com fins lucrativos — proibida a destinação de recursos públicos a elas.</p>",
+    "dica": "<p>Recursos públicos para hospital privado <strong>com fins lucrativos = vedado</strong> (Art. 199, §2º). A promessa do governador violaria a CF nessa parte. Hospitais sem fins lucrativos (filantrópicos) podem receber (Art. 199, §1º).</p>"
   },
   {
     "num": 13,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 100, §2º:</strong> os débitos de natureza alimentícia têm prioridade. A preferência por idade (idoso >60 anos) dentro dos precatórios alimentícios está no Art. 100, §2º. Para precatórios que NÃO sejam alimentícios, sem fator etário diferenciador, vigora a <em>ordem cronológica de apresentação</em>.</p>",
+    "dica": "<p>Precatório <strong>não alimentício</strong> → ordem cronológica de apresentação. Prioridade etária (Art. 100, §2º) só existe para <strong>créditos alimentícios</strong>. Joana (58 anos) e Marcos (56) — ambos <60 anos — sem prioridade etária; Marcos tem precatório anterior → recebe primeiro.</p>"
   },
   {
     "num": 15,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_organizacao_estado",
     "modulo_nome": "Organização do Estado e Repartição de Competências",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 71, §3º:</strong> \"As decisões do Tribunal de Contas de que resulte imputação de débito ou multa terão eficácia de título executivo.\" O TCE imputa débito ao gestor → gera título executivo extrajudicial, executável pela Fazenda Pública sem necessidade de ação judicial declaratória prévia.</p>",
+    "dica": "<p>Decisão do TCE que imputa débito = <strong>título executivo extrajudicial</strong> (Art. 71, §3º). Não precisa de homologação judicial nem de nova ação declaratória. TCE é subordinado ao Legislativo (auxiliar), mas sua decisão é autônoma e exequível.</p>"
   }
 ]

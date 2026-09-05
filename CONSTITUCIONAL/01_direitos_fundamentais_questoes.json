@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 102, I, \"a\" + Art. 103 (ADC):</strong> A <em>Ação Declaratória de Constitucionalidade</em> tem por objeto afirmar a presunção de constitucionalidade de norma federal, gerando efeito vinculante e erga omnes, sem retirar a norma do ordenamento. É o instrumento para afastar insegurança jurídica decorrente de decisões judiciais conflitantes sobre a mesma lei.</p>",
+    "dica": "<p>ADC = <strong>confirma</strong> constitucionalidade + vincula todos os órgãos. ADI = <strong>retira</strong> a norma do ordenamento. Quando a questão diz \"sem retirar a lei do mundo jurídico\" → ADC. Legitimados idênticos à ADI (Art. 103).</p>"
   },
   {
     "num": 13,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 206, IV:</strong> \"O ensino será ministrado com base nos seguintes princípios: IV – gratuidade do ensino público em estabelecimentos oficiais.\" <strong>Art. 208, I:</strong> educação básica obrigatória e gratuita. A cobrança de taxa pelo município para acesso à escola pública viola diretamente esses dispositivos.</p>",
+    "dica": "<p>Educação básica pública = <strong>gratuita por força constitucional</strong> (Art. 206, IV + 208, I). Não há exceção por hipossuficiência, nível de ensino (fundamental ou médio) nem proporcionalidade. Taxa = inconstitucional tout court.</p>"
   },
   {
     "num": 15,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 54, I, \"a\":</strong> \"Os deputados e senadores não poderão: I – desde a expedição do diploma: a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público…\" Por simetria constitucional, aplica-se ao Governador. <strong>Art. 28:</strong> O Governador que aceitar cargo incompatível perde o mandato.</p>",
+    "dica": "<p>Governador + cargo em empresa pública (Petrobras = SEM) = <strong>incompatibilidade</strong> → perde o mandato (A). Não há opção de licença que preserve o mandato nesse caso. Distrator B (licença) não existe para esse tipo de incompatibilidade.</p>"
   },
   {
     "num": 12,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 231, §4º:</strong> \"As terras de que trata este artigo são inalienáveis e indisponíveis, e os direitos sobre elas, imprescritíveis.\" <strong>Art. 231, §2º:</strong> terras indígenas destinam-se à posse permanente dos índios. A propriedade é da União (Art. 20, XI); os índios têm apenas a posse e o usufruto exclusivo.</p>",
+    "dica": "<p>Terras indígenas = <strong>patrimônio da União + posse dos índios + inalienáveis</strong>. Nenhum índio pode vendê-las, nem mesmo com autorização da comunidade. Registro em cartório em nome do índio (distrator B) seria nulo de pleno direito.</p>"
   },
   {
     "num": 14,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 34, V:</strong> intervenção federal para \"reorganizar as finanças da unidade da Federação que suspender o pagamento da dívida fundada por mais de dois anos, salvo motivo de força maior.\" <strong>Art. 36, §3º:</strong> o decreto de intervenção nessa hipótese não exige aprovação prévia do Congresso; o CN apreciará a posteriori.</p>",
+    "dica": "<p>Dívida fundada suspensa >2 anos → intervenção federal <strong>sem aprovação prévia</strong> do CN (aprovação a posteriori). Distrator C exige STF (que vale para garantir a ordem constitucional, não para dívida). Distrator D confunde execução com aprovação.</p>"
   },
   {
     "num": 16,
@@ -111,7 +141,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 84, VI:</strong> o Presidente da República pode, por decreto, dispor sobre \"organização e funcionamento da administração federal\" — decreto autônomo com fundamento direto na CF. Por ter fundamento constitucional direto e natureza normativa, pode ser objeto de <strong>ADI</strong> (Art. 102, I, \"a\").</p>",
+    "dica": "<p>Decreto autônomo (Art. 84, VI) = norma primária, fundamento na CF → cabe ADI. Distrator B está errado: decreto autônomo tem natureza normativa. Distrator D (ADPF) é subsidiário — só cabe se não couber outro instrumento.</p>"
   },
   {
     "num": 12,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 170, IV:</strong> a ordem econômica observará o princípio da <em>livre concorrência</em>. <strong>Art. 170, parágrafo único:</strong> é assegurado a todos o livre exercício de qualquer atividade econômica. Norma municipal que impõe critério geográfico restritivo sem amparo constitucional viola a livre concorrência.</p>",
+    "dica": "<p>LC municipal com distância mínima entre concorrentes = viola <strong>livre concorrência</strong> (Art. 170, IV). Autonomia municipal (distrator A) não prevalece sobre princípio constitucional expresso. Critério hierárquico (distrator C) é irrelevante se a lei municipal já é inconstitucional.</p>"
   },
   {
     "num": 14,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_direitos_fundamentais",
     "modulo_nome": "Direitos e Garantias Fundamentais",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 35, II:</strong> o Estado intervirá nos municípios quando não for prestada conta devida nos prazos estabelecidos em lei. <strong>Art. 36, §3º:</strong> o decreto estadual de intervenção que se enquadre nas hipóteses do Art. 35 não exige autorização prévia da Assembleia nem decisão judicial — aprovação legislativa é a posteriori.</p>",
+    "dica": "<p>Prestação de contas municipais não efetuada → intervenção estadual <strong>por decreto do Governador, sem autorização prévia</strong> (Art. 35, II). Distratores A (STF), B (judicial) e C (AL prévia) estão errados: intervenção estadual por Art. 35 é decreto autônomo do Governador.</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_atos_administrativos",
     "modulo_nome": "Atos Administrativos",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.112/90, Art. 13:</strong> \"A posse e o exercício em cargo ou função de confiança dar-se-á no prazo de trinta dias contados da publicação do ato de provimento\" e <strong>Art. 13, §2º:</strong> a declaração dos bens e valores que constituem o patrimônio do servidor, atualizada anualmente, é <em>condição</em> para a posse e o exercício.</p>",
+    "dica": "<p>Declaração de bens = condição <strong>suspensiva</strong> da posse. Sem apresentar → posse não se concretiza. Atualização anual obrigatória durante o exercício e na exoneração.</p>"
   },
   {
     "num": 34,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_atos_administrativos",
     "modulo_nome": "Atos Administrativos",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.784/99, Art. 15:</strong> \"Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior.\"</p>",
+    "dica": "<p><strong>Avocação</strong> (superior puxa para si) = excepcional + motivos relevantes + justificada. <strong>Delegação</strong> (transfere para inferior) = regra, ampla. Avocação não pode ser permanente, apenas temporária.</p>"
   },
   {
     "num": 32,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_atos_administrativos",
     "modulo_nome": "Atos Administrativos",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.112/90, Art. 149:</strong> comissão processante em PAD deve ser composta por três servidores <strong>estáveis</strong> designados pela autoridade competente, sendo o presidente bacharel em Direito. <strong>Art. 132:</strong> infração capitulada como crime resulta em demissão.</p>",
+    "dica": "<p>Comissão do PAD = 3 servidores <strong>estáveis</strong> + presidente bacharel em Direito. Servidor que praticou crime funcional (Art. 132, I): penalidade de <strong>demissão</strong>. Estabilidade não impede demissão — apenas assegura o devido processo legal.</p>"
   },
   {
     "num": 30,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_atos_administrativos",
     "modulo_nome": "Atos Administrativos",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XXIII</strong> (função social da propriedade) + <strong>Art. 174</strong> (Estado como agente normativo). Limitação administrativa: restrição geral ao uso de bens privados, sem indenização, fundada no <em>poder de polícia</em>; difere da servidão (específica e indenizável) e da desapropriação (transferência com indenização).</p>",
+    "dica": "<p><strong>Limitação administrativa</strong> = geral + gratuita + não individualizada. Fundamento: poder de polícia. <strong>Servidão</strong> = específica + indenizável (se há dano). <strong>Desapropriação</strong> = transfere propriedade + indenização prévia e justa. Limitação não gera indenização automática.</p>"
   },
   {
     "num": 34,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_atos_administrativos",
     "modulo_nome": "Atos Administrativos",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 37, §6º:</strong> \"As pessoas jurídicas de direito público (...) responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de <strong>dolo ou culpa</strong>.\" A responsabilidade do Estado é objetiva; a ação regressiva contra o servidor é <em>subjetiva</em>.</p>",
+    "dica": "<p>Estado → vítima: responsabilidade <strong>objetiva</strong> (teoria do risco administrativo). Estado → Rodrigo (ação de regresso): responsabilidade <strong>subjetiva</strong> (prova dolo ou culpa). Rodrigo não responde diretamente ao particular — quem responde é o Estado.</p>"
   },
   {
     "num": 32,
@@ -111,6 +141,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_atos_administrativos",
     "modulo_nome": "Atos Administrativos",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.429/92, Art. 17, §19</strong> (redação Lei 14.230/2021): \"Da decisão que rejeitar as preliminares, caberá agravo de instrumento.\" <strong>CF/88, Art. 37, §4º</strong> + entendimento consolidado: improbidade administrativa é ação civil — <em>não</em> sujeita a foro por prerrogativa de função (STF: AP 937).</p>",
+    "dica": "<p>Improbidade = ação <strong>civil</strong> → sem foro por prerrogativa. Político de 1ª legislatura responde em 1ª instância. Recurso contra rejeição de preliminares: <strong>agravo de instrumento</strong> (Art. 17, §19 LIA). Lei 14.230/21: somente atos <strong>dolosos</strong> configuram improbidade.</p>"
   }
 ]

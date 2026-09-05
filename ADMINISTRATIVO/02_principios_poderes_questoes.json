@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 103</strong>: nos contratos em regime de contratação semi-integrada ou integrada, a repartição objetiva de riscos entre as partes é cláusula essencial e deve ser respeitada, <em>inclusive quando o risco se materializar por fatos imprevisíveis</em>.</p><p><strong>DL 3.365/41, Art. 3º</strong>: somente o poder público pode declarar a necessidade ou utilidade pública — o decreto expropriatório é ato estatal indelegável. As demais fases do procedimento (negociação, pagamento, imitir na posse) podem ser delegadas ao contratado.</p>",
+    "dica": "<p>Repartição objetiva de riscos na Lei 14.133/21: se o edital previu o risco, ele deve ser suportado pelo responsável designado, <strong>mesmo que seja imprevisível</strong>. Decretar a desapropriação = ato do poder público (indelegável ao contratado). O contratado pode pagar a indenização e conduzir as demais fases, pois a lei autoriza expressamente.</p>"
   },
   {
     "num": 33,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.429/92, Art. 11 (redação Lei 14.230/21)</strong>: constitui ato de improbidade que atenta contra os princípios da Administração a ação ou omissão dolosa que viole deveres de honestidade, imparcialidade, legalidade. <strong>Art. 11, §1º</strong>: exige dolo do agente e lesividade relevante ao bem jurídico tutelado.</p><p><strong>Art. 1º, §2º</strong>: é imprescindível a comprovação do <em>dolo</em> do agente — culpa não é mais suficiente para nenhum ato de improbidade.</p>",
+    "dica": "<p>Após <strong>Lei 14.230/21</strong>: improbidade = SEMPRE dolosa. Negativa de publicidade + nepotismo = ambas são condutas dolosas que violam princípios (art. 11). <strong>Lesão ao erário não é requisito</strong> para atos que violam princípios (art. 11) — só para o art. 10. Alternativa D erra ao exigir dano ao erário para ambas.</p>"
   },
   {
     "num": 31,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.846/13, Art. 19, III</strong>: em ação ajuizada pelo MP ou pela AGU, o juiz poderá decretar a <em>dissolução compulsória da pessoa jurídica</em> quando comprovado ter sido utilizada de forma habitual para facilitar ou promover atos ilícitos, ou ter sido constituída para ocultar ou dissimular interesses ilícitos ou identidade dos beneficiários.</p>",
+    "dica": "<p>Dissolução compulsória na Lei Anticorrupção: só por via <strong>judicial</strong> (MP ou AGU), exige uso habitual para ilicitude ou constituição fraudulenta. Não é sanção administrativa. Não é aplicada na improbidade (A errada). Qualquer juízo federal competente pode decretar — não é exclusivo do STF (B errada).</p>"
   },
   {
     "num": 34,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Decreto-Lei 3.365/41, Art. 20</strong>: a contestação só poderá versar sobre <em>vício do processo judicial</em> ou sobre <em>impugnação do preço</em>; qualquer outra questão deverá ser decidida por ação direta.</p><p>Desvio de finalidade (tredestinação ilícita) = vício de mérito do ato administrativo → deve ser alegado em <strong>ação própria</strong> (MS ou ação anulatória), não na contestação da ação expropriatória.</p>",
+    "dica": "<p>Contestação em desapropriação = restrita a <strong>2 matérias</strong>: (1) vício processual e (2) preço. <strong>Desvio de finalidade</strong> = ação autônoma (mandado de segurança ou ação anulatória), não na contestação. A ação pode ser ajuizada sem acordo prévio — o acordo é tentativa facultativa, não condição de procedibilidade.</p>"
   },
   {
     "num": 33,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.429/92, Art. 1º, §2º (Lei 14.230/21)</strong>: <em>\"Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos arts. 9º, 10 e 11 desta Lei, não bastando a voluntariedade do agente.\"</em></p><p>A Lei 14.230/21 extinguiu expressamente a modalidade culposa de improbidade, que existia no antigo art. 10. Hoje, <strong>todos os atos de improbidade exigem dolo</strong>.</p>",
+    "dica": "<p>Marco crucial: <strong>antes da Lei 14.230/21</strong>, o art. 10 (lesão ao erário) admitia culpa. <strong>Depois</strong>: NUNCA mais culpa — improbidade é sempre dolosa. Provar conduta culposa = estratégia de defesa determinante: sem dolo, não há improbidade. Responsabilidade é subjetiva (D errado: não é objetiva).</p>"
   },
   {
     "num": 31,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 137, §2º, III</strong>: o contratado pode extinguir o contrato quando a Administração suspender a execução por prazo superior a <em>120 (cento e vinte) dias</em>, salvo em casos de calamidade pública, grave perturbação da ordem interna ou guerra.</p><p><strong>Art. 151</strong>: a extinção pode ser consensual, por conciliação, mediação, comitê de resolução de disputas ou decisão judicial.</p>",
+    "dica": "<p>Suspensão injustificada por 6 meses > 120 dias → <strong>direito à extinção</strong>. A extinção pode ser consensual ou judicial. Lei 14.133/21 <strong>admite MASC</strong> (conciliação, mediação, comitê de disputas) — não veda como na antiga 8.666/93. A alternativa A erra: prazo é 120 dias, não 12 meses.</p>"
   },
   {
     "num": 34,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "02_principios_poderes",
     "modulo_nome": "Princípios e Poderes da Administração Pública",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.784/99, Art. 13</strong>: <em>não podem ser objeto de delegação</em>: I — a edição de atos de caráter normativo; II — a <strong>decisão de recursos administrativos</strong>; III — as matérias de competência exclusiva do órgão ou autoridade.</p><p><strong>Art. 14, §2º</strong>: o ato de delegação é <em>revogável</em> a qualquer tempo pela autoridade delegante. Art. 11: a delegação pode ser feita a órgão não subordinado.</p>",
+    "dica": "<p>Vedações à delegação (art. 13): decorar as <strong>3 hipóteses</strong>: (1) atos normativos, (2) decisão de recursos administrativos, (3) competência exclusiva. Delegação pode ir para órgão não subordinado (C errado). Ato de delegação é <strong>revogável</strong> (B errado). Decisões do delegado mencionam a delegação e são consideradas do delegado, não do delegante (D errado).</p>"
   }
 ]

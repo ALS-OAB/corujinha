@@ -1,0 +1,343 @@
+[
+  {
+    "num": 37,
+    "enunciado": "Pedro e Joana casaram-se pelo regime da comunhão parcial de bens.\nNa constância do casamento, Pedro herdou ações e comprou um\ncarro, enquanto Joana recebeu de doação um apartamento e ganhou\num prêmio de loteria.\nCom base nessas informações, assinale a opção que indica, em caso\nde divórcio, os bens que devem ser partilhados.",
+    "alternativas": {
+      "A": "As ações e o apartamento.",
+      "B": "O carro e o prêmio de loteria.",
+      "C": "O carro e o apartamento.",
+      "D": "As ações e o prêmio de loteria."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "37º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 37,
+    "exame_label": "37º Exame OAB",
+    "opcoes": {
+      "A": "As ações e o apartamento.",
+      "B": "O carro e o prêmio de loteria.",
+      "C": "O carro e o apartamento.",
+      "D": "As ações e o prêmio de loteria."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 1,
+    "sintese": "<p>No regime da comunhão parcial de bens, entram na comunhão os bens adquiridos por fato eventual (prêmio de loteria) e os adquiridos a título oneroso na constância do casamento. Excluem-se os bens recebidos por herança ou doação (Art. 1.659, I e Art. 1.660, II do CC).</p>",
+    "logica_conceito": "<p>Na comunhão parcial, o carro comprado na constância e o prêmio de loteria (fato eventual) comunicam-se entre os cônjuges. As ações herdadas por Pedro e o apartamento doado a Joana são bens particulares e não entram na partilha.</p>",
+    "fundamentacao": "<p>Artigo 1.659, inciso I e Artigo 1.660, inciso II do Código Civil.</p>",
+    "dica": "<p>🔥 <b>Dica de OAB da Profª Roberta:</b> Herança/Doação = NÃO partilha (bem particular)! Prêmio de Loteria = PARTILHA (fato eventual entra na comunhão)!</p>",
+    "aula_comentario": "<p><b>Profª Roberta Queiroz (46º OAB - Direito de Família):</b> 'Na comunhão parcial de bens, prestem atenção na pegadinha da OAB: herança e doação recebidas por um dos cônjuges SÃO BENS PARTICULARES (Art. 1.659, I CC) e NÃO se partilham! Já o prêmio de loteria é bem comum adquirido por fato eventual (Art. 1.660, II CC) e ENTRA na partilha do divórcio!'</p>",
+    "analise": "<p><b>Alternativa A: Incorreta.</b> Ações herdadas e apartamento doado são bens particulares excluídos da partilha.<br><b>Alternativa B: CORRETA.</b> Partilham-se o carro (comprado na constância) e o prêmio de loteria (fato eventual).<br><b>Alternativa C: Incorreta.</b> O apartamento recebido em doação não entra na comunhão.<br><b>Alternativa D: Incorreta.</b> As ações foram herdadas por Pedro, sendo bem particular.</p>"
+  },
+  {
+    "num": 37,
+    "enunciado": "Júlio Cesar e Thayane foram casados por 8 anos e tiveram 2 filhos. Como a separação foi amigável, o casal achou melhor não realizar qualquer medida judicial, acordando verbalmente o valor da pensão alimentícia que seria paga em benefício dos menores, bem como o esquema de convivência parental.\n\nEntretanto, 3 anos após a separação, Thayane resolveu reajustar o valor da pensão alimentícia. O que não foi aceito por Júlio Cesar. Como não conseguiram alcançar um acordo, já que Júlio Cesar não pagou os valores solicitados, Thayane decidiu suspender o contato do pai com os filhos.\n\nSem poder ter contato com os filhos, Júlio Cesar procura você, como advogado(a) , a fim de receber sua orientação. Assinale a opção que indica, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "A medida adotada por Thayane está correta, pois a mãe tem autonomia para suspender o contato do pai que não cumpre com seus deveres de prestar alimentos, resguardando, dessa forma, a proteção necessária ao desenvolvimento biopsíquico dos menores.",
+      "B": "Thayane pode impedir o contato de Júlio Cesar com o filho, já que, após a separação, o exercício da autoridade familiar é exclusivo da mãe, que tem o dever de garantir os direitos das crianças e dos adolescentes.",
+      "C": "Thayane não pode impedir a convivência de Júlio Cesar com os filhos em razão do não pagamento da pensão alimentícia nos valores que foram pleiteados, pois independentemente das questões pendentes com relação aos alimentos, a convivência dos filhos com os pais é um direito fundamental.",
+      "D": "Thayane não pode impedir o contato de Júlio Cesar com os filhos, já que, tanto os alimentos, quando a guarda e convivência parental jamais foram regularizadas judicialmente, limitando-se o casal a um acordo verbal."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "39º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 39,
+    "exame_label": "39º Exame OAB",
+    "opcoes": {
+      "A": "A medida adotada por Thayane está correta, pois a mãe tem autonomia para suspender o contato do pai que não cumpre com seus deveres de prestar alimentos, resguardando, dessa forma, a proteção necessária ao desenvolvimento biopsíquico dos menores.",
+      "B": "Thayane pode impedir o contato de Júlio Cesar com o filho, já que, após a separação, o exercício da autoridade familiar é exclusivo da mãe, que tem o dever de garantir os direitos das crianças e dos adolescentes.",
+      "C": "Thayane não pode impedir a convivência de Júlio Cesar com os filhos em razão do não pagamento da pensão alimentícia nos valores que foram pleiteados, pois independentemente das questões pendentes com relação aos alimentos, a convivência dos filhos com os pais é um direito fundamental.",
+      "D": "Thayane não pode impedir o contato de Júlio Cesar com os filhos, já que, tanto os alimentos, quando a guarda e convivência parental jamais foram regularizadas judicialmente, limitando-se o casal a um acordo verbal."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 2,
+    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+  },
+  {
+    "num": 37,
+    "enunciado": "Mariana e Lucas estão casados há mais de 10 anos em regime da comunhão parcial de bens. Recentemente, Mariana descobriu que Lucas vem mantendo uma relação extraconjugal com uma vizinha. A descoberta abalou profundamente o casamento, e Mariana pediu o divórcio.\n\nConsiderando a quebra do dever de fidelidade, Mariana alega que Lucas perdeu o direito sobre todos os bens do casal, ou seja, ela entende que, apesar do regime de comunhão parcial de bens, o patrimônio construído ao longo do casamento não deverá ser partilhado.\n\nSobre a hipótese apresentada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "O adultério traduz-se em violação do dever de recíproca fidelidade no casamento. Assim, em razão da traição de Lucas, Mariana tem direito à indenização correspondente a parte dos bens do casal.",
+      "B": "A discussão de culpa e culpados para o divórcio não é mais necessária e, por isso, a divisão de bens deve seguir as regras do regime escolhido no casamento.",
+      "C": "O adultério é uma das mais graves infrações dos deveres conjugais e tem, como consequência, a perda do direito à meação.",
+      "D": "O adultério não interfere na partilha de bens do casal, mas tão somente no convívio do pai adúltero com os filhos menores de idade."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "opcoes": {
+      "A": "O adultério traduz-se em violação do dever de recíproca fidelidade no casamento. Assim, em razão da traição de Lucas, Mariana tem direito à indenização correspondente a parte dos bens do casal.",
+      "B": "A discussão de culpa e culpados para o divórcio não é mais necessária e, por isso, a divisão de bens deve seguir as regras do regime escolhido no casamento.",
+      "C": "O adultério é uma das mais graves infrações dos deveres conjugais e tem, como consequência, a perda do direito à meação.",
+      "D": "O adultério não interfere na partilha de bens do casal, mas tão somente no convívio do pai adúltero com os filhos menores de idade."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 3,
+    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Vitória e Rodrigo foram casados, em regime de comunhão parcial de bens, e são pais de Mariana. Quando Mariana atingiu 16 (dezesseis) anos, os pais divorciaram-se, passando a residir em lares distintos e a compartilhar a guarda de Mariana. Mariana passou a residir com o pai.\n\nA respeito do dever de educação de Mariana, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Caberá a Vitória e a Rodrigo, já que o dever de educação inserido nos deveres e direitos dos pais com relação aos filhos, no exercício do poder familiar, independe da situação conjugal de ambos.",
+      "B": "Com o divórcio, o dever de educação passa a ser somente do pai, com quem Mariana reside, sendo impossível fisicamente Vitória colaborar nesse sentido, dada a distância física de Mariana.",
+      "C": "Com o divórcio, caberá este dever somente ao pai, Rodrigo, pois, em que pese a guarda compartilhada, Mariana reside com ele.",
+      "D": "A guarda e a convivência determinam a quem caberá o dever de educar o filho, de modo que, nesse caso, o dever de educação passa a ser somente do pai."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "40º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 40,
+    "exame_label": "40º Exame OAB",
+    "opcoes": {
+      "A": "Caberá a Vitória e a Rodrigo, já que o dever de educação inserido nos deveres e direitos dos pais com relação aos filhos, no exercício do poder familiar, independe da situação conjugal de ambos.",
+      "B": "Com o divórcio, o dever de educação passa a ser somente do pai, com quem Mariana reside, sendo impossível fisicamente Vitória colaborar nesse sentido, dada a distância física de Mariana.",
+      "C": "Com o divórcio, caberá este dever somente ao pai, Rodrigo, pois, em que pese a guarda compartilhada, Mariana reside com ele.",
+      "D": "A guarda e a convivência determinam a quem caberá o dever de educar o filho, de modo que, nesse caso, o dever de educação passa a ser somente do pai."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 4,
+    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Um ano antes da morte de Otávio, Natália, 19 anos, ajuizou ação declaratória de filiação, alegando ter nascido antes de trezentos dias da dissolução da sociedade conjugal de Otávio com Antônia, mãe dela.\n\nOtávio ainda teve tempo de contestar, alegando que, à época em que Antônia engravidou, ele sofria de impotência, e que ela o traía com Bernardo, irmão gêmeo univitelino dele – fato que foi devidamente comprovado, que o levou a se separar e a pedir o divórcio. Otávio faleceu pouco depois da contestação.\n\nSobre o caso, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Os herdeiros de Otávio podem, após a sua morte, prosseguir na ação.",
+      "B": "Opera presunção absoluta de que Otávio é pai de Natália.",
+      "C": "O adultério de Antônia é suficiente para afastar a presunção de paternidade de Otávio.",
+      "D": "A alegação de impotência, ainda que provada, é irrelevante para a discussão da filiação."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "41º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 41,
+    "exame_label": "41º Exame OAB",
+    "opcoes": {
+      "A": "Os herdeiros de Otávio podem, após a sua morte, prosseguir na ação.",
+      "B": "Opera presunção absoluta de que Otávio é pai de Natália.",
+      "C": "O adultério de Antônia é suficiente para afastar a presunção de paternidade de Otávio.",
+      "D": "A alegação de impotência, ainda que provada, é irrelevante para a discussão da filiação."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 5,
+    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>"
+  },
+  {
+    "num": 39,
+    "enunciado": "Priscila e Lucas tiveram filhos muito cedo. Com 20 anos, Priscila teve Hugo, com Pedro. Com 19 anos, Lucas teve Vitória, com Larissa.\n\nPriscila e Lucas começaram a namorar quando seus filhos ainda eram bebês e se casaram tempos depois. Após vinte anos de casamento, sempre morando com os filhos, decidiram se divorciar. Durante todo esse tempo, Priscila cuidou de Vitória como se fosse mãe dela, contribuindo, inclusive, com as despesas da menina. Lucas, por sua vez, nunca teve paciência com as crianças e não desenvolveu com Hugo um relacionamento próximo, apesar de viverem na mesma casa. Os gastos específicos do menino sempre foram custeados por Priscila e por Pedro.",
+    "alternativas": {
+      "A": "Por terem Priscila e Lucas criado as crianças, como um casal, sob o mesmo teto, fica automaticamente configurada a multiparentalidade.",
+      "B": "Por ter sempre morado com Lucas, Hugo pode buscar o reconhecimento do vínculo de parentalidade socioafetiva com ele, o que extinguiria o vínculo jurídico entre Hugo e Pedro.",
+      "C": "Por ter Priscila criado Vitória como se fossem mãe e filha, é possível o reconhecimento do vínculo de parentalidade socioafetiva, com o consentimento de Vitória e sem prejuízo, necessariamente, do vínculo de Vitória com Larissa.",
+      "D": "Por ser conhecida a mãe biológica de Vitória, não é possível a configuração de parentalidade socioafetiva com Priscila, assim como, por ser conhecido o pai biológico de Hugo, não é possível a configuração de parentalidade socioafetiva com Lucas."
+    },
+    "gabarito": "C",
+    "disciplina": "Direito Civil",
+    "exame": "42º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 42,
+    "exame_label": "42º Exame OAB",
+    "opcoes": {
+      "A": "Por terem Priscila e Lucas criado as crianças, como um casal, sob o mesmo teto, fica automaticamente configurada a multiparentalidade.",
+      "B": "Por ter sempre morado com Lucas, Hugo pode buscar o reconhecimento do vínculo de parentalidade socioafetiva com ele, o que extinguiria o vínculo jurídico entre Hugo e Pedro.",
+      "C": "Por ter Priscila criado Vitória como se fossem mãe e filha, é possível o reconhecimento do vínculo de parentalidade socioafetiva, com o consentimento de Vitória e sem prejuízo, necessariamente, do vínculo de Vitória com Larissa.",
+      "D": "Por ser conhecida a mãe biológica de Vitória, não é possível a configuração de parentalidade socioafetiva com Priscila, assim como, por ser conhecido o pai biológico de Hugo, não é possível a configuração de parentalidade socioafetiva com Lucas."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 6,
+    "sintese": "<p>Questão do <b>42º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 42º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 42º Exame OAB.</p>"
+  },
+  {
+    "num": 40,
+    "enunciado": "Paulo e Glória mantiveram união estável por 22 anos, sem que nunca tivessem celebrado pacto de convivência. Ao longo da relação, amealharam, por esforço comum, patrimônio de R$ 1.600.000 (um milhão e seiscentos mil reai\n\ns) . Paulo faleceu, não deixando filhos nem pais, apenas seus quatro avós e dois irmãos.\n\nDiante dos fatos hipotéticos narrados, sobre a sucessão de Paulo, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Glória terá direito à meação, R$ 800.000 (oitocentos mil reai\n\ns) , mais metade do valor da herança, ou seja, R$ 400.000 (quatrocentos mil reai\n\ns) . O valor restante, de R$ 400.000 (quatrocentos mil reai\n\ns) , será dividido igualmente entre os avós de Paulo.",
+      "B": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai\n\ns) , ao direito real de habitação, mas não concorrerá com os ascendentes de Paulo.",
+      "C": "Glória terá direito ao valor total dos bens, já que o cônjuge afasta da sucessão os ascendentes do falecido.",
+      "D": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai\n\ns) , e o valor da herança será dividido em três partes iguais, recebendo Glória e os dois irmãos de Paulo, o correspondente a 1/3 (um terç\n\no) cada um."
+    },
+    "gabarito": "A",
+    "disciplina": "Direito Civil",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "opcoes": {
+      "A": "Glória terá direito à meação, R$ 800.000 (oitocentos mil reai s) , mais metade do valor da herança, ou seja, R$ 400.000 (quatrocentos mil reai s) . O valor restante, de R$ 400.000 (quatrocentos mil reai s) , será dividido igualmente entre os avós de Paulo.",
+      "B": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai s) , ao direito real de habitação, mas não concorrerá com os ascendentes de Paulo.",
+      "C": "Glória terá direito ao valor total dos bens, já que o cônjuge afasta da sucessão os ascendentes do falecido.",
+      "D": "Glória terá direito à meação, no valor de R$ 800.000 (oitocentos mil reai s) , e o valor da herança será dividido em três partes iguais, recebendo Glória e os dois irmãos de Paulo, o correspondente a 1/3 (um terç o) cada um."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 7,
+    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>"
+  },
+  {
+    "num": 42,
+    "enunciado": "Fabiano e Vitória, casados pelo regime de comunhão parcial de bens, são possuidores de boa-fé de um imóvel residencial localizado no município de Quebrangulo, AL, com área de 160 m2 (cento e sessenta metros quadrado\n\ns) .\n\nO proprietário do imóvel é Graciliano, que se mudou para Maceió, no início do ano de 2011, nunca mais retornando à cidade. Destaca-se que Graciliano havia hipotecado o bem dias antes de sua mudança para a capital.\n\nNo dia de ontem, o casal procurou você, como advogado(a) , com o propósito da verificar uma possível usucapião, visto que residem no bem desde 2018.\n\nCom base no sistema jurídico brasileiro, assinale a opção que apresenta, corretamente, sua orientação.",
+    "alternativas": {
+      "A": "A usucapião é forma de aquisição derivada, de modo que permanecem os ônus reais que gravavam o imóvel antes de sua declaração, não podendo ser oposta em caso de hipoteca.",
+      "B": "O casal, Fabiano e Vitória, poderá adquirir o domínio do imóvel por usucapião especial urbana, desde que demonstre a posse sem oposição, a utilização para sua moradia ou de sua família e que não seja proprietário de outro imóvel urbano ou rural.",
+      "C": "Em eventual falecimento do casal, os herdeiros não têm legitimidade na propositura da ação de usucapião, visto que o Código Civil impede o acréscimo da posse a dos seus antecessores, ainda que sejam contínuas e pacíficas.",
+      "D": "O sistema jurídico brasileiro inibe que um casal casado por regime da comunhão adquira um bem por usucapião, mesmo para fins de moradia, pois nesse regime devem ser partilhados apenas os bens adquiridos a título oneroso."
+    },
+    "gabarito": "B",
+    "disciplina": "Direito Civil",
+    "exame": "43º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 43,
+    "exame_label": "43º Exame OAB",
+    "opcoes": {
+      "A": "A usucapião é forma de aquisição derivada, de modo que permanecem os ônus reais que gravavam o imóvel antes de sua declaração, não podendo ser oposta em caso de hipoteca.",
+      "B": "O casal, Fabiano e Vitória, poderá adquirir o domínio do imóvel por usucapião especial urbana, desde que demonstre a posse sem oposição, a utilização para sua moradia ou de sua família e que não seja proprietário de outro imóvel urbano ou rural.",
+      "C": "Em eventual falecimento do casal, os herdeiros não têm legitimidade na propositura da ação de usucapião, visto que o Código Civil impede o acréscimo da posse a dos seus antecessores, ainda que sejam contínuas e pacíficas.",
+      "D": "O sistema jurídico brasileiro inibe que um casal casado por regime da comunhão adquira um bem por usucapião, mesmo para fins de moradia, pois nesse regime devem ser partilhados apenas os bens adquiridos a título oneroso."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 8,
+    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>"
+  },
+  {
+    "num": 37,
+    "enunciado": "Gabriel e Vitória, pais de Ana e de Clara, faleceram em um acidente aéreo. Os parentes mais próximos de Ana e Clara são os tios, Rafael – irmão de Gabriel –, com 42 anos de idade, e a tia, Júlia – irmã de Vitória –, com 38 anos de idade. Atualmente, Ana tem 9 anos de idade e, Clara, 7.\n\nVerificou-se que, em seus respectivos testamentos, Gabriel e Vitória nomearam, como tutor de Ana e Clara, Lucas, primo de Gabriel.\n\nSobre o caso narrado, segundo o ordenamento jurídico brasileiro, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Júlia deverá exercer a tutela das meninas, por estar no mesmo grau de parentesco que Rafael, e por ser mais nova que ele, além de ser parente mais próxima que Lucas.",
+      "B": "Rafael deverá exercer a tutela das meninas, por estar no mesmo grau de parentesco que Júlia, e por ser mais velho que ela, além de ser parente mais próximo que Lucas.",
+      "C": "Lucas não poderá exercer a tutela, porque somente os colaterais até o terceiro grau podem ser tutores.",
+      "D": "Lucas deverá exercer a tutela, por ter sido nomeado pelos pais\n\ndas meninas em testamento."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "opcoes": {
+      "A": "Júlia deverá exercer a tutela das meninas, por estar no mesmo grau de parentesco que Rafael, e por ser mais nova que ele, além de ser parente mais próxima que Lucas.",
+      "B": "Rafael deverá exercer a tutela das meninas, por estar no mesmo grau de parentesco que Júlia, e por ser mais velho que ela, além de ser parente mais próximo que Lucas.",
+      "C": "Lucas não poderá exercer a tutela, porque somente os colaterais até o terceiro grau podem ser tutores.",
+      "D": "Lucas deverá exercer a tutela, por ter sido nomeado pelos pais das meninas em testamento."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 9,
+    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>"
+  },
+  {
+    "num": 41,
+    "enunciado": "Beatriz nasceu duzentos e cinquenta dias após a morte do pai, Bernardo, com quem sua mãe, Gabriela, era casada há 2 anos.\n\nQuando Gabriela foi registrar Beatriz, Leonardo, irmão de Bernardo, afirmou que não aceitaria que ela a registrasse como filha de Bernardo, a não ser que Gabriela provasse a paternidade, por meio de exame de DNA.\n\nSobre a situação apresentada, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Gabriela precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que é direito da família do falecido questionar a paternidade a este atribuída após a sua morte.",
+      "B": "Gabriela precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que, nos termos do Código Civil, a paternidade não é presumida após a dissolução do vínculo conjugal.",
+      "C": "Gabriela não precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que a criança nasceu após a morte de Bernardo e o direito para contestação da paternidade é personalíssimo.",
+      "D": "Gabriela não precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que, nos termos do Código Civil, presumem-se concebidos na constância do casamento os filhos nascidos nos trezentos dias subsequentes à dissolução da sociedade conjugal por morte."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "44º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 44,
+    "exame_label": "44º Exame OAB",
+    "opcoes": {
+      "A": "Gabriela precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que é direito da família do falecido questionar a paternidade a este atribuída após a sua morte.",
+      "B": "Gabriela precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que, nos termos do Código Civil, a paternidade não é presumida após a dissolução do vínculo conjugal.",
+      "C": "Gabriela não precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que a criança nasceu após a morte de Bernardo e o direito para contestação da paternidade é personalíssimo.",
+      "D": "Gabriela não precisa realizar o exame de DNA para que possa registrar Beatriz, uma vez que, nos termos do Código Civil, presumem-se concebidos na constância do casamento os filhos nascidos nos trezentos dias subsequentes à dissolução da sociedade conjugal por morte."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 10,
+    "sintese": "<p>Questão do <b>44º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 44º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 44º Exame OAB.</p>"
+  },
+  {
+    "num": 38,
+    "enunciado": "Joaquim, de 71 anos de idade, é viúvo de Marta há cerca de quatro anos, e não finalizou a partilha de bens deixados por sua falecida esposa, porque há um litígio entre o filho comum do ex-casal e a filha do primeiro casamento de Marta.\n\nNa semana passada, Joaquim procurou você, como advogado(a) , para ser orientado juridicamente acerca da união que pretende estabelecer com Joana, tendo em vista que a partilha anterior não será realizada antes do novo matrimônio.\n\nA respeito do regime de bens que deveria adotar na nova união, assinale a opção que apresenta, corretamente, a sua orientação.",
+    "alternativas": {
+      "A": "Separação convencional de bens, ante a idade de Joaquim.",
+      "B": "Qualquer regime de bens, por força da autonomia que é assegurada a Joaquim.",
+      "C": "Comunhão parcial de bens, de forma a resguardar os bens ainda não partilhados.",
+      "D": "Separação obrigatória de bens, para evitar a confusão patrimonial entre os vínculos conjugais."
+    },
+    "gabarito": "D",
+    "disciplina": "Direito Civil",
+    "exame": "46º Exame OAB",
+    "tipo": "Branca",
+    "exame_num": 46,
+    "exame_label": "46º Exame OAB",
+    "opcoes": {
+      "A": "Separação convencional de bens, ante a idade de Joaquim.",
+      "B": "Qualquer regime de bens, por força da autonomia que é assegurada a Joaquim.",
+      "C": "Comunhão parcial de bens, de forma a resguardar os bens ainda não partilhados.",
+      "D": "Separação obrigatória de bens, para evitar a confusão patrimonial entre os vínculos conjugais."
+    },
+    "modulo_codigo": "07_direito_de_familia",
+    "modulo_nome": "Direito de Família",
+    "id": 11,
+    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
+    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
+    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
+    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
+    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
+    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+  }
+]

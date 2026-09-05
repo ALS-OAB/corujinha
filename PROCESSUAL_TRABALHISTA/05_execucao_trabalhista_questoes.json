@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_execucao_trabalhista",
     "modulo_nome": "Execução Trabalhista e Embargos",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 896, §2º e §9º</strong> (Recurso de Revista — RR): no rito sumaríssimo, o RR só é cabível por contrariedade a súmula de jurisprudência uniforme do TST ou a súmula vinculante do STF e por violação direta à CF/88. Gabarito A: RR não admitido porque não houve violação a súmula ou CF/88.</p>",
+    "dica": "<p>RR em rito <strong>sumaríssimo</strong> (CLT Art. 896, §9º): cabível somente por: (1) contrariedade a Súmula do TST ou SV do STF; (2) violação direta da CF/88. <strong>Não cabe</strong> RR sumaríssimo por divergência jurisprudencial ou violação de lei federal. Gabarito A: sem violação a súmula ou CF = RR não admitido.</p>"
   },
   {
     "num": 76,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_execucao_trabalhista",
     "modulo_nome": "Execução Trabalhista e Embargos",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 500:</strong> o recorrente pode desistir do recurso antes do julgamento. Recurso adesivo (CLT Art. 997, CPC subsidiário): interposto na mesma oportunidade da resposta ao recurso principal; é dependente do recurso principal. Se o recorrente principal desiste do recurso principal: o recurso adesivo perde o objeto (CLT Art. 997, §2º, III CPC).</p>",
+    "dica": "<p>Recurso adesivo trabalhista: dependente do recurso principal. Se o reclamante (recorrente principal) desiste do seu recurso: <strong>o adesivo do reclamado não pode ser processado isoladamente</strong> — perde o objeto. Gabarito C: recurso adesivo + desistência do principal = adesivo não prossegue.</p>"
   },
   {
     "num": 76,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "05_execucao_trabalhista",
     "modulo_nome": "Execução Trabalhista e Embargos",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 813:</strong> \"As audiências dos órgãos da Justiça do Trabalho serão públicas e realizar-se-ão na sede do Juízo ou Tribunal em dias úteis previamente fixados, entre 8 e 18 horas, não podendo ultrapassar 5 horas seguidas, salvo quando houver matéria urgente, sob pena de nulidade.\" Audiência marcada às 17h: pode ir até 18h normalmente; ultrapassar 18h = somente com urgência.</p>",
+    "dica": "<p>Audiências trabalhistas (CLT Art. 813): horário entre <strong>8h e 18h</strong>. Não podem ultrapassar 5 horas seguidas. Além das 18h: somente em <strong>situação urgente</strong>, sob pena de nulidade. Gabarito C: audiências ocorrem até 18h, salvo urgência. Advogado que tem audiência marcada para 17h: pode durar até 18h normalmente.</p>"
   },
   {
     "num": 79,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "05_execucao_trabalhista",
     "modulo_nome": "Execução Trabalhista e Embargos",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 879, §2º:</strong> elaborados os cálculos de liquidação, as partes serão intimadas para se manifestar. Silêncio sobre os cálculos na fase de liquidação: <strong>preclusão</strong> — não pode mais impugnar os valores na fase de execução/embargos. Argüição tardia de matéria que impugna cálculos = preclusa.</p>",
+    "dica": "<p>Liquidação de sentença trabalhista: partes intimadas para impugnar os cálculos (CLT Art. 879, §2º). Silêncio = <strong>preclusão</strong>. Na fase de embargos à execução: não é mais possível impugnar o que se tornou precluso na liquidação. Gabarito D: preclusa a arguição de matérias que impugnam os cálculos não contestados na liquidação.</p>"
   },
   {
     "num": 77,
@@ -92,7 +116,14 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_execucao_trabalhista",
     "modulo_nome": "Execução Trabalhista e Embargos",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 114:</strong> competência da Justiça do Trabalho: relações de trabalho. <strong>Súmula 392 TST:</strong> \"A Justiça do Trabalho é competente para julgar demandas de empregado contra empregador relativas ao dano moral decorrente da relação de trabalho.\" Outras matérias (penal, consumidor etc.) = Justiça Comum. Gabarito D: JT incompetente para o pedido específico.</p>",
+    "dica": "<p>JT é competente para: danos morais decorrentes da relação de trabalho (Súmula 392 TST). <strong>Incompetente para</strong>: conflitos que não decorram da relação de emprego (contratos entre empresas, matéria penal, relações de consumo). Gabarito D: o pedido específico não decorre da relação de emprego = JT incompetente.</p>",
+    "revisar_manual": true
   },
   {
     "num": 76,
@@ -111,6 +142,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "05_execucao_trabalhista",
     "modulo_nome": "Execução Trabalhista e Embargos",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 767</strong> (compensação e retenção): na execução trabalhista, o executado pode alegar compensação de crédito que tenha contra o exequente. <strong>CPC Art. 475-L (ou CLT Art. 884):</strong> embargos à execução podem alegar excesso de execução ou compensação de crédito. Gabarito C: alegar compensação do valor pago a título de adiantamento.</p>",
+    "dica": "<p>Compensação na execução trabalhista: alegada nos <strong>embargos à execução</strong> (CLT Art. 884). Adiantamento pago durante o contrato: pode ser compensado com crédito reconhecido na sentença — desde que não seja parcela de natureza alimentar impenhorável. Gabarito C: alegação de compensação do adiantamento.</p>"
   }
 ]

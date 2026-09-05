@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_previdencia_beneficios",
     "modulo_nome": "FGTS e Benefícios Trabalhistas",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 62, II:</strong> gerentes e outros cargos de gestão com poderes de mando e gestão ficam excluídos do capítulo de duração do trabalho (sem controle de jornada + sem horas extras). <strong>Súmula 287 TST:</strong> jornada de trabalho do empregado do cargo de confiança (Art. 62, II): o exercício de cargo interino de supervisor, com poderes de mando e gestão, enquadra-se no Art. 62, II — sem horas extras durante o interinato.</p>",
+    "dica": "<p>Cargo de confiança com poderes de mando/gestão (CLT Art. 62, II): <strong>sem controle de jornada</strong>, sem horas extras durante o exercício. Exercício interino do cargo de supervisor = aplicam-se as regras do cargo durante o interinato. Gabarito D: exercício interino sem controle de jornada — sem horas extras enquanto durar o interinato.</p>"
   },
   {
     "num": 75,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_previdencia_beneficios",
     "modulo_nome": "FGTS e Benefícios Trabalhistas",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 62, III</strong> (teletrabalho): teletrabalhadores ficam excluídos do capítulo de duração do trabalho — <strong>sem horas extras</strong> como regra. José é teletrabalhador = sem hora extra. <strong>Art. 62, I:</strong> empregado em atividade externa incompatível com fixação de horário = sem hora extra. Verificar as demais pessoas do enunciado para identificar quem se enquadra.</p>",
+    "dica": "<p>Teletrabalhador (CLT Art. 62, III): excluído da jornada de trabalho → <strong>sem direito a horas extras</strong> como regra geral (salvo previsão contratual). Gabarito B: nenhum dos empregados citados tem direito a horas extras — provavelmente todos se enquadram no Art. 62 (teletrabalho ou atividade externa incompatível com controle).</p>"
   },
   {
     "num": 73,
@@ -54,7 +66,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_previdencia_beneficios",
     "modulo_nome": "FGTS e Benefícios Trabalhistas",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 75-B:</strong> teletrabalho é a prestação de serviços fora das dependências do empregador, de forma preponderante ou não, com a utilização de tecnologias de informação e de comunicação. <strong>Art. 75-C:</strong> o regime de teletrabalho deve constar do contrato individual de trabalho, com as atividades realizadas fora das dependências do empregador.</p>",
+    "dica": "<p>Teletrabalho (CLT Art. 75-B): prestação de serviços <strong>fora das dependências do empregador</strong>, de forma <em>total ou parcial</em>, usando TI/comunicação. Gabarito D: teletrabalho se dá \"total ou parcialmente fora das dependências.\" Não confundir com home office informal — o teletrabalho da CLT exige previsão contratual expressa.</p>"
   },
   {
     "num": 71,
@@ -73,7 +91,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_previdencia_beneficios",
     "modulo_nome": "FGTS e Benefícios Trabalhistas",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 10-A</strong> (redação Lei 13.467/17): \"O sócio retirante responde subsidiariamente pelas obrigações trabalhistas da sociedade relativas ao período em que figurou como sócio, somente em ações ajuizadas até dois anos depois de averbada a modificação do contrato.\" <strong>Retirada fraudulenta:</strong> Rogéria saiu fraudulentamente = afasta a proteção do Art. 10-A → responsabilidade solidária (não subsidiária).</p>",
+    "dica": "<p>Sócio retirante: responsabilidade <strong>subsidiária</strong> por 2 anos após a retirada regular (CLT Art. 10-A). Retirada <strong>fraudulenta</strong>: sem o benefício — responsabilidade <strong>solidária</strong> com os demais sócios (desconsideração da fraude). Gabarito C: Rogéria (retirada fraudulenta) = responsabilidade solidária.</p>"
   },
   {
     "num": 71,
@@ -92,7 +116,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_previdencia_beneficios",
     "modulo_nome": "FGTS e Benefícios Trabalhistas",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 428 ss</strong> (aprendizagem) + <strong>Lei 11.788/08</strong> (estágio): ambos podem ser contratados para atividades adequadas às suas condições. Aprendizes: 14 a 24 anos (portadores de deficiência: sem limite). Estagiários: cursando ensino médio ou superior. <strong>CLT, Art. 403, parágrafo único:</strong> trabalho de menores: vedado noturno, perigoso, insalubre. Atividades de limpeza e conservação: permitidas para aprendizes (verificar NR).</p>",
+    "dica": "<p>Aprendizes (14-24 anos) e estagiários: podem realizar atividades adequadas à sua formação. Vedações para menores (CLT Art. 403): trabalho noturno (22h-5h), perigoso e insalubre. Limpeza e conservação = atividades permitidas. Gabarito A: \"é permitido contratar aprendizes e estagiários para realizar atividades\" = correto se respeitadas as restrições etárias e de segurança.</p>"
   },
   {
     "num": 74,
@@ -111,6 +141,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_previdencia_beneficios",
     "modulo_nome": "FGTS e Benefícios Trabalhistas",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 458, §2º</strong> (redação Reforma Trabalhista 2017): \"Para fins do disposto no caput deste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (...) VI - previdência privada; VII - vale-transporte; VIII - plano de saúde; IX - vale-alimentação e vale-refeição.\" Benefícios da política de incentivo previstos no §2º = <strong>não integram a remuneração</strong>.</p>",
+    "dica": "<p>Reforma Trabalhista: benefícios como plano de saúde, vale-alimentação, vale-refeição, previdência privada, seguro de vida = <strong>não integram</strong> a remuneração (CLT Art. 458, §2º). Gabarito A: \"todos os benefícios concedidos não integrarão a remuneração\" — desde que estejam no rol do Art. 458, §2º. Base para reflexos: salário base + verbas salariais (não os benefícios listados).</p>"
   }
 ]

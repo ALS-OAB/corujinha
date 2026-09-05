@@ -17,7 +17,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "06_acoes_especiais",
     "modulo_nome": "Procedimento Sumaríssimo e Ações Especiais",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 872:</strong> da sentença normativa em dissídio coletivo, o cumprimento se dá por <strong>ação de cumprimento</strong> perante as Varas do Trabalho. A ação de cumprimento é o instrumento para exigir o cumprimento da norma coletiva fixada em dissídio.</p>",
+    "dica": "<p>Sentença normativa descumprida: exigência por meio de <strong>ação de cumprimento</strong> (CLT Art. 872). Não é execução direta nem reclamação trabalhista comum. A ação de cumprimento é distribuída às Varas do Trabalho. Gabarito D: ação \"de cumprimento.\"</p>"
   },
   {
     "num": 77,
@@ -36,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "06_acoes_especiais",
     "modulo_nome": "Procedimento Sumaríssimo e Ações Especiais",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>DL 779/69, Art. 1º, I:</strong> ente público no processo trabalhista é desnecessária a garantia do juízo para opor embargos à execução. Município de Sete Lagoas condenado subsidiariamente: aplica-se o mesmo benefício de ente público. Prazo: 30 dias. Sem depósito prévio.</p>",
+    "dica": "<p>Ente público (município) na execução trabalhista: <strong>desnecessária a garantia do juízo</strong> para embargar (DL 779/69 Art. 1º, I). Prazo em dobro: 30 dias para embargos. Pagamento da condenação: via precatório (CF/88 Art. 100). Gabarito B: desnecessária a garantia do juízo diante da natureza jurídica de ente público.</p>"
   },
   {
     "num": 77,
@@ -55,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "06_acoes_especiais",
     "modulo_nome": "Procedimento Sumaríssimo e Ações Especiais",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 833, §2º</strong> + <strong>CPC Art. 494</strong> (subsidiário): após a publicação da sentença, o juiz só pode modificá-la para corrigir <em>erros materiais</em> ou esclarecer obscuridade por embargos de declaração. Erro de cálculo nos honorários: pode ser corrigido de ofício a qualquer tempo como <strong>erro material</strong>.</p>",
+    "dica": "<p>Erro material no cálculo dos honorários: pode ser corrigido pelo juiz de ofício a qualquer tempo (CLT Art. 833, §2º + CPC Art. 494, I). Não precisa de recurso — é correção do próprio juízo. Gabarito D: honorários = erro de cálculo material = corrigível de ofício. Diferente de erro de julgamento: só corrigível por recurso.</p>"
   },
   {
     "num": 80,
@@ -74,7 +92,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "06_acoes_especiais",
     "modulo_nome": "Procedimento Sumaríssimo e Ações Especiais",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 790-A, II</strong> (isenção de custas para beneficiárias da JG) + <strong>Art. 790, §3º:</strong> a assistência gratuita pode ser requerida por simples declaração de hipossuficiência. Irmãs com advogados distintos: apenas Antônia e Aline declararam hipossuficiência → apenas elas têm JG.</p>",
+    "dica": "<p>Justiça gratuita trabalhista (CLT Art. 790, §3º): basta declaração de hipossuficiência firmada pela parte. Apenas quem declarou e foi deferida = tem JG. Gabarito B: Antônia e Aline (declararam hipossuficiência) = isentas. Alessandra e Alba: não declararam = sem benefício.</p>"
   },
   {
     "num": 78,
@@ -93,7 +117,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "06_acoes_especiais",
     "modulo_nome": "Procedimento Sumaríssimo e Ações Especiais",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 884:</strong> garantida a execução, o executado pode opor embargos. Para cumprimento de sentença com recurso, o depósito recursal garante parte. <strong>CLT, Art. 899, §4º:</strong> para os recursos em execução (agravo de petição): depósito de 30% do valor da execução + custas e honorários de penhora.</p>",
+    "dica": "<p>Para interpor agravo de petição em execução trabalhista: garantir a execução (penhora ou depósito). Gabarito B: executado deposita <strong>30% da execução</strong> + custas e honorários de advogado (CLT Art. 899, §4º — depósito para AP em execução). Não é o depósito recursal padrão (para RO: 100% do valor da condenação limitado).</p>"
   },
   {
     "num": 77,
@@ -112,6 +142,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "06_acoes_especiais",
     "modulo_nome": "Procedimento Sumaríssimo e Ações Especiais",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 818</strong> (ônus da prova) + <strong>Súmula 461 TST</strong> (FGTS): \"É do empregador o ônus da prova em relação à regularidade dos depósitos do FGTS.\" <strong>Vale-transporte — Lei 7.418/87, Art. 4º:</strong> empregado que não requerer o benefício = sem direito; se requerer, o ônus de provar que pagou é do empregador.</p>",
+    "dica": "<p>Ônus da prova: <strong>FGTS</strong> = empregador prova a regularidade dos depósitos (Súmula 461 TST). <strong>Vale-transporte</strong> = empregado prova que requereu (Lei 7.418/87); após requerer, empregador prova que pagou. Gabarito D: em ambos (VT e FGTS) = ônus do empregador.</p>"
   }
 ]

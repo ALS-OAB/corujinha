@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_responsabilidade_processo",
     "modulo_nome": "Responsabilidade Civil do Estado e Processo Administrativo",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Servidão administrativa:</strong> modalidade restritiva de intervenção do Estado na propriedade privada; mantém a propriedade no particular com ônus real. Indenização: devida apenas se houver <strong>dano comprovado</strong> (ao contrário da desapropriação, que sempre indeniza). CF/88, Art. 5º, XXII/XXIII. Jurisprudência STJ: dano deve ser real e demonstrado.</p>",
+    "dica": "<p>Servidão administrativa ≠ desapropriação. Desapropriação: <strong>sempre</strong> indeniza (transfere propriedade). Servidão: indeniza <strong>só se houver dano</strong> comprovado. Tombamento: sem indenização regra geral. Limitação administrativa: sem indenização. Lembrar: quanto mais restritiva a intervenção, maior a indenização.</p>"
   },
   {
     "num": 34,
@@ -36,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_responsabilidade_processo",
     "modulo_nome": "Responsabilidade Civil do Estado e Processo Administrativo",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.079/2004 (PPP), Art. 10, §3º:</strong> \"As concessões patrocinadas em que mais de <strong>70%</strong> (setenta por cento) da remuneração do parceiro privado for paga pela Administração Pública dependerão de autorização legislativa específica.\"</p>",
+    "dica": "<p>PPP patrocinada: remuneração = tarifa dos usuários + contraprestação pública. Se contraprestação pública &gt; 70% → <strong>autorização legislativa específica</strong> obrigatória. Se ≤ 70% → autorização na lei orçamentária basta. Controle parlamentar sobre compromissos financeiros de longo prazo.</p>"
   },
   {
     "num": 32,
@@ -55,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "08_responsabilidade_processo",
     "modulo_nome": "Responsabilidade Civil do Estado e Processo Administrativo",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 14.133/21, Art. 74, III e §1º:</strong> inexigibilidade para serviços técnicos especializados de natureza <em>singular</em>, prestados por profissional ou empresa de notória especialização. Consultoria e auditoria financeira de alta complexidade configurem serviço singular + notória especialização = competição inviável.</p>",
+    "dica": "<p>Inexigibilidade por notória especialização: serviço deve ser <strong>singular</strong> (não comum de mercado) + empresa com excelência <strong>reconhecida</strong>. Requisitos documentais: atestados de capacidade técnica + justificativa de preço (mesmo sem competição). Consultoria especializada = clássico caso de inexigibilidade.</p>"
   },
   {
     "num": 31,
@@ -74,7 +92,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_responsabilidade_processo",
     "modulo_nome": "Responsabilidade Civil do Estado e Processo Administrativo",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.987/95, Art. 32:</strong> \"Declarada a intervenção, o poder concedente deverá, no prazo de <strong>trinta dias</strong>, instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, devendo este ser concluído no prazo de <strong>cento e oitenta dias</strong>.\"</p>",
+    "dica": "<p>Intervenção na concessão: (1) declaração por decreto + motivo; (2) <strong>30 dias</strong> → instaurar PAD; (3) <strong>180 dias</strong> → concluir PAD. Se PAD não concluído em 180 dias: intervenção cessa, concessionária reassume. Intervenção não extingue a concessão — é medida cautelar.</p>"
   },
   {
     "num": 34,
@@ -93,7 +117,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "08_responsabilidade_processo",
     "modulo_nome": "Responsabilidade Civil do Estado e Processo Administrativo",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.429/92, Art. 1º, §1º</strong> (redação Lei 14.230/2021): \"Consideram-se atos de improbidade administrativa as condutas <strong>dolosas</strong> tipificadas nos arts. 9º, 10 e 11.\" <strong>Art. 1º, §2º:</strong> \"Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado.\"</p>",
+    "dica": "<p>Reforma Lei 14.230/21: <strong>extinguiu</strong> a improbidade culposa. Antes: Art. 10 admitia culpa. Hoje: sempre <strong>dolo específico</strong>. Lucas agiu culposamente → <strong>sem improbidade</strong>. Pode responder: disciplinarmente + civilmente (responsabilidade subjetiva). Distrator: confundir responsabilidade civil com improbidade.</p>"
   },
   {
     "num": 32,
@@ -112,6 +142,13 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_responsabilidade_processo",
     "modulo_nome": "Responsabilidade Civil do Estado e Processo Administrativo",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>Agências reguladoras = autarquias especiais; Conselho Diretor = órgão colegiado com competências definidas na lei de cada agência. <strong>Lei 9.986/2000</strong> + legislações específicas regulam o quórum e o funcionamento das reuniões deliberativas. Reunião regular com quórum legal e pauta definida = válida.</p>",
+    "dica": "<p>Agência reguladora: independência técnica + mandato fixo dos diretores + estabilidade durante o mandato. Reunião deliberativa do Conselho Diretor: quórum de <strong>maioria absoluta</strong> em regra (verificar lei específica de cada agência). Ato deliberativo com quórum e convocação regulares = <strong>sem irregularidade</strong>.</p>",
+    "revisar_manual": true
   }
 ]

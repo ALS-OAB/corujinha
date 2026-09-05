@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CTB, Art. 304: \"<strong>Deixar o condutor do veículo, na ocasião do acidente, de prestar imediata assistência à vítima, ou, não podendo fazê-lo diretamente, por justa causa, deixar de solicitar auxílio da autoridade pública</strong>: Penas — detenção, de seis meses a um ano, ou multa.\" Bruno não causou o acidente (a vítima já estava na estrada), mas se omitiu em prestar socorro — omissão de socorro qualificado (CTB Art. 304).</p>",
+    "dica": "<p>Motorista que encontra vítima na estrada e não presta socorro (nem solicita auxílio) = <strong>omissão de socorro (CTB Art. 304)</strong> (A certa). B erra: concausa independente afasta a imputação do homicídio culposo — Bruno não causou o acidente. C e D erram ao imputar homicídio culposo a Bruno.</p>"
   },
   {
     "num": 59,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 122 (redação da Lei 13.968/2019): \"Induzir ou instigar alguém a suicidar-se (...). §2°: Se o suicídio é consumado <strong>ou se da automutilação ou da tentativa de suicídio resulta lesão corporal de natureza gravíssima</strong>: Pena — reclusão, de 2 a 6 anos.\" Pablo (13 anos, menor de 14) + resultado lesão gravíssima → Luís responde nas penas do §2° do Art. 122, equiparado às \"<strong>penas do crime de lesão corporal gravíssima</strong>\" (B certa).</p>",
+    "dica": "<p>Instigação ao suicídio de menor de 14 anos + resultado lesão gravíssima → Art. 122, §2° = <strong>penas do crime de lesão corporal gravíssima</strong> (B certa). A erra: o crime de instigação ao suicídio não se qualifica como crime hediondo. C erra: tentativa pressupõe não consumação de resultado — aqui houve lesão gravíssima. D erra: perdão judicial não se aplica automaticamente ao instigador.</p>"
   },
   {
     "num": 61,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 317 (corrupção passiva) — crime do funcionário público. Art. 333 (corrupção ativa): \"Oferecer ou prometer vantagem indevida a funcionário público...\" Art. 333 é crime <strong>formal</strong>: consuma-se com o <strong>mero oferecimento</strong>, independentemente de aceitação. A empresa/terceiro que ofereceu a vantagem a Antônio (via terceiro) praticou <strong>corrupção ativa consumada</strong>.</p>",
+    "dica": "<p>Corrupção ativa: crime formal = consuma-se com o <strong>mero oferecimento</strong> da vantagem, sem necessidade de aceitação (D certa). A erra: corrupção passiva é o crime do funcionário (Antônio recebeu a oferta, mas o examinado perguntas sobre quem ofereceu). C erra: tentativa exigiria que o crime fosse material — não é. B erra: o crime praticado é corrupção ativa, não passiva.</p>"
   },
   {
     "num": 57,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 7°, II, b (extraterritorialidade condicionada): crime praticado por brasileiro no estrangeiro. Condição prevista no Art. 7°, §2°, b: \"<strong>ser o fato punível também no país em que foi praticado</strong>.\" A conduta (embriaguez ao volante) <em>não é crime</em> no país estrangeiro → condição não preenchida → Maria não responde pela lei brasileira.</p>",
+    "dica": "<p>Extraterritorialidade condicionada exige que o fato seja <strong>punível também no exterior</strong> — se não for crime lá, a lei brasileira não se aplica (C certa). A erra: a nacionalidade sozinha não basta — as condições do §2° são cumulativas. B erra ao negar qualquer possibilidade — em outros cenários, a lei brasileira poderia se aplicar. D erra: o critério da lei estrangeira não é determinante isoladamente.</p>"
   },
   {
     "num": 59,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 7°, II, b: extraterritorialidade condicionada com base no <strong>princípio da personalidade ativa</strong> (brasileiro no exterior). Condições (§2°): entrar no Brasil, fato punível no exterior, não absolvido/extinta a punibilidade no exterior. Rodrigo (brasileiro) cometeu crime nos EUA (país onde o fato é punível) → lei brasileira pode ser aplicada condicionalmente. C certa.</p>",
+    "dica": "<p>Brasileiro no exterior + vítima estrangeira → <strong>princípio da personalidade ativa</strong> → extraterritorialidade <strong>condicionada</strong> (Art. 7°, II, b + §2°) (C certa). A erra: princípio da bandeira aplica-se a aeronaves/embarcações brasileiras. B erra: personalidade passiva (Art. 7°, §3°) protege vítimas brasileiras no exterior — aqui a vítima é estrangeira. D erra: princípio da defesa protege bens jurídicos do Estado brasileiro.</p>"
   },
   {
     "num": 61,
@@ -111,7 +141,14 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 5°, caput: \"<strong>Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional.</strong>\" O crime de Pierre foi cometido no Brasil (território brasileiro) → princípio da territorialidade → lei brasileira aplica-se, <strong>independentemente da nacionalidade do agente ou da vítima, e independentemente de o fato ser crime no exterior</strong> (D certa).</p>",
+    "dica": "<p>Crime cometido no território brasileiro: <strong>princípio da territorialidade</strong> aplica-se <em>incondicionalmente</em> (D certa). A erra: a lei brasileira se aplica pois o crime ocorreu no Brasil. B erra: dupla criminalidade só é exigida na extraterritorialidade condicionada, não na territorialidade. C erra: a lei brasileira aplica-se de forma incondicionada — não condicionada à nacionalidade da vítima nessa hipótese.</p>",
+    "revisar_manual": false
   },
   {
     "num": 57,
@@ -130,6 +167,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_crimes_administracao",
     "modulo_nome": "Crimes contra a Administração Pública",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CP, Art. 213 (estupro): ação penal <strong>pública incondicionada</strong> (Art. 225, com redação da Lei 13.718/2018). A tentativa de estupro é punida (Art. 14, II). A defesa de Daniel pode alegar <strong>causa de diminuição de pena da tentativa</strong> (Art. 14, parágrafo único: redução de 1 a 2/3). Daniel não consumou o ato porque Bianca resistiu.</p>",
+    "dica": "<p>Tentativa de estupro: pena reduzida de <strong>1 a 2/3</strong> (causa de diminuição da tentativa — B certa). A erra: não há retratação de representação em ação pública incondicionada (desde 2018 estupro = pública incondicionada). C erra: marital rape NÃO é exercício regular de direito. D erra: não há perdão tácito em ação penal pública.</p>"
   }
 ]

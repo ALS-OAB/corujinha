@@ -16,7 +16,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 109, IX:</strong> compete à Justiça Federal processar e julgar crimes praticados a bordo de navios ou aeronaves. Cruzeiro marítimo = navio. Crime durante a travessia marítima = <strong>Justiça Federal</strong>. <strong>CPP, Art. 89:</strong> competência territorial: porto de embarque ou desembarque mais próximo = Recife (porto de escala mencionado).</p>",
+    "dica": "<p>Crime a bordo de navio/aeronave = <strong>Justiça Federal</strong> (CF Art. 109, IX). Competência territorial: porto de desembarque ou comarca mais próxima. Cruzeiro partindo de Fortaleza, parada em Recife: delito na travessia → JF de <strong>Recife</strong> (porto mais próximo do fato ou do desembarque).</p>"
   },
   {
     "num": 66,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXVIII:</strong> habeas corpus cabível quando alguém sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção por ilegalidade ou abuso de poder. <strong>CF/88, Art. 105, II, a:</strong> RO em habeas corpus ao STJ quando denegado pelo TJ em única ou última instância. Fabrício preso preventivamente: HC denegado pelo TJ → <strong>Recurso Ordinário Constitucional ao STJ</strong>.</p>",
+    "dica": "<p>HC denegado pelo TJ em única/última instância: recurso = <strong>ROC ao STJ</strong> (CF Art. 105, II, a). Não é RE (STF) — este é para violação à CF/88 em decisão de último grau. Não é RESP (matéria de direito infraconstitucional ordinário — o ROC é o correto para HC). Prazo: 5 dias.</p>"
   },
   {
     "num": 68,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.099/95, Art. 82, §2º:</strong> do julgamento do JECrim, cabe apelação para a Turma Recursal. A apelação deve ser interposta <strong>no próprio JECrim</strong> com as razões. <strong>Art. 82, caput:</strong> prazo de 10 dias + razões obrigatórias já na interposição.</p>",
+    "dica": "<p>Recurso no JECrim: <strong>apelação</strong> (não RESE nem embargos), no prazo de <strong>10 dias</strong> com razões <em>já incluídas</em>, interposta no próprio JECrim e julgada pela <strong>Turma Recursal</strong> (não TJ). Turma Recursal ≠ TJ. Distrator: levar ao TJ = erro (TJ não tem competência sobre JECrim estadual).</p>"
   },
   {
     "num": 65,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 580 e Art. 648 + CF/88 Art. 5º, LXVIII:</strong> habeas corpus pode ser concedido de ofício pelo Tribunal (Art. 654, §2º CPP). <strong>Lei 12.403/11:</strong> Tribunal pode conceder HC mesmo quando não é o órgão competente para o julgamento, agindo de ofício em benefício do preso. Telma: presa preventivamente — Tribunal pode conceder HC ex officio.</p>",
+    "dica": "<p>Tribunal pode conceder HC <strong>de ofício</strong> em favor do réu preso ilegalmente, mesmo quando a competência originária é do juiz de 1º grau (Art. 654, §2º CPP). Amanda impetrou HC em favor de Telma: Tribunal agiu corretamente ao conceder. Extensão de HC: outros réus em igual situação podem ser beneficiados (Art. 580 CPP).</p>"
   },
   {
     "num": 67,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 11.340/06, Art. 5º, III e Art. 7º, I:</strong> violência doméstica inclui relações íntimas de afeto atuais <strong>ou pregressas</strong>. <strong>Art. 5º, §1º:</strong> relação íntima de afeto, independentemente de coabitação. STJ Súmula 600: aplica-se a Lei Maria da Penha nas relações de namoro quando configurada a violência doméstica, mesmo após o término.</p>",
+    "dica": "<p>Lei Maria da Penha aplica-se mesmo após o <strong>término do relacionamento</strong> (STJ Súmula 600 + Art. 5º, III LMP: relação íntima atual ou pregressa). Lesão leve em contexto doméstico: AP pública incondicionada (Art. 41 LMP + Súmula 542 STJ). Distrator: achar que encerramento do namoro afasta a LMP.</p>"
   },
   {
     "num": 65,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CP, Art. 163</strong> (dano) + <strong>Art. 100</strong>: dano simples = ação penal privada. Túlio: alguém colocou substância estranha em sua geladeira (sua água). Se é dano à propriedade dele → AP privada. <strong>CPP, Art. 43 + Art. 395, II:</strong> se o querelante é ilegítimo, a queixa deve ser rejeitada. Questão testa quem tem legitimidade ativa e o tipo de AP.</p>",
+    "dica": "<p>Crime de dano (Art. 163 CP): ação penal <strong>privada</strong>. O MP não tem legitimidade para oferecer denúncia. Se MP ofereceu denúncia = ilegitimidade ativa → alegar <strong>ilegitimidade do MP</strong> (Art. 395, II CPP). Prazo decadencial para queixa: 6 meses. Gabarito B: AP privada + alegar ilegitimidade do órgão acusador.</p>"
   },
   {
     "num": 67,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "08_juizado_especial",
     "modulo_nome": "Juizados Especiais Criminais e Execução Penal",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.099/95, Art. 82:</strong> das decisões do JECrim cabe apelação à Turma Recursal, no prazo de 10 dias. Da decisão que <em>rejeita</em> a queixa-crime: cabe <strong>apelação</strong> (Art. 82 c/c Art. 395, III CPP). A rejeição por decadência é decisão terminativa — impugnável por apelação no JECrim.</p>",
+    "dica": "<p>Rejeição da queixa no JECrim: recurso = <strong>apelação</strong> (Art. 82 Lei 9.099/95), no prazo de 10 dias, com razões na interposição, à Turma Recursal. Não é RESE (este é para casos específicos do CPP fora do JECrim). Distrator: usar RESE para rejeição de queixa no JECrim = erro.</p>"
   }
 ]

@@ -23,12 +23,12 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 1,
-    "sintese": "<p>Questão do <b>38º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 38º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 38º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p><strong>\"Qualquer que seja o regime de bens\"</strong> = direito real de habitação para o cônjuge sobrevivente (A certa). B erra ao negar por haver mais imóveis — mas o Art. 1.831 diz \"único daquela natureza a inventariar\" = único imóvel residencial. C erra ao condicionar a participação na herança. D erra ao excluir o regime de separação convencional.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.831: \"<strong>Ao cônjuge sobrevivente, qualquer que seja o regime de bens, será assegurado, sem prejuízo da participação que lhe caiba na herança, o direito real de habitação relativamente ao imóvel destinado à residência da família, desde que seja o único daquela natureza a inventariar.</strong>\" Maria Cristina (regime de separação convencional) tem direito real de habitação sobre o único imóvel residencial, <em>independentemente do regime de bens</em>.</p>"
   },
   {
     "num": 41,
@@ -54,12 +54,12 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 2,
-    "sintese": "<p>Questão do <b>38º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 38º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 38º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Obrigação divisível com pluralidade de credores: cada credor cobra <strong>apenas sua parte (R$300k)</strong> de qualquer devedor (B certa). A erra: Eduardo não pode cobrar a totalidade de um devedor sozinho. C erra: cobrar ¼ não está correto — cada um cobra sua metade (metade do total, não do valor do devedor). D erra: podem sim pleitear sozinhos, cada um sua parte.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 257: \"<strong>Havendo mais de um devedor ou mais de um credor em obrigação divisível, esta presume-se dividida em tantas obrigações, iguais e distintas, quantos os credores ou devedores.</strong>\" Eduardo e Letícia são dois credores em obrigação divisível (R$600k). Cada um pode cobrar <em>somente sua parte</em> (R$300k) de <em>qualquer um</em> dos devedores — não a totalidade.</p>"
   },
   {
     "num": 39,
@@ -85,12 +85,12 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 3,
-    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Renúncia em fraude a credores: credor pode aceitar a herança <strong>até o valor do seu crédito</strong> (D certa). A erra: renúncia é válida, mas ineficaz perante os credores prejudicados. B erra: o banco pode aceitar somente até o seu crédito. C erra: Tatiana não responde pela dívida de Marcela apenas por aceitar a herança.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.813: \"<strong>Quando o herdeiro prejudicar os seus credores, renunciando à herança, poderão eles, com autorização do juiz, aceitá-la em nome do renunciante. (...) Parágrafo único: O quinhão que assim passar ao credor não será partilhado entre os demais herdeiros, ficando sujeito ao pagamento das dívidas do renunciante.</strong>\" O Banco XYZ pode aceitar o quinhão de Marcela <strong>até o valor de seu crédito</strong>.</p>"
   },
   {
     "num": 40,
@@ -116,12 +116,12 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 4,
-    "sintese": "<p>A substituição vulgar ou fideicomissária constante de testamento caduca se o nomeado não puder ou não quiser aceitar a herança sem que haja substituto válido (Art. 1.943 e 1.951 do CC).</p>",
-    "logica_conceito": "<p>A disposição testamentária da quota disponível respeita os limites postos pela testadora. Não havendo aceitação nem substituto legítimo, a quota vaga acresce aos herdeiros legítimos.</p>",
-    "fundamentacao": "<p>Artigos 1.941, 1.943 e 1.951 do Código Civil.</p>",
-    "dica": "<p>Sucessão Testamentária: A vontade válida do testador sobre a metade disponível prevalece. Se a cláusula caducar, a quota acresce à herança legítima.</p>",
-    "aula_comentario": "<p>Profª Roberta Queiroz lecionou em Sucessões: 'A parte disponível constante de testamento deve ser partilhada conforme a disposição de última vontade da testadora!'.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Cumpre-se a disposição testamentária no limite da cota disponível constante da cláusula testada.<br><b>Alternativa B: Incorreta.</b> A caducidade da substituição não anula o testamento em sua totalidade.<br><b>Alternativa C: Incorreta.</b> Os herdeiros necessários não podem avançar sobre a cota disponível legitimamente testada.<br><b>Alternativa D: Incorreta.</b> A cota testada não se invalida sem vício formal de consentimento.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 1.947 (substituição vulgar): o testador pode substituir o herdeiro/legatário quando não puder ou não quiser aceitar o legado. \"Individualmente substituídos\": cada um tem seu próprio substituto — Carolina (com filho Marta), Henrique (com filho Carlos). Henrique renunciou → Carlos recebe a parte de Henrique. Carolina aceitou → Carolina fica com sua parte. Total: Carolina + Carlos herdam o apartamento.</p>",
+    "dica": "<p>Substituição vulgar <em>individual</em>: Henrique renunciou → <strong>Carlos</strong> recebe a parte de Henrique; Carolina aceitou → <strong>Carolina</strong> fica com a sua. Ambos (A certa). B erra: direito de acrescer só opera quando não há substituto. C erra: renúncia parcial é inválida no todo (Art. 1.808), mas aqui Henrique renunciou ao legado inteiro. D erra: Carlos pega só a parte de Henrique.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 38,
@@ -147,12 +147,12 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 5,
-    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Morte de devedor solidário: herdeiros respondem <strong>pelo total perante o credor, mas entre si, cada um pro rata</strong> (D certa — conforme Art. 276 lido com o gabarito). A erra: a obrigação é solidária (não divisível entre os vivos e o espólio desta forma). B erra: a dívida é transmissível. C erra: os herdeiros de Pedro, entre si, pagam pro rata — mas perante Joana respondem pelo total.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 276: \"<strong>Se um dos devedores solidários falecer, ficam obrigados os herdeiros, pelo total da dívida, em relação ao credor; mas, entre si, cada herdeiro responde apenas pela quota proporcional ao seu quinhão hereditário.</strong>\" Mateus e Pedro eram devedores solidários; Pedro morreu. Os herdeiros de Pedro respondem pro rata à sua herança, não solidariamente entre si. D certa.</p>"
   },
   {
     "num": 40,
@@ -178,12 +178,12 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 6,
-    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Dispensa de colação por <strong>testamento</strong>: <strong>válida</strong> (CC Art. 2.006) (A certa). B erra ao dizer que a dispensa só vale no contrato de doação. C erra: ascendente pode doar a descendente — o consentimento dos demais é exigido na doação inoficiosa, não aqui. D erra pelo mesmo motivo que C.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 2.005: \"<strong>São dispensados de colação os donatários que, ao tempo da liberalidade, já não eram herdeiros necessários do doador.</strong>\" Art. 2.006: \"<strong>A dispensa de colação pode ser outorgada pelo doador em testamento, ou no próprio título de liberalidade.</strong>\" Gustavo dispensou a colação em testamento = válido. A doação de imóvel = válida (escritura pública para imóvel > 30 SM). A certa.</p>"
   },
   {
     "num": 39,
@@ -209,11 +209,11 @@
     "modulo_codigo": "08_direito_das_sucessoes",
     "modulo_nome": "Direito das Sucessões",
     "id": 7,
-    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Exclusão por indignidade: <strong>MP tem legitimidade para propor</strong> (Lei 14.357/2022, Art. 1.815, §1º) (B certa). A erra ao limitar apenas a Mateus. C erra: tutor sozinho não tem legitimidade exclusiva. D erra: a exclusão independe do consentimento do tutor.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 1.815: \"<strong>A exclusão do herdeiro ou legatário, em todos esses casos de indignidade, será declarada por sentença.</strong>\" §1º (acrescentado pela Lei 14.357/2022): \"<strong>A ação de exclusão do herdeiro indigno pode ser proposta pelo co-herdeiro, pelo MP ou pelo interessado legítimo.</strong>\" O MP tem legitimidade expressa para propor a ação de exclusão por indignidade, especialmente quando há menor interessado (Mateus).</p>"
   }
 ]

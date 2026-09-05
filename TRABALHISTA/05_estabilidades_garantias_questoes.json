@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_estabilidades_garantias",
     "modulo_nome": "Estabilidades Provisórias e Garantias no Emprego",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 543, §2º:</strong> \"Considera-se de serviço efetivo o período em que o empregado estiver afastado do trabalho prestando serviços à entidade sindical.\" <strong>Art. 543:</strong> para se candidatar a cargo de direção sindical, o empregado deve comunicar o empregador. Mas Pedro: quer se candidatar — ainda não foi eleito. Pré-candidatura não gera interrupção do contrato automaticamente. Empregador não é obrigado a interromper contrato antes da eleição.</p>",
+    "dica": "<p>Candidatura a cargo sindical: empregado deve <strong>comunicar</strong> o empregador (CLT Art. 543, §1º). O empregador <strong>não</strong> é obrigado a interromper o contrato por mera candidatura — só após eleição e registro. Pedro: pré-candidato = sem direito à interrupção ainda. Após eleição: estabilidade provisória (CLT Art. 543, §3º).</p>"
   },
   {
     "num": 72,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_estabilidades_garantias",
     "modulo_nome": "Estabilidades Provisórias e Garantias no Emprego",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 473, VIII:</strong> \"O empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (...) VIII - até 2 dias consecutivos ou não, em caso de falecimento de cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho, viva sob sua dependência econômica;\" Doação de sangue: Art. 473, IV — 1 dia por ano (não por doação). Lei 10.205/01: empresa não pode descontar o dia de doação voluntária.</p>",
+    "dica": "<p>Doação de sangue voluntária: <strong>1 dia por ano</strong> sem desconto salarial (CLT Art. 473, IV + Lei 10.205/01). Com comprovação: falta justificada, sem desconto. Gabarito B: doação comprovada = dia justificado. Empregador multinacional deve cumprir a lei brasileira independentemente de políticas internas internacionais.</p>"
   },
   {
     "num": 75,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_estabilidades_garantias",
     "modulo_nome": "Estabilidades Provisórias e Garantias no Emprego",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 6.019/74, Art. 9º</strong> (trabalho temporário): \"É proibida a contratação de trabalhos temporários para: I - substituição de trabalhadores em greve...\" <strong>CLT, Art. 9º:</strong> cláusula contratual que proíbe o empregado temporário de ser efetivado após o término do contrato temporário (<em>cláusula de reserva</em>) é nula de pleno direito — viola direito do trabalhador e é fraude à lei.</p>",
+    "dica": "<p>Cláusula de reserva no contrato de trabalho temporário (proibindo efetivação posterior): <strong>nula de pleno direito</strong> (CLT Art. 9º). A lei não proíbe a contratação do temporário como efetivo após o término do contrato — é direito do trabalhador. Cláusula que restringe isso = fraude à lei trabalhista.</p>"
   },
   {
     "num": 73,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "05_estabilidades_garantias",
     "modulo_nome": "Estabilidades Provisórias e Garantias no Emprego",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 11:</strong> prazo prescricional de 5 anos durante o contrato. <strong>Art. 11, §2º:</strong> o ajuizamento de ação trabalhista interrompe a prescrição. <strong>CLT, Art. 8º + Súmula 268 TST:</strong> a prescrição interrompida pelo ajuizamento da ação volta a correr após arquivamento ou extinção sem resolução do mérito. Denilson ajuizou em 2023 por período 2004-2008 — fora do prazo de 5 anos + 2 anos após extinção.</p>",
+    "dica": "<p>Prescrição trabalhista (CF Art. 7º, XXIX): 5 anos durante o contrato + 2 anos após extinção. Denilson trabalhou 2004-2008 (saiu em 2008); ajuizou em 2023 = 15 anos após a extinção → <strong>prescrição bienal ultrapassada</strong>. Supermercado: alegar prescrição em defesa (Art. 11, §3º CLT: juiz pode pronunciar de ofício se alegada). Ações de FGTS: prescrição de 30 anos (Súmula 362 TST).</p>"
   },
   {
     "num": 71,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_estabilidades_garantias",
     "modulo_nome": "Estabilidades Provisórias e Garantias no Emprego",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 844</strong> (audiência trabalhista): parte que não comparece sem motivo justificado = arquivamento (reclamante) ou confissão (reclamado). <strong>Art. 843, §1º:</strong> se o reclamado não comparecer, o juiz poderá prosseguir na audiência. Flávio preso em flagrante: impedimento justificado. Advogado pode requerer adiamento por motivo de força maior. Nulidade da AIJ sem ciência do impedimento: alegável.</p>",
+    "dica": "<p>Empregado preso impedido de comparecer à AIJ: <strong>causa de adiamento</strong> (CLT Art. 844 + princípio do contraditório). Advogado deve: comunicar imediatamente ao juízo + requerer redesignação. Se a AIJ ocorreu sem ciência do impedimento: requerer nulidade. Gabarito D: requerer nulidade da AIJ por ausência justificada.</p>"
   },
   {
     "num": 71,
@@ -111,6 +141,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "05_estabilidades_garantias",
     "modulo_nome": "Estabilidades Provisórias e Garantias no Emprego",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 461</strong> (equiparação salarial): \"Sendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento empresarial, será assegurado igual salário, sem distinção de sexo, etnia, nacionalidade ou idade.\" Diferença salarial entre Luciana (mulher) e Paulo (homem) pela mesma função = equiparação salarial + diferença de gênero ilegal.</p>",
+    "dica": "<p>Equiparação salarial (CLT Art. 461): mesma função + mesmo valor de trabalho + mesmo estabelecimento = mesmo salário, sem distinção por sexo. Luciana vs Paulo: diferença salarial por gênero = <strong>ilegal</strong>. Requisitos: identidade de função + trabalho de igual valor (Art. 461, §1º: mesmo empregador, mesmo estabelecimento, diferença de tempo não superior a 4 anos).</p>"
   }
 ]

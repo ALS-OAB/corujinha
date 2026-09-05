@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "04_recursos_trabalhistas",
     "modulo_nome": "Recursos Trabalhistas (RO, RR, Agravo)",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 855-A</strong> (incidente de desconsideração da personalidade jurídica — IDPJ): aplicável ao processo trabalhista. Quando o credor deseja atingir os bens dos sócios da empresa condenada, deve instaurar o IDPJ antes de qualquer penhora sobre o patrimônio dos sócios. Instaurado: suspende o processo principal (CLT Art. 855-A, §1º).</p>",
+    "dica": "<p>Para atingir sócios da empresa condenada: instaurar <strong>IDPJ</strong> (CLT Art. 855-A + CPC Art. 133 ss). Não penhorar diretamente bens do sócio sem o incidente. O IDPJ suspende o processo. Após deferimento: sócio integra o polo passivo e pode ter bens penhorados. Gabarito B: IDPJ é o instrumento correto.</p>"
   },
   {
     "num": 80,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "04_recursos_trabalhistas",
     "modulo_nome": "Recursos Trabalhistas (RO, RR, Agravo)",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 793-A ss</strong> (litigância de má-fé — Reforma 2017): responde por má-fé a parte que deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso, alterar verdade dos fatos, usar processo para fim ilegal, etc. Multa de 1% a 10% do valor corrigido da causa (Art. 793-B).</p>",
+    "dica": "<p>Litigância de má-fé trabalhista (CLT Art. 793-A): prevista expressamente após a Reforma 2017. Condutas: alterar fatos, deduzir defesa contra lei expressa, recorrer com fim protelatório. Multa: 1% a 10% do valor da causa. Gabarito D: condutas ensejam má-fé e têm previsão <strong>legal</strong> (CLT Art. 793-A ss).</p>"
   },
   {
     "num": 80,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "04_recursos_trabalhistas",
     "modulo_nome": "Recursos Trabalhistas (RO, RR, Agravo)",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 789, §1º:</strong> nos acordos homologados, as custas calculam-se em 2% sobre o valor do acordo. Quando o acordo é celebrado antes da instrução (audiência inaugural): custas de 2% sobre o valor do acordo. <strong>Art. 789-A:</strong> sem pagamento mínimo de custas quando o valor é inferior ao mínimo legal.</p>",
+    "dica": "<p>Custas em acordo trabalhista: <strong>2%</strong> sobre o valor do acordo (CLT Art. 789, §1º). Pagas pelo réu (salvo convenção). Acordo celebrado na fase inicial da audiência: custas incidentes. Gabarito A: custas = 2% sobre valor do acordo. Empregado beneficiário de JG: isento de custas (Art. 790-A, I).</p>"
   },
   {
     "num": 78,
@@ -73,7 +91,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "04_recursos_trabalhistas",
     "modulo_nome": "Recursos Trabalhistas (RO, RR, Agravo)",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 855-B ss</strong> (homologação de acordo extrajudicial): prevista na Reforma 2017. Petição conjunta de ambas as partes + advogados distintos ou o mesmo (vedado o mesmo em alguns casos). <strong>Art. 855-B, §2º:</strong> \"Não será homologado por advogado que seja, simultaneamente, advogado de ambas as partes.\" Partes com mesmo advogado: vedada a homologação.</p>",
+    "dica": "<p>Homologação de acordo extrajudicial (CLT Art. 855-B): exige que cada parte tenha seu <strong>próprio advogado</strong> (não o mesmo). Gabarito A: não é possível a homologação porque as partes não podem ser representadas pelo mesmo advogado. Finalidade: garantir que o empregado foi assessorado de forma independente antes de assinar.</p>"
   },
   {
     "num": 76,
@@ -92,7 +116,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "04_recursos_trabalhistas",
     "modulo_nome": "Recursos Trabalhistas (RO, RR, Agravo)",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 461, §1º</strong> (equiparação salarial): \"O trabalho de igual valor, para os fins deste artigo, será o que for feito com igual produtividade e com a mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o mesmo empregador não seja superior a 4 anos e a diferença de tempo na função não seja superior a 2 anos.\" Ônus da prova: empregador prova a diferença.</p>",
+    "dica": "<p>Equiparação salarial (CLT Art. 461): o <strong>empregador</strong> prova que há diferença de perfeição técnica ou produtividade que justifica o salário distinto. Gabarito A: \"à empresa caberá provar a diferença na perfeição técnica.\" Requisitos da equiparação: mesma função + mesmo estabelecimento + diferença ≤ 4 anos no empregador e ≤ 2 anos na função.</p>"
   },
   {
     "num": 80,
@@ -111,6 +141,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "04_recursos_trabalhistas",
     "modulo_nome": "Recursos Trabalhistas (RO, RR, Agravo)",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 114, I e III:</strong> compete à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho + conflitos sindicais. Ação entre sindicatos sobre representação sindical: conflito de representatividade = Justiça do Trabalho (STF RE 553.681).</p>",
+    "dica": "<p>Conflito entre sindicatos: competência da <strong>Justiça do Trabalho</strong> (CF/88 Art. 114, III). Mesmo sem empregado ou empregador como parte: disputa de representatividade sindical = matéria trabalhista. Gabarito A: ação deve ser ajuizada na JT. Não é Justiça Federal nem Estadual.</p>"
   }
 ]

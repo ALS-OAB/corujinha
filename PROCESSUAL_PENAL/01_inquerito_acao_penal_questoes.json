@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CP, Art. 135:</strong> omissão de socorro. Para responsabilização penal por omissão imprópria (art. 13, §2º), exige-se posição de <em>garante</em> e <strong>resultado naturalístico</strong>. Cuidadora de idoso incapaz: garante por contrato (Art. 13, §2º, b). Responsabilização depende de nexo causal entre a omissão e o resultado morte — não mera presumção.</p>",
+    "dica": "<p>Cuidadora = garantidora por força de contrato (Art. 13, §2º, b CP). Mas crime omissivo impróprio exige <strong>nexo causal</strong> entre omissão e resultado. Sem prova de que a ação teria evitado a morte: sem responsabilização. Gabarito B: exige comprovação de efetiva negligência relevante.</p>"
   },
   {
     "num": 65,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CP, Art. 180 (receptação):</strong> \"Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime.\" Preço muito inferior ao de mercado: indício relevante de que o agente <em>sabia</em> ou <em>devia suspeitar</em> da origem ilícita — funda a denúncia, mas não é prova absoluta. <strong>Súmula 522 STJ:</strong> prova da receptação dolosa.</p>",
+    "dica": "<p>Preço muito abaixo do mercado = indício de ciência da origem criminosa (elemento subjetivo da receptação). Não é <strong>prova absoluta</strong>, mas circunstância suficiente para sustentar a denúncia. Ônus da prova: acusação. Laudo pericial: exigido para provar adulteração de documentos (Súmula 424 STF).</p>"
   },
   {
     "num": 67,
@@ -54,7 +66,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 302:</strong> flagrante próprio = preso durante a prática ou logo após. Flagrante presumido (Art. 303): encontrado com instrumentos/produtos do crime logo depois. Na situação: André subtraiu na sexta, preso na terça seguinte com o bem — <em>dias depois</em>, não \"logo após\". Flagrante ilegal → <strong>relaxamento</strong> (CF/88 Art. 5º, LXV). Crime: furto (Art. 155 CP), não receptação.</p>",
+    "dica": "<p>Flagrante \"na terça após furto na sexta\" = <strong>flagrante ilegal</strong> (lapso temporal incompatível com \"logo após\" do Art. 302 CPP). Pedido correto: <strong>relaxamento</strong> da prisão (ilegal desde a origem). Liberdade provisória ≠ relaxamento. Relaxamento: prisão ilegal. LP: prisão legal + sem necessidade de manutenção.</p>"
   },
   {
     "num": 63,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 593, I:</strong> cabe apelação das sentenças definitivas de condenação. <strong>Art. 600:</strong> prazo de 8 dias para interposição. <strong>Art. 601:</strong> razões no prazo de 8 dias após a interposição. Crime de desacato (pena até 2 anos): competência do Juizado Especial Criminal (Lei 9.099/95, Art. 61)? Não — desacato é de ação pública; rito do CPP. Recurso: <strong>apelação com razões no prazo de 8 dias</strong>.</p>",
+    "dica": "<p>Sentença condenatória pelo Juízo ordinário: recurso = <strong>apelação</strong> (CPP Art. 593, I) + razões em <strong>8 dias</strong>. Se fosse no JECrim (Lei 9.099/95): apelação em 10 dias com razões. Distrator clássico: recurso em sentido estrito (só para decisões específicas, não sentença condenatória).</p>"
   },
   {
     "num": 66,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 413, §1º:</strong> a pronúncia não pode conter excesso de linguagem que possa influenciar os jurados. <strong>CPP, Art. 564, IV</strong> + Súmula 156 STJ: excesso de linguagem na pronúncia = nulidade. Juiz pronunciou com linguagem prejudicando a imparcialidade do Conselho de Sentença.</p>",
+    "dica": "<p>Pronúncia com <strong>excesso de linguagem</strong> = nulidade absoluta (viola plenitude de defesa no Júri). Fundamentação na pronúncia deve ser sóbria — juiz apenas analisa se o réu é <em>provável</em> autor. Se convencer demais, vicia o julgamento popular. Remédio: anulação da pronúncia + nova decisão.</p>"
   },
   {
     "num": 68,
@@ -111,7 +141,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 207:</strong> \"São proibidas de depor as pessoas que, em razão de função, ministério, ofício ou profissão, devam guardar segredo.\" <strong>Art. 208:</strong> contraditório das testemunhas. Psiquiatra do réu: sigilo profissional médico (CF/88 Art. 5º, XIV + CEM). Pode ser <strong>contradita</strong> por impedimento (proibida de depor).</p>",
+    "dica": "<p>Psiquiatra do réu = proibida de depor (sigilo médico — Art. 207 CPP). Instrumento correto: <strong>contradita</strong> na audiência, alegando que a testemunha é proibida de depor por ter conhecimento em razão da função. Não confundir contradita (proibição de depor) com suspeição (credibilidade da testemunha).</p>"
   },
   {
     "num": 66,
@@ -130,7 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 13.431/2017</strong> (proteção de crianças vítimas de violência) + <strong>Lei 11.340/2006 (Maria da Penha), Art. 22</strong>: medidas protetivas de urgência. Criança vítima de violência doméstica pelo pai: cabe medida protetiva de proibição de contato (Art. 22, III Lei 11.340/06) + aplicação analógica da lei Maria da Penha por violência doméstica intrafamiliar contra criança.</p>",
+    "dica": "<p>Violência doméstica contra criança pelo genitor: aplica-se <strong>Lei Maria da Penha</strong> por analogia (STJ: violência doméstica intrafamiliar inclui criança/adolescente). Medida protetiva de <strong>proibição de contato</strong> é cabível. Não precisa aguardar instauração de IP ou ação penal — é medida urgente.</p>"
   },
   {
     "num": 68,
@@ -149,6 +191,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_inquerito_acao_penal",
     "modulo_nome": "Inquérito Policial e Ação Penal",
-    "id": 8
+    "id": 8,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 74 + Lei 9.099/95, Art. 61:</strong> crimes com pena máxima até 2 anos = JECrim. Contrabando: Art. 334-A CP, pena de 2 a 5 anos = competência da Vara Criminal comum (não JECrim). <strong>CPP, Art. 419 (desaforamento):</strong> para crimes do Júri. Desclassificação de descaminho (1-4 anos) para contrabando (2-5 anos) + JECrim descabido.</p>",
+    "dica": "<p>Desclassificação para contrabando (pena 2-5 anos) afasta o JECrim (limite: máx. 2 anos). Réu primário sem antecedentes + contrabando: avaliação de sursis (CP Art. 77) ou ANPP (Art. 28-A CPP: pena mínima cominada inferior a 4 anos + sem violência). ANPP cabível no contrabando (mínimo 2 anos).</p>"
   }
 ]

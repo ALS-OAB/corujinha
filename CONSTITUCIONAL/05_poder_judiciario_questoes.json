@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 25 + Princípio da Simetria:</strong> as Constituições Estaduais devem observar os princípios estabelecidos na CF/88. O processo legislativo para lei ordinária na CF (Art. 47: maioria simples) é norma de reprodução obrigatória. Estado-membro não pode tornar mais gravoso o quórum para lei ordinária — violaria a simetria constitucional.</p>",
+    "dica": "<p>Simetria constitucional: Estados devem observar o modelo federal (CF/88). Quórum para lei ordinária federal = maioria simples (Art. 47) → norma de reprodução obrigatória nos Estados. PEC estadual que exija maioria absoluta para lei ordinária = <strong>inconstitucional</strong> (C).</p>"
   },
   {
     "num": 11,
@@ -35,7 +41,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, LXXI:</strong> mandado de injunção \"será concedido sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais.\" Lei 13.300/2016: o STF pode, no MI, estabelecer as condições em que o direito será exercido enquanto a norma não é editada (efeitos concretos). Competência para MI de direito social → STF.</p>",
+    "dica": "<p>MI individual → STF pode fixar as condições de exercício do direito para o impetrante (efeito concreto). Não confundir com ADO (notifica o órgão omisso, não regula o direito). Distrator B erra a competência (STJ). Distrator D (ADO) não garante fruição imediata.</p>"
   },
   {
     "num": 14,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 64, §1º:</strong> o Presidente da República pode solicitar urgência para projetos de sua iniciativa. <strong>Art. 64, §2º:</strong> cada Casa do Congresso dispõe de até 45 dias para deliberar, sucessivamente. Não há trancamento imediato da pauta (isso é das MPs). Cidadania não está no rol de vedação a projeto de lei (Art. 68, §1º).</p>",
+    "dica": "<p>PR quer lei rápida sobre cidadania → <strong>PL com pedido de urgência</strong> (Art. 64, §1º): 45 dias em cada Casa. MP (distrator A) é vedada para cidadania (Art. 62, §1º, I, \"a\"). Lei delegada (distrator D) exige delegação do CN e não pode ter emendas.</p>"
   },
   {
     "num": 16,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 125:</strong> os Estados organizarão sua Justiça. A Constituição Estadual é parâmetro para o TJ, não para o STF. RE só cabe quando há questão federal constitucional (CF/88). Questão de Constituição Estadual <em>sem</em> reprodução de norma federal obrigatória → decisão do TJ é definitiva, sem RE.</p>",
+    "dica": "<p>RE ao STF cabe quando há ofensa à <strong>CF/88</strong>. Questão puramente de Constituição Estadual (sem norma de reprodução obrigatória) → TJ é o guardião; <strong>não cabe RE</strong>. Distrator B erra: STF não revisa interpretação de CE autônoma.</p>"
   },
   {
     "num": 12,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 100, §2º:</strong> precatórios de natureza alimentícia terão preferência sobre os demais, e, entre eles, a prioridade é dada \"às pessoas com deficiência, aos idosos na forma do §3º, e àqueles acometidos de doenças graves.\" A preferência existe para deficientes, mas observados os balizamentos — inclusive a limitação de valor (três vezes o valor da RPV do ente devedor).</p>",
+    "dica": "<p>Pessoa com deficiência em precatório alimentício → preferência <em>com balizamentos</em> (B). Não é preferência absoluta sem limitação de valor (distrator A errou). Não é sem preferência (distrator D errou). A CF prevê preferência, mas com os limites do §2º.</p>"
   },
   {
     "num": 14,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 61, §1º, II, \"a\":</strong> são de iniciativa privativa do Presidente da República leis que disponham sobre criação de cargos e fixação de sua remuneração no Poder Executivo. <strong>Art. 63, I:</strong> não se admitirá emenda parlamentar que aumente a despesa prevista em projetos de iniciativa exclusiva do PR.</p>",
+    "dica": "<p>Emenda parlamentar que <strong>aumenta despesa</strong> em projeto de iniciativa exclusiva do PR = <strong>inconstitucional</strong> (Art. 63, I). Não importa a maioria (distrator B) — é vedação absoluta. MP (distrator C) não se aplica a remuneração de cargos.</p>"
   },
   {
     "num": 16,
@@ -130,6 +166,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "05_poder_judiciario",
     "modulo_nome": "Poder Judiciário e Súmulas Vinculantes",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 12, §4º, II:</strong> será declarada a perda da nacionalidade do brasileiro que \"adquirir outra nacionalidade, salvo nos casos: a) de reconhecimento de nacionalidade originária pela lei estrangeira; b) de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em Estado estrangeiro, como condição para permanência em seu território ou para o exercício de direitos civis.\" Sem imposição = perda.</p>",
+    "dica": "<p>Aquisição voluntária de outra nacionalidade <strong>SEM imposição</strong> do país estrangeiro → perde a brasileira (Art. 12, §4º, II). Mas a exceção: se o país <em>impusesse</em> como condição de residência ou direitos civis → mantém. No caso, não havia imposição → a CF prevê a perda, mas Mariana não pediu expressamente. STF: perda só com processo específico (A - mantém enquanto não declarada).</p>",
+    "revisar_manual": true
   }
 ]

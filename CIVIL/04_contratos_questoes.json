@@ -23,12 +23,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 1,
-    "sintese": "<p>Questão do <b>37º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 37º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 37º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Arras confirmatórias — inexecução por quem RECEBEU: <strong>devolução + equivalente + atualização + juros + honorários</strong> (C certa). A e B erram ao excluir o equivalente ou a indenização suplementar. D erra ao limitar ao valor das arras sem o equivalente. C = texto literal do Art. 418.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 418 (arras confirmatórias): \"<strong>Se a parte que deu as arras não executar o contrato, poderá a outra tê-las por si; se a inexecução for de quem as recebeu, quem as deu pode pedir restituição mais o equivalente, com atualização monetária segundo índices oficiais regularmente estabelecidos, juros e honorários de advogado.</strong>\" Maria (que recebeu os 20%) não compareceu. Joana (que pagou) pode pedir devolução dos 20% + equivalente + atualização + juros + honorários.</p>"
   },
   {
     "num": 42,
@@ -54,12 +54,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 2,
-    "sintese": "<p>Questão do <b>38º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 38º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 38º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 829: \"<strong>A fiança conjuntamente prestada por mais de uma pessoa é solidária entre elas.</strong>\" E Art. 828, II: benefício de ordem é afastado quando o fiador for solidário com o devedor principal. Luzia e Humberto são fiadores solidários entre si: Renata pode cobrar de qualquer um dos fiadores a integralidade da dívida, incluindo acessórios.</p>",
+    "dica": "<p>Fiança solidária: <strong>qualquer fiador responde pelo total, incluindo acessórios</strong> (A certa). B erra: fiadores solidários não têm benefício de ordem — não podem exigir que Tadeu seja executado primeiro. C erra: a solidariedade entre eles é a regra quando prestam conjuntamente. D erra: a fiança exige forma escrita (Art. 819).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 38,
@@ -85,12 +85,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 3,
-    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Danos devidos = <strong>dano emergente (equivalente ao animal) + lucro cessante (aluguel não recebido do outro jóquei)</strong> (D certa). A erra ao excluir o equivalente. B erra ao excluir lucros cessantes (não são hipotéticos — são razoavelmente esperados). C erra ao excluir os lucros cessantes.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 402: \"Salvo as exceções expressamente previstas em lei, as perdas e danos devidas ao credor abrangem, além do que ele efetivamente perdeu, <strong>o que razoavelmente deixou de lucrar</strong>.\" Art. 239: se a coisa se perder por culpa do devedor após a mora, responde pelo equivalente + mais perdas e danos. O haras perdeu o aluguel do cavalo ao outro jóquei (lucro cessante) + o valor do animal (dano emergente).</p>"
   },
   {
     "num": 40,
@@ -116,12 +116,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 4,
-    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Pagamento indevido com receptor de <strong>boa-fé</strong>: devolução do principal + <strong>juros da citação</strong> (não do pagamento) + correção + honorários (D certa). A erra ao qualificar como doação. B erra ao excluir juros. C erra ao incluir juros desde o pagamento (aplica-se só ao receptor de má-fé).</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 877 (pagamento indevido): quem pagou indevidamente tem direito de repetição. Art. 876: \"<strong>Todo aquele que recebeu o que lhe não era devido fica obrigado a restituir.</strong>\" José Miguel (de boa-fé) deve restituir o principal + <strong>juros legais contados da citação</strong> (não da data do pagamento) + correção monetária + honorários advocatícios. D descreve: correção monetária + juros da citação + honorários.</p>"
   },
   {
     "num": 39,
@@ -147,12 +147,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 5,
-    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 443: \"<strong>Se o alienante conhecia o vício ou o defeito da coisa, restituirá o que recebeu com perdas e danos; se o não conhecia, tão-somente restituirá o valor recebido, mais as despesas do contrato.</strong>\" Vício redibitório: deve-se provar a <em>preexistência</em> do defeito (sempre) e, para além da restituição simples, que o alienante <em>conhecia</em> o vício (para ter indenização por perdas e danos). C certa.</p>",
+    "dica": "<p>Vício redibitório — para indenização (não só restituição): <strong>preexistência + conhecimento do vendedor</strong> (C certa). B erra ao dispensar o conhecimento de Bernardo. D acrescenta cláusula de garantia — desnecessária quando se prova conhecimento do vício. A erra ao exigir cláusula expressa de garantia.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 41,
@@ -178,12 +178,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 6,
-    "sintese": "<p>Questão do <b>40º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 40º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 40º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Infiltração = <strong>necessária</strong>; armários de quarto e aquário = <strong>voluptuárias</strong> (C certa). A erra: locatário pode realizar benfeitorias necessárias (Art. 35, Lei 8.245/91) e são reembolsáveis. B erra ao classificar reparo como útil. D erra ao chamar armários e aquário de úteis.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 96: \"<strong>Benfeitorias necessárias</strong> são as que têm por fim conservar o bem ou evitar que se deteriore; <strong>úteis</strong>, as que aumentam ou facilitam o uso do bem; <strong>voluptuárias</strong>, as de mero deleite ou recreio.\" O reparo da infiltração = necessária (conserva/evita deterioração). A reforma dos armários dos quartos e o aquário = voluptuárias (deleite e recreio). C distingue corretamente.</p>"
   },
   {
     "num": 37,
@@ -209,12 +209,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 7,
-    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Imóvel > 30 salários mínimos: <strong>escritura pública obrigatória</strong> → sem ela o contrato é <strong>nulo</strong>, mas pode ser <strong>convertido em promessa de compra e venda</strong> (D certa). A erra: é nulo, não anulável. B erra: não há vício de consentimento — é vício de forma. C erra ao dizer válido.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 108: \"<strong>Não dispondo a lei em contrário, a escritura pública é essencial à validade dos negócios jurídicos que visem à constituição, transferência, modificação ou renúncia de direitos reais sobre imóveis de valor superior a trinta vezes o maior salário mínimo vigente no País.</strong>\" Imóvel de R$500.000 supera esse limite: escritura pública é obrigatória. Contrato por instrumento particular = nulo. CC, Art. 170: o ato nulo por forma pode ser convertido em promessa de compra e venda (pré-contrato).</p>"
   },
   {
     "num": 41,
@@ -240,12 +240,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 8,
-    "sintese": "<p>Questão do <b>41º Exame OAB</b> (Gabarito Oficial: <b>D</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa D</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 41º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 41º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa D: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 818: a fiança é contrato acessório e, em regra, subsidiária (benefício de ordem). Art. 828, II: \"Ao fiador não aproveita o benefício de ordem quando (...) <strong>tiver renunciado a ele</strong>.\" Com a renúncia expressa, Letícia assume posição de garante solidário com Fábio — não pode exigir que os bens de Fábio sejam executados primeiro.</p>",
+    "dica": "<p>Renúncia ao benefício de ordem: <strong>fiadora não pode alegar que Fábio seja executado primeiro</strong> (D certa). A erra: fiança independe de consentimento do devedor afiançado. B erra: fiança não pode ultrapassar o valor da dívida (Art. 823). C erra: fiança SEMPRE deve ser escrita (Art. 819), independentemente do contrato principal.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 38,
@@ -271,12 +271,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 9,
-    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 408 (cláusula penal moratória): \"<strong>incorre de pleno direito o devedor na cláusula penal, desde que, culposamente, deixe de cumprir a obrigação ou se constitua em mora.</strong>\" A cláusula penal moratória é exigível independentemente de comprovação de prejuízo. Art. 411: pode-se pedir a multa + cumprimento da obrigação principal (cumulação permitida na mora).</p>",
+    "dica": "<p>Cláusula penal moratória: devida <strong>independentemente de provar prejuízo</strong> + <strong>cumulável com o cumprimento</strong> da obrigação (A certa). B erra: a multa por mora é válida — não há vedação por excesso. C erra: na mora, pode-se cobrar a multa E exigir o cumprimento (diferente da inexecução total). D erra: natureza é de cláusula penal compensatória, não astreintes.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 37,
@@ -302,12 +302,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 10,
-    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Condição suspensiva implementada (rendimento > 10%) = <strong>negócio exigível</strong> (C certa). A erra ao chamar de \"encargo\" — é condição. B erra ao chamar de termo incerto. D erra: condição mista <em>não</em> é puramente potestativa — não é ao puro arbítrio de Dagoberto.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 121: condição = evento futuro e incerto. Art. 122: são ilícitas as condições que \"<strong>sujeitam ao puro arbítrio de uma das partes</strong>\" (puramente potestativas). Condição mista (depende do mercado financeiro + fato externo) = <strong>lícita</strong>. CC, Art. 125: com a implementação da condição suspensiva, o negócio torna-se exigível. Marina pode exigir a compra.</p>"
   },
   {
     "num": 40,
@@ -331,12 +331,12 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 11,
-    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Contrato particular para imóvel de R$2M: <strong>nulo por forma</strong>, mas <strong>convertível em promessa de compra e venda</strong> (B certa). C e D erram ao dizer anulável. A (texto completo) não foi mostrado, mas a falta de escritura não é sanável por mera ratificação — é nulidade.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 108: escritura pública obrigatória para imóvel acima de 30 salários mínimos. Imóvel de R$2M: exige escritura. Contrato particular = <strong>nulo por vício de forma</strong>. CC, Art. 170: \"<strong>se, porém, o negócio nulo contiver os requisitos de outro, subsistirá este quando o fim a que visavam as partes permitir supor que o teriam querido, se houvessem previsto a nulidade.</strong>\" Pode ser convertido em <strong>promessa de compra e venda</strong> (pré-contrato).</p>"
   },
   {
     "num": 41,
@@ -362,11 +362,11 @@
     "modulo_codigo": "04_contratos",
     "modulo_nome": "Contratos em Geral e Espécies",
     "id": 12,
-    "sintese": "<p>Questão do <b>46º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 46º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 46º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Preempção convencional (contrato particular): <strong>sem eficácia real</strong> — não pode reaver o imóvel, apenas cobrar <strong>perdas e danos do vendedor</strong> (A certa). B erra: mesmo com notificação de Flávio não há direito de reivindicação. C erra: não há perda de direito pela falta de ciência do terceiro. D erra: prazo de exercício da preempção é para quando o vendedor quer vender.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 516: a cláusula de preempção convencional tem eficácia apenas entre as partes — <strong>não é oponível a terceiros</strong> de boa-fé. Art. 518: se o vendedor alienar a coisa a terceiro sem dar preferência, \"<strong>o vendedor responde por perdas e danos</strong>\" ao titular da preferência. Eduardo <em>não pode</em> reivindicar o imóvel de Flávio, mas pode cobrar perdas e danos de Clara.</p>"
   }
 ]

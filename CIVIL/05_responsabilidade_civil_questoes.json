@@ -23,12 +23,12 @@
     "modulo_codigo": "05_responsabilidade_civil",
     "modulo_nome": "Responsabilidade Civil",
     "id": 1,
-    "sintese": "<p>Questão do <b>37º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 37º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 37º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Indenização inclui: <strong>despesas + lucros cessantes + pensão proporcional</strong> (B certa). Dano estético + dano moral = <strong>cumuláveis</strong> (C erra ao dizer que não). A erra ao excluir lucros cessantes. D erra: podem ser cobrados juntos.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 948 (homicídio): pensão por incapacidade parcial + dano emergente. Art. 950: quando a ofensa resulta em defeito pelo qual o ofendido não possa exercer o seu ofício ou profissão, ou quando lhe diminua a capacidade de trabalho, a indenização inclui <strong>pensão correspondente à importância do trabalho para que se inabilitou</strong>. Súmula 387 STJ: \"<strong>É lícita a cumulação das indenizações de dano estético e dano moral.</strong>\" Deve abranger despesas de tratamento + lucros cessantes até convalescença + pensão proporcional à incapacidade.</p>"
   },
   {
     "num": 39,
@@ -54,12 +54,12 @@
     "modulo_codigo": "05_responsabilidade_civil",
     "modulo_nome": "Responsabilidade Civil",
     "id": 2,
-    "sintese": "<p>Questão do <b>39º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 39º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 39º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Menor de 16 anos: <strong>prescrição suspensa</strong>. A partir dos <strong>16 anos</strong>, começa a correr o prazo de <strong>3 anos</strong> (B certa). A erra: prazo quinquenal não se aplica. C erra: prazos prescricionais são irrenunciáveis antecipadamente. D erra: pode renunciar à prescrição <em>consumada</em> (após consumação).</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 198, I: \"<strong>não corre a prescrição contra os absolutamente incapazes</strong>\" (menores de 16 anos). Art. 206, §3º, V: prescrição de 3 anos para responsabilidade civil extracontratual. Felipe tinha 10 anos na data do acidente — era absolutamente incapaz, prescrição suspensa. Completou 16 anos = tornou-se relativamente incapaz; <strong>prazo trienal começa a correr a partir dos 16 anos</strong>. B certa.</p>"
   },
   {
     "num": 37,
@@ -85,12 +85,12 @@
     "modulo_codigo": "05_responsabilidade_civil",
     "modulo_nome": "Responsabilidade Civil",
     "id": 3,
-    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p><strong>Morte do devedor não interrompe nem suspende a prescrição</strong> — continua contra o sucessor (B certa). A erra: prazo prescricional = 3 anos (Art. 206, §3º, V), não 4 anos; e é prescricional, não decadencial. C erra: 3 anos, não 10. D erra: a prescrição intercorrente (no processo) obedece o mesmo prazo.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 196: \"<strong>A prescrição iniciada contra uma pessoa continua a correr contra o seu sucessor.</strong>\" Mário faleceu durante a fluência do prazo prescricional; a prescrição não se interrompe nem suspende pela morte — continua a correr contra os herdeiros. B certa.</p>"
   },
   {
     "num": 41,
@@ -116,12 +116,12 @@
     "modulo_codigo": "05_responsabilidade_civil",
     "modulo_nome": "Responsabilidade Civil",
     "id": 4,
-    "sintese": "<p>Questão do <b>43º Exame OAB</b> (Gabarito Oficial: <b>C</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa C</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 43º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa C: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 43º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Art. 938: responsabilidade por coisas caídas = <strong>objetiva</strong> — sem necessidade de prova de dolo ou culpa (C certa). A e B erram ao exigir dolo/culpa. D erra: ser elemento original da construção não isenta a ocupante.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 938: \"<strong>Aquele que habitar prédio, ou parte dele, responde pelo dano proveniente das coisas que dele caírem ou forem lançadas em lugar indevido.</strong>\" Responsabilidade <strong>objetiva</strong> — independe de prova de dolo ou culpa. Carolina responde pelo dano causado pela queda do vaso da jardineira, ainda que seja elemento original da construção e mesmo sem negligência comprovada.</p>"
   },
   {
     "num": 39,
@@ -147,12 +147,12 @@
     "modulo_codigo": "05_responsabilidade_civil",
     "modulo_nome": "Responsabilidade Civil",
     "id": 5,
-    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>A</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa A</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "dica": "<p>Cumulação dano estético + moral: <strong>possível quando autônomos</strong> (A certa). B erra: cônjuge tem legitimidade para dano moral reflexo (Súmula 37 STJ). C erra: transporte gratuito e de cortesia = <strong>responsabilidade subjetiva</strong>, não objetiva. D erra: juros moratórios em responsabilidade extracontratual fluem desde o evento danoso (Súmula 54 STJ).</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p>CC, Art. 736: \"<strong>Não se subordina às normas do contrato de transporte o feito gratuitamente, por amizade ou cortesia</strong>\" — transporte desinteressado não é contrato de transporte. Portanto, Ariano responde <strong>subjetivamente</strong> (Art. 186 + Art. 927), não objetivamente. Súmula 387 STJ: <strong>cumulação de dano estético + dano moral é possível</strong> quando autônomos entre si.</p>"
   },
   {
     "num": 41,
@@ -178,11 +178,11 @@
     "modulo_codigo": "05_responsabilidade_civil",
     "modulo_nome": "Responsabilidade Civil",
     "id": 6,
-    "sintese": "<p>Questão do <b>45º Exame OAB</b> (Gabarito Oficial: <b>B</b>). Aplicação direta da legislação civil aplicável ao caso concreto.</p>",
-    "logica_conceito": "<p>O gabarito oficial (<b>Alternativa B</b>) decorre da interpretação sistemática do Código Civil para a situação hipotética descrita.</p>",
-    "fundamentacao": "<p>Dispositivos normativos pertinentes do Código Civil (Lei nº 10.406/2002) aplicados ao 45º Exame OAB.</p>",
-    "dica": "<p>Atenção na OAB: Identifique as partes, o regime jurídico aplicável e a regra específica do Código Civil no enunciado!</p>",
-    "aula_comentario": "<p>Comentário da questão referente ao 45º Exame OAB. Análise do caso prático segundo as regras de Direito Civil.</p>",
-    "analise": "<p><b>Alternativa B: CORRETA.</b> Corresponde exatamente ao gabarito definitivo publicado pela FGV.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>LGPD, Art. 5º, II: dados pessoais sensíveis incluem dados relativos à <strong>saúde</strong>. Art. 11, I: o tratamento de dados sensíveis só é permitido com <strong>consentimento específico e destacado</strong> do titular, salvo hipóteses legais. O compartilhamento com a operadora de saúde sem consentimento viola o Art. 11, configurando tratamento ilícito, e sujeita a farmácia às <strong>sanções do Art. 52</strong> da LGPD.</p>",
+    "dica": "<p>Dados de saúde = dados <strong>sensíveis</strong>; compartilhamento sem consentimento específico = <strong>ilícito</strong> (B certa). A erra: autorização para tratar os dados próprios não autoriza compartilhamento sem consentimento. C erra: interesse legítimo não é base válida para dados sensíveis de saúde sem consentimento. D erra: a farmácia responde como controladora.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

@@ -16,7 +16,14 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_provas_pericia",
     "modulo_nome": "Provas, Audiência e Perícia Trabalhista",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 843, §3º:</strong> quando for parte no processo o empregador, o preposto deve ter sido empregado da empresa (exceto em reclamatória de doméstico). Em processo com litisconsortes, o juiz pode ouvir cada um separadamente. A prova de Rogério prevalece sobre as demais se for mais consistente ou se houver contradição — juiz aprecia livremente (Art. 765 CLT).</p>",
+    "dica": "<p>Litisconsortes com depoimentos divergentes: o juiz aprecia livremente a prova (CLT Art. 765 + CPC Art. 371, subsidiário). Gabarito A: \"a de Rogério\" = depoimento de Rogério é o mais convincente ou o que prevalece no caso. Não há regra de prevalência automática — é avaliação do caso concreto; para a OAB, reconhecer que o juiz escolhe a prova mais crível.</p>",
+    "revisar_manual": true
   },
   {
     "num": 79,
@@ -36,7 +43,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_provas_pericia",
     "modulo_nome": "Provas, Audiência e Perícia Trabalhista",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 856 + Art. 678, I, a:</strong> dissídio coletivo de âmbito municipal é julgado pelo TRT. Da sentença normativa do TRT em dissídio coletivo, cabe <strong>recurso ordinário ao TST</strong> (CLT Art. 895, II). Prazo: 8 dias.</p>",
+    "dica": "<p>Dissídio coletivo municipal → TRT. Da <strong>sentença normativa</strong> do TRT: recurso = <strong>Recurso Ordinário ao TST</strong> (CLT Art. 895, II), prazo de 8 dias. Não confundir com recurso de revista (para decisão do TRT em processo individual). Sentença normativa ≠ acórdão em RO individual.</p>"
   },
   {
     "num": 79,
@@ -55,7 +68,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_provas_pericia",
     "modulo_nome": "Provas, Audiência e Perícia Trabalhista",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 897, b:</strong> cabe Agravo de Instrumento (AI) para destrancar recurso que foi denegado seguimento pelo TRT. Quando o TRT inadmite o recurso de revista, o recorrente pode interpor AI ao TST para destrancar o processamento do recurso.</p>",
+    "dica": "<p>Recurso de revista não admitido pelo TRT (juízo de admissibilidade negativo): remédio = <strong>Agravo de Instrumento</strong> ao TST (CLT Art. 897, b). Prazo: 8 dias. Objetivo: destrancar o RR negado. Não é recurso ordinário (este é para decisão de mérito do TRT). Gabarito B: Agravo de Instrumento.</p>"
   },
   {
     "num": 77,
@@ -74,7 +93,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_provas_pericia",
     "modulo_nome": "Provas, Audiência e Perícia Trabalhista",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 790-B</strong> (redação Reforma 2017): \"A responsabilidade pelo pagamento dos honorários periciais é da parte sucumbente na pretensão objeto da perícia.\" Se o reclamante pede indenização por doença profissional e o laudo não confirma a doença: reclamante sucumbe na perícia → paga honorários periciais. Mas se ele é beneficiário de JG: União paga (Art. 790-B, §4º).</p>",
+    "dica": "<p>Honorários periciais (CLT Art. 790-B Reforma 2017): paga quem <strong>sucumbir na pretensão objeto da perícia</strong>. Se o empregador é o réu e a perícia confirma a doença: réu paga. Se a perícia não confirma: reclamante paga. Gabarito D: réu condenado = paga honorários periciais (perícia confirma a doença profissional).</p>"
   },
   {
     "num": 80,
@@ -93,7 +118,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "03_provas_pericia",
     "modulo_nome": "Provas, Audiência e Perícia Trabalhista",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 884, §3º</strong> + <strong>Decreto-Lei 779/69, Art. 1º, I:</strong> ente público (Fazenda Pública) em execução trabalhista: <strong>sem necessidade de garantia do juízo</strong> para oposição de embargos à execução. Prazo para embargos do ente público: <strong>30 dias</strong> (CLT Art. 884 + prazo diferenciado do ente público).</p>",
+    "dica": "<p>Ente público executado na Justiça do Trabalho: <strong>sem garantia do juízo</strong> para embargar (DL 779/69 Art. 1º, I). Prazo: <strong>30 dias</strong> para embargos à execução (em dobro — DL 779/69). Pagamento: por precatório (CF/88 Art. 100). Gabarito A: desnecessária a garantia + 30 dias de prazo.</p>"
   },
   {
     "num": 79,
@@ -112,6 +143,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_provas_pericia",
     "modulo_nome": "Provas, Audiência e Perícia Trabalhista",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 895, II:</strong> do julgamento dos dissídios coletivos pelo TRT cabe recurso ordinário para o TST. Dissídio coletivo de greve (natureza de conflito coletivo): julgado pelo TRT → recurso ordinário ao TST, no prazo de <strong>8 dias</strong>.</p>",
+    "dica": "<p>Dissídio coletivo julgado pelo TRT → recurso ordinário ao <strong>TST</strong>, prazo <strong>8 dias</strong> (CLT Art. 895, II). Gabarito A: recurso ordinário, 8 dias. Não confundir com: recurso de revista (RR = processo individual, CLT Art. 896) ou recurso ordinário no TRT (de decisão da Vara para o TRT).</p>"
   }
 ]

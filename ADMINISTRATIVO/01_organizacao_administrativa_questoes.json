@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Ação Anulatória de Débito Fiscal (CTN, Art. 169)</strong>: ação própria para desconstituir lançamento tributário já notificado, admitindo <em>ampla dilação probatória</em> — perícia contábil, documentos societários e prova técnica.</p><p><strong>CF/88, Art. 150, VI, c</strong>: imunidade tributária das entidades beneficentes de assistência social sobre impostos — o advogado precisa provar o preenchimento dos requisitos com documentação completa.</p>",
+    "dica": "<p><strong>MS repressivo</strong> não cabe quando há necessidade de dilação probatória (perícia e documentos complexos) — o MS pressupõe prova pré-constituída e direito líquido e certo. <strong>Ação anulatória</strong> = veículo correto para desconstituir lançamento com ampla produção de provas. Ação declaratória seria para prevenir lançamento ainda não ocorrido.</p>"
   },
   {
     "num": 32,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 12.527/11 (LAI), Art. 7º, VI</strong>: o direito de acesso à informação abrange as <em>atividades exercidas pelos órgãos e entidades, inclusive as relativas à sua política, organização e serviços</em>.</p><p><strong>Art. 3º, I</strong>: a publicidade é a regra; o sigilo é a exceção. Informações sobre critérios objetivos de progressão funcional não se enquadram em nenhuma das hipóteses de sigilo previstas em lei.</p>",
+    "dica": "<p>LAI: regra = publicidade; sigilo = exceção taxativa. Atividades de <strong>organização e serviços do órgão</strong> são acessíveis a qualquer cidadão — e com mais razão ao próprio servidor afetado. O argumento de que 'não há interesse público' inverte a lógica da lei: o ônus é da Administração provar o sigilo, não do cidadão provar o interesse.</p>"
   },
   {
     "num": 30,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.112/90, Art. 25</strong>: a <em>reversão</em> é o retorno à atividade de servidor aposentado por invalidez, quando <em>insubsistentes os motivos da aposentadoria</em>. Se o cargo estiver provido, o servidor exercerá suas atribuições como <strong>excedente</strong>, até a ocorrência de vaga.</p>",
+    "dica": "<p>Reversão = retorno do <strong>aposentado por invalidez</strong> quando a junta médica declara que os motivos cessaram. Se cargo provido: <strong>excedente</strong> (não fica em disponibilidade nem é aproveitado em outro cargo). Diferenças: <em>reintegração</em> = retorno após demissão anulada; <em>recondução</em> = retorno ao cargo anterior após reprovação em estágio probatório ou reintegração de outro; <em>readaptação</em> = mudança de cargo por limitação física.</p>"
   },
   {
     "num": 33,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 31, §2º</strong>: o parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, <em>só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal</em>.</p><p><strong>Art. 31, caput</strong>: a fiscalização do município far-se-á pelo controle externo da Câmara Municipal, mediante auxílio dos Tribunais de Contas dos Estados ou do Município.</p>",
+    "dica": "<p>Contas do Prefeito: <strong>Câmara Municipal julga</strong>, com <strong>parecer prévio do Tribunal de Contas</strong>. Para afastar o parecer do TC: <strong>2/3 dos vereadores</strong>. Cuidado: contas do TCE/TCM são julgadas pelo Legislativo Estadual, não pelo Judiciário. A Câmara não julga sozinha — precisa do parecer prévio.</p>"
   },
   {
     "num": 32,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Decreto-Lei 25/1937, Art. 10</strong>: o tombamento dos bens pertencentes às pessoas naturais se fará <em>voluntariamente</em> ou <em>compulsoriamente</em>. A notificação ao proprietário equivale ao <strong>tombamento provisório</strong>, que já produz os mesmos efeitos do tombamento definitivo enquanto o processo não se conclui.</p><p><strong>Art. 17</strong>: tombamento do bem vizinho a imóvel tombado impõe a este restrição de não executar obra que impeça ou reduza a visibilidade do bem tombado.</p>",
+    "dica": "<p>Notificação = <strong>tombamento provisório imediato</strong> — já produz efeitos de conservação. Impugnação do particular não impede o <strong>tombamento compulsório</strong> — a Administração pode tombar mesmo contra a vontade do proprietário. Bem público (Município) também pode ser tombado. Vizinhos do bem tombado sofrem restrição de visibilidade (art. 18).</p>"
   },
   {
     "num": 30,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>LINDB, Art. 21 (Lei 13.655/18)</strong>: a decisão que, nas esferas administrativa, controladora ou judicial, <em>decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado</em>, deverá indicar de modo expresso suas consequências jurídicas e administrativas.</p><p><strong>Art. 20</strong>: nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão.</p>",
+    "dica": "<p>LINDB/Segurança Jurídica: invalidação <strong>não é automática</strong> só porque há vício. Ato que ainda produz efeitos = invalidação deve mencionar <strong>expressamente as consequências</strong>. Alternativa A erra: ônus excessivos ou anormais impedem a retroatividade (proporcionalidade). Alternativa D erra: contraditório e ampla defesa são obrigatórios mesmo na invalidação.</p>"
   },
   {
     "num": 33,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_organizacao_administrativa",
     "modulo_nome": "Organização Administrativa e Administração Indireta",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.429/92, Art. 17, §19 (redação da Lei 14.230/21)</strong>: das decisões interlocutórias proferidas no curso da ação de improbidade administrativa cabe <em>agravo de instrumento</em>. A rejeição de questões preliminares suscitadas na contestação é decisão interlocutória.</p>",
+    "dica": "<p>Lei 14.230/21 introduziu previsão expressa de <strong>agravo de instrumento</strong> contra decisões interlocutórias na ação de improbidade. Rejeição de preliminares = decisão interlocutória → AGI. Apelação (A) só cabe de sentença. Pedido de reconsideração (C) não é recurso e não interrompe prazo. A decisão é <strong>sim</strong> passível de impugnação (D errado).</p>"
   }
 ]

@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 310, parágrafo único + Lei 11.343/06, Art. 33:</strong> tráfico de drogas: pena de 5 a 15 anos — crime inafiançável (CF/88 Art. 5º, XLIII). <strong>CPP, Art. 321:</strong> liberdade provisória vedada quando há impedimento legal. Mas STF (HC 143.641): vedação abstrata de LP viola a presunção de inocência; juiz analisa caso concreto. Primário comercializando = avaliação individualizada; sem preventiva decretada de ofício.</p>",
+    "dica": "<p>Tráfico: inafiançável (CF Art. 5º, XLIII), mas STF afastou vedação <em>absoluta</em> de LP. Juiz deve analisar individualmente. Pedro é primário: LP pode ser deferida se não houver requisitos de preventiva (Art. 312 CPP). <strong>Relaxamento</strong> = prisão ilegal; <strong>LP</strong> = prisão legal + sem necessidade de manutenção.</p>"
   },
   {
     "num": 67,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 5º, XI:</strong> \"a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.\" Mandado de prisão não autoriza busca domiciliar autônoma — exige mandado de busca e apreensão específico.</p>",
+    "dica": "<p>Mandado de prisão ≠ autorização para busca domiciliar. Para entrar na residência de <strong>terceiro</strong> (Gustavo, pai de Mariano): exige <strong>mandado de busca e apreensão específico</strong> ou flagrante/desastre. Ingresso sem mandado de busca = <strong>prova ilícita</strong> (fruto da árvore envenenada — Art. 157 CPP).</p>"
   },
   {
     "num": 63,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 100:</strong> ação penal privada subsidiária da pública, quando o MP não oferece denúncia no prazo. <strong>CP, Art. 139 (difamação) e Art. 140 (injúria):</strong> crimes de ação penal privada. Secretário de fazenda municipal ≠ funcionário público com prerrogativa especial para crimes contra a honra. Ofendido pode: queixa-crime ou representação (se cabível).</p>",
+    "dica": "<p>Crime contra honra praticado por particular sem foro privilegiado: <strong>ação penal privada</strong> (queixa-crime) — regra geral. Secretário municipal = sem foro por prerrogativa. Luís Vicente pode: (1) ajuizar queixa-crime; ou (2) oferecer representação se for crime de ação pública condicionada. Prazo decadencial: 6 meses (Art. 38 CPP).</p>"
   },
   {
     "num": 65,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 593, III, d:</strong> apelação das decisões do Júri quando a decisão dos jurados for manifestamente contrária à prova dos autos. <strong>Art. 593, §3º:</strong> se o Tribunal der provimento ao apelo, o réu será submetido a novo julgamento — vedada a reforma direta da qualificadora pelo Tribunal (soberania dos veredictos — CF/88 Art. 5º, XXXVIII, c).</p>",
+    "dica": "<p>Tribunal de 2ª instância NÃO pode afastar qualificadora decidida pelo Conselho de Sentença — viola a <strong>soberania dos veredictos</strong>. Recurso cabível contra decisão do Júri manifestamente contrária à prova: apelação (Art. 593, III, d CPP). Provimento: novo Júri — nunca absolvição ou mudança direta pelo Tribunal.</p>"
   },
   {
     "num": 68,
@@ -92,7 +116,13 @@
     "exame_label": "42º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 63:</strong> \"Transitada em julgado a sentença condenatória, poderão promover-lhe a execução, no juízo cível, para o efeito da reparação do dano, o ofendido, seu representante legal ou seus herdeiros.\" <strong>Art. 64:</strong> também pode ser proposta ação de indenização no juízo cível independentemente da ação penal. Anderson = vítima sem participação no processo penal → ilegítima para execução (não é habilitada como assistente).</p>",
+    "dica": "<p>Execução civil da sentença penal condenatória: só quem participou do processo penal (vítima habilitada como assistente ou MP) pode executar diretamente. Anderson não participou → <strong>ilegítima para execução direta</strong>. Alternativa: ação civil de conhecimento no juízo cível (Art. 64 CPP) ou habilitação no processo de execução penal.</p>"
   },
   {
     "num": 64,
@@ -111,7 +141,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CF/88, Art. 109, XI:</strong> competência da Justiça Federal para crimes praticados contra índios, suas comunidades ou suas terras. <strong>Súmula 140 STJ:</strong> \"Compete à Justiça Comum Estadual processar e julgar crime em que o indígena figure como autor ou vítima.\" Exceção: crime contra a organização indígena ou suas terras = JF. <strong>Lei 11.340/06:</strong> violência doméstica entre indígenas integrados = Justiça Estadual Comum.</p>",
+    "dica": "<p>Indígenas <em>integrados</em> em violência doméstica: <strong>Justiça Estadual</strong> (Súmula 140 STJ — não é crime contra organização indígena). Lei Maria da Penha aplica-se (violência doméstica entre parceiros íntimos). Ação penal: <strong>pública incondicionada</strong> (lesão corporal em contexto de violência doméstica — Lei 11.340/06 Art. 41).</p>"
   },
   {
     "num": 68,
@@ -130,6 +166,12 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "03_prisao_cautelares",
     "modulo_nome": "Prisão, Liberdade Provisória e Medidas Cautelares",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 424:</strong> desaforamento pode ser pedido pelo Ministério Público, assistente, querelante ou réu quando houver dúvida sobre imparcialidade do júri, interesse de ordem pública ou risco à segurança pessoal do acusado, no interesse da Justiça. Flávia pronunciada por aborto com repercussão local = risco à imparcialidade dos jurados.</p>",
+    "dica": "<p>Desaforamento (Art. 424 CPP): transferência do julgamento para outra comarca. Cabível quando: (1) interesse de ordem pública; (2) dúvida sobre imparcialidade; (3) segurança pessoal. Caso de Flávia (repercussão local intensa): pedir <strong>desaforamento</strong> para comarca neutra. Pedido ao Tribunal — não ao próprio juiz do processo.</p>"
   }
 ]

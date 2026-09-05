@@ -23,12 +23,12 @@
     "modulo_codigo": "02_negocio_juridico",
     "modulo_nome": "Fatos e Negócios Jurídicos",
     "id": 1,
-    "sintese": "<p>É nula a compra e venda de bens em hasta pública efetuada por servidores públicos no local em que exercem suas funções (Art. 497, III do CC).</p>",
-    "logica_conceito": "<p>O Art. 497, III do CC estabelece proibição moral e legal (legitimidade) para impedir conflitos de interesse de juízes e servidores em bens vendidos na vara onde atuam.</p>",
-    "fundamentacao": "<p>Artigo 497, inciso III do Código Civil.</p>",
-    "dica": "<p>🔥 <b>Dica de OAB da Profª Roberta:</b> Servidor comprando em leilão da própria vara = NULIDADE ABSOLUTA (Art. 497, III CC). Não convalesce nem gera efeitos válidos!</p>",
-    "aula_comentario": "<p><b>Profª Roberta Queiroz (46º OAB - Negócio Jurídico):</b> 'Servidor público não tem legitimação para arrematar ou comprar bens em hasta pública da própria vara em que atua! A proibição do Art. 497, III do Código Civil visa proteger a moralidade e a imparcialidade. A compra e venda realizada nessas condições é NULA de pleno direito!'</p>",
-    "analise": "<p><b>Alternativa A: CORRETA.</b> A compra e venda será nula, pois Nicolas é servidor na mesma vara em que foi realizada a hasta pública (Art. 497, III CC).<br><b>Alternativa B: Incorreta.</b> A hasta pública não convalida o impedimento legal do servidor público.<br><b>Alternativa C: Incorreta.</b> Não se trata de vício anulável, mas sim de NULIDADE ABSOLUTA.<br><b>Alternativa D: Incorreta.</b> O fundamento legal da nulidade é a proibição do servidor da vara comprar na hasta onde atua.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>CC, Art. 497, I: \"<strong>São nulos os contratos de compra e venda em que são compradores os tutores, curadores, testamenteiros e administradores, quanto aos bens confiados à sua guarda ou administração.</strong>\" Nicolas é servidor do TJ lotado na mesma vara onde ocorreu a hasta pública — é administrador/funcionário da unidade. O negócio é <strong>nulo</strong> de pleno direito.</p>",
+    "dica": "<p>Servidor da vara onde ocorreu a hasta pública: <strong>negócio nulo</strong> por proibição legal (A certa). B erra: a publicidade da hasta não convalida o ato nulo. C erra: é nulo, não anulável — não admite confirmação. D erra: a nulidaade decorre do cargo, não de bem litigioso.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 38,
@@ -54,11 +54,11 @@
     "modulo_codigo": "02_negocio_juridico",
     "modulo_nome": "Fatos e Negócios Jurídicos",
     "id": 2,
-    "sintese": "<p>O erro substancial que poderia ser percebido por pessoa de diligência normal autoriza a anulação do negócio jurídico (Art. 138 do CC). Prazo decadencial de 4 anos (Art. 178, II CC).</p>",
-    "logica_conceito": "<p>O vício de consentimento por erro torna o negócio anulável se for escusável ou cognoscível. A ação anulatória deve ser proposta no prazo decadencial de 4 anos da celebração.</p>",
-    "fundamentacao": "<p>Artigos 138, 139 e 178, inciso II do Código Civil.</p>",
-    "dica": "<p>Vício do consentimento por erro/dolo: O negócio é ANULÁVEL e o prazo decadencial para ajuizar a ação é de 4 anos!</p>",
-    "aula_comentario": "<p>Profª Roberta Queiroz ensinou: 'Erro é o engano sozinho. Se substancial e cognoscível pela outra parte, gera anulabilidade no prazo de 4 anos!'.</p>",
-    "analise": "<p><b>Alternativa A: Incorreta.</b> Não é hipótese de nulidade absoluta.<br><b>Alternativa B: Incorreta.</b> O erro não torna o negócio inexistente.<br><b>Alternativa C: CORRETA.</b> O negócio é anulável por vício de consentimento no prazo decadencial de 4 anos.<br><b>Alternativa D: Incorreta.</b> O negócio produz efeitos até a decretação judicial de sua anulação.</p>"
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>LGPD, Art. 16, III: o término do tratamento não implica necessariamente eliminação — os dados podem ser conservados para \"<strong>uso exclusivo do controlador, vedado seu acesso por terceiro</strong>, e desde que anonimizados os dados\" quando necessário para cumprir obrigação legal ou regulatória, ou outras hipóteses legais. C descreve corretamente essa possibilidade.</p>",
+    "dica": "<p>Após término do tratamento: controladora <strong>pode conservar para uso exclusivo, vedado acesso a terceiros</strong> (C certa). A erra ao tornar obrigatória a eliminação imediata. B erra ao permitir acesso de terceiros. D erra: não é necessário aguardar 5 anos para eliminar — depende da base legal de conservação.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

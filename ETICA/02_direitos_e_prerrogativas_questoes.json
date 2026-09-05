@@ -17,12 +17,13 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 1,
-    "sintese": "Renúncia ao mandato: advogado que renuncia continua responsável por 10 dias após a notificação. No período, outra advogada pode atuar urgentemente sem procuração.",
-    "logica_conceito": "Teresa renunciou ao mandato. Por 10 dias ela ainda é responsável. Fernanda, outra advogada, pode atuar sem procuração invocando urgência (prazo em curso). A atuação sem procuração por urgência é lícita por até 15 dias (prorrogáveis por mais 15), desde que haja urgência real.",
-    "fundamentacao": "EAOAB, Art. 5º: 'O advogado postula, em juízo ou fora dele, fazendo prova do mandato. § 1º O advogado, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período.' Art. 13: 'A renúncia ao mandato não exonera o advogado dos deveres por um período de dez dias, salvo quando se tratar de mandato constituído antes da vigência desta lei.'",
-    "dica": "Renúncia: advogado ainda responsável por 10 dias. No período, outro advogado pode entrar urgentemente sem procuração (15 + 15 dias para regularizar). A urgência é a chave.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): renúncia não exonera imediatamente — o advogado tem 10 dias de responsabilidade residual para proteger o cliente. No período, qualquer advogado pode atuar sem procuração invocando urgência, com prazo de 15 dias para apresentar o instrumento.",
-    "analise": "A) Errada: Teresa está desobrigada após a notificação + 10 dias — mas ainda deve cumprir atos urgentes nesse período. B) Errada: Teresa só se desobriga 10 dias após notificar o cliente. C) Errada: Fernanda PODE atuar sem procuração se houver urgência. D) CORRETA: Fernanda pode atuar sem procuração afirmando urgência, tendo 15 dias para apresentá-la."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 5º, §3º: \"O advogado que renunciar ao mandato continuará, durante os dez dias seguintes à notificação da renúncia, a representar o mandante, desde que necessário para lhe evitar prejuízo.\" Exceção: o prazo é dispensado se o cliente <em>constituir novo advogado antes</em> de seu término. CPC, Art. 104: o advogado pode postular <strong>afirmando urgência</strong>, sem procuração, comprometendo-se a apresentá-la em 15 dias (prorrogáveis por mais 15).</p>",
+    "dica": "<p>Teresa só segue obrigada pelos 10 dias <strong>se não houver substituto</strong> — Fernanda foi ajustada, logo Teresa está desobrigada (A erra). Fernanda <em>ainda não tem procuração assinada</em>, mas pode atuar alegando urgência com prazo de 15 dias para apresentar o instrumento (D certa). B erra: Teresa não está desobrigada só pela notificação — precisava da substituição. C erra: Fernanda SIM pode atuar sem procuração em urgência.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 2,
@@ -42,12 +43,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 3802,
-    "sintese": "Busca e apreensão no escritório: advogado tem direito de estar presente na análise dos documentos apreendidos e de impugnar itens cobertos pelo sigilo profissional.",
-    "logica_conceito": "O cumprimento da busca e apreensão no escritório segue regras especiais: das 06h às 18h, com representante da OAB, e apenas por indício de crime do próprio advogado. Os documentos sigilosos (relativos ao cliente) devem ser separados. O advogado tem direito de estar presente e impugnar documentos que envolvam o sigilo profissional.",
-    "fundamentacao": "EAOAB, Art. 7º, II: 'a inviolabilidade de seu escritório ou local de trabalho, bem como de seus instrumentos de trabalho [...] § 6º Presente representante da OAB, a autoridade competente poderá praticar ato desde que tal não implique a apreensão de documentos ou equipamentos [...] § 7º A ressalva constante do inciso II do caput deste artigo não se aplica a investigações que envolvam suspeita de participação do advogado no crime investigado.'",
-    "dica": "Na análise dos documentos apreendidos: o advogado DEVE estar presente para impugnar documentos sigilosos (de clientes). Isso é prerrogativa, não favor. A OAB também deve ser notificada 24h antes.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): 'Exceção no escritório só das 6h às 18h, com OAB 24h antes, e crime do ADVOGADO.' Na análise do material apreendido, José tem o direito de comparecer e indicar documentos que estão cobertos pelo sigilo profissional — esses não podem ser usados contra ele ou contra os clientes.",
-    "analise": "A) Errada: o representante da OAB tem o dever de zelar pelas prerrogativas, não de permitir o ato livremente. B) Errada: a análise dos documentos não precisa de comunicação prévia adicional à OAB para começar. C) Errada: José não pode usar os documentos para fins de prova em processo criminal sem autorização judicial. D) CORRETA: José tem direito de estar presente na análise dos documentos apreendidos e pode impugnar os cobertos pelo sigilo profissional."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7º, II e §6º: prerrogativa do advogado de <strong>estar presente ao cumprimento de mandado de busca e apreensão</strong> em seu escritório e participar da análise dos documentos apreendidos. Art. 7º, §6º: \"Presentes os requisitos, os documentos, mídias e objetos pertencentes a clientes do advogado investigado, bem como os seus manifestamente estranhos ao objeto da investigação, deverão ser devolvidos, após a elaboração de cópia pela autoridade.\" O advogado tem direito de <strong>acompanhar pessoalmente o exame do material apreendido</strong>.</p>",
+    "dica": "<p>Gabarito D: o advogado tem direito de estar presente na análise dos documentos apreendidos — é prerrogativa expressa no EAOAB. A: representante da OAB <em>presente no ato</em> não pode \"impedir\" — pode fiscalizar, não bloquear. B: prazo de 48h para Conselho Federal não existe na lei. C: colaboração premiada <em>contra cliente</em> é vedada (viola sigilo).</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 8,
@@ -67,12 +68,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 5,
-    "sintese": "Advogado pode ser sócio de sociedade de advogados e assumir cargo de sócio administrador — não há vedação legal a esse acúmulo.",
-    "logica_conceito": "O Art. 15 EAOAB permite que advogados se organizem em sociedades e a gestão (administração) da sociedade pode ser exercida por sócio advogado. Não há incompatibilidade entre ser advogado inscrito e ser sócio administrador da própria sociedade de advogados.",
-    "fundamentacao": "EAOAB, Art. 15: 'Os advogados podem reunir-se em sociedades simples de prestação de serviços de advocacia ou constituir sociedades de advogados, na forma disciplinada nesta lei e no regulamento geral. § 4º O advogado pode integrar mais de uma sociedade de advogados, desde que constituídas em Seccionais diferentes.'",
-    "dica": "Ser sócio + sócio administrador da sociedade de advogados é PERMITIDO. O que é vedado é ser sócio de mais de uma sociedade na mesma Seccional, e a sociedade ter sócio não-advogado.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a sociedade de advogados tem sua administração exercida pelos próprios sócios — não há impedimento para ser sócio administrador. O que é vedado é a participação de sócio não-advogado (Art. 15, § 3º) e a duplicidade de sociedades na mesma seccional.",
-    "analise": "A) CORRETA: Pedro pode ser sócio e assumir cargo de sócio administrador — não há vedação para isso. B) Errada: não há vedação legal para ser sócio. C) Errada: não há vedação para sócio administrador. D) Errada: mesmo que use o nome, não há vedação — a vedação existe para nome fantasia, não para o nome do sócio."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 30, §1º: servidor da administração pública <strong>direta ou indireta</strong> pode ser sócio de sociedade de advogados e exercer advocacia, <em>exceto se submetido a regime de dedicação exclusiva</em>. O mesmo raciocínio se aplica à posição de sócio administrador: permitida, salvo dedicação exclusiva. Art. 28 (incompatibilidades): o regime de dedicação exclusiva é causa de incompatibilidade com o exercício da advocacia.</p>",
+    "dica": "<p>Servidor público <strong>pode</strong> ser sócio (e administrador) de sociedade de advogados — <em>exceto</em> se em regime de dedicação exclusiva (A certa). B erra: não há vedação absoluta. C erra: a vedação para sócio administrador não é absoluta — depende do regime. D erra: dedicação exclusiva SIM veda a posição de administrador.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 3,
@@ -92,12 +93,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 4003,
-    "sintese": "Advogada presa em flagrante por motivo ligado ao exercício da advocacia: tem direito à presença de representante da OAB para lavratura do auto de prisão, sob pena de nulidade absoluta.",
-    "logica_conceito": "Quando o flagrante é diretamente ligado ao exercício da advocacia (não apenas por ser advogada), incide o Art. 7º, IV: o representante da OAB deve estar presente para lavratura do auto. Sem essa presença, o auto é nulo.",
-    "fundamentacao": "EAOAB, Art. 7º, IV: 'ter a presença de representante da OAB, quando preso em flagrante, por motivo ligado ao exercício da advocacia, para lavratura do auto respectivo, sob pena de nulidade e, nos demais casos, a comunicação expressa à seccional da OAB.'",
-    "dica": "Dois regimes: (1) flagrante POR MOTIVO LIGADO À ADVOCACIA → representante OAB obrigatório → nulidade absoluta sem ele; (2) flagrante POR OUTRO MOTIVO → apenas comunicação à Seccional. Monique foi presa por motivo ligado ao exercício — aplica-se o regime mais rigoroso.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): 'No exercício = representante OAB obrigatório, nulidade; Fora = só avisa.' Esse é o mnemônico. A Monique está sendo presa por ato praticado como advogada — incide a nulidade.",
-    "analise": "A) CORRETA: Monique tem direito à presença de representante da OAB para lavratura do auto, sendo que a sua ausência gera nulidade. B) Errada: há prerrogativa prevista em lei expressamente. C) Errada: a presença é obrigatória, não facultativa. D) Errada: o representante deve estar presente ANTES e DURANTE a lavratura do auto."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7º, XXI: é direito do advogado \"<strong>assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento</strong>\". Art. 7º, §3º: \"O advogado somente poderá ser preso em flagrante, por motivo ligado ao exercício da advocacia, em caso de crime inafiançável, observando-se, nessa hipótese, <strong>o disposto no inciso IV deste artigo</strong>\" — ou seja, com presença de representante da OAB e notificação prévia à Seccional.</p>",
+    "dica": "<p>Flagrante por crime <em>ligado ao exercício da advocacia</em>: exige <strong>presença de representante da OAB</strong> na lavratura do auto, sob pena de nulidade (A certa). B erra: há prerrogativas expressas. C erra: a prerrogativa é <em>somente</em> para crimes ligados à advocacia, não qualquer crime. D erra: representante da OAB não pode ser substituído por Defensor Público nessa hipótese.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 2,
@@ -117,12 +118,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 4102,
-    "sintese": "Acesso a autos de investigação sigilosa: advogado tem acesso às provas já documentadas e juntadas, mas não às diligências em andamento.",
-    "logica_conceito": "Saulo está preso preventivamente em investigação sigilosa. Janete (advogada) requer acesso aos autos. O Estatuto garante acesso às provas já documentadas e juntadas. Porém, quando há diligências em andamento (interceptações etc.), o juiz pode restringir o acesso enquanto as provas não forem juntadas.",
-    "fundamentacao": "EAOAB, Art. 7º, XIV: 'examinar, em qualquer instituição responsável por conduzir investigação, mesmo que sigilosa, o expediente formado com o objetivo de investigar fatos relacionados à prática de crimes ou às infrações a que esteja sujeito qualquer indiciado ou suspeito, devendo ser garantido o acesso do advogado ao material já documentado nos autos, podendo copiar peças e tomar apontamentos.'",
-    "dica": "Acesso aos autos de investigação sigilosa: PERMITIDO para provas já documentadas e juntadas. VEDADO enquanto as diligências estiverem em andamento (antes de juntar). A negativa é lícita apenas para o material ainda não juntado.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): 'Sem procuração fala com preso; para ver processo sigiloso EXIGE procuração.' E quanto ao conteúdo: só provas já juntadas são acessíveis. O STF consolidou: advogado tem acesso às provas já documentadas mesmo em investigação sigilosa — mas não às diligências em andamento.",
-    "analise": "A) CORRETA: a negativa tem respaldo legal — o advogado só tem acesso às provas já documentadas e juntadas; enquanto há diligências em andamento, pode ser negado o acesso. B) Errada: o acesso não é irrestrito a todos os autos sigilosos. C) Errada: a negativa pode ser legítima mesmo em investigações criminais. D) Errada: o fornecimento incompleto pode ser lícito se a parte restante diz respeito a diligências em andamento."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7º, XIII e §1º: o advogado tem direito de examinar autos em <strong>qualquer repartição judicial ou policial</strong>, ressalvados os sigilosos. <em>Exceção para autos sigilosos</em>: o acesso depende de <strong>apresentação de procuração</strong>, conforme art. 7º, §1º. Sem procuração + autos sigilosos = autoridade pode negar. A negativa foi legal.</p>",
+    "dica": "<p>Regra geral: advogado acessa autos <em>sem procuração</em>. <strong>Exceção</strong>: autos sigilosos exigem procuração (A certa). B erra: sem procuração + sigiloso = sem acesso. C erra: mesmo com diligências em andamento, documentos já juntados são acessíveis com procuração. D descreve uma regra que não existe na literalidade da lei.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -142,12 +143,13 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 10,
-    "sintese": "Consultoria e assessoria jurídica podem ser prestadas verbalmente e independem de mandato — a procuração é exigida apenas para postulação judicial.",
-    "logica_conceito": "João Carlos prestou consultoria verbal sem procuração. Isso é lícito — o Art. 1º, § 4º EAOAB permite expressamente a prestação de consultoria e assessoria jurídica de forma verbal, sem necessidade de mandato. A procuração é exigida apenas para postulação judicial.",
-    "fundamentacao": "EAOAB, Art. 1º, § 4º: 'É lícita a prestação de serviço de assessoria e consultoria jurídicas, de caráter privado, por advogado, inclusive no local de trabalho do cliente.' Art. 5º: 'O advogado postula, em juízo ou fora dele, fazendo prova do mandato.' (Mandato = exigido para postulação, não para consultoria.)",
-    "dica": "Consultoria e assessoria jurídica: verbal = OK, sem procuração = OK. Mandato só é exigido para postulação judicial. A consultoria gera honorários independentemente de ser verbal ou escrita.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): atividade privativa de advocacia não é só postulação judicial — inclui consultoria e assessoria, que podem ser verbais e independem de procuração. Os honorários são devidos mesmo pela consultoria verbal.",
-    "analise": "A) Errada: as atividades de consultoria podem sim ser reconhecidas juridicamente. B) Errada: a procuração não é prescindível para consultoria — é simplesmente desnecessária. C) CORRETA: as atividades de consultoria verbal de João Carlos são reconhecidas, pois a prestação de assessoria jurídica independe de mandato. D) Errada: o não reconhecimento não é a regra — consultoria verbal é lícita."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 3º, §1º: \"O exercício da atividade de consultoria, assessoria e direção jurídicas é privativo dos advogados inscritos na OAB.\" Art. 4º, parágrafo único: \"São <strong>nulos os atos praticados por pessoa não inscrita</strong> na OAB como advogado.\" CED, Art. 45: a <strong>consultoria e assessoria jurídica independem de mandato ou de contrato formal</strong> de honorários — podem ser prestadas verbalmente, e, desde que o cliente concorde, serão reconhecidas.</p>",
+    "dica": "<p>Consultoria jurídica: <strong>não precisa de mandato nem de contrato formal</strong> (C certa). A erra: atividade consultiva não exige mandato. B erra: falta de contrato não torna as atividades irrecuperáveis. D erra: o modo verbal ou escrito é irrelevante para o reconhecimento.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 6,
@@ -167,12 +169,13 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 4306,
-    "sintese": "Habeas Corpus: qualquer pessoa pode impetrar HC, inclusive leigo — não é ato privativo de advogado.",
-    "logica_conceito": "O Art. 1º, § 1º EAOAB expressamente exclui o habeas corpus das atividades privativas de advocacia. Qualquer pessoa — presa ou não, leiga ou advogada — pode impetrar HC em favor de outrem. Afonso, mesmo preso por tráfico e sem ser advogado, pode impetrar HC em favor de Rodrigo.",
-    "fundamentacao": "EAOAB, Art. 1º, § 1º: 'Não se inclui na atividade privativa de advocacia a impetração de habeas corpus em qualquer instância ou tribunal.' CPP, Art. 654: 'O habeas corpus poderá ser impetrado por qualquer pessoa, em seu favor ou de outrem, bem como pelo Ministério Público.'",
-    "dica": "Habeas Corpus = qualquer pessoa pode impetrar. É a única peça processual que pode ser apresentada por leigo. Isso é ponto certo de prova — nunca é ato privativo de advogado.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): HC é exceção expressa ao monopólio da advocacia. Até um preso pode impetrar HC em favor de outro preso. A questão tenta criar a ilusão de que leigo preso não pode — mas o CPP e o EAOAB são claros.",
-    "analise": "A) Errada: impetração de HC não é atividade privativa de advogado — o Art. 1º, § 1º é expresso. B) CORRETA: Afonso pode impetrar o HC porque HC é ato que qualquer pessoa pode praticar, independentemente de ser advogado. C) Errada: não há exigência de ausência de advogado para que leigo impetrte HC. D) Errada: não há restrição de HC por tipo de crime."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 1º, §1º e Art. 3º, §3º: \"<strong>Não se inclui na atividade privativa de advocacia a impetração de habeas corpus em qualquer instância ou tribunal.</strong>\" Qualquer pessoa, ainda que sem formação jurídica, pode impetrar habeas corpus em favor de terceiro — é expressão do direito de petição (CF, Art. 5º, XXXIV).</p>",
+    "dica": "<p><strong>Habeas corpus = não é atividade privativa de advogado</strong> (B certa). Qualquer pessoa pode impetrar. A erra radicalmente — habeas corpus é exceção expressa. C e D inventam restrições que a lei não contém.</p>",
+    "aula_comentario": "",
+    "analise": "",
+    "revisar_manual": false
   },
   {
     "num": 8,
@@ -192,12 +195,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 12,
-    "sintese": "Publicidade irregular (advocacia em associação com outra atividade): sanção é censura, conversível em advertência em ofício reservado quando presentes atenuantes.",
-    "logica_conceito": "Antônio fez publicidade de advocacia associada a outra atividade — isso viola o Art. 1º, § 3º EAOAB e configura infração disciplinar punível com censura. Como há atenuantes (primário, sem dolo grave), a censura pode ser convertida em advertência em ofício reservado (não publicada).",
-    "fundamentacao": "EAOAB, Art. 36: 'A censura é aplicável nos casos de infrações definidas nos incisos I a XVI e XXIX do art. 34. Parágrafo único. Quando a infração for praticada por membro do Conselho Federal ou Seccional, [...] pode ser convertida em advertência, em ofício reservado, se presentes circunstâncias atenuantes.' Art. 40: 'Na aplicação das sanções disciplinares, são consideradas, para atenuação da pena: I - falta de punição anterior; [...]'",
-    "dica": "Advertência em ofício reservado NÃO é penalidade autônoma — é conversão da censura quando há atenuante. A censura não é publicada (só no prontuário). Advertência é ainda mais sigilosa — nem no prontuário consta.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): atenção ao mnemônico — advertência não existe como pena autônoma no EAOAB! É apenas a versão mitigada da censura. A censura já não é publicada; a advertência não consta nem da ficha funcional interna.",
-    "analise": "A) Errada: ausência de dolo não exclui a infração disciplinar — pode ser culposa. B) Errada: exclusão é desproporcional e reservada para casos gravíssimos (homicídio, traição, etc.). C) CORRETA: cabível a censura, com possibilidade de conversão em advertência em ofício reservado ante as atenuantes. D) Errada: suspensão seria desproporcional e não se aplica a esse tipo de infração."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 36, I e Art. 35, I: a <strong>censura</strong> é a sanção disciplinar mais leve, aplicável quando a infração for leve e o infrator não for reincidente. Art. 36, parágrafo único: \"A censura pode ser <strong>convertida em advertência</strong>, em ofício reservado, sem registro nos assentamentos do inscrito, quando presente circunstância atenuante.\" Uso de IA sem revisão adequada, gerando peça com citações deturpadas = infração leve (negligência profissional).</p>",
+    "dica": "<p>Censura (<strong>pena mais leve</strong>) pode ser convertida em <strong>advertência reservada</strong> se há atenuante (C certa). A erra: culpa também gera responsabilidade disciplinar. B erra: suspensão é para infrações mais graves (30 dias a 12 meses). D erra: exclusão exige infração gravíssima + 2/3 votos — não é automática na reincidência.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 6,
@@ -217,12 +220,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 4406,
-    "sintese": "A carteira da OAB constitui documento de identidade civil para todos os fins, inclusive para embarque em voos domésticos.",
-    "logica_conceito": "O Art. 13 do Estatuto da OAB e a legislação federal reconhecem a carteira da OAB como documento de identidade civil com validade em todo o território nacional. Ivan tem direito de embarcar apresentando apenas a carteira da OAB.",
-    "fundamentacao": "EAOAB, Art. 13: 'A carteira de identidade profissional, expedida pela OAB, equivale para todos os efeitos ao documento de identidade emitido pelas repartições competentes.' Lei 6.206/1975: documentos de identidade profissional emitidos por conselhos e ordens têm validade como identidade civil.",
-    "dica": "Carteira OAB = identidade civil para TODOS os fins legais. Isso inclui voos, bancos, repartições públicas. É pegadinha frequente: a FGV tenta fazer o candidato achar que só vale para fins profissionais.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): a carteira da OAB é documento de identidade civil para todos os efeitos — não apenas para exercício da profissão. Ivan tem direito de embarcar com a carteira da OAB. A recusa do funcionário seria ilegal.",
-    "analise": "A) Errada: a carteira da OAB é sim documento de identidade civil. B) CORRETA: Ivan pode embarcar — a carteira da OAB equivale a documento de identidade civil para todos os fins. C) Errada: não é necessário apresentar outro documento. D) Errada: a carteira tem validade plena, não restrita a voos internacionais."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7º, §3º-A (acrescentado pela Lei 14.365/2022): \"O advogado tem o direito de <strong>entrar em Fóruns e Tribunais sem ser submetido a aparelhos de raios X</strong> ou detectores de metais ou qualquer outro meio de controle.\" Art. 7º, XVIII: direito a vaga garantida na garagem dos Fóruns e Tribunais. EAOAB, Art. 7-B: a <strong>carteira da OAB constitui prova de identidade civil para todos os fins legais</strong>, inclusive para viagens domésticas.</p>",
+    "dica": "<p>Carteira OAB = documento de <strong>identidade civil para todos os fins legais</strong> — inclusive embarque doméstico (B certa). A erra: não precisa de outro documento. C erra: não precisa de documentação adicional. D erra: não é restrito a fóruns e tribunais.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 7,
@@ -242,12 +245,12 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 13,
-    "sintese": "Acesso a autos de investigação sigilosa com decreto de prisão: advogado tem acesso apenas às provas já documentadas e juntadas — não às diligências em andamento.",
-    "logica_conceito": "Carlos quer acessar os autos sigilosos que culminaram na prisão de João. O acesso é garantido às provas já juntadas. Mas diligências em curso (interceptações, vigilâncias) que ainda não foram juntadas podem ser mantidas em sigilo. O gabarito C reflete esse equilíbrio.",
-    "fundamentacao": "EAOAB, Art. 7º, XIV: '[...] devendo ser garantido o acesso do advogado ao material já documentado nos autos, podendo copiar peças e tomar apontamentos, não podendo, em qualquer hipótese, ser objeto de sigilo em relação ao advogado, as informações sobre o preso, assim como relativas ao local onde se encontra.'",
-    "dica": "Investigação sigilosa com preso: acesso às provas JÁ JUNTADAS = garantido. Diligências em andamento (ainda não juntadas) = pode ser negado. A data do acesso e o estado das diligências são determinantes.",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): o STF pacificou — advogado tem acesso ao que já foi formalizado nos autos, mesmo em investigação sigilosa. Mas o juiz pode restringir o acesso a elementos ainda não juntados se houver risco à diligência em andamento.",
-    "analise": "A) Errada: o acesso não depende de o cliente ter sido formalmente indiciado. B) Errada: o acesso não é irrestrito — apenas às provas já juntadas. C) CORRETA: Carlos tem acesso apenas às provas já documentadas e juntadas; diligências em andamento podem ser mantidas sigilosas. D) Errada: o acesso pode ser dado parcialmente — apenas ao que já está juntado."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 7º, XIII: direito do advogado de examinar autos sigilosos somente <strong>com procuração</strong>. Art. 7º, §1º: o acesso pode ser restrito a elementos relacionados a <strong>diligências em andamento e ainda não documentadas</strong>, quando haja risco à eficácia da investigação. Carlos precisa de procuração (investigação sigilosa), e o acesso pode ser delimitado apenas quanto a diligências não finalizadas — documentadas, não.</p>",
+    "dica": "<p>Autos sigilosos: <strong>exige procuração</strong> (elimina B e D). O acesso pode ser limitado apenas para diligências em andamento <em>ainda não documentadas</em> — documentadas devem ser acessíveis (C certa). A erra: franqueamento \"amplo sem limitação\" não existe nem com procuração.</p>",
+    "aula_comentario": "",
+    "analise": ""
   },
   {
     "num": 8,
@@ -267,11 +270,11 @@
     "modulo_codigo": "02_direitos_e_prerrogativas",
     "modulo_nome": "Direitos e Prerrogativas",
     "id": 16,
-    "sintese": "Colaboração premiada: advogado não pode efetuar colaboração contra quem seja ou tenha sido seu cliente, ainda que a relação tenha cessado.",
-    "logica_conceito": "Toledo como advogado de Tício está vinculado ao dever de sigilo e lealdade. O CED e o EAOAB proíbem que o advogado delate ou colabore contra seu cliente ou ex-cliente. A extinção da relação não extingue o dever de sigilo — ele é perpétuo. Colaboração premiada contra ex-cliente = exclusão da OAB.",
-    "fundamentacao": "EAOAB, Art. 34, XXV (redação vigente): 'Constitui infração disciplinar: [...] deixar de cumprir, no prazo estabelecido, determinação emanada do órgão ou autoridade da OAB, em matéria da competência desta, após regular notificação.' CED, Art. 25: 'O sigilo profissional é inerente à profissão, impondo-se o seu respeito, salvo grave ameaça ao direito à vida, à honra, ou quando o advogado se veja afrontado pelo próprio cliente e necessite de informação para sua defesa.'",
-    "dica": "Delação/colaboração contra cliente (atual ou ex-cliente) = VEDADO, salvo se o próprio cliente autorizou. O dever de sigilo é PERPÉTUO — não termina com o fim do contrato. Infração gravíssima (exclusão).",
-    "aula_comentario": "Prof.ª Maria Christina (Gran): lealdade ao cliente e sigilo profissional são absolutos — o advogado jamais pode usar informações obtidas na relação advogado-cliente contra o próprio cliente, presente ou passado. Qualquer colaboração premiada nesse sentido sujeita o advogado à exclusão.",
-    "analise": "A) Errada: não importa que a colaboração resulte apenas em benefício para o advogado — ainda assim é vedada. B) Errada: a vedação se estende a ex-clientes — a relação passada também é protegida. C) Errada: não há autorização possível que legitime a colaboração — nem mesmo judicial. D) CORRETA: o advogado não pode efetuar colaboração premiada contra quem seja ou tenha sido seu cliente."
+    "sintese": "",
+    "logica_conceito": "",
+    "fundamentacao": "<p>EAOAB, Art. 34, XXVII e Art. 25: o sigilo profissional é dever absoluto do advogado — não pode \"colaborar\" contra quem seja ou tenha sido cliente. EAOAB, Art. 34, XXVII: é infração disciplinar \"<strong>colaborar com a prática de crime de \"lavagem\" de dinheiro ou ocultação de bens</strong>\", mas colaboração premiada <em>contra o cliente ou ex-cliente</em> viola o sigilo (Art. 25). A sanção pode chegar à <strong>exclusão</strong> (Art. 37, III). Lei 13.964/19 (Pacote Anticrime) não altera o dever de sigilo do advogado para com seu cliente.</p>",
+    "dica": "<p><strong>Advogado NUNCA pode colaborar contra cliente ou ex-cliente</strong> — viola sigilo profissional (D certa). A erra: não existe distinção entre extinção e redução. B erra: ex-cliente também está protegido. C erra: autorização judicial não convalida a violação do sigilo perante a OAB.</p>",
+    "aula_comentario": "",
+    "analise": ""
   }
 ]

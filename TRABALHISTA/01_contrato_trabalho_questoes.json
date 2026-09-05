@@ -16,7 +16,13 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CPP, Art. 589:</strong> interposto o recurso em sentido estrito pelo MP, o juiz <em>notificará</em> o recorrido (Antônio) para apresentar contrarrazões no prazo de 2 dias. Somente se o réu não tiver defensor constituído é que se nomeará defensor dativo ou público — mas o juiz não pode simplesmente remeter ao tribunal sem essa intimação, sob pena de nulidade por cerceamento de defesa.</p>",
+    "dica": "<p>A ordem é: interposição do RESE → <strong>notificação do recorrido para contrarrazões</strong> → remessa ao Tribunal. Pular a notificação = nulidade absoluta (violação ao contraditório). Nomear defensor (A/B) só se o réu não tiver defensor — a questão não diz isso.</p>"
   },
   {
     "num": 73,
@@ -35,7 +41,13 @@
     "exame_label": "38º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.036/90, Art. 16:</strong> <em>\"Para os diretores não empregados, poderá ser assegurado o regime do FGTS, mediante opção da empresa.\"</em> O FGTS do diretor não-empregado é <strong>facultativo</strong> para a empresa — se a empresa optar, o percentual é o mesmo dos demais empregados (8%). Não há percentual reduzido nem exigência de renúncia ao cargo.</p>",
+    "dica": "<p>Diretor não-empregado = FGTS <strong>facultativo</strong> para a empresa (não para o diretor). A empresa escolhe incluí-lo ou não; se incluir, os valores e percentuais são os mesmos do regime geral. Distrator A erra ao dizer que sem CLT é impossível; distrator C inventa percentual reduzido.</p>"
   },
   {
     "num": 71,
@@ -54,7 +66,13 @@
     "exame_label": "40º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 614, §3º</strong> (redação da Lei 13.467/17): <em>\"Não será permitido estipular duração de convenção coletiva ou acordo coletivo de trabalho superior a dois anos, sendo vedada a ultratividade.\"</em> Com a <strong>vedação à ultratividade</strong>, ao término da norma coletiva ela deixa de produzir efeitos automaticamente, sem incorporação dos benefícios aos contratos individuais.</p>",
+    "dica": "<p>Reforma Trabalhista (2017): <strong>sem ultratividade</strong> — norma coletiva extinta = direito ao adicional extinto junto. Distrator A (direito adquirido) era o antigo entendimento da Súmula 277 TST (ultratividade), cancelada pela reforma. Distrator D mistura incorporação contratual — também vedada.</p>"
   },
   {
     "num": 74,
@@ -73,7 +91,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 8.213/91, Art. 21, IV, 'd':</strong> equipara-se ao acidente de trabalho o que ocorre em hotel durante viagem a serviço do empregador. <strong>Art. 118:</strong> a estabilidade de 12 meses após o retorno ao trabalho exige que o empregado tenha recebido <em>auxílio-doença acidentário (Espécie 91)</em> — o que pressupõe afastamento <strong>superior a 15 dias</strong>. Paulo ficou afastado apenas 12 dias, não atingindo o prazo para concessão do auxílio-doença acidentário, portanto <strong>sem estabilidade</strong>.</p>",
+    "dica": "<p>Equiparação: acidente no hotel a serviço = <strong>sim</strong> (Art. 21, IV, 'd'). Estabilidade: somente se recebeu auxílio-doença acidentário, o que exige <strong>afastamento &gt; 15 dias</strong>. 12 dias = sem auxílio-doença acidentário = <strong>sem estabilidade</strong>. Distrator B erra ao conceder estabilidade sem o requisito do benefício acidentário.</p>"
   },
   {
     "num": 72,
@@ -92,7 +116,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 29, caput</strong> (redação atual): <em>\"O empregador terá o prazo de 5 (cinco) dias úteis para anotar na Carteira de Trabalho e Previdência Social do empregado...\"</em> A anotação da CTPS é obrigação do empregador, <strong>irrenunciável</strong> pelo empregado. A vontade do empregado não pode suprimir direito de ordem pública. O princípio do negociado sobre o legislado (CLT Art. 611-A) não abrange a anotação da CTPS.</p>",
+    "dica": "<p>Prazo: <strong>5 dias úteis</strong> (não 15 dias corridos). Anotação da CTPS = direito <strong>irrenunciável</strong> — nem o empregado nem norma coletiva podem suprimir. Distratores A e D: o negociado sobre o legislado tem limite; direitos irrenunciáveis não são negociáveis. Distrator C: erra o prazo (15 dias ≠ prazo legal).</p>"
   },
   {
     "num": 72,
@@ -111,7 +141,13 @@
     "exame_label": "45º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 477, §6º, 'b'</strong>: a entrega das guias de FGTS e do formulário de requerimento do seguro-desemprego deve ocorrer no prazo de <em>10 dias</em> a contar da data de notificação da demissão. <strong>§8º:</strong> o descumprimento sujeita o empregador a multa em favor do empregado, no valor equivalente ao <strong>salário do empregado</strong>. O depósito das verbas rescisórias não suprime a obrigação de entregar os documentos no prazo.</p>",
+    "dica": "<p>Verbas rescisórias pagas em dia ≠ dispensa de entregar documentos de FGTS e seguro-desemprego. Atraso na entrega dos documentos: multa = <strong>1 salário</strong> do empregado (§8º). Distratores A/B/C erram o valor ou a lógica da penalidade. O depósito em conta não substitui a entrega das guias.</p>"
   },
   {
     "num": 75,
@@ -130,6 +166,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "01_contrato_trabalho",
     "modulo_nome": "Contrato Individual de Trabalho e Alterações",
-    "id": 7
+    "id": 7,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>Lei 9.029/95, Art. 4º:</strong> <em>\"O rompimento da relação de trabalho por ato discriminatório... faculta ao empregado optar entre: I – a readmissão com ressarcimento integral de todo o período de afastamento, mediante pagamento das remunerações devidas, corrigidas monetariamente, acrescidas dos juros legais; II – a percepção, em dobro, da remuneração do período de afastamento, corrigida monetariamente e acrescida dos juros legais.\"</em></p>",
+    "dica": "<p>Dispensa discriminatória (orientação sexual inclusa na Lei 9.029/95) → <strong>opção do empregado</strong>: reintegração com todos os salários do período (I) <em>ou</em> indenização em <strong>dobro</strong> da remuneração do período (II). Distrator B erra: não é só reintegração obrigatória. Distrator D erra: não é pagamento simples.</p>"
   }
 ]

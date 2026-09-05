@@ -16,7 +16,14 @@
     "exame_label": "37º Exame OAB",
     "modulo_codigo": "07_cautela_inquerito",
     "modulo_nome": "Procedimentos Especiais e Inquérito",
-    "id": 1
+    "id": 1,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 836 + DL 779/69, Art. 1º, V:</strong> a empresa que recorre de decisão trabalhista deve realizar o <strong>depósito recursal</strong> como pressuposto de admissibilidade. Empresa grande: depósito de 20% do valor da condenação (limite máximo tabelado pelo TST + depósito recursal pleno para o recurso de revista). <strong>CLT, Art. 899, §4º:</strong> para ação rescisória: depósito de 20%.</p>",
+    "dica": "<p>Depósito recursal em reclamação trabalhista: pressuposto objetivo para admissibilidade do recurso (CLT Art. 899). Gabarito B: empresa sujeita ao depósito prévio de <strong>20%</strong> sobre o valor da condenação (+ depósito recursal padrão tabelado pelo TST). Sem depósito: recurso deserto. Entidades públicas: isentas (DL 779/69).</p>",
+    "revisar_manual": true
   },
   {
     "num": 78,
@@ -35,7 +42,13 @@
     "exame_label": "39º Exame OAB",
     "modulo_codigo": "07_cautela_inquerito",
     "modulo_nome": "Procedimentos Especiais e Inquérito",
-    "id": 2
+    "id": 2,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 819:</strong> \"O depoimento das testemunhas será tomado individualmente, de maneira que umas não saibam nem ouçam os depoimentos das outras, devendo o juiz adverti-las das penas cominadas ao falso depoimento.\" Testemunha que não fala português: <strong>intérprete</strong> custeado pela parte que a arrolou ou pela Justiça (CLT Art. 819, §2º).</p>",
+    "dica": "<p>Testemunha estrangeira que não fala português: advogado deve requerer ao juiz a nomeação de <strong>intérprete</strong> (CLT Art. 819 + CPC Art. 162, subsidiário). Custos: a cargo da parte que arrolou a testemunha ou, se beneficiária de JG, da União. Gabarito A: requerer intérprete custeado pela parte/Justiça.</p>"
   },
   {
     "num": 78,
@@ -54,7 +67,13 @@
     "exame_label": "41º Exame OAB",
     "modulo_codigo": "07_cautela_inquerito",
     "modulo_nome": "Procedimentos Especiais e Inquérito",
-    "id": 3
+    "id": 3,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 897, a:</strong> cabe <strong>Agravo de Petição</strong> (AP) das decisões do juiz de execução. Decisão deferindo horas extras transitou em julgado (fase de cognição); decisão de liquidação/penhora = fase de execução → recurso cabível: AP. Prazo: 8 dias.</p>",
+    "dica": "<p>Recurso na fase de execução trabalhista: <strong>Agravo de Petição</strong> (CLT Art. 897, a), prazo de <strong>8 dias</strong>. Distinguir: Agravo de Instrumento (destrancar recurso negado) × Agravo de Petição (decisão interlocutória na execução). Gabarito B: AP para decisão em sede de execução.</p>"
   },
   {
     "num": 76,
@@ -73,7 +92,13 @@
     "exame_label": "43º Exame OAB",
     "modulo_codigo": "07_cautela_inquerito",
     "modulo_nome": "Procedimentos Especiais e Inquérito",
-    "id": 4
+    "id": 4,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 455</strong> (responsabilidade do empreiteiro/subempreiteiro) + <strong>Súmula 331 TST</strong> (responsabilidade subsidiária na terceirização): tomadora de serviços é responsável subsidiária pelos créditos trabalhistas do prestador. Orlando pode ajuizar contra a empregadora (Limpeza Total) e a tomadora (responsável subsidiária).</p>",
+    "dica": "<p>Terceirização: empregadora = responsável principal; tomadora = responsabilidade <strong>subsidiária</strong> (Súmula 331 TST). Reclamação trabalhista: ajuizar contra <strong>ambas</strong> (ex-empregadora + tomadora). Se a empregadora não pagar: executar subsidiariamente a tomadora. Gabarito C: reclamação em face da ex-empregadora e da tomadora.</p>"
   },
   {
     "num": 79,
@@ -92,7 +117,13 @@
     "exame_label": "44º Exame OAB",
     "modulo_codigo": "07_cautela_inquerito",
     "modulo_nome": "Procedimentos Especiais e Inquérito",
-    "id": 5
+    "id": 5,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 651, caput:</strong> competência da Vara do Trabalho: local da prestação de serviços. <strong>Art. 651, §1º:</strong> viajante ou trabalhador em atividade em mais de um lugar: local do estabelecimento que contratou ou, subsidiariamente, o domicílio do empregado. Distribuição livre da reclamação a qualquer das Varas competentes.</p>",
+    "dica": "<p>Competência territorial na JT (CLT Art. 651): local da <strong>prestação de serviços</strong> (regra geral). Se houver mais de uma Vara competente (ex: prestação em vários locais): reclamação livremente distribuída entre as Varas competentes. Gabarito B: reclamação livremente distribuída a uma das Varas competentes.</p>"
   },
   {
     "num": 78,
@@ -111,6 +142,12 @@
     "exame_label": "46º Exame OAB",
     "modulo_codigo": "07_cautela_inquerito",
     "modulo_nome": "Procedimentos Especiais e Inquérito",
-    "id": 6
+    "id": 6,
+    "sintese": "",
+    "logica_conceito": "",
+    "aula_comentario": "",
+    "analise": "",
+    "fundamentacao": "<p><strong>CLT, Art. 895 + Art. 896:</strong> recurso ordinário (RO) e recurso de revista (RR) têm prazos e pressupostos próprios. Dois recursos interpostos simultaneamente quando só era cabível um = não conhecidos (pressuposto de admissibilidade: recurso único adequado). <strong>Princípio da singularidade/unirrecorribilidade:</strong> para cada decisão, cabe apenas um recurso.</p>",
+    "dica": "<p>Unirrecorribilidade (singularidade): para cada decisão, cabe <strong>apenas um recurso</strong>. Dois recursos simultâneos contra a mesma decisão = ambos <strong>não conhecidos</strong> (preclusão consumativa + violação ao princípio). Gabarito A: os dois recursos não serão conhecidos.</p>"
   }
 ]
