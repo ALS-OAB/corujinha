@@ -718,7 +718,7 @@ def build_module(prefix, title, out_filename):
             <div class="stat-lbl">Questões Didáticas</div>
           </div>
           <div class="stat-card">
-            <div class="stat-val">60s</div>
+            <div class="stat-val">3:00</div>
             <div class="stat-lbl">Timer Regressivo</div>
           </div>
           <div class="stat-card">
@@ -818,8 +818,9 @@ def build_module(prefix, title, out_filename):
     let currentIndex = 0;
     let score = 0;
     let answered = new Array(questionsData.length).fill(false);
-    let timers = new Array(questionsData.length).fill(60);
+    let timers = new Array(questionsData.length).fill(180);
     let timerIntervals = new Array(questionsData.length).fill(null);
+    let paused = new Array(questionsData.length).fill(false);
 
     function initCarousel() {{
       const track = document.getElementById('carousel-track');
@@ -860,7 +861,7 @@ def build_module(prefix, title, out_filename):
                 </div>
                 <div class="timer-badge" id="timer-badge-${{i}}">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-right:2px;"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                  <span id="timer-text-${{i}}">60s</span>
+                  <span id="timer-text-${{i}}">3:00</span>
                 </div>
               </div>
 
@@ -916,16 +917,21 @@ def build_module(prefix, title, out_filename):
       currentIndex = 0;
       score = 0;
       answered = new Array(questionsData.length).fill(false);
-      timers = new Array(questionsData.length).fill(60);
+      timers = new Array(questionsData.length).fill(180);
       timerIntervals.forEach(t => clearInterval(t));
       timerIntervals = new Array(questionsData.length).fill(null);
+      paused = new Array(questionsData.length).fill(false);
       document.getElementById('score-display').innerText = `Acertos: 0`;
 
       startQuiz();
     }}
 
+    function fmtTime(s) {{
+      return Math.floor(s/60) + ':' + String(s%60).padStart(2,'0');
+    }}
+
     function startTimer(index) {{
-      if (timerIntervals[index] || answered[index]) return;
+      if (timerIntervals[index] || answered[index] || paused[index]) return;
 
       timerIntervals[index] = setInterval(() => {{
         if (timers[index] > 0) {{
@@ -934,11 +940,11 @@ def build_module(prefix, title, out_filename):
           const barEl = document.getElementById(`timer-bar-${{index}}`);
           const badgeEl = document.getElementById(`timer-badge-${{index}}`);
           
-          if (textEl) textEl.innerText = `${{timers[index]}}s`;
+          if (textEl) textEl.innerText = fmtTime(timers[index]);
           if (barEl) {{
-            const pct = (timers[index] / 60) * 100;
+            const pct = (timers[index] / 180) * 100;
             barEl.style.width = `${{pct}}%`;
-            if (timers[index] <= 10) {{
+            if (timers[index] <= 30) {{
               barEl.classList.add('warning');
               if (badgeEl) badgeEl.classList.add('warning');
             }}
@@ -954,6 +960,23 @@ def build_module(prefix, title, out_filename):
       if (timerIntervals[index]) {{
         clearInterval(timerIntervals[index]);
         timerIntervals[index] = null;
+      }}
+    }}
+
+    function togglePause(index) {{
+      if (answered[index]) return;
+      paused[index] = !paused[index];
+      const btn = document.getElementById(`pause-btn-${{index}}`);
+      const badgeEl = document.getElementById(`timer-badge-${{index}}`);
+      if (paused[index]) {{
+        clearInterval(timerIntervals[index]);
+        timerIntervals[index] = null;
+        if (btn) btn.innerHTML = '&#9654;';
+        if (badgeEl) badgeEl.style.opacity = '0.55';
+      }} else {{
+        if (btn) btn.innerHTML = '&#9646;&#9646;';
+        if (badgeEl) badgeEl.style.opacity = '1';
+        startTimer(index);
       }}
     }}
 
